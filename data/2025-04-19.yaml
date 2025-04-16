@@ -369,7 +369,7 @@ co/longmont:
 colorado/colorado_springs:
   title: "Day of Action and Protest"
   region: "Colorado Springs, Colorado"
-  address: ["Colorado Springs City Hall, 107 North Nevada Avenue, Colorado Springs, CO 80903, United States of America","107 North Nevada Avenue","80903","Colorado Springs","Colorado"]
+  address: ["Colorado Springs City Hall","107 North Nevada Avenue","80903","Colorado Springs","Colorado"]
   coordinates: [-104.8209785,38.8356345]
   photos:
     - ... # add verified social media links here
@@ -1819,6 +1819,14 @@ washington/tacoma:
   region: "Tacoma, Washington"
   address: ["5310 North Pearl Street, Tacoma, WA 98407, United States of America","5310 North Pearl Street","98407","Tacoma","Washington"]
   coordinates: [-122.516159,47.3016407]
+  photos:
+    - ... # add verified social media links here
+
+washington/washington_d_c:
+  title: "Hands-Off Protest at V.P. JD Vance's House in Washington D.C."
+  region: "Washington D.C., Washington"
+  address: ["Vice President's House","34th St NW and Massachusetts Ave NW","Washington D.C.","Washington"]
+  coordinates: [-77.06613063812257,38.92376001700717]
   photos:
     - ... # add verified social media links here
 

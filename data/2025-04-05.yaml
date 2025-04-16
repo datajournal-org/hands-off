@@ -60,7 +60,7 @@ california/aliso_viejo:
   address: ["26501 Aliso Creek Road","92656","Aliso Viejo","California"]
   coordinates: [-117.72372374198304,33.5793779]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/joeoc05/status/1908668245374361894
 
 california/encinitas:
   title: "Banner Drop for Mahmoud Khalil"
@@ -140,7 +140,7 @@ california/santa_ana:
   address: ["Sasscer Park","Santa Ana","California"]
   coordinates: [-117.8729710369086,33.7481995]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/GoldieStandard/status/1908666789128790366
 
 california/santa_cruz:
   title: "Remove Reverse Reclaim - Santa Cruz, CA 4/5"
@@ -148,7 +148,8 @@ california/santa_cruz:
   address: ["Santa Cruz Superior Court","701 Ocean St","95060","Santa Cruz","California"]
   coordinates: [-122.02314823865892,36.9784086359841]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/scsentinel/status/1908669790941552744
+    - https://x.com/Allareblessed2/status/1908667609710477593
 
 california/santa_rosa:
   title: "Hands OFF"
@@ -156,7 +157,7 @@ california/santa_rosa:
   address: ["Old Courthouse Square","Santa Rosa","California"]
   coordinates: [-122.71374774718,38.440082149999995]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/Tiffmeister/status/1908669750282248628
 
 california/torrance:
   title: "Hands Off! The South Bay Fights Back"
@@ -172,7 +173,7 @@ colorado/denver:
   address: ["Colorado State Capitol","200 E Colfax Ave","80203","Denver","Colorado"]
   coordinates: [-104.98566269874574,39.739187863559465]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/jimfinster/status/1908661983408177590
 
 colorado/glenwood_springs:
   title: "Power to the People April 5- Mountain Action Indivisible event for nationwide action"
@@ -292,7 +293,7 @@ florida/jacksonville:
   address: ["501 West Adams Street","32202","Jacksonville","Florida"]
   coordinates: [-81.6634,30.3299623]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/HLindaLee/status/1908669052945653926
 
 florida/key_largo:
   title: "Hands off - Monroe County!"
@@ -356,7 +357,8 @@ florida/sarasota_county:
   address: ["University Town Center Drive","34201","Sarasota County","Florida"]
   coordinates: [-82.4528003,27.3879085]
   photos:
-    - ... # add verified social media links here
+    - https://bsky.app/profile/twistedbleu.bsky.social/post/3lm44ioghsk2i
+    - https://bsky.app/profile/twistedbleu.bsky.social/post/3lm44fhbyl22i
 
 florida/west_palm_beach:
   title: "50501 Palm Beach - Remove, Reverse, Reclaim"
@@ -364,7 +366,7 @@ florida/west_palm_beach:
   address: ["Palm Beach County Courthouse","3rd Street","33401","West Palm Beach","Florida"]
   coordinates: [-80.05428072393026,26.7154843]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/sherylkahn/status/1908669282352791905
 
 georgia/atlanta:
   title: "Hands Off March"
@@ -388,7 +390,7 @@ georgia/brunswick:
   address: ["Dollar Tree","1919 Glynn Avenue","31520","Brunswick","Georgia"]
   coordinates: [-81.478444,31.1599761]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/CavHokie/status/1908667788668837896
 
 georgia/macon:
   title: "Hands Off 2025 Macon Rally"
@@ -436,7 +438,8 @@ illinois/chicago:
   address: ["Richard J. Daley Center","50 West Washington Street","60602","Chicago","Illinois"]
   coordinates: [-87.630207497553,41.8841861]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/Tweet4AnnaNAFO/status/1908670735188435223
+    - https://x.com/MarcoFoster_/status/1908582586777030797
 
 illinois/elgin_township:
   title: "Hands Off!  Elgin Fights Back!"
@@ -644,7 +647,8 @@ massachusetts/boston:
   address: ["Parkman Bandstand","167 Tremont Street","02102","Boston","Massachusetts"]
   coordinates: [-71.06550321818182,42.354341500000004]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/TulsiPotus/status/1908670838095618424
+    - https://x.com/ScotMackRI/status/1908669337365291061
 
 massachusetts/worcester:
   title: "Hands Off!  Worcester Fights Back"
@@ -652,7 +656,7 @@ massachusetts/worcester:
   address: ["455 Main Street","01608","Worcester","Massachusetts"]
   coordinates: [-71.80188280213008,42.2625489]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/Allareblessed2/status/1908667688454660291
 
 michigan/east_tawas:
   title: "Rage-a-thon: Turning outrage into action"
@@ -684,7 +688,8 @@ minnesota/saint_paul:
   address: ["Minnesota State Capitol","Aurora Promenade","55155","Saint Paul","Minnesota"]
   coordinates: [-93.10222032440711,44.955192249999996]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/timrchurch/status/1908669560628138290
+    - https://x.com/cecifinley19/status/1908666761634849175
 
 mississippi/jackson:
   title: "Hands Off!!! Remove. Reverse. Reclaim."
@@ -740,7 +745,7 @@ nevada/las_vegas:
   address: ["New York New York Hotel and Casino","3790 South Las Vegas Boulevard","89109","Las Vegas","Nevada"]
   coordinates: [-115.17449463280128,36.1021436]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/steelworkers/status/1908669352632811523
 
 new_hampshire/portsmouth:
   title: "Hands Off Our Democracy!!!"
@@ -780,7 +785,7 @@ new_york/city_of_binghamton:
   address: ["Broome County Court House","92 Court Street","13901","City of Binghamton","New York"]
   coordinates: [-75.91101638302636,42.09791835]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/SenatorLeaWebb/status/1908669175947469003
 
 new_york/jamestown:
   title: "Remove, Reverse, Reclaim Rally hosted by Jamestown Justice Coalition"
@@ -796,7 +801,7 @@ new_york/new_york:
   address: ["Bryant Park","West 40th Street","10018","New York"]
   coordinates: [-73.98354279430387,40.75375085]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/DropSiteNews/status/1908669464062673086
 
 new_york/watertown:
   title: "Watertown Rally for Democracy"
@@ -876,7 +881,7 @@ oklahoma/oklahoma_city:
   address: ["Municipal Building (Oklahoma City City Hall)","Couch Drive","73103","Oklahoma City","Oklahoma"]
   coordinates: [-97.52073561932625,35.4688843]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/SandraMacauley3/status/1908669130590343221
 
 oregon/clackamas_county:
   title: "HANDS OFF! Clackamas County, Oregon Fights Back"
@@ -972,7 +977,9 @@ pennsylvania/harrisburg:
   address: ["Pennsylvania State Capitol","501 North 3rd Street","17120","Harrisburg","Pennsylvania"]
   coordinates: [-76.8837375,40.2643941]
   photos:
-    - ... # add verified social media links here
+    - https://bsky.app/profile/followthetruth.bsky.social/post/3lm3ntnnrf225
+    - https://bsky.app/profile/kearneyschwab.bsky.social/post/3lm3gqjmolk2s
+
 
 pennsylvania/pittsburgh:
   title: "Remove Reverse Reclaim 50501 Pittsburgh March"
@@ -980,7 +987,8 @@ pennsylvania/pittsburgh:
   address: ["Schenley Plaza Pavillion","Schenley Drive","15213","Pittsburgh","Pennsylvania"]
   coordinates: [-79.95249746414737,40.4424923]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/wlabovitz/status/1908667981975921006
+    - https://x.com/VOJay_Pgh/status/1908666701085913358
 
 rhode_island/glocester:
   title: "\"Hands Off!\" NATIONAL DAY OF ACTION SATURDAY, APRIL 5"
@@ -996,7 +1004,8 @@ rhode_island/providence:
   address: ["Rhode Island State Capitol Building","82 Smith Street","02903","Providence","Rhode Island"]
   coordinates: [-71.41495866447585,41.83089555]
   photos:
-    - ... # add verified social media links here
+    - https://bsky.app/profile/theloversndreamers.bsky.social/post/3lm4qmnwnqk2v
+    - https://bsky.app/profile/bridgetlavaux.bsky.social/post/3lm3zcl3h2s2j
 
 rhode_island/westerly:
   title: "Hands Off! National Day of Action"
@@ -1020,7 +1029,8 @@ south_carolina/myrtle_beach:
   address: ["Chapin Memorial Library","400 14th Avenue North","29577","Myrtle Beach","South Carolina"]
   coordinates: [-78.87706857484508,33.69738965]
   photos:
-    - ... # add verified social media links here
+    - https://bsky.app/profile/rosieatthebeach.bsky.social/post/3lm3fvnpbx22i
+    - https://bsky.app/profile/captkeith799.bsky.social/post/3ljlr3q23c22h
 
 south_carolina/rock_hill:
   title: "Hands Off! York County SC"
@@ -1036,7 +1046,7 @@ south_carolina/summerville:
   address: ["Dorchester County Human Services Building","500 North Main Street","28493","Summerville","South Carolina"]
   coordinates: [-80.17142367042482,33.02622475]
   photos:
-    - ... # add verified social media links here
+    - https://bsky.app/profile/jillian1111.bsky.social/post/3lm3wly4t422j
 
 south_dakota/pierre:
   title: "April 5th Protest - Pierre"
@@ -1260,7 +1270,8 @@ washington/seattle:
   address: ["Seattle Center","370 Thomas Street","98109","Seattle","Washington"]
   coordinates: [-122.34974101387942,47.621255]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/FrontlinesTPUSA/status/1908630291985596608
+    - https://x.com/SeattleDSA/status/1908667526114148650
 
 washington/vancouver:
   title: "HANDS OFF! Vancouver Protest / Evergreen Resistance / 50501 / Indivisible"
@@ -1292,7 +1303,7 @@ wisconsin/green_bay:
   address: ["Leicht Memorial Park","Green Bay","Wisconsin"]
   coordinates: [-88.01612650737394,44.519563399999996]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/MetalMama1987/status/1908668101463339364
 
 wisconsin/madison:
   title: "50501 Madison April 5th March Forward"
@@ -1300,7 +1311,7 @@ wisconsin/madison:
   address: ["Wisconsin State Capitol","2 East Main Street","53703","Madison","Wisconsin"]
   coordinates: [-89.384165798281,43.074691650000005]
   photos:
-    - ... # add verified social media links here
+    - https://x.com/SatyaForMadison/status/1908600165247615058
 
 wisconsin/milwaukee:
   title: "April 5th 2025 - MKE- 50501 Day of Action"
