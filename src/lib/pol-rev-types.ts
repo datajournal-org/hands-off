@@ -31,7 +31,7 @@ export interface Element {
 export interface AttributedTo {
 	__typename: string
 	avatar?: Avatar
-	domain: any
+	domain: unknown
 	id: string
 	name: string
 	preferredUsername: string
@@ -49,15 +49,15 @@ export interface Avatar {
 export interface Options {
 	__typename: string
 	anonymousParticipation: boolean
-	attendees: any[]
+	attendees: unknown[]
 	commentModeration: string
 	hideNumberOfParticipants: boolean
 	hideOrganizerWhenGroupEvent: boolean
 	isOnline: boolean
 	maximumAttendeeCapacity: number
-	offers: any[]
-	participationConditions: any
-	program: any
+	offers: unknown[]
+	participationConditions: unknown
+	program: unknown
 	remainingAttendeeCapacity: number
 	showEndTime: boolean
 	showParticipationPrice: boolean
@@ -69,7 +69,7 @@ export interface Options {
 export interface OrganizerActor {
 	__typename: string
 	avatar?: Avatar2
-	domain: any
+	domain: unknown
 	id: string
 	name?: string
 	preferredUsername: string
@@ -92,7 +92,7 @@ export interface PhysicalAddress {
 	id: string
 	locality?: string
 	originId?: string
-	pictureInfo: any
+	pictureInfo: unknown
 	postalCode?: string
 	region?: string
 	street?: string
