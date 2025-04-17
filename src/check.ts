@@ -23,7 +23,7 @@ for (const polEvent of polEvents) {
 			title: polEvent.title,
 			sources: [
 				{
-					url: '... # source url, like a post on social media',
+					url: '... # source url, like a news article or a post on social media',
 					photos: ['... # url of a jpeg, webp or png image', '... # select only good photos'],
 				},
 			],

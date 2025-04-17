@@ -36,7 +36,7 @@ export function getUserEventAsYaml(key: string, event: UserEvent): string {
 
 export type UserEvents = Record<string, UserEvent>;
 
-interface UserEvent {
+export interface UserEvent {
 	address: string[];
 	coordinates: [number, number];
 	region: string;
@@ -44,7 +44,7 @@ interface UserEvent {
 	sources: UserSource[];
 }
 
-interface UserSource {
+export interface UserSource {
 	url: string;
 	photos: string[];
 }
