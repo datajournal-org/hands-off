@@ -3,1918 +3,3760 @@ alabama/dothan:
   region: "Dothan, Alabama"
   address: ["114 North Oates Street, Dothan, AL 36303, United States of America","114 North Oates Street","36303","Dothan","Alabama"]
   coordinates: [-85.3933781,31.22446]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 alabama/gadsden:
   title: "Gadsden - Shut Down Etowah, Communities Not Cages"
   region: "Gadsden, Alabama"
   address: ["827 Forrest Avenue, Gadsden, AL 35901, United States of America","827 Forrest Avenue","35901","Gadsden","Alabama"]
   coordinates: [-86.012499,34.0161208]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 alabama/huntsville:
   title: "Food Drive and Vibes: Organizing Social"
   region: "Huntsville, Alabama"
   address: ["3254 Leeman Ferry Road Southwest, Huntsville, AL 35801, United States of America","3254 Leeman Ferry Road Southwest","35801","Huntsville","Alabama"]
   coordinates: [-86.5921359,34.6906638]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 alabama/mobile:
   title: "Mobile AL - NO KINGS Protest"
   region: "Mobile, Alabama"
   address: ["Mobile Government Plaza, 205 Government Street, Mobile, AL 36602, United States of America","205 Government Street","36602","Mobile","Alabama"]
   coordinates: [-88.0424368,30.6889618]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 alabama/montgomery:
   title: "Montgomery - Heart of Alabama Food Drive"
   region: "Montgomery, Alabama"
   address: ["105 South Court Street, Montgomery, AL 36104, United States of America","105 South Court Street","36104","Montgomery","Alabama"]
   coordinates: [-86.3088433,32.3759543]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 alaska/fairbanks:
   title: "Day of Action"
   region: "Fairbanks, Alaska"
   address: ["Fairbanks City Hall, 800 Cushman Street, Fairbanks, AK 99701, United States of America","800 Cushman Street","99701","Fairbanks","Alaska"]
   coordinates: [-147.7212767,64.8397109]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+alaska/sitka:
+  title: "Sitkans for Peace and Democracy: Hands Off Due Process!"
+  region: "Sitka, Alaska"
+  address: ["roundabout","Lake Street","99835","Sitka","Alaska"]
+  coordinates: [-135.3348232,57.0529176]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+arizona/kingman:
+  title: "Non-partisan Rally for Democracy"
+  region: "Kingman, Arizona"
+  address: ["Locomotive Park, Kingman, Arizona, United States of America","Kingman","Arizona"]
+  coordinates: [-114.0593159,35.1899037]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 arizona/phoenix:
   title: "Let's Change Climate Change"
   region: "Phoenix, Arizona"
   address: ["Calvin C. Goode Building","251 West Washington Street","85003","Phoenix","Arizona"]
   coordinates: [-112.07709220000001,33.44785535]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 arizona/tucson:
   title: "Tucson 50501 / Hands Off Day of Action"
   region: "Tucson, Arizona"
   address: ["Gene C. Reid Park, Tucson, Arizona, United States of America","Tucson","Arizona"]
   coordinates: [-110.9222783,32.2101871]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 arizona/yuma:
   title: "Yuma Community Protest for Democracy"
   region: "Yuma, Arizona"
   address: ["Yuma Community Protest for Democracy","16th Street and 4th Avenue","85364","Yuma","Arizona"]
   coordinates: [-114.5961128,32.7286905]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 arkansas/eureka_springs:
   title: "Eureka Springs: 50 Protests. 50 States. One Movement."
   region: "Eureka Springs, Arkansas"
   address: ["Carroll County Courthouse, 44 South Main Street, Eureka Springs, AR 72632, United States of America","44 South Main Street","72632","Eureka Springs","Arkansas"]
   coordinates: [-93.7388517,36.400737]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 arkansas/fayetteville:
   title: "Day of Action Protest Fayetteville Arkansas - Washington County Courthouse"
   region: "Fayetteville, Arkansas"
   address: ["Washington County Courthouse, 280 North College Avenue, Fayetteville, AR 72701, United States of America","280 North College Avenue","72701","Fayetteville","Arkansas"]
   coordinates: [-94.1573781,36.0658832]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 arkansas/little_rock:
   title: "National Day of Action: HANDS OFF! Peaceful Protest"
   region: "Little Rock, Arkansas"
   address: ["Arkansas State Capitol, 500 Woodlane Street, Little Rock, AR 72201, United States of America","500 Woodlane Street","72201","Little Rock","Arkansas"]
   coordinates: [-92.2892042,34.7466091]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ca/woodland_hills:
+  title: "HANDS OFF!/TESLA TAKEDOWN"
+  region: "Woodland Hills, CA"
+  address: ["Topanga Canyon Blvd, Woodland Hills, CA, United States of America","6600 Topanga Canyon Blvd., Woodland Hills, CA","91367","Woodland Hills","CA"]
+  coordinates: [-118.605811,34.18696]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/aliso_viejo:
   title: "Tesla Takedown / Stop the Cuts"
   region: "Aliso Viejo, California"
   address: ["26501 Aliso Creek Road, Aliso Viejo, CA 92656, United States of America","26501 Aliso Creek Road","92656","Aliso Viejo","California"]
   coordinates: [-117.7237237,33.5793779]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/bakersfield:
   title: "Hands Off! Bakersfield"
   region: "Bakersfield, California"
   address: ["9001 Stockdale Highway, Bakersfield, CA 93311, United States of America","9001 Stockdale Highway","93311","Bakersfield","California"]
   coordinates: [-119.10415,35.354339]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/berkeley:
   title: "Hands Off Berkeley"
   region: "Berkeley, California"
   address: ["1721 Acton Street, Berkeley, CA 94702, United States of America","1721 Acton Street","94702","Berkeley","California"]
   coordinates: [-122.284604,37.87358]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/big_bear_lake:
   title: "Big Bear Lake 4/19 - Defend Democracy!"
   region: "Big Bear Lake, California"
   address: ["Big Bear Lake, CA 92315, United States of America","92315","Big Bear Lake","California"]
   coordinates: [-116.91018,34.2440587]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/cambria:
   title: "Liberty and Justice for All -- Cambria Community"
   region: "Cambria, California"
   address: ["1050 Main Street, West Village, Cambria, CA 93428, United States of America","1050 Main Street","93428","Cambria","California"]
   coordinates: [-121.0963777,35.5646228]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/carlsbad:
   title: "I made a mistake and voted for you once.."
   region: "Carlsbad, California"
   address: ["Carlsbad, California, United States of America","Carlsbad State Beach","92008","Carlsbad","California"]
   coordinates: [-117.3419237136841,33.142438300523104]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/chico:
   title: "National \"Hands Off\" rally in Chico"
   region: "Chico, California"
   address: ["Chico, California, United States of America","Chico","California"]
   coordinates: [-121.8374777,39.7284945]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/claremont:
   title: "April 19th, No Kings, “We’re not going back!” Protest (250th Anniversary of the American Revolution)"
   region: "Claremont, California"
   address: ["Indian Hill Boulevard, Claremont, CA 91711, United States of America","Indian Hill Boulevard","91711","Claremont","California"]
   coordinates: [-117.720274,34.107047]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/colma:
   title: "50501 Colma: Stand Up for Democracy"
   region: "Colma, California"
   address: ["Colma Tesla -Meet at the corners of Junipero Serra and Serramonte for sign waving,","1500 Collins Avenue","94014","Colma","California"]
   coordinates: [-122.46408462524414,37.670403712820665]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/concord:
   title: "STOP TRUMP'S ATTACKS ON THE PEOPLE AND THE ENVIRONMENT"
   region: "Concord, California"
   address: ["1451 Oakland Avenue, Concord, CA 94518, United States of America","1451 Oakland Avenue","94518","Concord","California"]
   coordinates: [-122.028121,37.973941]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+california/corte_madera:
+  title: "Defend Democracy * Save the Planet Sidewalk Protest"
+  region: "Corte Madera, California"
+  address: ["700 Tamalpais Drive, Corte Madera, CA 94925, United States of America","700 Tamalpais Drive","94925","Corte Madera","California"]
+  coordinates: [-122.518505,37.925201]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+california/eureka:
+  title: "Humboldt County CA. 50501 peaceful rally for the 250th anniversary of our Revolutionary War...'the shot heard around the world'"
+  region: "Eureka, California"
+  address: ["Humboldt County Courthouse, 825 5th Street, Eureka, CA 95502, United States of America","825 5th Street","95502","Eureka","California"]
+  coordinates: [-124.16228769498997,40.802472761790845]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+california/grover_beach:
+  title: "Grover Beach 4/19 - One Voice, Three Protests"
+  region: "Grover Beach, California"
+  address: ["Little Tree Brewing, 191 South Oak Park Boulevard, Grover Beach, CA 93433, United States of America","191 South Oak Park Boulevard","93433","Grover Beach","California"]
+  coordinates: [-120.608866,35.1200247]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/hesperia:
   title: "High Desert and Beyond"
   region: "Hesperia, California"
   address: ["Hesperia City Hall, Smoketree Street, Hesperia, CA 92345, United States of America","Smoketree Street","92345","Hesperia","California"]
   coordinates: [-117.3167489,34.4272152]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/huntington_beach:
   title: "Huntington Beach Resistance - April 19, 2025"
   region: "Huntington Beach, California"
   address: ["315 Pacific Coast Highway, Huntington Beach, CA 92648, United States of America","315 Pacific Coast Highway","92648","Huntington Beach","California"]
   coordinates: [-118.0021351,33.6565779]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/laguna_beach:
   title: "Laguna Beach 50501  #4  April 19,2025"
   region: "Laguna Beach, California"
   address: ["Boardwalk, Laguna Beach, CA 92652, United States of America","Boardwalk","92652","Laguna Beach","California"]
   coordinates: [-117.7857551,33.5424955]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/lakewood:
   title: "Lakewood, California: Day of Action April 19th"
   region: "Lakewood, California"
   address: ["5929 South Street, Lakewood, CA 90713, United States of America","5929 South Street","90713","Lakewood","California"]
   coordinates: [-118.1165804,33.8583592]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/los_angeles:
   title: "Billionaire Hands Off: Workers Fight Back!"
   region: "Los Angeles, California"
   address: ["Los Angeles City Hall, 200 North Spring Street, Los Angeles, CA 90012, United States of America","200 North Spring Street","90012","Los Angeles","California"]
   coordinates: [-118.2429212,34.053696]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+california/los_osos:
+  title: "Los Osos 4/19 - One Voice, Three Protests"
+  region: "Los Osos, California"
+  address: ["Los Osos, San Luis Obispo County, CA 93402, United States of America","93402","Los Osos","California"]
+  coordinates: [-120.832348,35.3107214]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/oakland:
   title: "Stop the Billionaire Agenda: We Fight Back"
   region: "Oakland, California"
   address: ["Frank H. Ogawa Plaza, Downtown Oakland, Oakland, California, United States of America","Oakland","California"]
   coordinates: [-122.2718787,37.8051719]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/palo_alto:
   title: "Protest Elon Musk's Fascist Government Takeover - Number 10 - No Kings!"
   region: "Palo Alto, California"
   address: ["Tesla, 4180 El Camino Real, Palo Alto, CA 94306, United States of America","4180 El Camino Real","94306","Palo Alto","California"]
   coordinates: [-122.1245312,37.4108245]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/pasadena:
   title: "HANDS OFF Protest   Pasadena,  Colorado Blvd.  Paseo Mall and Pasadena City Hall"
   region: "Pasadena, California"
   address: ["100 North Garfield Avenue, Pasadena, CA 91199, United States of America","100 North Garfield Avenue","91199","Pasadena","California"]
   coordinates: [-118.1432961,34.1477921]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/paso_robles:
-  title: "One Voice, Three Protests - North County"
+  title: "Paso Robles 4/19 - One Voice, Three Protests"
   region: "Paso Robles, California"
-  address: ["Paso Robles City Council Chambers","1000 Spring Street","93446","Paso Robles","California"]
-  coordinates: [-120.69116592407228,35.62552381716794]
-  photos:
-    - ... # add verified social media links here
+  address: ["1000 Spring Street, Paso Robles, CA 93446, United States of America","1000 Spring Street","93446","Paso Robles","California"]
+  coordinates: [-120.6906835,35.6253834]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/rancho_cucamonga:
   title: "Rancho Cucamonga 4/19 - Day of Action"
   region: "Rancho Cucamonga, California"
   address: ["Rancho Cucamonga City Hall, 10500 Civic Center Drive, Rancho Cucamonga, CA 91730, United States of America","10500 Civic Center Drive","91730","Rancho Cucamonga","California"]
   coordinates: [-117.5752102,34.1033521]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/ridgecrest:
   title: "Ridgecrest Protest"
   region: "Ridgecrest, California"
   address: ["Ridgecrest & China Lake BLVD","105 Grande Way","93555","Ridgecrest","California"]
   coordinates: [-117.66974329948427,35.62232756480663]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/riverside:
   title: "Billionaire Hands Off: Workers Fight Back!"
   region: "Riverside, California"
   address: ["3746 University Avenue, Riverside, CA 92501, United States of America","3746 University Avenue","92501","Riverside","California"]
   coordinates: [-117.3751138,33.9821454]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/roseville:
   title: "April 19 Day of Action"
   region: "Roseville, California"
   address: ["Roseville Parkway","95661","Roseville","California"]
   coordinates: [-121.2660778,38.7689187]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/san_buenaventura_ventura_:
   title: "VENTURA FIGHTS BACK: MAKE BILLIONAIRES PAY"
   region: "San Buenaventura (Ventura), California"
   address: ["Ventura City Hall, 501 Poli Street, San Buenaventura (Ventura), CA 93001, United States of America","501 Poli Street","93001","San Buenaventura (Ventura)","California"]
   coordinates: [-119.2934009,34.2824887]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/san_francisco:
-  title: "Stop the Billionaire Agenda: We Fight Back"
+  title: "Emergency! The Trump Fascist Regime Must Go Now! Rally & March"
   region: "San Francisco, California"
-  address: ["Civic Center Plaza, San Francisco, CA 94102, United States of America","Civic Center Plaza","94102","San Francisco","California"]
-  coordinates: [-122.4171279,37.7794609]
-  photos:
-    - ... # add verified social media links here
+  address: ["Union Square, San Francisco, CA, United States of America","Powell St and Geary St.","San Francisco","California"]
+  coordinates: [-122.4075174,37.7879363]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/santa_ana:
   title: "Billionaire Hands Off: Workers Fight Back!"
   region: "Santa Ana, California"
   address: ["Sasscer Park, Santa Ana, California, United States of America","Santa Ana","California"]
   coordinates: [-117.872971,33.7481995]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/santa_cruz:
   title: "Stop The Cuts: Old Hippie Reunion"
   region: "Santa Cruz, California"
   address: ["137 Dakota Avenue, Santa Cruz, CA 95060, United States of America","137 Dakota Avenue","95060","Santa Cruz","California"]
   coordinates: [-122.0213675,36.9758674]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/seaside:
   title: "Seaside Rally at Tesla Takedown"
   region: "Seaside, California"
   address: ["Tesla Seaside","1901 Del Monte Blvd","93955","Seaside","California"]
   coordinates: [-121.84382647275926,36.61703517838959]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/temecula:
   title: "No Kings! No Silence! Stop The Cuts!"
   region: "Temecula, California"
   address: ["Temecula Duck Pond Park","Temecula","California"]
   coordinates: [-117.14716068092105,33.50275645]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/thousand_oaks:
   title: "April 19 Hands Off Protest Thousand Oaks"
   region: "Thousand Oaks, California"
   address: ["The Oaks Mall, 350 West Hillcrest Drive, Thousand Oaks, CA 91360, United States of America","350 West Hillcrest Drive","91360","Thousand Oaks","California"]
   coordinates: [-118.8877469,34.183611]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/truckee:
   title: "Truckee CA - Nationwide Day of Action"
   region: "Truckee, California"
   address: ["10111 Church Street, Truckee, CA 96161, United States of America","10111 Church Street","96161","Truckee","California"]
   coordinates: [-120.1807937,39.3299408]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/visalia:
   title: "Continue the Revolution"
   region: "Visalia, California"
   address: ["2101 West Caldwell Avenue, Visalia, CA 93277, United States of America","2101 West Caldwell Avenue","93277","Visalia","California"]
   coordinates: [-119.313821,36.298387]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 california/yorba_linda:
   title: "4/19: Save Our Constitutional Rights!"
   region: "Yorba Linda, California"
   address: ["18401 Yorba Linda Boulevard, Yorba Linda, CA 92886, United States of America","18401 Yorba Linda Boulevard","92886","Yorba Linda","California"]
   coordinates: [-117.8127305,33.8887456]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+california/yuba_city:
+  title: "No Kings Day of Action"
+  region: "Yuba City, California"
+  address: ["Panera Bread, 1275 Colusa Avenue, Yuba City, CA 95991, United States of America","1275 Colusa Avenue","95991","Yuba City","California"]
+  coordinates: [-121.6337393,39.1423695]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 co/longmont:
   title: "No Kings! We Won't Go Back! Longmont Honors the American Revolution."
   region: "Longmont, CO"
   address: ["Longmont Leads With Love Vigil","6th and Main","80501","Longmont","CO"]
   coordinates: [-105.1029396057129,40.168762857797134]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 colorado/colorado_springs:
   title: "Day of Action and Protest"
   region: "Colorado Springs, Colorado"
-  address: ["Colorado Springs City Hall","107 North Nevada Avenue","80903","Colorado Springs","Colorado"]
+  address: ["Colorado Springs City Hall, 107 North Nevada Avenue, Colorado Springs, CO 80903, United States of America","107 North Nevada Avenue","80903","Colorado Springs","Colorado"]
   coordinates: [-104.8209785,38.8356345]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 colorado/denver:
   title: "MASS MOBILIZATION EVENT: HANDS OFF! (Denver State Capitol, West Steps - 12pm to 4pm)"
   region: "Denver, Colorado"
   address: ["State Capitol Building, 200 East Colfax Avenue, Denver, CO 80203, United States of America","200 East Colfax Avenue","80203","Denver","Colorado"]
   coordinates: [-104.9848467,39.7392115]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+colorado/durango:
+  title: "Hands Off!/50501 rally at Buckley + march to Jeff Hurd's office"
+  region: "Durango, Colorado"
+  address: ["Buckley Park, 1250, Durango, Colorado, United States of America","1250","Durango","Colorado"]
+  coordinates: [-107.8789987,37.2770565]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 colorado/fort_collins:
   title: "Hands Off! Fort Collins Rally April 19, 2025"
   region: "Fort Collins, Colorado"
   address: ["West Mulberry Street, Fort Collins, CO 80523, United States of America","West Mulberry Street","80523","Fort Collins","Colorado"]
   coordinates: [-105.0776873,40.5818518]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 colorado/grand_junction:
   title: "Rise Up Community Gathering and Food Drive"
   region: "Grand Junction, Colorado"
   address: ["Lincoln Park, Grand Junction, CO 81501, United States of America","81501","Grand Junction","Colorado"]
   coordinates: [-108.5476788,39.0752576]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 colorado/lone_tree:
   title: "DougCo Takes Action - HANDS OFF! - 50501 Day of Action"
   region: "Lone Tree, Colorado"
   address: ["Lincoln Avenue Pedestrian Bridge - Willow Creek Trail, Lone Tree, Douglas County, CO 80124, United States of America","Lincoln Avenue Pedestrian Bridge - Willow Creek Trail","80124","Lone Tree","Colorado"]
   coordinates: [-104.87906003697373,39.536127264739285]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+colorado/salida:
+  title: "Hands Off Chaffee!"
+  region: "Salida, Colorado"
+  address: ["Centennial Park","81201","Salida","Colorado"]
+  coordinates: [-105.990968,38.5371195]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+connecticut/hartford:
+  title: "15th Annual March and Rally"
+  region: "Hartford, Connecticut"
+  address: ["2550 Main Street, Hartford, CT 06120, United States of America","2550 Main Street","06120","Hartford","Connecticut"]
+  coordinates: [-72.6715758,41.7887242]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 connecticut/newtown:
   title: "ROCK THIS DEMOCRACY VIGIL FOR ANDRY ROMERO, ABERGO GARCIA, AND THE RULE OF LAW"
   region: "Newtown, Connecticut"
   address: ["Main Street, Newtown, CT 06470, United States of America","Main Street","06470","Newtown","Connecticut"]
   coordinates: [-73.30889225006105,41.41305876512388]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 connecticut/torrington:
   title: "National Day of Action"
   region: "Torrington, Connecticut"
   address: ["Coe Park, 101 Litchfield Street, Torrington, CT 06790, United States of America","101 Litchfield Street","06790","Torrington","Connecticut"]
   coordinates: [-73.1225311,41.7982718]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 connecticut/willimantic:
   title: "Willimantic CT Protest"
   region: "Willimantic, Connecticut"
   address: ["Windham Town Hall, 979 Main Street, Windham, Willimantic, CT 06226, United States of America","979 Main Street","06226","Willimantic","Connecticut"]
   coordinates: [-72.2177017,41.7134567]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+district_of_columbia/washington:
+  title: "Hands OFF! Stop the Billionaire Agenda!"
+  region: "Washington, District of Columbia"
+  address: ["Lafayette Square, Washington, DC 20506, United States of America","20506","Washington","District of Columbia"]
+  coordinates: [-77.0365402,38.8994994]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/clermont:
   title: "Hands Off Clermont Sign Waving"
   region: "Clermont, Florida"
   address: ["Center Lake Park","34711","Clermont","Florida"]
   coordinates: [-81.76949680870798,28.55150021373529]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/daytona_beach:
   title: "50501 Daytona Beach: April 19 Nationwide Day of Action"
   region: "Daytona Beach, Florida"
   address: ["301 Ridgewood Avenue, Daytona Beach, FL 32114, United States of America","301 Ridgewood Avenue","32114","Daytona Beach","Florida"]
   coordinates: [-81.01987,29.206908]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/dunedin:
   title: "Indivisible North Pinellas United"
   region: "Dunedin, Florida"
   address: ["Jo-Ann, 2343 Curlew Road, Dunedin, FL 34677, United States of America","2343 Curlew Road","34677","Dunedin","Florida"]
   coordinates: [-82.741088,28.047508]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/eustis:
   title: "Hands Off Eustis Sign Waving"
   region: "Eustis, Florida"
   address: ["100 West Ardice Avenue, Eustis, FL 32726, United States of America","100 West Ardice Avenue","32726","Eustis","Florida"]
   coordinates: [-81.68666,28.8276867]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/fort_pierce:
   title: "Rally for America"
   region: "Fort Pierce, Florida"
   address: ["St Lucie County Adminsitration Annex Building","2300 Virginia Avenue","34982","Fort Pierce","Florida"]
   coordinates: [-80.3502211533487,27.425921615830397]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/groveland:
   title: "Hands Off Groveland Sign Waving"
   region: "Groveland, Florida"
   address: ["243 South Lake Avenue, Groveland, FL 34736, United States of America","243 South Lake Avenue","34736","Groveland","Florida"]
   coordinates: [-81.8566972,28.5594312]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/jacksonville:
   title: "4/19 Peaceful Protest"
   region: "Jacksonville, Florida"
   address: ["Saint Johns Town Center, 4663, Jacksonville, Florida, United States of America","4663","Jacksonville","Florida"]
   coordinates: [-81.5251219,30.2570382]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/key_largo:
   title: "Calling All Patriots Rally"
   region: "Key Largo, Florida"
   address: ["Florida Keys Overseas Heritage Trail, Rock Harbor, Key Largo, FL, United States of America","Florida Keys Overseas Heritage Trail","Key Largo","Florida"]
   coordinates: [-80.4595547,25.0775127]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/lake_county:
   title: "Hands Off Montverde Sign Waving"
   region: "Lake County, Florida"
   address: ["17404 6th Street, Montverde, Lake County, FL 34756, United States of America","17404 6th Street","34756","Lake County","Florida"]
   coordinates: [-81.672347,28.5996829]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/lake_mary:
   title: "Cory Mills, Do Your Job in Seminole County, FL!"
   region: "Lake Mary, Florida"
   address: ["Publix, 870 Village Oak Lane, Lake Mary, Seminole County, FL 32746, United States of America","870 Village Oak Lane","32746","Lake Mary","Florida"]
   coordinates: [-81.3574556,28.7874882]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/lakeland:
   title: "4/19 Stop The Cuts: On Tap"
   region: "Lakeland, Florida"
   address: ["1221 South Florida Avenue, Lakeland, FL 33803, United States of America","1221 South Florida Avenue","33803","Lakeland","Florida"]
   coordinates: [-81.957189,28.027148]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/leesburg:
   title: "Hands Off Leesburg Sign Waving"
   region: "Leesburg, Florida"
   address: ["9501 US Highway 441, Leesburg, FL 34788, United States of America","9501 US Highway 441","34788","Leesburg","Florida"]
   coordinates: [-81.797028,28.8274955]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/miami:
   title: "4/19 Miami Day of Action"
   region: "Miami, Florida"
   address: ["301 Biscayne Boulevard, Torch of Friendship, Miami, FL 33131, United States of America","301 Biscayne Boulevard","33131","Miami","Florida"]
   coordinates: [-80.187314,25.770944]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/minneola:
   title: "Hands Off Minneola Sign Waving"
   region: "Minneola, Florida"
   address: ["800 US 27, Minneola, FL 34755, United States of America","800 US 27","34755","Minneola","Florida"]
   coordinates: [-81.7464575,28.5717221]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/mount_dora:
   title: "Hands Off Mount Dora Sign Waving"
   region: "Mount Dora, Florida"
   address: ["Intersection of US-441 & Donnelly","18831 US-441","34712","Mount Dora","Florida"]
   coordinates: [-81.6445547,28.8239522]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/naples:
   title: "Fight For Democracy"
   region: "Naples, Florida"
   address: ["Collier County Courthouse","3315 Tamiami Trl E,","34112","Naples","Florida"]
   coordinates: [-81.7644488811493,26.127699491274164]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/palatka:
   title: "Hands Off! Palatka, FL (Putnam County Courthouse)"
   region: "Palatka, Florida"
   address: ["410 Saint Johns Avenue, Palatka, FL 32177, United States of America","410 Saint Johns Avenue","32177","Palatka","Florida"]
   coordinates: [-81.6324987,29.6469996]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/palm_beach:
   title: "Hands-Off Protest at Mar-a-Lago"
   region: "palm beach, Florida"
   address: ["Mar-a-Lago","1100 South Ocean Blvd","palm beach","Florida"]
   coordinates: [-80.03792166709901,26.675733903457413]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/pasco_county:
   title: "Pasco Resists"
   region: "Pasco county, Florida"
   address: ["Pasco Resists","3240 Little Rd Trinity","34655","Pasco county","Florida"]
   coordinates: [-82.66606807708742,28.20556636343323]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/pensacola:
   title: "Earth Day - Day of Action"
   region: "Pensacola, Florida"
   address: ["Bayview Park, East Lloyd Street, Pensacola, FL 32503, United States of America","East Lloyd Street","32503","Pensacola","Florida"]
   coordinates: [-87.1902257,30.4325097]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/port_orange:
   title: "April 19th Hands Off Port Orange, FL"
   region: "Port Orange, Florida"
   address: ["Walmart Supercenter, 1590 Dunlawton Avenue, Port Orange, FL 32127, United States of America","1590 Dunlawton Avenue","32127","Port Orange","Florida"]
   coordinates: [-81.01953506469727,29.116202274210877]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/saint_petersburg:
   title: "April 19th Day of Action St. Pete"
   region: "Saint Petersburg, Florida"
   address: ["330 2nd Avenue North, Saint Petersburg, FL 33701, United States of America","330 2nd Avenue North","33701","Saint Petersburg","Florida"]
   coordinates: [-82.6375777,27.7734224]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/tavares:
   title: "Hands Off Tavares Sign Waving"
   region: "Tavares, Florida"
   address: ["365 East Burleigh Boulevard, Tavares, FL 32778, United States of America","365 East Burleigh Boulevard","32778","Tavares","Florida"]
   coordinates: [-81.7246165,28.8173784]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 florida/west_palm_beach:
   title: "PB County Celebrates 250 years of NO KINGS"
   region: "West Palm Beach, Florida"
   address: ["Target","1760 Palm Beach Lakes Boulevard","33401-2008","West Palm Beach","Florida"]
   coordinates: [-80.0855577,26.7221633]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+georgia/atlanta:
+  title: "Stop The Billionaire Agenda!"
+  region: "Atlanta, Georgia"
+  address: ["Martin Luther King Jr Drive Southwest, Atlanta, GA 31132, United States of America","Martin Luther King Jr Drive Southwest","31132","Atlanta","Georgia"]
+  coordinates: [-84.3876376,33.7500043]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 georgia/macon:
   title: "Action In Art - Macon Stands in Solidarity"
   region: "Macon, Georgia"
   address: ["476 3rd Street, Macon, GA 31201, United States of America","476 3rd Street","31201","Macon","Georgia"]
   coordinates: [-83.6284221,32.83493]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 georgia/st_simons:
   title: "Revolution 2.0"
   region: "St. Simons, Georgia"
   address: ["Beachview Drive","31522","St. Simons","Georgia"]
   coordinates: [-81.382775,31.1373996]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+georgia/statesboro:
+  title: "National Day of Action: Statesboro, Georgia"
+  region: "Statesboro, Georgia"
+  address: ["Bulloch County Courthouse, 2 North Main Street, Statesboro, GA 30458, United States of America","2 North Main Street","30458","Statesboro","Georgia"]
+  coordinates: [-81.7829749,32.4493358]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 georgia/valdosta:
   title: "Valdosta Standing Strong Rally"
   region: "Valdosta, Georgia"
   address: ["Historic Lowndes County Courthouse, 100 East Central Avenue, Valdosta, GA 31601, United States of America","100 East Central Avenue","31601","Valdosta","Georgia"]
   coordinates: [-83.2792503,30.8325302]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+hawaii/honolulu:
+  title: "50501 National Protest 4/19/25"
+  region: "Honolulu, Hawaii"
+  address: ["Hawaii State Capitol, 415 South Beretania Street, Honolulu, HI 96813, United States of America","415 South Beretania Street","96813","Honolulu","Hawaii"]
+  coordinates: [-157.8569903,21.3073335]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+hawaii/waimanalo:
+  title: "50501 Hawai'i: April 19th - Community is Kū‘ē"
+  region: "Waimanalo, Hawaii"
+  address: ["Bellows Beach","41-43 Kalanianaole Highway","96795","Waimanalo","Hawaii"]
+  coordinates: [-157.7800795,21.3756638]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+idaho/coeur_d_alene:
+  title: "50501 Nationwide Protest - Coeur d' Alene Idaho"
+  region: "Coeur d'Alene, Idaho"
+  address: ["Walgreens, West Appleway Avenue, Coeur d'Alene, ID 83814, United States of America","West Appleway Avenue","83814","Coeur d'Alene","Idaho"]
+  coordinates: [-116.7906208,47.7012212]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 idaho/twin_falls:
   title: "April 19th Next Day of Action"
   region: "Twin Falls, Idaho"
   address: ["NORTH 5 POINTS","1159 Addison Ave East","83301","Twin Falls","Idaho"]
   coordinates: [-114.45960044860841,42.56300618156293]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 il/buffalo_grove:
   title: "50501 - Buffalo Grove, Illinois"
   region: "Buffalo Grove, IL"
   address: ["Chase Plaza Parking Lot","1180 W Lake Cook Road","60089","Buffalo Grove","IL"]
   coordinates: [-87.9840087890625,42.15395506256018]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 illinois/arlington_heights:
   title: "Hands Off! Arlington Heights"
   region: "Arlington Heights, Illinois"
   address: ["North School Park, Arlington Heights, Illinois, United States of America","Arlington Heights","Illinois"]
   coordinates: [-87.981078,42.0860713]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 illinois/bloomington:
   title: "America Has No Kings"
   region: "Bloomington, Illinois"
   address: ["Bloomington Center for the Performing Arts, 600 North East Street, Bloomington, IL 61701, United States of America","600 North East Street","61701","Bloomington","Illinois"]
   coordinates: [-88.9928214,40.4840901]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+illinois/chicago:
+  title: "Chicago and suburbs stand up to fascism"
+  region: "Chicago, Illinois"
+  address: ["BP, 10300 South Western Avenue, Chicago, IL 60655, United States of America","10300 South Western Avenue","60655","Chicago","Illinois"]
+  coordinates: [-87.6820498,41.7060855]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+illinois/freeport:
+  title: "No Kings, Stop the Cuts Protest"
+  region: "Freeport, Illinois"
+  address: ["Stephenson County Courthouse, 15 North Galena Avenue, Freeport, IL 61032, United States of America","15 North Galena Avenue","61032","Freeport","Illinois"]
+  coordinates: [-89.6218124,42.298133]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+illinois/galesburg:
+  title: "National Day of Action"
+  region: "Galesburg, Illinois"
+  address: ["29 Public Square, Galesburg, IL 61401, United States of America","29 Public Square","61401","Galesburg","Illinois"]
+  coordinates: [-90.3705939,40.9477744]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+illinois/kankakee:
+  title: "Kankakee Rally"
+  region: "Kankakee, Illinois"
+  address: ["Kankakee County Courthouse, 450 East Court Street, Kankakee, IL 60901, United States of America","450 East Court Street","60901","Kankakee","Illinois"]
+  coordinates: [-87.8605445,41.1192628]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+illinois/kewanee:
+  title: "50501 Movement- Hands Off / No Kings - Kewanee Fights Back"
+  region: "Kewanee, Illinois"
+  address: ["Kewanee, IL 61443, United States of America","Corner of Main and 2nd Street","61443","Kewanee","Illinois"]
+  coordinates: [-89.92498397827148,41.24442546066965]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 illinois/lisle:
   title: "STOP MUSK LISLE/NAPERVILLE"
   region: "Lisle, Illinois"
   address: ["Tesla of Naperville, 3200 East Ogden Avenue, Lisle, IL 60532, United States of America","3200 East Ogden Avenue","60532","Lisle","Illinois"]
   coordinates: [-88.1151089,41.7972771]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 illinois/macomb:
   title: "Defend the Constitution Rally"
   region: "Macomb, Illinois"
   address: ["Chandler Park, Macomb, Illinois, United States of America","61455","Macomb","Illinois"]
   coordinates: [-90.670958,40.4604935]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+illinois/moline:
+  title: "Revolution Day: No Kings, No Tyranny"
+  region: "Moline, Illinois"
+  address: ["1640 6th Avenue, Moline, IL 61265, United States of America","1640 6th Avenue","61265","Moline","Illinois"]
+  coordinates: [-90.5137309,41.5059006]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 illinois/palatine:
   title: "We The People Protest"
   region: "Palatine, Illinois"
   address: ["Palatine Clock Tower at NWH & Hicks","300 East Northwest Highway","60067","Palatine","Illinois"]
   coordinates: [-88.036394,42.119507]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 illinois/peoria:
   title: "Hands Off Our Democracy"
   region: "Peoria, Illinois"
   address: ["Meet at parking lot on Hamilton Blvd to gather.  We will march through downtown Peoria to the Federal Courthouse then to the Peoria County Courthouse.","324 Main Street","61602","Peoria","Illinois"]
   coordinates: [-89.58691835403444,40.69280876302079]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 illinois/springfield:
   title: "April 19th - Springfield, IL Protest"
   region: "Springfield, Illinois"
   address: ["Illinois State Capitol, 401 South 2nd Street, Springfield, IL 62701, United States of America","401 South 2nd Street","62701","Springfield","Illinois"]
   coordinates: [-89.654918,39.7984257]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 illinois/urbana:
   title: "Champaign-Urbana Fights Back!"
   region: "Urbana, Illinois"
   address: ["Champaign County Courthouse, 101 East Main Street, Urbana, IL 61801, United States of America","101 East Main Street","61801","Urbana","Illinois"]
   coordinates: [-88.2064946,40.1120265]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 in/nashville:
-  title: "Brown County Indiana NO KINGS"
+  title: "Brown County Indiana NO KINGS!"
   region: "Nashville, IN"
   address: ["Brown County Indiana Courthouse","20 E. Main Street","47448","Nashville","IN"]
   coordinates: [0.02729415893554688,-0.007366687039101438]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 indiana/anderson:
   title: "DAY OF ACTION MARCH AND FOOD DRIVE"
   region: "Anderson, Indiana"
   address: ["222 East 10th Street, Anderson, IN 46016, United States of America","222 East 10th Street","46016","Anderson","Indiana"]
   coordinates: [-85.6766308,40.1061881]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 indiana/auburn:
   title: "HANDS OFF Rally- Auburn, Indiana"
   region: "Auburn, Indiana"
   address: ["DeKalb County Courthouse","100 Main Street","46706","Auburn","Indiana"]
   coordinates: [-85.0551760196686,41.36678468450473]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+indiana/bloomington:
+  title: "Peoples Protest Monroe County Indiana"
+  region: "Bloomington, Indiana"
+  address: ["Monroe County Courthouse, 100 West Kirkwood Avenue, Bloomington, IN 47404, United States of America","100 West Kirkwood Avenue","47404","Bloomington","Indiana"]
+  coordinates: [-86.5342344,39.1670606]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 indiana/crown_point:
   title: "Earth Appreciation Day"
   region: "Crown Point, Indiana"
   address: ["Courthouse Square","1 Courthouse Square","46307","Crown Point","Indiana"]
   coordinates: [-87.36478060483934,41.41736390593914]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+indiana/indianapolis:
+  title: "INDIANA 50501 PROTEST @ Indiana Statehouse 4.19.2025 12:00-4:00 pm PEACEFUL PROTEST"
+  region: "Indianapolis, Indiana"
+  address: ["Indiana State Capitol Building, 200 West Washington Street, Indianapolis, IN 46204, United States of America","200 West Washington Street","46204","Indianapolis","Indiana"]
+  coordinates: [-86.1626183,39.7686147]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 indiana/kokomo:
   title: "Power to the People! Protest & Food Drive"
   region: "Kokomo, Indiana"
   address: ["Howard County Courthouse, 117 North Main Street, Kokomo, IN 46901, United States of America","117 North Main Street","46901","Kokomo","Indiana"]
   coordinates: [-86.1318413,40.4869173]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 indiana/madison:
   title: "50501 - Madison"
   region: "Madison, Indiana"
   address: ["300 East Main Street, Madison, IN 47250, United States of America","300 East Main Street","47250","Madison","Indiana"]
   coordinates: [-85.377091,38.736189]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 indiana/muncie:
   title: "Muncie City Hall Protest/Food Drive"
   region: "Muncie, Indiana"
   address: ["Muncie City Hall, North High Street, Muncie, IN 47305, United States of America","North High Street","47305","Muncie","Indiana"]
   coordinates: [-85.3870251,40.1956321]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 indiana/south_bend:
   title: "April 19 Hands Off Protest South Bend"
   region: "South Bend, Indiana"
   address: ["Morris Performing Arts Center, 211 North Michigan Street, South Bend, IN 46601, United States of America","211 North Michigan Street","46601","South Bend","Indiana"]
   coordinates: [-86.250968,41.6781748]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 indiana/warsaw:
   title: "Hand Off Everything Warsaw Indiana"
   region: "Warsaw, Indiana"
   address: ["121 North Lake Street, Warsaw, IN 46581, United States of America","121 North Lake Street","46580","Warsaw","Indiana"]
   coordinates: [-85.8603526,41.2432147]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 iowa/cedar_rapids:
   title: "No Kings, Stand For Freedom."
   region: "Cedar Rapids, Iowa"
   address: ["136 8th Avenue Southeast, Cedar Rapids, IA 52401, United States of America","136 8th Avenue Southeast","52401","Cedar Rapids","Iowa"]
   coordinates: [-91.663408,41.9725014]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 iowa/des_moines:
   title: "Mutual Aid Rally with 50501 Iowa in Support of The Food Bank of Iowa"
   region: "Des Moines, Iowa"
   address: ["Bochumer Verein Cannon, East Grand Avenue, Des Moines, IA 50316, United States of America","East Grand Avenue","50316","Des Moines","Iowa"]
   coordinates: [-93.6043338,41.5911024]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 iowa/le_mars:
   title: "WE THE PEOPLE"
   region: "Le Mars, Iowa"
   address: ["Plymouth County Courthouse","215 Fourth Ave SE","51031","Le Mars","Iowa"]
   coordinates: [-96.16155445575716,42.78993002481081]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 kansas/manhattan:
   title: "America is Free, We Don't Need A King: Manhattan Rally"
   region: "Manhattan, Kansas"
   address: ["City Park, Manhattan, Kansas, United States of America","Manhattan","Kansas"]
   coordinates: [-96.5757804,39.1815812]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 kansas/topeka:
   title: "KANSAS TOPEKA CAPITOL PROTEST"
   region: "Topeka, Kansas"
   address: ["Kansas State Capitol, 300 Southwest 10th Avenue, Topeka, KS 66612, United States of America","300 Southwest 10th Avenue","66612","Topeka","Kansas"]
   coordinates: [-95.6789435,39.0468676]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 kentucky/lexington:
   title: "50501 KY: No Kings Then, No Kings Now! March & Protest"
   region: "Lexington, Kentucky"
   address: ["Fayette County Circuit Court, 120 North Limestone, Lexington, KY 40507, United States of America","120 North Limestone","40507","Lexington","Kentucky"]
   coordinates: [-84.4961164,38.0461942]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+louisiana/baton_rouge:
+  title: "Protest Rally and March"
+  region: "Baton Rouge, Louisiana"
+  address: ["Russell B. Long Federal Building and Courthouse, 777 Florida Street, Baton Rouge, LA 70801, United States of America","777 Florida Street","70801","Baton Rouge","Louisiana"]
+  coordinates: [-91.1824289,30.4500362]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+louisiana/lake_charles:
+  title: "Lake Charles 50501 SW Cajuns (a pro-democracy group) is holding a peaceful protest / visibility event"
+  region: "Lake Charles, Louisiana"
+  address: ["611 Broad Street, Lake Charles, LA 70601, United States of America","611 Broad Street","70601","Lake Charles","Louisiana"]
+  coordinates: [-93.212639,30.2287666]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 louisiana/new_orleans:
   title: "National Day of Action Protest New Orleans"
   region: "New Orleans, Louisiana"
   address: ["Jackson Square, 700, New Orleans, LA 70116, United States of America","700","70116","New Orleans","Louisiana"]
   coordinates: [-90.0629499,29.9574673]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 ma/barnstable:
   title: "No Kings: We Won't Go Back - Hyannis, MA"
   region: "Barnstable, MA"
   address: ["Airport Rotary","02601","Barnstable","MA"]
   coordinates: [-70.2868531,41.6649743]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+maine/bangor:
+  title: "We Rise! Rally to Protect Democracy"
+  region: "Bangor, Maine"
+  address: ["Margaret Chase Smith Federal Building, 202 Harlow Street, Bangor, ME 04401, United States of America","202 Harlow Street","04401","Bangor","Maine"]
+  coordinates: [-68.7738277,44.804618]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+maine/belfast:
+  title: "4/19 The Shout Heard Up The Coast: Belfast, ME"
+  region: "Belfast, Maine"
+  address: ["34 Commercial Street, Belfast, ME 04915, United States of America","34 Commercial Street","04915","Belfast","Maine"]
+  coordinates: [-69.0018858,44.4250741]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 maine/boothbay:
   title: "50501: Rally for Democracy"
   region: "Boothbay, Maine"
   address: ["Boothbay Common","1 Common Drive","04537","Boothbay","Maine"]
   coordinates: [-69.63367078681861,43.8759241]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 maine/old_orchard_beach:
   title: "Earth Day Beach Clean-up"
   region: "Old Orchard Beach, Maine"
   address: ["Milliken Street, Old Orchard Beach, ME 04064, United States of America","Milliken Street","04064","Old Orchard Beach","Maine"]
   coordinates: [-70.3730511,43.5188165]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 maine/portland:
   title: "National Day of Action: Rally Around Our Community"
   region: "Portland, Maine"
   address: ["456 Congress Street, Portland, ME 04101, United States of America","456 Congress Street","04101","Portland","Maine"]
   coordinates: [-70.2599821,43.6566819]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 maryland/baltimore:
   title: "HANDS OFF: Baltimore March and Rally"
   region: "Baltimore, Maryland"
   address: ["Baltimore City Hall, 100 Holliday Street, Baltimore, MD 21202, United States of America","100 Holliday Street","21202","Baltimore","Maryland"]
   coordinates: [-76.6107116,39.2908833]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 maryland/bel_air:
   title: "Rally and Food Drive"
   region: "Bel Air, Maryland"
   address: ["Shamrock Park, Bel Air, Maryland, United States of America","Bel Air","Maryland"]
   coordinates: [-76.3470236,39.5392523]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 maryland/bowie:
   title: "HANDS OFF Bowie!"
   region: "Bowie, Maryland"
   address: ["Bowie Branch Library, 15210 Annapolis Road, Bowie, MD 20715, United States of America","15210 Annapolis Road","20715","Bowie","Maryland"]
   coordinates: [-76.7419795,38.9790498]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+maryland/chestertown:
+  title: "Wave a Sign for Democracy"
+  region: "Chestertown, Maryland"
+  address: ["357 High Street, Calvert Heights, Chestertown, MD 21620, United States of America","357 High Street","21620","Chestertown","Maryland"]
+  coordinates: [-76.0681977,39.2100546]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 maryland/columbia:
   title: "Vigil for the Martyred of Gaza"
   region: "Columbia, Maryland"
   address: ["Little Patuxent Parkway, Columbia, MD 21044, United States of America","Little Patuxent Parkway","21044","Columbia","Maryland"]
   coordinates: [-76.8665212,39.2115617]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 maryland/cumberland:
   title: "No Kings in America - Allegany County, MD"
   region: "Cumberland, Maryland"
   address: ["Allegany County Courthouse, 30 Washington Street, Cumberland, MD 21502, United States of America","30 Washington Street","21502","Cumberland","Maryland"]
   coordinates: [-78.7669307,39.6507315]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 maryland/greenbelt:
   title: "Hands Off in Greenbelt"
   region: "Greenbelt, Maryland"
   address: ["Spellman Overpass, Greenbelt, MD 20770, United States of America","Spellman Overpass","20770","Greenbelt","Maryland"]
   coordinates: [-76.8722813,38.9989499]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+massachusetts/attleboro:
+  title: "Stand up for Democracy"
+  region: "Attleboro, Massachusetts"
+  address: ["Charles O. Fiske Square, Downtown, Attleboro, Massachusetts, United States of America","Attleboro","Massachusetts"]
+  coordinates: [-71.2843269,41.944188]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 massachusetts/billerica:
   title: "April 19th, No Kings, “We’re not going back!” Protest (250th Anniversary of the American Revolution) has been submitted!"
   region: "Billerica, Massachusetts"
   address: ["Billerica, Massachusetts, United States of America","Billerica","Massachusetts"]
   coordinates: [-71.268947,42.5584264]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+massachusetts/bolton:
+  title: "Patriots stand up for Democracy!"
+  region: "Bolton, Massachusetts"
+  address: ["Town Common Park, Bolton, Worcester County, Massachusetts, United States of America","Bolton","Massachusetts"]
+  coordinates: [-71.6093237,42.4347829]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 massachusetts/boston:
   title: "Stop the Billionaire Agenda! End the Assault on Democratic Rights!"
   region: "Boston, Massachusetts"
   address: ["Massachusetts State House, 24 Beacon Street, Boston, MA 02108, United States of America","24 Beacon Street","02108","Boston","Massachusetts"]
   coordinates: [-71.0638751,42.358602]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+massachusetts/concord:
+  title: "Stand for Freedom 250"
+  region: "Concord, Massachusetts"
+  address: ["70 Liberty Street, Concord, MA 01742, United States of America","70 Liberty Street","01742","Concord","Massachusetts"]
+  coordinates: [-71.3543037,42.469287]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 massachusetts/fairhaven:
   title: "#resistTrump"
   region: "Fairhaven, Massachusetts"
   address: ["Fairhaven High School, 12 Huttleston Avenue, Fairhaven, MA 02719, United States of America","12 Huttleston Avenue","02719","Fairhaven","Massachusetts"]
   coordinates: [-70.9054202,41.6433617]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 massachusetts/holliston:
   title: "Fight For Freedom - A Peaceful Protest"
   region: "Holliston, Massachusetts"
   address: ["Holliston Town Hall, 703 Washington Street, Holliston, MA 01746, United States of America","703 Washington Street","01746","Holliston","Massachusetts"]
   coordinates: [-71.4295686,42.2021939]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 massachusetts/lowell:
   title: "50501 Movement: Day of Action! Constitutional Crisis"
   region: "Lowell, Massachusetts"
   address: ["Lowell City Hall, 375 Merrimack Street, Lowell, MA 01852, United States of America","375 Merrimack Street","01852","Lowell","Massachusetts"]
   coordinates: [-71.313995,42.6464045]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 massachusetts/nantucket:
   title: "April 19, NO KINGS! Rally: Nantucket"
   region: "Nantucket, Massachusetts"
   address: ["Nantucket Town Hall, 16 Broad Street, Mikas Pond, Nantucket, MA 02554, United States of America","16 Broad Street","02554","Nantucket","Massachusetts"]
   coordinates: [-70.0990623,41.2850497]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 massachusetts/salem:
   title: "Salem MA Rallies on April 19th at Riley Plaza  12 noon - 1:30 PM     NO KINGS"
   region: "Salem, Massachusetts"
   address: ["Riley Plaza, Salem, Massachusetts, United States of America","Salem","Massachusetts"]
   coordinates: [-70.8958681,42.519525]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 massachusetts/stoneham:
   title: "Stoneham Town Protest"
   region: "Stoneham, Massachusetts"
   address: ["Stoneham Common, Lindenwood, Stoneham, Massachusetts, United States of America","Stoneham","Massachusetts"]
   coordinates: [-71.0996276,42.4803872]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 massachusetts/ware:
   title: "50501: Nationwide Protest, No Kings, 250th Anniversary of the American Revolution"
   region: "Ware, Massachusetts"
   address: ["Veteran's Park","101 Main St","01082","Ware","Massachusetts"]
   coordinates: [-72.24233865737916,42.26074004843862]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 massachusetts/weymouth:
   title: "\"No Kings\" - Rally to Save Democracy"
   region: "Weymouth, Massachusetts"
   address: ["713 Middle Street, Weymouth, MA 02188, United States of America","713 Middle Street","02188","Weymouth","Massachusetts"]
   coordinates: [-70.9461491,42.2003227]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 massachusetts/worcester:
   title: "Worcester Rally for Change"
   region: "Worcester, Massachusetts"
   address: ["455 Main Street, Central Business District, Worcester, MA 01608, United States of America","455 Main Street","01608","Worcester","Massachusetts"]
   coordinates: [-71.8018828,42.2625489]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+michigan/adrian:
+  title: "Demonstrate & Donate"
+  region: "Adrian, Michigan"
+  address: ["Lenawee County Courthouse, West Front Street, Adrian, MI 49221, United States of America","West Front Street","49221","Adrian","Michigan"]
+  coordinates: [-84.035391,41.9021104]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 michigan/bay_city:
   title: "Defend Democracy & Nature: Bay City, MI"
   region: "Bay City, Michigan"
   address: ["City Hall, 301 Washington Avenue, Bay City, MI 48708, United States of America","301 Washington Avenue","48708","Bay City","Michigan"]
   coordinates: [-83.8890319,43.5934818]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 michigan/detroit:
   title: "Hands Off! - Detroit"
   region: "Detroit, Michigan"
   address: ["Hart Plaza, Detroit, Michigan, United States of America","Detroit","Michigan"]
   coordinates: [-83.04456,42.3274175]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+michigan/hazel_park:
+  title: "Hazel Park MI Bridge Take-over"
+  region: "Hazel Park, Michigan"
+  address: ["23600 North Chrysler Drive, Hazel Park, MI 48030, United States of America","23600 North Chrysler Drive","48030","Hazel Park","Michigan"]
+  coordinates: [-83.107419,42.465871]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 michigan/mount_pleasant:
   title: "Progress Over Persecution"
   region: "Mount Pleasant, Michigan"
-  address: ["Kelly/Shorts Stadium, East Campus Drive, Mount Pleasant, MI 48859, United States of America","East Campus Drive","48859","Mount Pleasant","Michigan"]
-  coordinates: [-84.7710514,43.5776228]
-  photos:
-    - ... # add verified social media links here
+  address: ["Elva Street, Mount Pleasant, MI 48858, United States of America","Elva Street","48858","Mount Pleasant","Michigan"]
+  coordinates: [-84.765595,43.5791017]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 michigan/paw_paw:
   title: "Take America Back"
   region: "Paw Paw, Michigan"
   address: ["West Michigan Avenue, Paw Paw, Paw Paw Township, MI 49079, United States of America","West Michigan Avenue","49079","Paw Paw","Michigan"]
   coordinates: [-85.8955769,42.2178313]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 michigan/saginaw_county:
   title: "50501 Day of Action (Saginaw) Protest and Canned Goods Drive!!"
   region: "Saginaw County, Michigan"
   address: ["4865 Fashion Square Mall, Saginaw Charter Township, MI 48604, United States of America","4865 Fashion Square Mall","48604","Saginaw County","Michigan"]
   coordinates: [-83.9699418,43.4747991]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 michigan/three_rivers:
   title: "National Day of Action. Three Rivers, MI"
   region: "Three Rivers, Michigan"
   address: ["Three Rivers, Michigan, United States of America","Three Rivers","Michigan"]
   coordinates: [-85.6346222,41.9442722]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 michigan/troy:
   title: "NO Kings! Rally in Troy"
   region: "Troy, Michigan"
   address: ["Gateway Park","3039 Rochester Road","48083","Troy","Michigan"]
   coordinates: [-83.1319526,42.5800832]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 minnesota/saint_cloud:
   title: "No Kings Protest"
   region: "Saint Cloud, Minnesota"
   address: ["1300 West Saint Germain Street","56301","Saint Cloud","Minnesota"]
   coordinates: [-94.16666913360325,45.55738634983864]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 minnesota/saint_paul:
   title: "Fight for a People's Earth Day"
   region: "Saint Paul, Minnesota"
   address: ["Palace Theatre, 17 West 7th Place, Saint Paul, MN 55102, United States of America","17 West 7th Place","55102","Saint Paul","Minnesota"]
   coordinates: [-93.0967302,44.9471334]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 mississippi/hattiesburg:
   title: "Signs Up!!"
   region: "Hattiesburg, Mississippi"
-  address: ["399 West Pine Street, Hattiesburg, MS 39401, United States of America","399 West Pine Street","39401","Hattiesburg","Mississippi"]
-  coordinates: [-89.29225087165833,31.324496865515034]
-  photos:
-    - ... # add verified social media links here
+  address: ["200 Forrest Street, Hattiesburg, MS 39401, United States of America","200 Forrest Street","39401","Hattiesburg","Mississippi"]
+  coordinates: [-89.290718,31.325681]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 mississippi/hernando:
   title: "Let's stand together. Enough is enough!!!"
   region: "Hernando, Mississippi"
   address: ["321 Losher Street, Hernando, MS 38632, United States of America","321 Losher Street","38632","Hernando","Mississippi"]
   coordinates: [-89.9950836,34.8224203]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 mississippi/jackson:
   title: "Together We Thrive"
   region: "Jackson, Mississippi"
   address: ["400 High Street, Jackson, MS 39201, United States of America","400 High Street","39201","Jackson","Mississippi"]
   coordinates: [-90.182958,32.305126]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 missouri/jefferson_city:
   title: "50501 Missouri Jefferson City"
   region: "Jefferson City, Missouri"
   address: ["Jefferson City, Missouri, United States of America","Jefferson City","Missouri"]
   coordinates: [-92.1724265,38.577359]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 missouri/joplin:
   title: "Hands OFF  Joplin"
   region: "Joplin, Missouri"
   address: ["Joplin, Missouri, United States of America","Joplin","Missouri"]
   coordinates: [-94.5133385,37.0841838]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 missouri/kansas_city:
   title: "Kansas City Protest for Democracy"
   region: "Kansas City, Missouri"
   address: ["Mill Creek Park, Country Club Plaza, Kansas City, Missouri, United States of America","Kansas City","Missouri"]
   coordinates: [-94.5883732,39.0458946]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 missouri/saint_peters:
-  title: "50501 Movement - Say NO to American Deportations"
+  title: "Say NO to American Deportations: 50501 + Missouri Jobs with Justice"
   region: "Saint Peters, Missouri"
   address: ["5801 Suemandy Drive, Saint Peters, MO 63376, United States of America","5801 Suemandy Drive","63376","Saint Peters","Missouri"]
   coordinates: [-90.62179,38.796066]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 missouri/st_louis:
   title: "50501 March For Science"
   region: "St. Louis, Missouri"
   address: ["Kiener Plaza West Garage, 604 Pine Street, St. Louis, MO 63101, United States of America","604 Pine Street","63101","St. Louis","Missouri"]
   coordinates: [-90.1912072,38.6270361]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+nebraska/north_platte:
+  title: "PROTECTING OUR DEMOCRACY!"
+  region: "North Platte, Nebraska"
+  address: ["Lincoln County Courthouse, 301 North Jeffers Street, North Platte, NE 69101, United States of America","301 North Jeffers Street","69101","North Platte","Nebraska"]
+  coordinates: [-100.7627286,41.1359476]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 nevada/carson_city:
   title: "NOT PAID. JUST PISSED."
   region: "Carson City, Nevada"
   address: ["401 South Carson Street, Carson City, NV 89701, United States of America","401 South Carson Street","89701","Carson City","Nevada"]
   coordinates: [-119.766885,39.1629085]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_hampshire/derry:
   title: "The Party's Over : Rally To Save Our Democracy"
   region: "Derry, New Hampshire"
   address: ["12 Boyd Road, Derry Village, Derry, NH 03038, United States of America","12 Boyd Road","03038","Derry","New Hampshire"]
   coordinates: [-71.323284,42.885098]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+new_hampshire/dover:
+  title: "Dover, Somersworth, Rollinsford and Rochester rally to PROTECT the constitution and our freedoms!"
+  region: "Dover, New Hampshire"
+  address: ["Week's Crossing","238 Indian Brook Drive","03820","Dover","New Hampshire"]
+  coordinates: [-70.8878437,43.2226736]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_hampshire/keene:
   title: "Liberty and Justice For All"
   region: "Keene, New Hampshire"
   address: ["Central Square, Keene, NH 03435, United States of America","Central Square","03435","Keene","New Hampshire"]
   coordinates: [-72.2783375,42.9343066]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_hampshire/kingston:
   title: "NO MORE! (a recurring protest in Kingston, NH): every Saturday (11am–2pm)"
   region: "Kingston, New Hampshire"
   address: ["125 Main Street, Kingston, Rockingham County, NH 03848, United States of America","125 Main Street","03848","Kingston","New Hampshire"]
   coordinates: [-71.0538828,42.9292474]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+new_hampshire/lebanon:
+  title: "NO KINGS! A National Day of Action"
+  region: "Lebanon, New Hampshire"
+  address: ["Colburn Park, Lebanon, New Hampshire, United States of America","Lebanon","New Hampshire"]
+  coordinates: [-72.2515062,43.6424337]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_hampshire/portsmouth:
   title: "No Kings, What a Circus"
   region: "Portsmouth, New Hampshire"
   address: ["Market Square, Portsmouth, NH 03802, United States of America","03802","Portsmouth","New Hampshire"]
   coordinates: [-70.757748,43.0769993]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_jersey/trenton:
   title: "NJ 50501’s RISE UP Rally & Food Drive"
   region: "Trenton, New Jersey"
   address: ["State House Annex, West State Street, Trenton, NJ 08618, United States of America","West State Street","08618","Trenton","New Jersey"]
   coordinates: [-74.7707454,40.2208122]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_jersey/west_caldwell:
   title: "National Day of Action - Saturday, April 19 - West Caldwell, NJ"
   region: "West Caldwell, New Jersey"
   address: ["Crane Park","30 Clinton Road","07006","West Caldwell","New Jersey"]
   coordinates: [-74.29258681946123,40.84975478508025]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_mexico/albuquerque:
   title: "NO SURRENDER SATURDAY : A Hands Off! March"
   region: "Albuquerque, New Mexico"
   address: ["307 3rd Street Northwest, Albuquerque, NM 87102, United States of America","307 3rd Street Northwest","87102","Albuquerque","New Mexico"]
   coordinates: [-106.6500629,35.0867598]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_mexico/santa_fe:
   title: "NO SURRENDER SATURDAY : A Hands Off! Protest"
   region: "Santa Fe, New Mexico"
   address: ["New Mexico State Capitol, 490 Old Santa Fe Trail, Santa Fe, NM 87501, United States of America","490 Old Santa Fe Trail","87501","Santa Fe","New Mexico"]
   coordinates: [-105.939634,35.6823019]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_mexico/truth_or_consequences:
   title: "Hands Off! Picnic and Rally"
   region: "Truth or Consequences, New Mexico"
   address: ["Ralph Edwards Park","Truth or Consequences","New Mexico"]
   coordinates: [-107.2489874197515,33.1291302]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+new_york/city_of_albany:
+  title: "Resist like it's 1938 Germany"
+  region: "City of Albany, New York"
+  address: ["West Capital Park 85 South Swan Street, City of Albany, NY 12210, United States of America","85 South Swan Street","12210","City of Albany","New York"]
+  coordinates: [-73.7601444,42.6529897]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_york/city_of_ithaca:
   title: "April 19th - 50501 National Day of Action Protest - Dewitt Park, Ithaca"
   region: "City of Ithaca, New York"
   address: ["DeWitt Park, City of Ithaca, New York, United States of America","City of Ithaca","New York"]
   coordinates: [-76.4985392,42.4418852]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_york/city_of_olean:
   title: "Rally For Democracy"
   region: "City of Olean, New York"
   address: ["100 East State Street, City of Olean, NY 14760, United States of America","100 East State Street","14760","City of Olean","New York"]
   coordinates: [-78.4282358,42.0772418]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_york/city_of_watertown:
   title: "Rally to Uphold Democracy, Watertown, NY 4/19/25"
   region: "City of Watertown, New York"
   address: ["Public Square, City of Watertown, New York, United States of America","City of Watertown","New York"]
   coordinates: [-75.9095581,43.9745959]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_york/merrick:
   title: "Stop the Chaos Rally at Merrick Train Station"
   region: "Merrick, New York"
   address: ["Merrick LIRR Parking","Hewlett Avenue","11566","Merrick","New York"]
   coordinates: [-73.5507578,40.6635618]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_york/new_york:
   title: "NYC Declaration of Interdependence: March to Protect Migrants and the Planet"
   region: "New York, New York"
   address: ["Bryant Park, West 41st Street, New York, NY 10018, United States of America","West 41st Street","10018","New York"]
   coordinates: [-73.9835428,40.7537509]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_york/owego:
   title: "Defend Democracy - Demand Checks & Balances"
   region: "Owego, New York"
   address: ["Owego, New York, United States of America","Owego","New York"]
   coordinates: [-76.2622669,42.1034528]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_york/town_of_gardiner:
   title: "Move Forward NY's April 19 Hands-Off Rally in Gardiner, NY"
   region: "Town of Gardiner, New York"
   address: ["Gardiner, Ulster County, NY 12525, United States of America","12525","Town of Gardiner","New York"]
   coordinates: [-74.1504231,41.6798157]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_york/town_of_seneca_falls:
   title: "Hands OFF"
   region: "Town of Seneca Falls, New York"
   address: ["unnamed road, Seneca Falls, NY 13148, United States of America","unnamed road","13148","Town of Seneca Falls","New York"]
   coordinates: [-76.8040291,42.8954388]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+new_york/village_of_baldwinsville:
+  title: "Protect our Constitution & Stand for Democracy: A Peaceful Protest for Justice"
+  region: "Village of Baldwinsville, New York"
+  address: ["Lysander, Village of Baldwinsville, NY 13027, United States of America","Intersection of Routes NY-48 & NY-370 (Four Corners)","13027","Village of Baldwinsville","New York"]
+  coordinates: [-76.33271,43.158679]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+new_york/village_of_malone:
+  title: "No Kings— 250th Anniversary of the American Revolution"
+  region: "Village of Malone, New York"
+  address: ["Corner Elm and Main Streets","1 Elm Street","12953","Village of Malone","New York"]
+  coordinates: [-74.291530251503,44.84892837692]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+new_york/village_of_mamaroneck:
+  title: "Harbor Island Demonstration"
+  region: "Village of Mamaroneck, New York"
+  address: ["199 Mamaroneck Avenue South, Village of Mamaroneck, NY 10543, United States of America","199 Mamaroneck Avenue South","10543","Village of Mamaroneck","New York"]
+  coordinates: [-73.732862,40.947812]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_york/village_of_patchogue:
   title: "Speak Up: Rally for Democracy in Patchogue"
   region: "Village of Patchogue, New York"
   address: ["Congressman Andres Garbarino’s Office","31 Oak Street","11772","Village of Patchogue","New York"]
   coordinates: [-73.013845,40.7671442]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 new_york/village_of_saranac_lake:
   title: "Patriots Speak Out"
   region: "Village of Saranac Lake, New York"
   address: ["Berkeley Green, Harrietstown, Village of Saranac Lake, New York, United States of America","Village of Saranac Lake","New York"]
   coordinates: [-74.1310829,44.3271188]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+north_carolina/greensboro:
+  title: "April 19 No Kings - Freedom March in Greensboro"
+  region: "Greensboro, North Carolina"
+  address: ["Guilford County Courthouse, 301 West Market Street, Greensboro, NC 27401, United States of America","301 West Market Street","27401","Greensboro","North Carolina"]
+  coordinates: [-79.7926671,36.0721491]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 north_carolina/greenville:
   title: "Save Our Freedoms Rally - April 19th @ECU"
   region: "Greenville, North Carolina"
   address: ["ECU Main Campus, 1000 East 5th Street, Greenville, NC 27858, United States of America","1000 East 5th Street","27858","Greenville","North Carolina"]
   coordinates: [-77.36800146104542,35.60654664941019]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 north_carolina/morrisville:
   title: "Make Some Noise Morrisville"
   region: "Morrisville, North Carolina"
   address: ["Harris Teeter, 4093 Davis Drive, Morrisville, NC 27560, United States of America","4093 Davis Drive","27560","Morrisville","North Carolina"]
   coordinates: [-78.85695966589905,35.83491578174526]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 north_carolina/new_bern:
   title: "No Monarchy in America!"
   region: "New Bern, North Carolina"
   address: ["300 Pollock Street, New Bern,, Craven County, NC 28563, United States of America","300 Pollock Street","28560","New Bern","North Carolina"]
   coordinates: [-77.033544,35.090874]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+north_carolina/salisbury:
+  title: "Defend Democracy Protest"
+  region: "Salisbury, North Carolina"
+  address: ["Bell Tower Green, Salisbury, North Carolina, United States of America","Salisbury","North Carolina"]
+  coordinates: [-80.4721217,35.6683186]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 north_carolina/winston_salem:
   title: "April 19 Day of Action: Protest & Food Drive at 175 N Chestnut St"
   region: "Winston-Salem, North Carolina"
   address: ["Forsyth County Courthouse, 175 North Chestnut Street, Winston-Salem, NC 27101, United States of America","175 North Chestnut Street","27101","Winston-Salem","North Carolina"]
   coordinates: [-80.24108,36.0962708]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 ny/massena:
   title: "50501: Mobilization Day, No Kings, Protest in Massena, NY"
   region: "Massena, NY"
   address: ["Intersection of Main St and NY 37","300 Main St","13662","Massena","NY"]
   coordinates: [-74.89021539688112,44.922170040941964]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 ny/potsdam:
   title: "50501: Mobilization Day, No Kings, 250th Anniversary of the American Revolution"
   region: "Potsdam, NY"
   address: ["Main St. Near Ives Park","Main St.","13676","Potsdam","NY"]
   coordinates: [-74.98576641082765,44.668507898696355]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/akron:
+  title: "Day of Resistance - Akron - Highland Square"
+  region: "Akron, Ohio"
+  address: ["Highland Square, Akron, Ohio, United States of America","Akron","Ohio"]
+  coordinates: [-81.5433976,41.0951855]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/ashland:
+  title: "Ashland Takes Action - Ashland, Ohio"
+  region: "Ashland, Ohio"
+  address: ["279 West Main Street, Ashland, OH 44805, United States of America","279 West Main Street","44805","Ashland","Ohio"]
+  coordinates: [-82.3189248,40.8686438]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/athens:
+  title: "They Aren't Stopping, Neither are We!! - Athens, Ohio"
+  region: "Athens, Ohio"
+  address: ["701 East State Street, Athens, OH by the Community Center (East State)","701 East State Street","45701","Athens","Ohio"]
+  coordinates: [-82.1012479,39.3289242]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/bellefontaine:
+  title: "Rally Heard 'Round the World - Bellefontaine, OH"
+  region: "Bellefontaine, Ohio"
+  address: ["Bellefontaine, Ohio, United States of America","43311","Bellefontaine","Ohio"]
+  coordinates: [-83.7596557,40.3611643]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/bowling_green:
+  title: "Day of Action Protest - Bowling Green, Ohio"
+  region: "Bowling Green, Ohio"
+  address: ["101 West Wooster Street, Bowling Green, OH 43402, United States of America","101 West Wooster Street","43402","Bowling Green","Ohio"]
+  coordinates: [-83.650579,41.374821]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 ohio/cambridge:
   title: "Nationwide No King Anti-Tax for Billionaires"
   region: "Cambridge, Ohio"
   address: ["Guernsey County Courthouse, West 8th Street, Cambridge, OH 43725, United States of America","West 8th Street","43725","Cambridge","Ohio"]
   coordinates: [-81.5899927,40.0253845]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/canton:
+  title: "Rally with a Purpose - Canton, OH"
+  region: "Canton, Ohio"
+  address: ["1101 Market Avenue North, Canton, OH 44702, United States of America","1101 Market Avenue North","44702","Canton","Ohio"]
+  coordinates: [-81.372291,40.807933]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/celina:
+  title: "Hands Off - Celina, OH"
+  region: "Celina, Ohio"
+  address: ["734 South Main Street, Celina, OH 45822, United States of America","734 South Main Street","45822","Celina","Ohio"]
+  coordinates: [-84.5709246,40.5442317]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/chillicothe:
+  title: "Stop the Cuts - Chillicothe, Ohio"
+  region: "Chillicothe, Ohio"
+  address: ["2 North Paint Street, Chillicothe, OH 45601, United States of America","2 North Paint Street","45601","Chillicothe","Ohio"]
+  coordinates: [-82.982409,39.333994]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/cincinnati:
+  title: "Cincy 50501 - Apr 19th Make our voices heard"
+  region: "Cincinnati, Ohio"
+  address: ["100 Garfield Place, Cincinnati, OH 45202, United States of America","100 Garfield Place","45202","Cincinnati","Ohio"]
+  coordinates: [-84.515666,39.104505]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/circleville:
+  title: "Rally Heard 'Round the World - Circleville, Ohio"
+  region: "Circleville, Ohio"
+  address: ["Circleville, Ohio, United States of America","43113","Circleville","Ohio"]
+  coordinates: [-82.9460133,39.600618]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/coshocton:
+  title: "Rally Heard 'Round the World - Coshocton, Ohio"
+  region: "Coshocton, Ohio"
+  address: ["318 Main Street, Coshocton, OH 43812, United States of America","318 Main Street","43812","Coshocton","Ohio"]
+  coordinates: [-81.8666101,40.2737521]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/dayton:
+  title: "Rally Heard 'Round the World - Dayton, OH"
+  region: "Dayton, Ohio"
+  address: ["23 North Main Street, Dayton, OH 45402, United States of America","23 North Main Street","45402","Dayton","Ohio"]
+  coordinates: [-84.1920218,39.7599089]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/delaware:
+  title: "Stop the Cuts - Delaware, Ohio"
+  region: "Delaware, Ohio"
+  address: ["1 South Sandusky Street, Delaware, OH 43015, United States of America","1 South Sandusky Street","43015","Delaware","Ohio"]
+  coordinates: [-83.067675,40.298674]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/eaton:
+  title: "Rally Heard 'Round the World - Eaton, Ohio"
+  region: "Eaton, Ohio"
+  address: ["101 East Main Street, Eaton, OH 45320, United States of America","101 East Main Street","45320","Eaton","Ohio"]
+  coordinates: [-84.636327,39.743857]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 ohio/findlay:
-  title: "The Protest Heard 'Round The World"
+  title: "Rally Heard 'Round the World - Findlay, Ohio"
   region: "Findlay, Ohio"
   address: ["300 South Main Street, Findlay, OH 45840, United States of America","300 South Main Street","45840","Findlay","Ohio"]
   coordinates: [-83.650353,41.039021]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/fostoria:
+  title: "National Day of Action: Rally Heard Round the World"
+  region: "Fostoria, Ohio"
+  address: ["Main Street, Fostoria, OH 44830, United States of America","Main Street","44830","Fostoria","Ohio"]
+  coordinates: [-83.4140585,41.1723125]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/fremont:
+  title: "National Day of Action: Rally Heard 'Round the World"
+  region: "Fremont, Ohio"
+  address: ["300 West State Street, Fremont, OH 43420, United States of America","300 West State Street","43420","Fremont","Ohio"]
+  coordinates: [-83.113488,41.347332]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 ohio/kent:
   title: "Hands Off Protest in Kent, Ohio"
   region: "Kent, Ohio"
   address: ["100 Franklin Avenue, Kent, OH 44240, United States of America","100 Franklin Avenue","44240","Kent","Ohio"]
   coordinates: [-81.359019,41.153168]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/lancaster:
+  title: "Hands Off! Lancaster"
+  region: "Lancaster, Ohio"
+  address: ["210 East Main Street, Lancaster, OH 43130, United States of America","210 East Main Street","43130","Lancaster","Ohio"]
+  coordinates: [-82.5981368,39.7137017]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/lima:
+  title: "Hands Off! the Environment"
+  region: "Lima, Ohio"
+  address: ["550 South Collett Street, Lima, OH 45805, United States of America","550 South Collett Street","45805","Lima","Ohio"]
+  coordinates: [-84.119236,40.734623]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/lisbon:
+  title: "Let Your Voice Be Heard: Hands Off Our Democracy"
+  region: "Lisbon, Ohio"
+  address: ["38832 Saltwell Road, Lisbon, Columbiana County, OH 44432, United States of America","38832 Saltwell Road","44432","Lisbon","Ohio"]
+  coordinates: [-80.7691958,40.784915]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/lyndhurst:
+  title: "Tesla Protest - Day of Action"
+  region: "Lyndhurst, Ohio"
+  address: ["Tesla Protest","5180 Mayfield Road","44124","Lyndhurst","Ohio"]
+  coordinates: [-81.4920182,41.519825]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 ohio/marysville:
   title: "Rally Heard 'Round the World Marysville, OH"
   region: "Marysville, Ohio"
   address: ["Marysville, Ohio, United States of America","Marysville","Ohio"]
   coordinates: [-83.3671432,40.2364486]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/mentor:
+  title: "Take Back the Power Protest"
+  region: "Mentor, Ohio"
+  address: ["Eleanor B. Garfield Park, Mentor, OH 44060, United States of America","44060","Mentor","Ohio"]
+  coordinates: [-81.3574305,41.6647471]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 ohio/middletown:
   title: "April 19 National Day of Action"
   region: "Middletown, Ohio"
   address: ["Douglass Park","Minnesota St","45044","Middletown","Ohio"]
   coordinates: [-84.41208505626493,39.49645469960527]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/newark:
+  title: "Newark 4/19 Protest"
+  region: "Newark, Ohio"
+  address: ["Licking County Courthouse, North Park Place, Newark, OH 43057, United States of America","North Park Place","43057","Newark","Ohio"]
+  coordinates: [-82.4017788,40.0579541]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/norwalk:
+  title: "Stop the Cuts - April Recess April 12th --> 27th"
+  region: "Norwalk, Ohio"
+  address: ["35 West Main Street, Norwalk, OH 44857, United States of America","35 West Main Street","44857","Norwalk","Ohio"]
+  coordinates: [-82.6175949,41.241276]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 ohio/oxford:
   title: "Stand Up Oxford"
   region: "Oxford, Ohio"
   address: ["2 East High Street, Oxford, OH 45056, United States of America","2 East High Street","45056","Oxford","Ohio"]
   coordinates: [-84.742247,39.51058]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/pepper_pike:
+  title: "Stand! While We Still Can (Rally and Protest)"
+  region: "Pepper Pike, Ohio"
+  address: ["30550 Pinetree Road, Pepper Pike, Cuyahoga County, OH 44124, United States of America","30550 Pinetree Road","44124","Pepper Pike","Ohio"]
+  coordinates: [-81.4593509,41.4622297]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/portsmouth:
+  title: "Portsmouth 50501 Protest"
+  region: "Portsmouth, Ohio"
+  address: ["904 Gay Street, Portsmouth, OH 45662, United States of America","904 Gay Street","45662","Portsmouth","Ohio"]
+  coordinates: [-82.9942609,38.7374227]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/reynoldsburg:
+  title: "National Day of Action: Rally Heard 'Round the World"
+  region: "Reynoldsburg, Ohio"
+  address: ["Reynoldsburg Municipal Building, East Main Street, Briarcliff, Reynoldsburg, OH 43069, United States of America","East Main Street","43069","Reynoldsburg","Ohio"]
+  coordinates: [-82.8057896,39.9556129]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/sandusky:
+  title: "Stop the Cuts: April Recess April 12 --> 27th"
+  region: "Sandusky, Ohio"
+  address: ["Erie County Courthouse, 323 Columbus Avenue, Sandusky, OH 44870, United States of America","323 Columbus Avenue","44870","Sandusky","Ohio"]
+  coordinates: [-82.7113861,41.4538747]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/springfield:
+  title: "National Day of Action: The Rally Heard 'Round the World"
+  region: "Springfield, Ohio"
+  address: ["76 East High Street, Springfield, OH 45505, United States of America","76 East High Street","45505","Springfield","Ohio"]
+  coordinates: [-83.8088967,39.9233166]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/stow:
+  title: "The Empty Shelf Food Drive/Nationwide Protest"
+  region: "Stow, Ohio"
+  address: ["4330 Kent Road, Stow, OH 44224, United States of America","4330 Kent Road","44224","Stow","Ohio"]
+  coordinates: [-81.4061733,41.1565643]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/toledo:
+  title: "Toledo: National Day of Action"
+  region: "Toledo, Ohio"
+  address: ["Lucas County Courthouse, 700 Adams Street, Toledo, OH 43624, United States of America","700 Adams Street","43624","Toledo","Ohio"]
+  coordinates: [-83.537032,41.6552664]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/troy:
+  title: "50 Protests, 50 States, 1 Movement: National Day of Action - the Rally Heard 'Round the World"
+  region: "Troy, Ohio"
+  address: ["215 West Main Street, Troy, OH 45373, United States of America","215 West Main Street","45373","Troy","Ohio"]
+  coordinates: [-84.205446,40.040619]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/van_wert:
+  title: "Van Wert: Hands Off! Protest"
+  region: "Van Wert, Ohio"
+  address: ["210 West Main Street, Van Wert, OH 45891, United States of America","210 West Main Street","45891","Van Wert","Ohio"]
+  coordinates: [-84.5845657,40.8696944]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 ohio/warren:
   title: "Good Trouble Trumbull"
   region: "Warren, Ohio"
   address: ["161 High Street Northwest","44481","Warren","Ohio"]
   coordinates: [-80.81894363265306,41.23738693877551]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/wauseon:
+  title: "Wauseon: The Rally Heard 'Round the World"
+  region: "Wauseon, Ohio"
+  address: ["Rite Aid, 1496 North Shoop Avenue, Wauseon, OH 43567, United States of America","1496 North Shoop Avenue","43567","Wauseon","Ohio"]
+  coordinates: [-84.1335806,41.5729414]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/westerville:
+  title: "National Day of Action: Rally Heard 'Round the World"
+  region: "Westerville, Ohio"
+  address: ["21 South State Street, Westerville, OH 43081, United States of America","21 South State Street","43081","Westerville","Ohio"]
+  coordinates: [-82.9280149,40.1150772]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/wilmington:
+  title: "National Day of Action: The Rally Heard 'Round the World"
+  region: "Wilmington, Ohio"
+  address: ["Clinton County Courthouse, 46 South South Street, Wilmington, OH 45177, United States of America","46 South South Street","45177","Wilmington","Ohio"]
+  coordinates: [-83.8280135,39.4447764]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/wooster:
+  title: "Rally Heard 'Round the World"
+  region: "Wooster, Ohio"
+  address: ["South Market Street, Wooster, OH 44691, United States of America","South Market Street","44691","Wooster","Ohio"]
+  coordinates: [-81.9393651,40.7960324]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/xenia:
+  title: "Rally Heard 'Round the World"
+  region: "Xenia, Ohio"
+  address: ["101 North Detroit Street, Xenia, OH 45385, United States of America","101 North Detroit Street","45385","Xenia","Ohio"]
+  coordinates: [-83.9295502,39.6866453]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/youngstown:
+  title: "We Will Not Be Silenced: 250 Years Later - The Fight Continues"
+  region: "Youngstown, Ohio"
+  address: ["Mahoning County Courthouse, Market Street, Youngstown, OH 44503, United States of America","Market Street","44503","Youngstown","Ohio"]
+  coordinates: [-80.6507294,41.0989217]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+ohio/zanesville:
+  title: "No Kings: A Peaceful Demonstration"
+  region: "Zanesville, Ohio"
+  address: ["Muskingum County Courthouse, 401 Main Street, Zanesville, OH 43701, United States of America","401 Main Street","43701","Zanesville","Ohio"]
+  coordinates: [-82.0073835,39.9405404]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 oregon/gold_beach:
   title: "No Kings - We Won't Go Back"
   region: "Gold Beach, Oregon"
   address: ["Gold Beach, Curry County, OR 97444, United States of America","29821 Ellensburg Ave","97444","Gold Beach","Oregon"]
   coordinates: [-124.4217418,42.4074459]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 oregon/grants_pass:
   title: "\"Keep Fighting\" Grants Pass Rally"
   region: "Grants Pass, Oregon"
   address: ["Josephine County Courthouse","500 NW 6th Street","97526","Grants Pass","Oregon"]
   coordinates: [-123.32556724548341,42.44144773014839]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 oregon/portland:
-  title: "Rise Up for Climate Justice Earth Day Rally"
+  title: "This American Revolution Demands Liberty and Justice for ALL."
   region: "Portland, Oregon"
-  address: ["3508 South Moody Avenue, Portland, OR 97239, United States of America","3508 South Moody Avenue","97239","Portland","Oregon"]
-  coordinates: [-122.671725,45.4976836]
-  photos:
-    - ... # add verified social media links here
+  address: ["Pioneer Courthouse Square, Portland, OR, United States of America","Portland","Oregon"]
+  coordinates: [-122.6792966,45.5189007]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 oregon/roseburg:
   title: "Stop the Cuts! Protect our Federal Agencies"
   region: "Roseburg, Oregon"
   address: ["Next to Fred Meyer","NW Garden Valley Blvd.","97471","Roseburg","Oregon"]
   coordinates: [-123.3685972,43.2284472]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+pennsylvania/ambler:
+  title: "Hands Off Ambler!"
+  region: "Ambler, Pennsylvania"
+  address: ["Intersection of Butler and Ridge","19002","Ambler","Pennsylvania"]
+  coordinates: [-75.2180508,40.1523273]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 pennsylvania/bethlehem:
   title: "No Monarchy in America!"
   region: "Bethlehem, Pennsylvania"
   address: ["Peoples Security Bank, 2151 Emrick Boulevard, Harvey's Corner, Bethlehem, PA 18020, United States of America","2151 Emrick Boulevard","18020","Bethlehem","Pennsylvania"]
   coordinates: [-75.2919437,40.652356]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 pennsylvania/chambersburg:
   title: "STOP THE COUP!"
   region: "Chambersburg, Pennsylvania"
   address: ["Chambersburg Square","100 Lincoln Way East","17201","Chambersburg","Pennsylvania"]
   coordinates: [-77.66085651937838,39.9372676]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 pennsylvania/ebensburg:
   title: "Cambria County Dems"
   region: "Ebensburg, Pennsylvania"
   address: ["200 South Center Street, Ebensburg, PA 15931, United States of America","200 South Center Street","15931","Ebensburg","Pennsylvania"]
   coordinates: [-78.724874,40.484162]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+pennsylvania/ephrata:
+  title: "Hands Off! Ephrata Rally"
+  region: "Ephrata, Pennsylvania"
+  address: ["Ephrata National Bank, 31 East Main Street, Ephrata, PA 17522, United States of America","31 East Main Street","17522","Ephrata","Pennsylvania"]
+  coordinates: [-76.1760756,40.1780881]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 pennsylvania/gettysburg:
   title: "Rally for the People"
   region: "Gettysburg, Pennsylvania"
   address: ["Lincoln Square, Gettysburg, PA 17325, United States of America","Lincoln Square","17325","Gettysburg","Pennsylvania"]
   coordinates: [-77.2312524,39.8307933]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 pennsylvania/greensburg:
   title: "50501 Next National Day of Action: Westmoreland County"
   region: "Greensburg, Pennsylvania"
   address: ["2 North Main Street, Greensburg, PA 15601, United States of America","2 North Main Street","15601","Greensburg","Pennsylvania"]
   coordinates: [-79.544768,40.303587]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 pennsylvania/lewisburg:
   title: "Vigil for Peace and Democracy"
   region: "Lewisburg, Pennsylvania"
   address: ["743 Market Street, Lewisburg, PA 17837, United States of America","743 Market Street","17837","Lewisburg","Pennsylvania"]
   coordinates: [-76.8896856,40.9615517]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+pennsylvania/middletown_township:
+  title: "April 19th Day of Action - Rally for Justice and Accountability"
+  region: "Middletown Township, Pennsylvania"
+  address: ["1717 Langhorne Newtown Road, Middletown Township, PA 19047, United States of America","1717 Langhorne Newtown Road","19047","Middletown Township","Pennsylvania"]
+  coordinates: [-74.9309096,40.2134389]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 pennsylvania/norristown:
   title: "The People's Party: A Celebration of Resistance & Revolution- MontCo, PA"
   region: "Norristown, Pennsylvania"
   address: ["Airy Street Municipal Lot","Airy Street (at Dekalb Street)","19401","Norristown","Pennsylvania"]
   coordinates: [-75.34147024154665,40.11572286428464]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 pennsylvania/pittsburgh:
   title: "50501 Pittsburgh Earth Day Rally with Stand up for Science"
   region: "Pittsburgh, Pennsylvania"
   address: ["Schenley Plaza, Pittsburgh, Pennsylvania, United States of America","Pittsburgh","Pennsylvania"]
   coordinates: [-79.9525627,40.4427237]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 pennsylvania/west_chester:
   title: "SAY NO TO TYRANNY!"
   region: "West Chester, Pennsylvania"
   address: ["HISTORIC COURTHOUSE West Chester, Pennsylvania, United States of America","CORNER OF HIGH AND MARKET STREETS","19380","West Chester","Pennsylvania"]
   coordinates: [-75.6059638,39.9597213]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 pennsylvania/west_reading:
   title: "Hands Off / Anger to Peaceful Action"
   region: "West Reading, Pennsylvania"
   address: ["West Reading, Berks County, Pennsylvania, United States of America","Penn Ave & Park Road","West Reading","Pennsylvania"]
   coordinates: [-75.9474322,40.3337038]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+pennsylvania/wilkes_barre:
+  title: "NO Kings! Peaceful Protest Wilkes-Barre, PA"
+  region: "Wilkes-Barre, Pennsylvania"
+  address: ["Public Square Park, Wilkes-Barre, Pennsylvania, United States of America","Wilkes-Barre","Pennsylvania"]
+  coordinates: [-75.8818011,41.2459078]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+pennsylvania/williamsport:
+  title: "Protect the Constitution! April 19th in Williamsport, PA"
+  region: "Williamsport, Pennsylvania"
+  address: ["Williamsport, Pennsylvania, United States of America","3rd and Market","Williamsport","Pennsylvania"]
+  coordinates: [-77.0011096,41.2411556]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 rhode_island/providence:
   title: "50501 Day of Action March-Rhode Island"
   region: "Providence, Rhode Island"
   address: ["Rhode Island State Capitol Building, 82 Smith Street, Providence, RI 02903, United States of America","82 Smith Street","02903","Providence","Rhode Island"]
   coordinates: [-71.4149587,41.8308956]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 south_carolina/beaufort:
   title: "Beaufort SC"
   region: "Beaufort, South Carolina"
   address: ["1911 Boundary Street, Beaufort, SC 29902, United States of America","1911 Boundary Street","29902","Beaufort","South Carolina"]
   coordinates: [-80.6848165,32.4397179]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 south_carolina/charleston:
   title: "Together in Community"
   region: "Charleston, South Carolina"
   address: ["180 Lockwood Drive, Charleston, SC 29403, United States of America","180 Lockwood Drive","29403","Charleston","South Carolina"]
   coordinates: [-79.9598054,32.7889786]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 south_carolina/rock_hill:
-  title: "4/19 Day of Action with York County Rising"
+  title: "4/19 Day of Action in Rock Hill with York County Rising"
   region: "Rock Hill, South Carolina"
   address: ["Dave Lyle Boulevard, Rock Hill, SC 29733, United States of America","Dave Lyle Boulevard between Main and White","29733","Rock Hill","South Carolina"]
   coordinates: [-81.0279543,34.9270534]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 south_dakota/aberdeen:
   title: "Day of Action in Aberdeen South Dakota"
   region: "Aberdeen, South Dakota"
   address: ["101 1st Avenue Southeast, Aberdeen, SD 57401, United States of America","101 1st Avenue Southeast","57401","Aberdeen","South Dakota"]
   coordinates: [-98.486437,45.464213]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+south_dakota/custer_county:
+  title: "Custer County Annual Road Ditch Clean Up (by Custer County Democratic Party)"
+  region: "Custer County, South Dakota"
+  address: ["SD Highway 89, Custer County, SD 57773, United States of America","SD Highway 89","57773","Custer County","South Dakota"]
+  coordinates: [-103.5894046,43.6080518]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+tennessee/johnson_city:
+  title: "Power to the People TriCities TN"
+  region: "Johnson City, Tennessee"
+  address: ["McDonald's, 826 West Walnut Street, N C Love Addition, Johnson City, TN 37604, United States of America","826 West Walnut Street","37604","Johnson City","Tennessee"]
+  coordinates: [-82.3642499,36.307777]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 tennessee/kingsport:
   title: "Kingsport -- Speak Up"
   region: "Kingsport, Tennessee"
   address: ["West Industry Drive, Kingsport, TN 37660, United States of America","West Industry Drive","37660","Kingsport","Tennessee"]
   coordinates: [-82.5759711,36.5504982]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 tennessee/memphis:
   title: "April 19 Day of Service & Rally"
   region: "Memphis, Tennessee"
   address: ["Greenspace at corner of Poplar & Highland","3506 Poplar Avenue","38111","Memphis","Tennessee"]
   coordinates: [-89.9448592,35.127626]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+texas/abilene:
+  title: "Together Gor Change"
+  region: "Abilene, Texas"
+  address: ["7598 Military Drive, Abilene, TX 79605, United States of America","7598 Military Drive","79605","Abilene","Texas"]
+  coordinates: [-99.844893,32.439139]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 texas/bay_city:
   title: "No kings! We won't go back! Peaceful protest in Bay City, TX"
   region: "Bay City, Texas"
   address: ["1700 7th Street, Bay City, TX 77414, United States of America","1700 7th Street","77414","Bay City","Texas"]
   coordinates: [-95.969862,28.982924]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 texas/beaumont:
   title: "Patriots' Day: A Protest for Liberty"
   region: "Beaumont, Texas"
   address: ["1455 Dowlen Road, Beaumont, TX 77706, United States of America","1455 Dowlen Road","77706","Beaumont","Texas"]
   coordinates: [-94.1712241,30.093323]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+texas/dallas:
+  title: "Rise with Purpose, Act with Peace"
+  region: "Dallas, Texas"
+  address: ["Dallas City Hall, 1500 Marilla Street, Dallas, TX 75201, United States of America","1500 Marilla Street","75201","Dallas","Texas"]
+  coordinates: [-96.7969417,32.7762714]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 texas/galveston:
   title: "Hands Off Our Democracy Protest & March"
   region: "Galveston, Texas"
   address: ["McGuire-Dent Recreation Center, 2228 28th Street, Galveston, TX 77550, United States of America","2228 28th Street","77550","Galveston","Texas"]
   coordinates: [-94.7933396,29.2873861]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 texas/harlingen:
   title: "April 19th Day of Action"
   region: "Harlingen, Texas"
   address: ["222 West Harrison Avenue, Harlingen, TX 78550, United States of America","222 West Harrison Avenue","78550","Harlingen","Texas"]
   coordinates: [-97.6970154,26.190749]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 texas/jersey_village:
   title: "No Kings! Hands Off Everything!"
   region: "Jersey Village, Texas"
   address: ["7208 Senate Avenue, Jersey Village, TX 77040, United States of America","7208 Senate Avenue","77040","Jersey Village","Texas"]
   coordinates: [-95.5627998,29.8772456]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 texas/kerrville:
   title: "Hands Off Kerr County"
   region: "Kerrville, Texas"
   address: ["Kerr County Courthouse, 700 Main Street, Kerrville, TX 78028, United States of America","700 Main Street","78028","Kerrville","Texas"]
   coordinates: [-99.1392117,30.0476161]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 texas/mcallen:
   title: "No Kings Peaceful Protest McAllen, TX"
   region: "McAllen, Texas"
   address: ["McAllen, Texas, United States of America","McAllen","Texas"]
   coordinates: [-98.2300605,26.204114]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 texas/mckinney:
   title: "Stand up for Democracy Protest with 50501/Hands Off and CCDP"
   region: "McKinney, Texas"
   address: ["Target, 2025 North Central Expressway, McKinney, TX 75070, United States of America","2025 North Central Expressway","75070","McKinney","Texas"]
   coordinates: [-96.6387381,33.2203519]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+texas/san_angelo:
+  title: "San Angelo National Day of Action"
+  region: "San Angelo, Texas"
+  address: ["College Hills/Unidad Park, San Angelo, Texas, United States of America","San Angelo","Texas"]
+  coordinates: [-100.4816653,31.4288898]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 texas/san_antonio:
   title: "50501 SATX - March for Equality"
   region: "San Antonio, Texas"
   address: ["Main Plaza, San Antonio, Texas, United States of America","San Antonio","Texas"]
   coordinates: [-98.4935073,29.424571]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 texas/sherman:
   title: "Sherman Day of Action Protest"
   region: "Sherman, Texas"
   address: ["Grayson County Court House, 100 West Houston Street, Sherman, TX 75090, United States of America","100 West Houston Street","75090","Sherman","Texas"]
   coordinates: [-96.6096796,33.6358683]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 texas/waco:
   title: "We the People Serve No Kings"
   region: "Waco, Texas"
   address: ["500 North Valley Mills Drive, Waco, TX 76710, United States of America","500 North Valley Mills Drive","76710","Waco","Texas"]
   coordinates: [-97.171134,31.528629]
-  photos:
-    - ... # add verified social media links here
-
-tn/johnson_city:
-  title: "Power to the People TriCities TN"
-  region: "Johnson City, TN"
-  address: ["Protest Corner","826 W Walnut St","37601","Johnson City","TN"]
-  coordinates: [-82.34184262517375,36.307834205046994]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 tn/tullahoma:
-  title: "Defend Democracy Rally - 50501 Protest in Coffee County, TN!"
+  title: "*** CANCELLED *** (Defend Democracy Rally - 50501 Protest in Coffee County, TN!)"
   region: "Tullahoma, TN"
   address: ["South Jackson Civic Center","404 S Jackson St","37388","Tullahoma","TN"]
   coordinates: [-86.20834041659657,35.357451615402226]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+utah/kanab:
+  title: "Potluck & Protest - No Kings! Let Freedom Ring!!"
+  region: "Kanab, Utah"
+  address: ["Kanab, Utah, United States of America","Kanab","Utah"]
+  coordinates: [-112.5285237,37.0481715]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 utah/park_city:
   title: "Stand Together, Fight Back! - Summit and Wasatch Counties"
   region: "Park City, Utah"
   address: ["Sullivan Road, Park City, UT 84060, United States of America","Sullivan Road","84060","Park City","Utah"]
   coordinates: [-111.5041298,40.6542139]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 utah/salt_lake_city:
-  title: "Salt Lake City Mobilization Day, No Kings, 250th Anniversary of the American Revolution"
+  title: "Protest 4/19 at Utah State Capitol by Utah 50501"
   region: "Salt Lake City, Utah"
   address: ["Utah State Capitol Building, 350 State Street, Salt Lake City, UT 84103, United States of America","350 State Street","84103","Salt Lake City","Utah"]
   coordinates: [-111.8881972,40.7774401]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 va/farmville:
   title: "Peaceful Protest and March for Justice in Farmville, Virginia"
   region: "Farmville, VA"
   address: ["Prince Edward County Courthouse Lawn","Main Street","23901","Farmville","VA"]
   coordinates: [-78.39284777641298,37.301360085091574]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+vermont/burlington:
+  title: "HANDS OFF RALLY - BURLINGTON VERMONT - APRIL 19TH"
+  region: "Burlington, Vermont"
+  address: ["149 Church Street, Burlington, VT 05401, United States of America","149 Church Street","05401","Burlington","Vermont"]
+  coordinates: [-73.2123995,44.4762871]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 vermont/hetty_green_park:
   title: "50 States National Day of ACTION - Vermont"
   region: "Hetty Green Park, Vermont"
   address: ["HandsOff! | No Kings | Celebration of Democracy","2 Church Street, Bellows Falls","05101","Hetty Green Park","Vermont"]
   coordinates: [-72.4443304538727,43.13246219813042]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+vermont/montpelier:
+  title: "Weaving Community in Vermont"
+  region: "Montpelier, Vermont"
+  address: ["Montpelier, Vermont, United States of America","Montpelier","Vermont"]
+  coordinates: [-72.5750364,44.2602244]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+vermont/stowe:
+  title: "Stowe Volunteers for Democracy"
+  region: "Stowe, Vermont"
+  address: ["Steps of Akeley Memorial Bldg 67 Main Street, Stowe, VT 05672, United States of America","67 Main Street","05672","Stowe","Vermont"]
+  coordinates: [-72.6860561,44.4654602]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+virginia/charlottesville:
+  title: "NATIONAL DAY OF ACTION- CHARLOTTESVILLE"
+  region: "Charlottesville, Virginia"
+  address: ["Charlottesville, Virginia, United States of America","Charlottesville","Virginia"]
+  coordinates: [-78.49139750003815,38.06361966997454]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 virginia/danville:
   title: "APRIL 19th GROUP DEMONSTRATIONS LET\"S GET OUR VOICES HEARD!"
   region: "Danville, Virginia"
   address: ["Main Street Plaza, Danville, Virginia, United States of America","Danville","Virginia"]
   coordinates: [-79.3896846,36.5885443]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+virginia/lexington:
+  title: "This has to stop!"
+  region: "Lexington, Virginia"
+  address: ["Two South Main, 2 South Main Street, Lexington, VA 24450, United States of America","2 South Main Street","24450","Lexington","Virginia"]
+  coordinates: [-79.4418941,37.7847536]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 virginia/richmond:
   title: "April 19th Freedom Rising Capitol Square Richmond Virginia"
   region: "Richmond, Virginia"
   address: ["Richmond Capitol Square","101 North 9th Street","23219","Richmond","Virginia"]
   coordinates: [-77.435322,37.539115]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 virginia/roanoke:
   title: "Rally for Humanity"
   region: "Roanoke, Virginia"
   address: ["Entranceway Park","114 Wells Avenue Northwest","24016","Roanoke","Virginia"]
   coordinates: [-79.93724629282953,37.27539632884641]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 virginia/woodstock:
   title: "No Kings!  Patriots Day Protest  -  Woodstock VA"
   region: "Woodstock, Virginia"
   address: ["West Reservoir Road, Woodstock, VA 22664, United States of America","West Reservoir Road","22664","Woodstock","Virginia"]
   coordinates: [-78.5273739,38.8720008]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 washington/anacortes:
   title: "April 19th HANDS OFF EVENT in Anacortes, WA"
   region: "Anacortes, Washington"
   address: ["1202 Commercial Avenue, Anacortes, WA 98221, United States of America","1202 Commercial Avenue","98221","Anacortes","Washington"]
   coordinates: [-122.6129428,48.5123742]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 washington/bellingham:
   title: "50501:The People's Movement-Bellingham"
   region: "Bellingham, Washington"
   address: ["Federal Building","104 West Magnolia Street","98225","Bellingham","Washington"]
   coordinates: [-122.47764149999999,48.7511652]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+washington/bremerton:
+  title: "Bremerton 4/19 Protest"
+  region: "Bremerton, Washington"
+  address: ["1127 Wheaton Way, Bremerton, WA 98310, United States of America","1127 Wheaton Way","98310","Bremerton","Washington"]
+  coordinates: [-122.6170858,47.5710989]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 washington/clarkston:
-  title: "Rally for Democracy"
+  title: "Hands Off! Our Democracy"
   region: "Clarkston, Washington"
-  address: ["Clarkston, Washington, United States of America","Clarkston","Washington"]
-  coordinates: [-117.045179,46.4162724]
-  photos:
-    - ... # add verified social media links here
+  address: ["Clarkston, Washington, United States of America","5th and Bridge Streets","99403","Clarkston","Washington"]
+  coordinates: [-117.04464896447828,46.41833408401289]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+washington/des_moines:
+  title: "Seniors for the Constitution/Des Moines Indivisible"
+  region: "Des Moines, Washington"
+  address: ["Big Catch Plaza, 21634, 21640, Des Moines, WA 98198, United States of America","21634, 21640","98198","Des Moines","Washington"]
+  coordinates: [-122.3252727,47.4071919]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 washington/olympia:
-  title: "Inalienable Rights Mutual Aid Drive + Peaceful Protest"
+  title: "Olympia 4/19 Protest and Aid Drive"
   region: "Olympia, Washington"
   address: ["Washington State Capitol, 416 Sid Snyder Avenue Southwest, Olympia, WA 98501, United States of America","416 Sid Snyder Avenue Southwest","98501","Olympia","Washington"]
   coordinates: [-122.9048521,47.0357617]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 washington/poulsbo:
   title: "PRO-DEMOCRACY & Mutual Aid Rally! POULSBO 4/19"
   region: "Poulsbo, Washington"
   address: ["Muriel Iverson Williams Waterfront Park, Poulsbo, Washington, United States of America","Poulsbo","Washington"]
   coordinates: [-122.6485571,47.7353477]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 washington/republic:
   title: "April 19th 50 State Nationwide Protest"
   region: "Republic, Washington"
   address: ["Corner of 6th and Clark Ave","6th and Clark Ave","99166","Republic","Washington"]
   coordinates: [-118.73825311655311,48.64788319896474]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 washington/seattle:
   title: "Seattle \"We the People - Means Everyone\" Rally"
   region: "Seattle, Washington"
   address: ["Seattle Central College","1701 Broadway","98122","Seattle","Washington"]
   coordinates: [-122.32154425327383,47.61669595]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 washington/tacoma:
   title: "Tacoma Protest and Mutual Aid - Community is Resistance"
   region: "Tacoma, Washington"
   address: ["5310 North Pearl Street, Tacoma, WA 98407, United States of America","5310 North Pearl Street","98407","Tacoma","Washington"]
   coordinates: [-122.516159,47.3016407]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
-washington/washington_d_c:
-  title: "Hands-Off Protest at V.P. JD Vance's House in Washington D.C."
-  region: "Washington D.C., Washington"
-  address: ["Vice President's House","34th St NW and Massachusetts Ave NW","Washington D.C.","Washington"]
-  coordinates: [-77.06613063812257,38.92376001700717]
-  photos:
-    - ... # add verified social media links here
+washington/vashon:
+  title: "Bring Them Home!"
+  region: "Vashon, Washington"
+  address: ["Sidewalk in front of","17821 Vashon Hwy SW","98070","Vashon","Washington"]
+  coordinates: [-122.4607188,47.4450337]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 washington/wenatchee:
   title: "Rally for Justice"
   region: "Wenatchee, Washington"
   address: ["2 South Chelan Avenue, Wenatchee, WA 98801, United States of America","2 South Chelan Avenue","98801","Wenatchee","Washington"]
   coordinates: [-120.3138038,47.4233077]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 west_virginia/lewisburg:
   title: "Save Our Farms Rally and Food Drive"
   region: "Lewisburg, West Virginia"
   address: ["West Washington Street, Lewisburg, WV 24901, United States of America","West Washington Street","24901","Lewisburg","West Virginia"]
   coordinates: [-80.4457134,37.8017243]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+west_virginia/martinsburg:
+  title: "No Kings Protest"
+  region: "Martinsburg, West Virginia"
+  address: ["100 West King Street, Martinsburg, WV 25401, America","100 West King Street- The Square","25401","Martinsburg","West Virginia"]
+  coordinates: [-77.9641381,39.4564769]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 wisconsin/amery:
   title: "Meet Us At the Tracks in Amery WI"
   region: "Amery, Wisconsin"
   address: ["Cattail Trail, Amery, WI 54001, United States of America","Cattail Trail","54001","Amery","Wisconsin"]
   coordinates: [-92.3618052,45.3109862]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 wisconsin/green_bay:
   title: "Green Bay Takes Action!"
   region: "Green Bay, Wisconsin"
   address: ["Leicht Memorial Park, Green Bay, Wisconsin, United States of America","Green Bay","Wisconsin"]
   coordinates: [-88.0161265,44.5195634]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 wisconsin/muskego:
   title: "Muskego Sign Holding Event"
   region: "Muskego, Wisconsin"
   address: ["S69W15476 Janesville Road, Tess Corners, Muskego, WI 53150, United States of America","S69W15476 Janesville Road","53150","Muskego","Wisconsin"]
   coordinates: [-88.10829,42.9195675]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 wisconsin/oconomowoc:
   title: "Hands Off"
   region: "Oconomowoc, Wisconsin"
   address: ["North Main Street, Oconomowoc, WI 53066, United States of America","North Main Street","53066","Oconomowoc","Wisconsin"]
   coordinates: [-88.49949,43.1120105]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 wisconsin/reedsburg:
   title: "Reedsburg, Wisconsin Day of Action Rally"
   region: "Reedsburg, Wisconsin"
   address: ["115 North Webb Avenue","53959","Reedsburg","Wisconsin"]
   coordinates: [-90.010227,43.533338]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 wisconsin/stevens_point:
   title: "Reject Oligarchy!"
   region: "Stevens Point, Wisconsin"
   address: ["Stevens Point Post Office, 1320 Main Street, Stevens Point, WI 54481, United States of America","1320 Main Street","54481","Stevens Point","Wisconsin"]
   coordinates: [-89.5791491,44.5237571]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 wisconsin/town_of_minocqua:
   title: "No Kings Minocqua"
   region: "Town of Minocqua, Wisconsin"
   address: ["230 West Front Street, Minocqua, WI 54548, United States of America","230 West Front Street","54548","Town of Minocqua","Wisconsin"]
   coordinates: [-89.7106583,45.871557]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+wisconsin/whitewater:
+  title: "Whitewater Rally in Support of ____"
+  region: "Whitewater, Wisconsin"
+  address: ["117 West Main Street, Whitewater, WI 53190, United States of America","117 West Main Street","53190","Whitewater","Wisconsin"]
+  coordinates: [-88.7304387,42.8338209]
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 wyoming/casper:
   title: "Casper - No Kings in America Rally"
   region: "Casper, Wyoming"
   address: ["Healing/Conwell Park, Casper, WY 82601, United States of America","120 S Conwell Street","82601","Casper","Wyoming"]
   coordinates: [-106.30816876888277,42.84881321084464]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 
 wyoming/lander:
   title: "Fremont County Rally for Action"
   region: "Lander, Wyoming"
   address: ["Centennial Park, Lander, Wyoming, United States of America","Lander","Wyoming"]
   coordinates: [-108.7297926,42.8324983]
-  photos:
-    - ... # add verified social media links here
+  sources:
+    - url: ... # source url, like a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
 

@@ -1,5 +1,5 @@
-import * as yaml from 'jsr:@std/yaml'
 import { date } from '../../config.ts';
+import * as yaml from 'jsr:@std/yaml';
 
 export function loadUserEvents() {
 	const data = yaml.parse(Deno.readTextFileSync(`data/${date}.yaml`));
@@ -7,9 +7,31 @@ export function loadUserEvents() {
 	return data;
 }
 
-export function saveUserEvents(data: UserEvents) {
-	const yamlData = yaml.stringify(data, { lineWidth: -1 });
+export function saveUserEvents(events: UserEvents) {
+	const entries = Object.entries(events);
+	entries.sort(([a], [b]) => a.localeCompare(b));
+
+	const yamlData = entries
+		.map(([key, event]) => getUserEventAsYaml(key, event))
+		.join('\n');
 	Deno.writeTextFileSync(`data/${date}.yaml`, yamlData);
+}
+
+export function getUserEventAsYaml(key: string, event: UserEvent): string {
+	return [
+		`${key}:`,
+		`  title: ${JSON.stringify(event.title)}`,
+		`  region: ${JSON.stringify(event.region)}`,
+		`  address: ${JSON.stringify(event.address)}`,
+		`  coordinates: ${JSON.stringify(event.coordinates)}`,
+		`  sources:`,
+		...event.sources.flatMap((source) => [
+			`    - url: ${source.url}`,
+			`      photos:`,
+			...source.photos.map((photo) => `        - ${photo}`),
+		]),
+		'',
+	].join('\n');
 }
 
 export type UserEvents = Record<string, UserEvent>;
@@ -17,9 +39,14 @@ export type UserEvents = Record<string, UserEvent>;
 interface UserEvent {
 	address: string[];
 	coordinates: [number, number];
-	photos: string[];
 	region: string;
 	title: string;
+	sources: UserSource[];
+}
+
+interface UserSource {
+	url: string;
+	photos: string[];
 }
 
 // typeguard for UserEvents
@@ -46,15 +73,23 @@ function isUserEvents(data: unknown): data is UserEvents {
 			if (event.coordinates.length !== 2) throw new TypeError('coordinates is not an array of length 2');
 			if (event.coordinates.some((e: unknown) => typeof e !== 'number')) throw new TypeError('coordinates is not an array of numbers');
 
-			if (!('photos' in event)) throw new TypeError('photos is missing');
-			if (!Array.isArray(event.photos)) throw new TypeError('photos is not an array');
-			if (event.photos.some((e: unknown) => typeof e !== 'string')) throw new TypeError('photos is not an array of strings');
-
 			if (!('region' in event)) throw new TypeError('region is missing');
 			if (typeof event.region !== 'string') throw new TypeError('region is not a string');
 
 			if (!('title' in event)) throw new TypeError('title is missing');
 			if (typeof event.title !== 'string') throw new TypeError('title is not a string');
+
+			if (!('sources' in event)) throw new TypeError('sources is missing');
+			if (!Array.isArray(event.sources)) throw new TypeError('sources is not an array');
+			for (const source of event.sources) {
+				if (typeof source !== 'object') throw new TypeError('sources is not an array of objects');
+				if (source == null) throw new TypeError('sources is not an array of objects');
+				if (!('url' in source)) throw new TypeError('url is missing');
+				if (typeof source.url !== 'string') throw new TypeError('url is not a string');
+				if (!('photos' in source)) throw new TypeError('photos is missing');
+				if (!Array.isArray(source.photos)) throw new TypeError('photos is not an array');
+				if (source.photos.some((e: unknown) => typeof e !== 'string')) throw new TypeError('photos is not an array of strings');
+			}
 		} catch (e) {
 			throw new TypeError(`Invalid event ${key}: ${(e as TypeError).message}`);
 		}
