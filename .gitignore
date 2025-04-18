@@ -1,4 +1,3 @@
 cache/
 node_modules/
-web/*.json
-web/*.webp
+web/data/

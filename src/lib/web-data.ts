@@ -1,6 +1,7 @@
-import sharp from "sharp";
+import sharp from 'npm:sharp';
 import { getImages } from './sprites.ts';
 import { UserEvents } from './user-events.ts';
+import * as Path from 'node:path';
 
 
 interface WebEntry {
@@ -10,12 +11,12 @@ interface WebEntry {
 	sprites: string[];
 }
 
-export async function buildWebEntries(userEntries: UserEvents): Promise<void> {
-	const chars = '0123456789abcdefghijklmnopqrstuvwxyz';
+export async function buildWebEntries(userEntries: UserEvents, targetDir: string): Promise<void> {
+	const resolve = (path: string) => Path.resolve(targetDir, path);
+
 	const spriteSize = 64;
 	const imageSize = 2048;
 	const spriteCount = Math.floor(imageSize / spriteSize);
-	if (spriteCount > chars.length) throw new Error(`Too many sprites: ${spriteCount}`);
 
 	const result: WebEntry[] = [];
 	for (const event of Object.values(userEntries)) {
@@ -34,14 +35,14 @@ export async function buildWebEntries(userEntries: UserEvents): Promise<void> {
 
 	const spriteJSON: Record<string, unknown> = {};
 	const overlays: sharp.OverlayOptions[] = [];
-	const cutout = await sharp('data/cutout.png').raw().toBuffer();
+	const cutout = await sharp(`data/cutout${spriteSize}.png`).raw().toBuffer();
 	if (cutout.length !== spriteSize * spriteSize * 3) throw new Error(`Invalid cutout size: ${cutout.length}`);;
 
 	let i = 0;
 	for (const [sprite, _] of sprites) {
 		const col = i % spriteCount;
 		const row = Math.floor(i / spriteCount);
-		const key = chars[col] + chars[row];
+		const key = numberToIndex(i);
 
 		const spriteBuffer = await sharp(sprite).resize(spriteSize, spriteSize).ensureAlpha().raw().toBuffer();
 		if (spriteBuffer.length !== spriteSize * spriteSize * 4) throw new Error(`Invalid sprite size: ${spriteBuffer.length}`);
@@ -60,6 +61,7 @@ export async function buildWebEntries(userEntries: UserEvents): Promise<void> {
 			height: spriteSize,
 			x: col * spriteSize,
 			y: row * spriteSize,
+			pixelRatio: 1,
 		};
 
 		sprites.set(sprite, key);
@@ -76,11 +78,31 @@ export async function buildWebEntries(userEntries: UserEvents): Promise<void> {
 			background: { r: 0, g: 0, b: 0, alpha: 0 }
 		}
 	}).composite(overlays)
-		.webp({ quality: 80 })
-		.toFile('web/sprites.webp');
+		.png({
+			compressionLevel: 9,
+			palette: true,
+		})
+		.toFile(resolve('sprites.png'));
 
-	await Deno.writeTextFile('web/sprites.json', JSON.stringify(spriteJSON));
+	await Deno.writeTextFile(resolve('sprites.json'), JSON.stringify(spriteJSON));
+
+	duplicateFile(resolve('sprites.png'), resolve('sprites@2x.png'));
+	duplicateFile(resolve('sprites.json'), resolve('sprites@2x.json'));
 
 	result.forEach(e => e.sprites = e.sprites.map(sprite => sprites.get(sprite)!));
-	await Deno.writeTextFile('web/data.json', JSON.stringify(result));
+	await Deno.writeTextFile(resolve('data.json'), JSON.stringify(result));
+}
+
+function duplicateFile(src: string, dest: string): void {
+	const srcFile = Deno.readFileSync(src);
+	Deno.writeFileSync(dest, srcFile);
+}
+
+function numberToIndex(num: number): string {
+	let t = '';
+	do {
+		t = String.fromCharCode(num % 26 + 65) + t;
+		num = Math.floor(num / 26);
+	} while (num > 0);
+	return t;
 }

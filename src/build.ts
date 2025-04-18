@@ -3,6 +3,6 @@ import { buildWebEntries } from './lib/web-data.ts';
 
 
 const events = loadUserEvents();
-await buildWebEntries(events);
+await buildWebEntries(events, 'web/data');
 
 
