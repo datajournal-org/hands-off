@@ -1072,6 +1072,19 @@ florida/eustis:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+florida/fort_myers:
+  title: "No Tyrants - No Kings"
+  region: "Fort Myers, Florida"
+  address: [""]
+  coordinates: [-81.7922129,26.5474088]
+  sources:
+    - url: https://eu.usatoday.com/picture-gallery/news/nation/2025/04/19/protest-resist-trump-rally-photos/83173515007/
+      photos:
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/USAT/83173637007-usatsi-25967202.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/USAT/83173631007-usatsi-25967203.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/USAT/83173642007-usatsi-25967204.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/USAT/83173629007-usatsi-25967210.jpg?width=1184&format=pjpg&auto=webp&quality=50
+
 florida/fort_pierce:
   title: "Rally for America"
   region: "Fort Pierce, Florida"
@@ -2799,10 +2812,12 @@ new_york/new_york:
   address: ["Bryant Park, West 41st Street, New York, NY 10018, United States of America","West 41st Street","10018","New York"]
   coordinates: [-73.9835428,40.7537509]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://eu.usatoday.com/picture-gallery/news/nation/2025/04/19/protest-resist-trump-rally-photos/83173515007/
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/USAT/83173633007-usatsi-25967197.jpg?crop=6749,4055,x0,y0&width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/USAT/83173632007-2210362782.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/USAT/83173634007-20250419-t-163413-z-1180342194-rc-241-ea-8-cl-1-a-rtrmadp-3-usatrumpprotests.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/USAT/83173630007-2210362868.jpg?width=1184&format=pjpg&auto=webp&quality=50
 
 new_york/owego:
   title: "Defend Democracy - Demand Checks & Balances"
