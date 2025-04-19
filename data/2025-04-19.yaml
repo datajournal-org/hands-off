@@ -86,6 +86,17 @@ alaska/cordova:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+alaska/denali_borough:
+  title: "Paws Off Denali"
+  region: "Denali Borough, Alaska"
+  address: ["Denali Park Road, Denali Borough, AK, United States of America","Denali Park Road","Denali Borough","Alaska"]
+  coordinates: [-148.9190969,63.7329838]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
 alaska/fairbanks:
   title: "Day of Action"
   region: "Fairbanks, Alaska"
@@ -664,6 +675,24 @@ california/san_francisco:
   address: ["Union Square, San Francisco, CA, United States of America","Powell St and Geary St.","San Francisco","California"]
   coordinates: [-122.4075174,37.7879363]
   sources:
+    - url: https://www.sfgate.com/news/article/photo-collection-anti-trump-hands-off-protests-20284486.php
+      photos:
+        - https://s.hdnux.com/photos/01/50/05/56/27286428/6/960x0.webp
+        - https://s.hdnux.com/photos/01/50/05/55/27286378/3/960x0.webp
+        - https://s.hdnux.com/photos/01/50/05/56/27286424/3/960x0.webp
+        - https://s.hdnux.com/photos/01/50/05/56/27286426/3/960x0.webp
+        - https://s.hdnux.com/photos/01/50/05/56/27286425/3/960x0.webp
+        - https://s.hdnux.com/photos/01/50/05/54/27286287/3/960x0.webp
+        - https://s.hdnux.com/photos/01/50/05/54/27286282/3/960x0.webp
+        - https://s.hdnux.com/photos/01/50/05/57/27286524/3/960x0.webp
+        - https://s.hdnux.com/photos/01/50/05/57/27286526/3/960x0.webp
+
+california/san_juan_capistrano:
+  title: "STOP THE ILLEGAL DEPORTATIONS"
+  region: "San Juan Capistrano, California"
+  address: ["Ross, 32051 Camino Capistrano, San Juan Capistrano, CA 92675, United States of America","32051 Camino Capistrano","92675","San Juan Capistrano","California"]
+  coordinates: [-117.663575,33.4969582]
+  sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
         - ... # url of a jpeg, webp or png image
@@ -1137,10 +1166,14 @@ florida/miami:
   address: ["301 Biscayne Boulevard, Torch of Friendship, Miami, FL 33131, United States of America","301 Biscayne Boulevard","33131","Miami","Florida"]
   coordinates: [-80.187314,25.770944]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://www.newsweek.com/photos-show-massive-50501-anti-ttrump-protests-across-country-2061783
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://d.newsweek.com/en/full/2630103/50501-movement-protest.webp?w=790&f=e2b3f77cf0afffefeadb245b40c90fdb
+        - https://d.newsweek.com/en/full/2630104/50501-protests.webp?w=790&f=276e3f0025e6da1c86374440db9d1e0b
+        - https://d.newsweek.com/en/full/2630107/50501-protests.webp?w=790&f=f76c031f1f30d7ef7bd2b762af6a3fb5
+        - https://d.newsweek.com/en/full/2630110/50501-protests.webp?w=790&f=d7da5d387f2518002dd2a3c559c5f92f
+        - https://d.newsweek.com/en/full/2630129/50501-protests.webp?w=790&f=0810f8dad515e0d0a590eef55917fd0f
+        - https://d.newsweek.com/en/full/2630131/50501-protests.webp?w=790&f=172a82b61dd0dfa1a9ded6ab343456d9
 
 florida/minneola:
   title: "Hands Off Minneola Sign Waving"
@@ -2264,6 +2297,18 @@ michigan/hazel_park:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+michigan/lansing:
+  title: "Protest"
+  region: "Lansing, Michigan"
+  address: ["Michigan State Capitol"]
+  coordinates: [-84.55651,42.73332]
+  sources:
+    - url: https://eu.lansingstatejournal.com/story/news/local/community/2025/04/19/protest-trump-musk-michigan-capitol-lansing/83174477007/
+      photos:
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PLSJ/83175122007-image-5.jpeg?width=2560
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PLSJ/83175123007-image-3.jpeg?width=2560
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PLSJ/83175119007-image-6.jpeg?width=2560
+
 michigan/mount_pleasant:
   title: "Progress Over Persecution"
   region: "Mount Pleasant, Michigan"
@@ -2809,10 +2854,13 @@ new_york/village_of_baldwinsville:
   address: ["Lysander, Village of Baldwinsville, NY 13027, United States of America","Intersection of Routes NY-48 & NY-370 (Four Corners)","13027","Village of Baldwinsville","New York"]
   coordinates: [-76.33271,43.158679]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://www.syracuse.com/news/2025/04/more-than-200-rally-in-baldwinsville-to-protest-trump-defend-constitutional-rights.html
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://www.syracuse.com/resizer/v2/3I3SBPWMMVCVHGV6IFZHH27PLY.JPG?auth=0d422435e2faed5179b299d12a0e11a443c5d2affc618038571e320bfa53aa21&width=1280&quality=90
+        - https://www.syracuse.com/resizer/v2/K6E33CBJXVFIVLZKVFNPIAKSDY.jpg?auth=c85970ed86360123eb24605db6fee6d61b5bc6308f2fe2d01f4d6d2c09e65bd9&width=1280&quality=90
+        - https://www.syracuse.com/resizer/v2/EG2MDWLM7RELXESBUJY4V5HYBE.jpg?auth=bd4476fd2982c3751392f74fe779ead10e6e7a4cc71e7a9489debb7cc112a1b7&width=1280&quality=90
+        - https://www.syracuse.com/resizer/v2/TTEQBCSU6RAXDAV46YLA5YBJME.jpg?auth=41dc610d140997d48908a5d0faf470a66e5504028ea8c3f86a9c7d9fef09c69e&width=1280&quality=90
+        - https://www.syracuse.com/resizer/v2/OAOHDG2WJNEYJH64NT6CEUNXNY.jpg?auth=5468a20d63032cee40b417840ed8ac31423b3b73cf8db8de1b61be14362b93de&width=1280&quality=90
 
 new_york/village_of_larchmont:
   title: "Day of Action @ Chatsworth Ave. (In front of Larchmont Farmers Market on I-95 overpass)"
@@ -3088,6 +3136,19 @@ ohio/circleville:
       photos:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
+
+ohio/columbus:
+  title: "Rally Heard 'Round the World"
+  region: "Columbus, Ohio"
+  address: ["Ohio Statehouse, 1 Capitol Sq, Columbus, OH 43215","Ohio"]
+  coordinates: [-82.999166,39.961268]
+  sources:
+    - url: https://eu.dispatch.com/story/news/local/2025/04/19/hands-off-anti-trump-protest-rally-downtown-columbus-ohio-statehouse/83138741007/
+      photos:
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/NCOD/83173771007-04192025-hands-off-skm-2.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/NCOD/83173773007-04192025-hands-off-skm-1.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/NCOD/83173772007-04192025-hands-off-skm-3.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/NCOD/83173770007-04192025-hands-off-skm-4.JPG?width=1184&format=pjpg&auto=webp&quality=50
 
 ohio/coshocton:
   title: "Rally Heard 'Round the World - Coshocton, Ohio"
@@ -4288,6 +4349,25 @@ virginia/roanoke:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+virginia/staunton:
+  title: "Protests"
+  region: "Staunton, Virginia"
+  address: ["Augusta County Courthouse"]
+  coordinates: [-79.074847,38.1486904]
+  sources:
+    - url: https://eu.newsleader.com/picture-gallery/news/local/2025/04/19/downtown-staunton-protest-saturday-april-19-photos/83175693007/
+      photos:
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PSTA/83175541007-nd-4-5155.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PSTA/83175531007-nd-4-5164.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PSTA/83175543007-nd-4-5204.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PSTA/83175544007-nd-4-5205.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PSTA/83175523007-nd-4-5097.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PSTA/83175528007-nd-4-5101.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PSTA/83175540007-nd-4-5102.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PSTA/83175538007-nd-4-5110.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PSTA/83175532007-nd-4-5115.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PSTA/83175529007-nd-4-5127.JPG?width=1184&format=pjpg&auto=webp&quality=50
+
 virginia/williamsburg:
   title: "Hands Off Open Air Community Forum and Protest"
   region: "Williamsburg, Virginia"
@@ -4468,12 +4548,16 @@ washington/washington:
   title: "March to the White House: The Trump Regime Must Go-Now!"
   region: "Washington, Washington"
   address: ["Washington, District of Columbia, United States of America","Washington"]
-  coordinates: [-77.0365427,38.8950368]
+  coordinates: [-77.039105,38.8976763]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://www.newsweek.com/photos-show-massive-50501-anti-ttrump-protests-across-country-2061783
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://d.newsweek.com/en/full/2630112/50501-protest.webp?w=790&f=2384c11b19bc8def6044dc45afd1bd68
+        - https://d.newsweek.com/en/full/2630115/50501-protests.webp?w=790&f=b1520d435e65341cfc1a841b103cb875
+        - https://d.newsweek.com/en/full/2630121/50501-protest.webp?w=790&f=704dd590975fd8329887f53e70805849
+        - https://d.newsweek.com/en/full/2630124/50501-protests.webp?w=790&f=a552be09b96ebfd66acb3302b0a5abc0
+        - https://d.newsweek.com/en/full/2630125/50501-protests.webp?w=790&f=fd25d25b36df0596bf3f39fda09fa249
+        - https://d.newsweek.com/en/full/2630127/50501-protests.webp?w=790&f=4b7ba5fa0e207734000d9cb2f8b632bf
 
 washington/wenatchee:
   title: "Rally for Justice"

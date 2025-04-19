@@ -1826,6 +1826,81 @@
         {
           "__typename": "Event",
           "attributedTo": null,
+          "beginsOn": "2025-05-02T00:30:00Z",
+          "endsOn": "2025-05-02T01:30:00Z",
+          "id": "2352",
+          "options": {
+            "__typename": "EventOptions",
+            "anonymousParticipation": true,
+            "attendees": [],
+            "commentModeration": "ALLOW_ALL",
+            "hideNumberOfParticipants": false,
+            "hideOrganizerWhenGroupEvent": false,
+            "isOnline": false,
+            "maximumAttendeeCapacity": 0,
+            "offers": [],
+            "participationConditions": null,
+            "program": null,
+            "remainingAttendeeCapacity": 0,
+            "showEndTime": false,
+            "showParticipationPrice": false,
+            "showRemainingAttendeeCapacity": false,
+            "showStartTime": true,
+            "timezone": null
+          },
+          "organizerActor": {
+            "__typename": "Person",
+            "avatar": null,
+            "domain": null,
+            "id": "5551",
+            "name": "Tucson 50501",
+            "preferredUsername": "tucson_50501",
+            "summary": null,
+            "type": "PERSON",
+            "url": "https://events.pol-rev.com/@tucson_50501"
+          },
+          "physicalAddress": {
+            "__typename": "Address",
+            "country": "United States",
+            "description": "Southside Presbyterian Church, 317 West 23rd Street, Tucson, AZ 85713, United States of America",
+            "geom": "-110.9738745;32.2052618",
+            "id": "2198",
+            "locality": "Tucson",
+            "originId": "opencage:32.2052618,-110.9738745",
+            "pictureInfo": null,
+            "postalCode": "85713",
+            "region": "Arizona",
+            "street": "317 West 23rd Street",
+            "timezone": null,
+            "type": "place_of_worship",
+            "url": "https://events.pol-rev.com/address/fd2c18ad-89ab-4f06-8e0b-477b74e649ff"
+          },
+          "picture": {
+            "__typename": "Media",
+            "id": "2058",
+            "url": "https://events.pol-rev.com/media/aa83c891601463e57ff1c3ec1ebda9e4d8381e75b1de4c7edb034bf401a8a15d.png?name=Screenshot%202025-04-19%20113836.png"
+          },
+          "status": "CONFIRMED",
+          "tags": [
+            {
+              "__typename": "Tag",
+              "id": "1147",
+              "slug": "maydayprotest",
+              "title": "maydayprotest"
+            },
+            {
+              "__typename": "Tag",
+              "id": "10",
+              "slug": "50501",
+              "title": "50501"
+            }
+          ],
+          "title": "May Day Strong: We are the Many - TUCSON, AZ",
+          "uuid": "417148f9-af90-4aa2-8757-a676c21fec01"
+        },
+        {
+          "__typename": "Event",
+          "attributedTo": null,
           "beginsOn": "2025-05-02T00:00:00Z",
           "endsOn": "2025-05-02T02:00:00Z",
           "id": "2204",
@@ -2628,6 +2703,64 @@
           ],
           "title": "Fight for Immigrant and Worker Rights! SMASH the Coup: Sioux Falls!",
           "uuid": "5b875870-b5dd-482b-a279-222286d50549"
+        },
+        {
+          "__typename": "Event",
+          "attributedTo": null,
+          "beginsOn": "2025-05-01T20:30:00Z",
+          "endsOn": "2025-05-01T22:00:00Z",
+          "id": "2351",
+          "options": {
+            "__typename": "EventOptions",
+            "anonymousParticipation": true,
+            "attendees": [],
+            "commentModeration": "ALLOW_ALL",
+            "hideNumberOfParticipants": true,
+            "hideOrganizerWhenGroupEvent": false,
+            "isOnline": false,
+            "maximumAttendeeCapacity": 0,
+            "offers": [],
+            "participationConditions": null,
+            "program": null,
+            "remainingAttendeeCapacity": 0,
+            "showEndTime": true,
+            "showParticipationPrice": false,
+            "showRemainingAttendeeCapacity": false,
+            "showStartTime": true,
+            "timezone": null
+          },
+          "organizerActor": {
+            "__typename": "Person",
+            "avatar": null,
+            "domain": null,
+            "id": "96463",
+            "name": "Freaking SarahMarie",
+            "preferredUsername": "freaking_sarahmarie",
+            "summary": "A local to Harford County, Maryland. East Coast USA, public school teacher ",
+            "type": "PERSON",
+            "url": "https://events.pol-rev.com/@freaking_sarahmarie"
+          },
+          "physicalAddress": {
+            "__typename": "Address",
+            "country": "United States",
+            "description": "1 South Philadelphia Boulevard, Aberdeen, MD 21001, United States of America",
+            "geom": "-76.163916;39.508494",
+            "id": "2195",
+            "locality": "Aberdeen",
+            "originId": "opencage:39.508494,-76.163916",
+            "pictureInfo": null,
+            "postalCode": "21001",
+            "region": "Maryland",
+            "street": "1 South Philadelphia Boulevard",
+            "timezone": null,
+            "type": "building",
+            "url": "https://events.pol-rev.com/address/0d524b79-fe05-41df-ba90-c3f0cecfdac0"
+          },
+          "picture": null,
+          "status": "CONFIRMED",
+          "tags": [],
+          "title": "May 1st - Hands Off! Community event",
+          "uuid": "3ce240ad-6cc3-489b-9ba6-ec20153b8cec"
         },
         {
           "__typename": "Event",
@@ -4543,6 +4676,68 @@
         {
           "__typename": "Event",
           "attributedTo": null,
+          "beginsOn": "2025-04-25T20:00:00Z",
+          "endsOn": "2025-04-25T21:00:00Z",
+          "id": "2350",
+          "options": {
+            "__typename": "EventOptions",
+            "anonymousParticipation": false,
+            "attendees": [],
+            "commentModeration": "ALLOW_ALL",
+            "hideNumberOfParticipants": true,
+            "hideOrganizerWhenGroupEvent": false,
+            "isOnline": false,
+            "maximumAttendeeCapacity": 0,
+            "offers": [],
+            "participationConditions": null,
+            "program": null,
+            "remainingAttendeeCapacity": 0,
+            "showEndTime": true,
+            "showParticipationPrice": false,
+            "showRemainingAttendeeCapacity": false,
+            "showStartTime": true,
+            "timezone": null
+          },
+          "organizerActor": {
+            "__typename": "Person",
+            "avatar": null,
+            "domain": null,
+            "id": "94544",
+            "name": "Dana",
+            "preferredUsername": "danaha",
+            "summary": "Volunteer",
+            "type": "PERSON",
+            "url": "https://events.pol-rev.com/@danaha"
+          },
+          "physicalAddress": {
+            "__typename": "Address",
+            "country": "United States",
+            "description": "Suffolk, Virginia, United States of America",
+            "geom": "-76.5834683;36.7281341",
+            "id": "2194",
+            "locality": "Suffolk",
+            "originId": "opencage:36.7281341,-76.5834683",
+            "pictureInfo": null,
+            "postalCode": null,
+            "region": "Virginia",
+            "street": null,
+            "timezone": null,
+            "type": "city",
+            "url": "https://events.pol-rev.com/address/cebf4fee-c40a-4f7b-90a1-51ebaf901b86"
+          },
+          "picture": {
+            "__typename": "Media",
+            "id": "2057",
+            "url": "https://events.pol-rev.com/media/e32138b6a4771b62103c24ed0ee974c9de5c1a70dd09e17bb69ad5592ad15279.jpg?name=243229456_240714184749190_5595648665685753269_n.jpg"
+          },
+          "status": "CONFIRMED",
+          "tags": [],
+          "title": "NO!",
+          "uuid": "3db37c01-1178-468b-8574-3931be29002d"
+        },
+        {
+          "__typename": "Event",
+          "attributedTo": null,
           "beginsOn": "2025-04-24T15:00:00Z",
           "endsOn": "2025-04-24T16:00:00Z",
           "id": "1187",
@@ -4918,6 +5113,81 @@
           ],
           "title": "Protest Art - Paint what you feel! Bring your favorite slogans and ideas for a protest poster!",
           "uuid": "335941d3-1d9a-483f-b773-6bcaa1c5d7f5"
+        },
+        {
+          "__typename": "Event",
+          "attributedTo": null,
+          "beginsOn": "2025-04-23T19:00:00Z",
+          "endsOn": "2025-04-23T21:00:00Z",
+          "id": "2348",
+          "options": {
+            "__typename": "EventOptions",
+            "anonymousParticipation": false,
+            "attendees": [],
+            "commentModeration": "ALLOW_ALL",
+            "hideNumberOfParticipants": false,
+            "hideOrganizerWhenGroupEvent": false,
+            "isOnline": false,
+            "maximumAttendeeCapacity": 0,
+            "offers": [],
+            "participationConditions": null,
+            "program": null,
+            "remainingAttendeeCapacity": 0,
+            "showEndTime": true,
+            "showParticipationPrice": false,
+            "showRemainingAttendeeCapacity": false,
+            "showStartTime": true,
+            "timezone": "America/Los_Angeles"
+          },
+          "organizerActor": {
+            "__typename": "Person",
+            "avatar": null,
+            "domain": null,
+            "id": "7446",
+            "name": "Tasia Surch",
+            "preferredUsername": "tasia_surch",
+            "summary": "I’m a fairly new (since 2020) activist organizing my first protests recently. ",
+            "type": "PERSON",
+            "url": "https://events.pol-rev.com/@tasia_surch"
+          },
+          "physicalAddress": {
+            "__typename": "Address",
+            "country": "United States",
+            "description": "Mission Viejo Library",
+            "geom": null,
+            "id": "2192",
+            "locality": null,
+            "originId": null,
+            "pictureInfo": null,
+            "postalCode": "92691",
+            "region": null,
+            "street": "100 Civic Center Drive, Mission Viejo CA 92691",
+            "timezone": null,
+            "type": null,
+            "url": "https://events.pol-rev.com/address/3b1c5684-cc2f-4f25-8abf-6927a621e5ac"
+          },
+          "picture": {
+            "__typename": "Media",
+            "id": "2056",
+            "url": "https://events.pol-rev.com/media/f52912f50887314ec453550764af431c1d2d891d609529b331636ab2806868cb.png?name=Copy%20of%20March%20Against%20the%20King.png"
+          },
+          "status": "CONFIRMED",
+          "tags": [
+            {
+              "__typename": "Tag",
+              "id": "213",
+              "slug": "peaceful-protest-1",
+              "title": "Peaceful protest"
+            },
+            {
+              "__typename": "Tag",
+              "id": "2022",
+              "slug": "accessible",
+              "title": "accessible"
+            }
+          ],
+          "title": "Meet the Candidate Series",
+          "uuid": "75ea0c76-7b5a-4c93-936e-472ffd3bc20f"
         },
         {
           "__typename": "Event",
@@ -7754,6 +8024,75 @@
           ],
           "title": "Peaceful Gathering / Rally",
           "uuid": "ef22d9d2-5f9f-4487-8b81-7fac65a51d59"
+        },
+        {
+          "__typename": "Event",
+          "attributedTo": null,
+          "beginsOn": "2025-04-19T22:00:00Z",
+          "endsOn": "2025-04-19T23:00:00Z",
+          "id": "2347",
+          "options": {
+            "__typename": "EventOptions",
+            "anonymousParticipation": true,
+            "attendees": [],
+            "commentModeration": "CLOSED",
+            "hideNumberOfParticipants": true,
+            "hideOrganizerWhenGroupEvent": false,
+            "isOnline": false,
+            "maximumAttendeeCapacity": 0,
+            "offers": [],
+            "participationConditions": null,
+            "program": null,
+            "remainingAttendeeCapacity": 0,
+            "showEndTime": true,
+            "showParticipationPrice": false,
+            "showRemainingAttendeeCapacity": false,
+            "showStartTime": true,
+            "timezone": "US/Pacific"
+          },
+          "organizerActor": {
+            "__typename": "Person",
+            "avatar": null,
+            "domain": null,
+            "id": "98869",
+            "name": "Democratic Women of South Orange County",
+            "preferredUsername": "democratic_women_of_south_orange_county",
+            "summary": null,
+            "type": "PERSON",
+            "url": "https://events.pol-rev.com/@democratic_women_of_south_orange_county"
+          },
+          "physicalAddress": {
+            "__typename": "Address",
+            "country": "United States",
+            "description": "Ross, 32051 Camino Capistrano, San Juan Capistrano, CA 92675, United States of America",
+            "geom": "-117.663575;33.4969582",
+            "id": "2191",
+            "locality": "San Juan Capistrano",
+            "originId": "opencage:33.4969582,-117.663575",
+            "pictureInfo": null,
+            "postalCode": "92675",
+            "region": "California",
+            "street": "32051 Camino Capistrano",
+            "timezone": null,
+            "type": "shop",
+            "url": "https://events.pol-rev.com/address/ad9fcef8-3d73-40a1-92f0-22375fc7c525"
+          },
+          "picture": {
+            "__typename": "Media",
+            "id": "2055",
+            "url": "https://events.pol-rev.com/media/c1276cc979deb1b14fd6b578d11fd890ef36cfe5bfb5df67524a27d69415d4ed.jpg?name=Protest%20Photo%20from%20DWSOC%20enews.jpg"
+          },
+          "status": "CONFIRMED",
+          "tags": [
+            {
+              "__typename": "Tag",
+              "id": "2",
+              "slug": "protest",
+              "title": "Protest"
+            }
+          ],
+          "title": "STOP THE ILLEGAL DEPORTATIONS",
+          "uuid": "f02c35ef-5697-46f5-8d38-f3fe340a713c"
         },
         {
           "__typename": "Event",
@@ -12145,6 +12484,64 @@
           "tags": [],
           "title": "Stand Up DALLAS 50501",
           "uuid": "e3efce67-e9d0-40b0-a2da-403e3e6b6516"
+        },
+        {
+          "__typename": "Event",
+          "attributedTo": null,
+          "beginsOn": "2025-04-19T20:00:00Z",
+          "endsOn": "2025-04-19T22:30:00Z",
+          "id": "2353",
+          "options": {
+            "__typename": "EventOptions",
+            "anonymousParticipation": true,
+            "attendees": [],
+            "commentModeration": "ALLOW_ALL",
+            "hideNumberOfParticipants": true,
+            "hideOrganizerWhenGroupEvent": false,
+            "isOnline": false,
+            "maximumAttendeeCapacity": 0,
+            "offers": [],
+            "participationConditions": null,
+            "program": null,
+            "remainingAttendeeCapacity": 0,
+            "showEndTime": false,
+            "showParticipationPrice": false,
+            "showRemainingAttendeeCapacity": false,
+            "showStartTime": true,
+            "timezone": null
+          },
+          "organizerActor": {
+            "__typename": "Person",
+            "avatar": null,
+            "domain": null,
+            "id": "99133",
+            "name": "GutierrezMD",
+            "preferredUsername": "gutierrezmd",
+            "summary": "Fired up. Ready to go.",
+            "type": "PERSON",
+            "url": "https://events.pol-rev.com/@gutierrezmd"
+          },
+          "physicalAddress": {
+            "__typename": "Address",
+            "country": "United States",
+            "description": "Denali Park Road, Denali Borough, AK, United States of America",
+            "geom": "-148.9190969;63.7329838",
+            "id": "2199",
+            "locality": "Denali Borough",
+            "originId": "opencage:63.7329838,-148.9190969",
+            "pictureInfo": null,
+            "postalCode": null,
+            "region": "Alaska",
+            "street": "Denali Park Road",
+            "timezone": null,
+            "type": "parking",
+            "url": "https://events.pol-rev.com/address/9d37d4ea-d090-4f9e-a195-9134c5750972"
+          },
+          "picture": null,
+          "status": "CONFIRMED",
+          "tags": [],
+          "title": "Paws Off Denali",
+          "uuid": "f68bd076-1f2f-48c3-9bb8-5d1a31ed90d3"
         },
         {
           "__typename": "Event",
@@ -20668,68 +21065,6 @@
           "__typename": "Event",
           "attributedTo": null,
           "beginsOn": "2025-04-19T19:00:00Z",
-          "endsOn": "2025-04-19T21:00:00Z",
-          "id": "2327",
-          "options": {
-            "__typename": "EventOptions",
-            "anonymousParticipation": true,
-            "attendees": [],
-            "commentModeration": "ALLOW_ALL",
-            "hideNumberOfParticipants": true,
-            "hideOrganizerWhenGroupEvent": false,
-            "isOnline": false,
-            "maximumAttendeeCapacity": 0,
-            "offers": [],
-            "participationConditions": null,
-            "program": null,
-            "remainingAttendeeCapacity": 0,
-            "showEndTime": true,
-            "showParticipationPrice": false,
-            "showRemainingAttendeeCapacity": false,
-            "showStartTime": true,
-            "timezone": null
-          },
-          "organizerActor": {
-            "__typename": "Person",
-            "avatar": null,
-            "domain": null,
-            "id": "96083",
-            "name": "tata",
-            "preferredUsername": "tata_r",
-            "summary": "Trying to stay sane and support freedom of speech.",
-            "type": "PERSON",
-            "url": "https://events.pol-rev.com/@tata_r"
-          },
-          "physicalAddress": {
-            "__typename": "Address",
-            "country": "United States of America",
-            "description": "Monterey, California, United States of America",
-            "geom": "-121.89468;36.60024",
-            "id": "2170",
-            "locality": "Monterey",
-            "originId": null,
-            "pictureInfo": null,
-            "postalCode": "93940",
-            "region": "California",
-            "street": "Del Monte Ave and Camino El Estero",
-            "timezone": null,
-            "type": "city",
-            "url": "https://events.pol-rev.com/address/db807b87-ec09-476c-97e4-458400d941df"
-          },
-          "picture": {
-            "__typename": "Media",
-            "id": "2035",
-            "url": "https://events.pol-rev.com/media/91c55a00441838ea840c5ea68903f258bb52577a25d87d503405e31bf40434b0.png?name=usa-flag.png"
-          },
-          "status": "CONFIRMED",
-          "tags": [],
-          "title": "HANDS OFF OUR FREEDOMS, Windows on the Bay, Monterey Saturday April 19th, 12-2:00pm",
-          "uuid": "61714c31-da3d-4b87-ad3a-acc6b3e71d86"
-        },
-        {
-          "__typename": "Event",
-          "attributedTo": null,
-          "beginsOn": "2025-04-19T19:00:00Z",
           "endsOn": "2025-04-19T20:00:00Z",
           "id": "2337",
           "options": {
@@ -26948,11 +27283,7 @@
             "type": "building",
             "url": "https://events.pol-rev.com/address/481e84a4-464c-4940-bdfd-edcd5ae49d82"
           },
-          "picture": {
-            "__typename": "Media",
-            "id": "1970",
-            "url": "https://events.pol-rev.com/media/c2aef49799177a8e53a84a9a1952a2d95a0ed9e390b87b2fc9b0b1ae6e26413e.jpg?name=IMG_0703.jpg"
-          },
+          "picture": null,
           "status": "CONFIRMED",
           "tags": [],
           "title": "Rain or Shine “PicnicRave” #50501 subparty",
@@ -39838,161 +40169,6 @@
         {
           "__typename": "Event",
           "attributedTo": null,
-          "beginsOn": "2025-04-19T17:00:00Z",
-          "endsOn": "2025-04-19T18:00:00Z",
-          "id": "2341",
-          "options": {
-            "__typename": "EventOptions",
-            "anonymousParticipation": false,
-            "attendees": [],
-            "commentModeration": "ALLOW_ALL",
-            "hideNumberOfParticipants": true,
-            "hideOrganizerWhenGroupEvent": false,
-            "isOnline": false,
-            "maximumAttendeeCapacity": 0,
-            "offers": [],
-            "participationConditions": null,
-            "program": null,
-            "remainingAttendeeCapacity": 0,
-            "showEndTime": false,
-            "showParticipationPrice": false,
-            "showRemainingAttendeeCapacity": false,
-            "showStartTime": true,
-            "timezone": null
-          },
-          "organizerActor": {
-            "__typename": "Person",
-            "avatar": null,
-            "domain": null,
-            "id": "94603",
-            "name": "Mary",
-            "preferredUsername": "marydemocracy",
-            "summary": "Concerned about our country and our democracy! Let's unite and take it back. ",
-            "type": "PERSON",
-            "url": "https://events.pol-rev.com/@marydemocracy"
-          },
-          "physicalAddress": {
-            "__typename": "Address",
-            "country": "United States",
-            "description": "Washington, District of Columbia, United States of America",
-            "geom": "-77.03750610351564;38.88508479318497",
-            "id": "2184",
-            "locality": "Washington",
-            "originId": "opencage:38.8950368,-77.0365427",
-            "pictureInfo": null,
-            "postalCode": null,
-            "region": "District of Columbia",
-            "street": "15th ST NW and Madison Drive near the Washington Monument",
-            "timezone": null,
-            "type": "city",
-            "url": "https://events.pol-rev.com/address/b92fd92a-c2e7-4d5a-bc5c-a19c02cb4788"
-          },
-          "picture": {
-            "__typename": "Media",
-            "id": "2049",
-            "url": "https://events.pol-rev.com/media/1a5a18a071c098bfdf53e4eb88fb1c79d426b9b170b1e78c5dd041590e658cdb.jpg?name=IMG_7253.jpg"
-          },
-          "status": "CONFIRMED",
-          "tags": [],
-          "title": "April 19th: March on the White House",
-          "uuid": "03313a16-3d39-4875-bbd2-673899ab8102"
-        },
-        {
-          "__typename": "Event",
-          "attributedTo": null,
-          "beginsOn": "2025-04-19T17:00:00Z",
-          "endsOn": "2025-04-19T18:00:00Z",
-          "id": "2342",
-          "options": {
-            "__typename": "EventOptions",
-            "anonymousParticipation": false,
-            "attendees": [],
-            "commentModeration": "ALLOW_ALL",
-            "hideNumberOfParticipants": true,
-            "hideOrganizerWhenGroupEvent": false,
-            "isOnline": false,
-            "maximumAttendeeCapacity": 0,
-            "offers": [],
-            "participationConditions": null,
-            "program": null,
-            "remainingAttendeeCapacity": 0,
-            "showEndTime": false,
-            "showParticipationPrice": false,
-            "showRemainingAttendeeCapacity": false,
-            "showStartTime": true,
-            "timezone": null
-          },
-          "organizerActor": {
-            "__typename": "Person",
-            "avatar": null,
-            "domain": null,
-            "id": "98662",
-            "name": "Michelle54",
-            "preferredUsername": "michelle54",
-            "summary": null,
-            "type": "PERSON",
-            "url": "https://events.pol-rev.com/@michelle54"
-          },
-          "physicalAddress": {
-            "__typename": "Address",
-            "country": "United States",
-            "description": "Washington, District of Columbia, United States of America",
-            "geom": "-77.0365427;38.8950368",
-            "id": "2185",
-            "locality": "Washington",
-            "originId": null,
-            "pictureInfo": null,
-            "postalCode": null,
-            "region": "District of Columbia",
-            "street": null,
-            "timezone": null,
-            "type": "city",
-            "url": "https://events.pol-rev.com/address/bfbee513-e66b-4f33-93f4-6eddd85e2c44"
-          },
-          "picture": {
-            "__typename": "Media",
-            "id": "2050",
-            "url": "https://events.pol-rev.com/media/1a5a18a071c098bfdf53e4eb88fb1c79d426b9b170b1e78c5dd041590e658cdb.jpg?name=IMG_7253.jpg"
-          },
-          "status": "CONFIRMED",
-          "tags": [
-            {
-              "__typename": "Tag",
-              "id": "336",
-              "slug": "washington-dc",
-              "title": "Washington DC"
-            },
-            {
-              "__typename": "Tag",
-              "id": "2",
-              "slug": "protest",
-              "title": "Protest"
-            },
-            {
-              "__typename": "Tag",
-              "id": "3",
-              "slug": "peaceful",
-              "title": "Peaceful"
-            },
-            {
-              "__typename": "Tag",
-              "id": "6",
-              "slug": "in-person",
-              "title": "In person"
-            },
-            {
-              "__typename": "Tag",
-              "id": "10",
-              "slug": "50501",
-              "title": "50501"
-            }
-          ],
-          "title": "March to the White House: The Trump Regime Must Go-Now!",
-          "uuid": "4a24c767-2acf-4f34-95ed-c75f7ea730c0"
-        },
-        {
-          "__typename": "Event",
-          "attributedTo": null,
           "beginsOn": "2025-04-19T16:45:00Z",
           "endsOn": "2025-04-19T18:00:00Z",
           "id": "2054",
@@ -40055,6 +40231,77 @@
           "tags": [],
           "title": "Portsmouth 50501 Protest",
           "uuid": "2b656fbb-52df-4fb6-b057-e56fcae0d749"
+        },
+        {
+          "__typename": "Event",
+          "attributedTo": null,
+          "beginsOn": "2025-04-19T16:43:00Z",
+          "endsOn": "2025-04-19T19:45:00Z",
+          "id": "2349",
+          "options": {
+            "__typename": "EventOptions",
+            "anonymousParticipation": false,
+            "attendees": [],
+            "commentModeration": "CLOSED",
+            "hideNumberOfParticipants": false,
+            "hideOrganizerWhenGroupEvent": false,
+            "isOnline": false,
+            "maximumAttendeeCapacity": 1,
+            "offers": [],
+            "participationConditions": null,
+            "program": null,
+            "remainingAttendeeCapacity": 0,
+            "showEndTime": true,
+            "showParticipationPrice": false,
+            "showRemainingAttendeeCapacity": false,
+            "showStartTime": true,
+            "timezone": null
+          },
+          "organizerActor": {
+            "__typename": "Person",
+            "avatar": null,
+            "domain": null,
+            "id": "98998",
+            "name": "Rockridge seniors for Democracy",
+            "preferredUsername": "rockridge_seniors_for_democracy",
+            "summary": "I have been a political organizer for over 60 years as well as a documentary filmmaker.",
+            "type": "PERSON",
+            "url": "https://events.pol-rev.com/@rockridge_seniors_for_democracy"
+          },
+          "physicalAddress": {
+            "__typename": "Address",
+            "country": "United States",
+            "description": "Merrill Gardens at Rockridge, 5238 Coronado Avenue, Oakland, CA 94618, United States of America",
+            "geom": "-122.252352;37.8352404",
+            "id": "2193",
+            "locality": "Oakland",
+            "originId": "opencage:37.8352404,-122.252352",
+            "pictureInfo": null,
+            "postalCode": "94618",
+            "region": "California",
+            "street": "5238 Coronado Avenue",
+            "timezone": null,
+            "type": "social_facility",
+            "url": "https://events.pol-rev.com/address/1ba96ecc-3922-4799-87de-efb10ce1e3af"
+          },
+          "picture": null,
+          "status": "CONFIRMED",
+          "tags": [
+            {
+              "__typename": "Tag",
+              "id": "321",
+              "slug": "resistance-1",
+              "title": "Resistance"
+            },
+            {
+              "__typename": "Tag",
+              "id": "1127",
+              "slug": "trump-1",
+              "title": "Trump"
+            }
+          ],
+          "title": "RockRidge seniors for Democracy",
+          "uuid": "ffecb23e-250e-49a6-b44d-6bd0352c180f"
         },
         {
           "__typename": "Event",
@@ -74326,295 +74573,9 @@
           ],
           "title": "Remove, Reverse, Reclaim Rally - Sioux City",
           "uuid": "9e9d37f2-7c7d-49c1-b549-e7a753ff7856"
-        },
-        {
-          "__typename": "Event",
-          "attributedTo": null,
-          "beginsOn": "2025-04-05T19:00:00Z",
-          "endsOn": "2025-04-05T21:00:00Z",
-          "id": "1173",
-          "options": {
-            "__typename": "EventOptions",
-            "anonymousParticipation": false,
-            "attendees": [],
-            "commentModeration": "CLOSED",
-            "hideNumberOfParticipants": true,
-            "hideOrganizerWhenGroupEvent": false,
-            "isOnline": false,
-            "maximumAttendeeCapacity": 0,
-            "offers": [],
-            "participationConditions": null,
-            "program": null,
-            "remainingAttendeeCapacity": 0,
-            "showEndTime": true,
-            "showParticipationPrice": false,
-            "showRemainingAttendeeCapacity": false,
-            "showStartTime": true,
-            "timezone": "America/Denver"
-          },
-          "organizerActor": {
-            "__typename": "Person",
-            "avatar": null,
-            "domain": null,
-            "id": "65904",
-            "name": "Mesa County Action Coalition",
-            "preferredUsername": "mesa_county_action_coalition",
-            "summary": "Organization for the cause.",
-            "type": "PERSON",
-            "url": "https://events.pol-rev.com/@mesa_county_action_coalition"
-          },
-          "physicalAddress": {
-            "__typename": "Address",
-            "country": "United States",
-            "description": "310 North 7th Street",
-            "geom": "-108.56092908911587;39.06947621257529",
-            "id": "1012",
-            "locality": "Grand Junction",
-            "originId": null,
-            "pictureInfo": null,
-            "postalCode": "81501",
-            "region": "Colorado",
-            "street": "310 North 7th Street",
-            "timezone": "America/Denver",
-            "type": "house",
-            "url": "https://events.pol-rev.com/address/492d4c10-15a3-4c11-afa4-7720702e9f00"
-          },
-          "picture": {
-            "__typename": "Media",
-            "id": "1011",
-            "url": "https://events.pol-rev.com/media/a86ba920ef0e17bf507f0c94bf5469fa97cde8d18d741f035828f66a31125f59.jpg?name=Attachment-417961-764735481.434628%29.jpg"
-          },
-          "status": "CONFIRMED",
-          "tags": [
-            {
-              "__typename": "Tag",
-              "id": "1188",
-              "slug": "grand-junction",
-              "title": "grand junction"
-            },
-            {
-              "__typename": "Tag",
-              "id": "172",
-              "slug": "colorado",
-              "title": "Colorado"
-            },
-            {
-              "__typename": "Tag",
-              "id": "1120",
-              "slug": "hands-off-4",
-              "title": "Hands off"
-            },
-            {
-              "__typename": "Tag",
-              "id": "199",
-              "slug": "rally-1",
-              "title": "rally"
-            },
-            {
-              "__typename": "Tag",
-              "id": "1189",
-              "slug": "rainorshine",
-              "title": "rainorshine"
-            }
-          ],
-          "title": "Hands Off! Grand Junction Day of Action! ¡No Toquen! Día de acción Grand Junction!",
-          "uuid": "28fea8fa-4b74-4d00-8553-cfd108902f83"
-        },
-        {
-          "__typename": "Event",
-          "attributedTo": null,
-          "beginsOn": "2025-04-05T19:00:00Z",
-          "endsOn": "2025-04-05T21:00:00Z",
-          "id": "1183",
-          "options": {
-            "__typename": "EventOptions",
-            "anonymousParticipation": false,
-            "attendees": [],
-            "commentModeration": "CLOSED",
-            "hideNumberOfParticipants": true,
-            "hideOrganizerWhenGroupEvent": false,
-            "isOnline": false,
-            "maximumAttendeeCapacity": 0,
-            "offers": [],
-            "participationConditions": null,
-            "program": null,
-            "remainingAttendeeCapacity": 0,
-            "showEndTime": true,
-            "showParticipationPrice": false,
-            "showRemainingAttendeeCapacity": false,
-            "showStartTime": true,
-            "timezone": "America/Los_Angeles"
-          },
-          "organizerActor": {
-            "__typename": "Person",
-            "avatar": null,
-            "domain": null,
-            "id": "67275",
-            "name": "Crook County Democrats",
-            "preferredUsername": "crook_county_democrats",
-            "summary": "We support, educate, and advocate for Democrats through local, state, and national elections.",
-            "type": "PERSON",
-            "url": "https://events.pol-rev.com/@crook_county_democrats"
-          },
-          "physicalAddress": {
-            "__typename": "Address",
-            "country": "United States",
-            "description": "Pioneer Park",
-            "geom": "-120.84278962231971;44.3024469",
-            "id": "1021",
-            "locality": "Prineville",
-            "originId": "nominatim:601899179",
-            "pictureInfo": null,
-            "postalCode": null,
-            "region": "Oregon",
-            "street": null,
-            "timezone": "America/Los_Angeles",
-            "type": "locality",
-            "url": "https://events.pol-rev.com/address/c0789dfc-ff10-48ea-821f-514ca7ace5bd"
-          },
-          "picture": {
-            "__typename": "Media",
-            "id": "1023",
-            "url": "https://events.pol-rev.com/media/55a33508ead25965a10eb070920cdf8acac2de33fe7b235e3c0915dd355f1ad6.png?name=CC%20Dems%20transparent%20logo.png"
-          },
-          "status": "CONFIRMED",
-          "tags": [],
-          "title": "Hands Off Protest",
-          "uuid": "ceb16a26-9353-4d9d-af94-ac5e87a6db13"
-        },
-        {
-          "__typename": "Event",
-          "attributedTo": null,
-          "beginsOn": "2025-04-05T19:00:00Z",
-          "endsOn": "2025-04-05T21:00:00Z",
-          "id": "1202",
-          "options": {
-            "__typename": "EventOptions",
-            "anonymousParticipation": false,
-            "attendees": [],
-            "commentModeration": "ALLOW_ALL",
-            "hideNumberOfParticipants": true,
-            "hideOrganizerWhenGroupEvent": false,
-            "isOnline": false,
-            "maximumAttendeeCapacity": 0,
-            "offers": [],
-            "participationConditions": null,
-            "program": null,
-            "remainingAttendeeCapacity": 0,
-            "showEndTime": true,
-            "showParticipationPrice": false,
-            "showRemainingAttendeeCapacity": false,
-            "showStartTime": true,
-            "timezone": "America/Los_Angeles"
-          },
-          "organizerActor": {
-            "__typename": "Person",
-            "avatar": null,
-            "domain": null,
-            "id": "67296",
-            "name": "Indivisible Coos County Oregon",
-            "preferredUsername": "indivisible_coos_county_oregon",
-            "summary": "Community organizing group",
-            "type": "PERSON",
-            "url": "https://events.pol-rev.com/@indivisible_coos_county_oregon"
-          },
-          "physicalAddress": {
-            "__typename": "Address",
-            "country": "United States",
-            "description": "Coos Bay Boardwalk Highway 101 Northbound",
-            "geom": "-124.2119772;43.3672975",
-            "id": "1025",
-            "locality": "Coos Bay",
-            "originId": null,
-            "pictureInfo": null,
-            "postalCode": "97420",
-            "region": "Oregon",
-            "street": "200 South Bayshore Drive",
-            "timezone": "America/Los_Angeles",
-            "type": "house",
-            "url": "https://events.pol-rev.com/address/578b8224-6bee-4e97-a2c6-cef265a7eb3a"
-          },
-          "picture": {
-            "__typename": "Media",
-            "id": "1042",
-            "url": "https://events.pol-rev.com/media/4b949d435698017eb46d2a0313ee50fbfd530b7399e4644df1d81fb65d8f687d.jpg?name=16x9_General_Promo_HandsOff_April_5_Mobilization.jpg"
-          },
-          "status": "CONFIRMED",
-          "tags": [],
-          "title": "Hands Off Protest Demonstration",
-          "uuid": "dcc02e9b-9bb7-4ed1-a03d-cbe3a3a20a54"
-        },
-        {
-          "__typename": "Event",
-          "attributedTo": null,
-          "beginsOn": "2025-04-05T19:00:00Z",
-          "endsOn": "2025-04-05T20:00:00Z",
-          "id": "1217",
-          "options": {
-            "__typename": "EventOptions",
-            "anonymousParticipation": false,
-            "attendees": [],
-            "commentModeration": "CLOSED",
-            "hideNumberOfParticipants": true,
-            "hideOrganizerWhenGroupEvent": false,
-            "isOnline": false,
-            "maximumAttendeeCapacity": 0,
-            "offers": [],
-            "participationConditions": null,
-            "program": null,
-            "remainingAttendeeCapacity": 0,
-            "showEndTime": false,
-            "showParticipationPrice": false,
-            "showRemainingAttendeeCapacity": false,
-            "showStartTime": true,
-            "timezone": null
-          },
-          "organizerActor": {
-            "__typename": "Person",
-            "avatar": null,
-            "domain": null,
-            "id": "68674",
-            "name": "IndivisibleGA10",
-            "preferredUsername": "indivisiblega10",
-            "summary": "We are the Indivisible group located in Georgia's 10th Congressional District.",
-            "type": "PERSON",
-            "url": "https://events.pol-rev.com/@indivisiblega10"
-          },
-          "physicalAddress": {
-            "__typename": "Address",
-            "country": "USA",
-            "description": "Athens City Hall",
-            "geom": null,
-            "id": "1039",
-            "locality": "Athens",
-            "originId": null,
-            "pictureInfo": null,
-            "postalCode": "30601",
-            "region": "Georgia",
-            "street": "301 College Ave.",
-            "timezone": null,
-            "type": null,
-            "url": "https://events.pol-rev.com/address/36c8b9cb-2aa0-456a-877f-5ac6a9d3bfe8"
-          },
-          "picture": {
-            "__typename": "Media",
-            "id": "1060",
-            "url": "https://events.pol-rev.com/media/c47c32e68a968701df34da3751a4f1b8411efd58f257ea0379d28e1e0a4602b7.jpg?name=UPDATED%20Mobilize%20Graphic.jpg"
-          },
-          "status": "CONFIRMED",
-          "tags": [
-            {
-              "__typename": "Tag",
-              "id": "1060",
-              "slug": "hands-off-2",
-              "title": "HANDS OFF"
-            }
-          ],
-          "title": "HANDS OFF! Rally",
-          "uuid": "dc42e58d-def2-46ae-ba13-e07537e9a9ad"
         }
       ],
-      "total": 1219
+      "total": 1223
     }
   }
 }
