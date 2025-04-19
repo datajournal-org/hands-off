@@ -1,3 +1,4 @@
+import { existsSync } from '@std/fs/exists';
 
 const folder = 'web/images';
 
@@ -24,7 +25,7 @@ export class Cache {
 }
 
 function readCache(): Set<string> {
-	if (!Deno.statSync(folder).isDirectory) return new Set();
+	if (!existsSync(folder)) return new Set();
 
 	const files = Array.from(Deno.readDirSync(folder));
 	files.sort((a, b) => a.name.localeCompare(b.name));
