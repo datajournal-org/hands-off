@@ -2,3 +2,4 @@ cache/
 node_modules/
 web/data/data.json
 web/data/sprites*
+web/images
