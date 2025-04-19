@@ -9,6 +9,12 @@ interface WebEntry {
 	region: string;
 	coordinates: [number, number];
 	sprites: string[];
+	sources: WebSource[];
+}
+
+export interface WebSource {
+	url: string;
+	images: string[];
 }
 
 export async function buildWebEntries(userEntries: UserEvents, targetDir: string): Promise<void> {
@@ -20,13 +26,14 @@ export async function buildWebEntries(userEntries: UserEvents, targetDir: string
 
 	const result: WebEntry[] = [];
 	for (const event of Object.values(userEntries)) {
-		const sprites = await getImages(event.sources);
+		const { sprites, sources } = await getImages(event.sources);
 
 		result.push({
 			title: event.title,
 			region: event.region,
-			coordinates: event.coordinates,
+			coordinates: event.coordinates.map(v => Math.round(v * 1e4) / 1e4) as [number, number],
 			sprites,
+			sources
 		})
 	}
 

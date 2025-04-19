@@ -31,9 +31,18 @@
 		const style = VersaTilesStyle.colorful({
 			baseUrl: 'https://tiles.versatiles.org',
 			language: 'en',
+			recolor: {
+				saturate: -0.8,
+				gamma: 0.5,
+			}
 		});
-		style.sprite.push({ id: 's0', url: resolve('./data/sprites') });
+		style.layers.forEach((layer) => {
+			if ((layer.id === 'street-motorway') || (layer.id === 'street-motorway:outline')){
+				layer.paint['line-opacity'] = { stops: [[6, 0], [8, 0.5]] }
+			}
+		});
 		console.log(style);
+		style.sprite.push({ id: 's0', url: resolve('./data/sprites') });
 
 		// Create a map instance
 		const map = new maplibregl.Map({
@@ -48,7 +57,7 @@
 			maxPitch: 0,
 			dragRotate: false,
 			fadeDuration: 100,
-			//hash: true,
+			hash: true,
 			attributionControl: {
 				compact: true,
 				customAttribution: [
@@ -97,6 +106,22 @@
 			});
 			features.sort((a, b) => a.properties.index - b.properties.index);
 
+			map.addSource('us-states', {
+				type: 'geojson',
+				data: 'data/us-states.json',
+			});
+
+			map.addLayer({
+				id: 'us-states',
+				type: 'line',
+				source: 'us-states',
+				paint: {
+					'line-color': '#000',
+					'line-width': 1,
+					'line-opacity': 0.1,
+				}
+			});
+
 			map.addSource('data', {
 				type: 'geojson',
 				data: { type: 'FeatureCollection', features },
@@ -114,7 +139,7 @@
 						['exponential', 2],
 						['zoom'],
 						3, 0.1,
-						7, 1.0
+						8, 1.0
 					],
 					//'icon-allow-overlap': true,
 					'icon-keep-upright': true,
@@ -123,14 +148,8 @@
 						['exponential', 2],
 						['zoom'],
 						3, 0.1 * -iconSize * 0.1,
-						7, 1.0 * -iconSize * 0.1
+						8, 1.0 * -iconSize * 0.1
 					],
-					//'icon-overlap': 'always',
-					//'text-field': ['get', 'title'],
-					//'text-font': ['Arial Unicode MS Regular'],
-					//'text-size': 12,
-					//'text-anchor': 'top',
-					//'text-offset': [0, 0.5],
 				}
 			});
 
