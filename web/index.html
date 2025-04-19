@@ -15,20 +15,42 @@
 
 		h1 {
 			text-align: center;
-			margin-top: 20px;
+			margin-top: 2em;
 		}
 
-		iframe {
-			border: none;
+		p {
+			text-align: center;
+			margin: 1em 0;
+		}
+
+		article {
+			max-width: 1200px;
+			margin: 0 auto;
+			padding: 2em;
+		}
+
+		pre {
+			background-color: #f4f4f4;
+			padding: 1em;
+			font-size: 0.9vw;
+		}
+
+		a {
+			color: inherit !important;
 		}
 	</style>
 
 </head>
 
 <body>
-	<h1>"Hands Off!" protests on April 19</h1>
-	<p>Here is a map with pictures from the protests that took place across the US on April 19, 2025.</p>
-	<iframe src="map.html" style="border:none;width:100%;height:80vh"></iframe>
+	<article>
+		<h1>"Hands Off!" protests</h1>
+		<p>On April 19, many thousands of people protested against Donald Trump across the United States.<br>Here is a map with pictures of these protests:</p>
+		<iframe src="map.html" style="border:none;width:100%;aspect-ratio:16/9;"></iframe>
+		<p>You can help to add more pictures on <a href="https://github.com/datajournal-org/hands-off" target="_blank">GitHub</a>.</p>
+		<p>And you can embed this map in your website with an iframe, e.g:</p>
+		<pre>&lt;iframe src="https://datajournal.org/hands-off/map.html" style="border:none;width:100%;aspect-ratio:16/9;"&gt;&lt;/iframe&gt;</pre>
+	</article>
 </body>
 
 </html>
