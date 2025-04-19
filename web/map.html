@@ -73,7 +73,6 @@
 				layer.paint['line-opacity'] = { stops: [[6, 0], [8, 0.5]] }
 			}
 		});
-		console.log(style);
 		style.sprite.push({ id: 's0', url: resolve('./data/sprites') });
 
 		// Create a map instance
@@ -175,10 +174,7 @@
 
 			map.on('click', 'icons', (e) => {
 				const feature = e.features[0];
-				console.log(feature);
 				const sources = JSON.parse(feature.properties.sources);
-
-				console.log(sources);
 
 				const html = [
 					'<h2>' + feature.properties.region + '</h2>',
