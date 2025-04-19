@@ -1,5 +1,7 @@
 import { date, ignoreIds } from '../../config.ts';
-import { Calendar } from './pol-rev-types.ts';
+import { Calendar, PhysicalAddress } from './pol-rev-types.ts';
+
+const usStates = new Set('Alabama,Alaska,Arizona,Arkansas,California,Colorado,Connecticut,Delaware,Florida,Georgia,Hawaii,Idaho,Illinois,Indiana,Iowa,Kansas,Kentucky,Louisiana,Maine,Maryland,Massachusetts,Michigan,Minnesota,Mississippi,Missouri,Montana,Nebraska,Nevada,New Hampshire,New Jersey,New Mexico,New York,North Carolina,North Dakota,Ohio,Oklahoma,Oregon,Pennsylvania,Rhode Island,South Carolina,South Dakota,Tennessee,Texas,Utah,Vermont,Virginia,Washington,West Virginia,Wisconsin,Wyoming'.split(','));
 
 export interface Event {
 	beginsOn: string;
@@ -38,11 +40,14 @@ export function getPolRevEvents(): Event[] {
 
 		const p = e.physicalAddress!;
 
-		const key = cleanup(p.region!) + '/' + cleanup(p.locality!);
+		const polRevRegion = getRegion(p);
+		const polRevLocality = getLocality(p);
 
-		let address = [p.description, p.street, p.postalCode, p.locality, p.region].filter(Boolean).map(s => s!.trim());
+		const key = cleanup(polRevRegion) + '/' + cleanup(polRevLocality);
+
+		let address = [p.description, p.street, p.postalCode, polRevLocality, polRevRegion].filter(Boolean).map(s => s!.trim());
 		address = address.filter((item, pos) => address.indexOf(item) == pos);
-		const region = `${p.locality}, ${p.region}`;
+		const region = `${polRevLocality}, ${polRevRegion}`;
 		const coordinates = p.geom?.split(';').map(Number);
 		if (!coordinates || coordinates.length !== 2) {
 			throw new Error(`Invalid coordinates: ${p.geom}`);
@@ -77,5 +82,38 @@ export function getPolRevEvents(): Event[] {
 
 function cleanup(text: string): string {
 	return `${text}`.toLowerCase().trim().replace(/[^a-z0-9]+/g, '_');
+}
+
+function getRegion(p: PhysicalAddress): string {
+	if (!p.region) {
+		console.log(p);
+		throw Error();
+	}
+	if (usStates.has(p.region)) return p.region;
+	switch (p.region.toLowerCase()) {
+		case 'ca': return 'California';
+		case 'co': return 'Colorado';
+		case 'dc': return 'Washington';
+		case 'district of columbia': return 'Washington';
+		case 'fl': return 'Florida';
+		case 'ga': return 'Georgia';
+		case 'il': return 'Illinois';
+		case 'in': return 'Indiana';
+		case 'ma': return 'Massachusetts';
+		case 'md': return 'Maryland';
+		case 'ny': return 'New York';
+		case 'tn': return 'Tennessee';
+		case 'tx': return 'Texas';
+		case 'va': return 'Virginia';
+		case 'wa': return 'Washington';
+	}
+	console.log(p);
+	throw Error();
+}
+
+function getLocality(p: PhysicalAddress): string {
+	if (p.locality) return p.locality;
+	console.log(p);
+	throw Error();
 }
 

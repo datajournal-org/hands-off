@@ -1,9 +1,18 @@
 import { date } from '../../config.ts';
-import * as yaml from 'jsr:@std/yaml';
+import * as yaml from '@std/yaml';
 
 export function loadUserEvents() {
 	const data = yaml.parse(Deno.readTextFileSync(`data/${date}.yaml`));
 	if (!isUserEvents(data)) throw new TypeError('Invalid user events');
+
+	Object.values(data).forEach((event) => {
+		event.sources = event.sources.filter((source) => {
+			if (source.url.length < 5) return false;
+			source.photos = source.photos.filter((s) => s.length > 5);
+			return source.photos.length > 0;
+		})
+	});
+
 	return data;
 }
 
@@ -18,14 +27,23 @@ export function saveUserEvents(events: UserEvents) {
 }
 
 export function getUserEventAsYaml(key: string, event: UserEvent): string {
+	const clone = { ...event };
+
+	if (clone.sources.length === 0) {
+		clone.sources = [{
+			url: '... # source url, like a news article or a post on social media',
+			photos: ['... # url of a jpeg, webp or png image', '... # select only good photos'],
+		}];
+	}
+
 	return [
 		`${key}:`,
-		`  title: ${JSON.stringify(event.title)}`,
-		`  region: ${JSON.stringify(event.region)}`,
-		`  address: ${JSON.stringify(event.address)}`,
-		`  coordinates: ${JSON.stringify(event.coordinates)}`,
+		`  title: ${JSON.stringify(clone.title)}`,
+		`  region: ${JSON.stringify(clone.region)}`,
+		`  address: ${JSON.stringify(clone.address)}`,
+		`  coordinates: ${JSON.stringify(clone.coordinates)}`,
 		`  sources:`,
-		...event.sources.flatMap((source) => [
+		...clone.sources.flatMap((source) => [
 			`    - url: ${source.url}`,
 			`      photos:`,
 			...source.photos.map((photo) => `        - ${photo}`),
@@ -33,6 +51,10 @@ export function getUserEventAsYaml(key: string, event: UserEvent): string {
 		'',
 	].join('\n');
 }
+
+
+
+
 
 export type UserEvents = Record<string, UserEvent>;
 

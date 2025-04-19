@@ -1,5 +1,5 @@
 import { getPolRevEvents } from './lib/pol-rev-events.ts';
-import { getUserEventAsYaml, loadUserEvents, UserEvents } from "./lib/user-events.ts";
+import { loadUserEvents, saveUserEvents, UserEvents } from './lib/user-events.ts';
 
 Deno.chdir(new URL('..', import.meta.url));
 
@@ -16,17 +16,20 @@ for (const polEvent of polEvents) {
 	const usrEvent = usrEvents[polEvent.key];
 	if (!usrEvent) {
 		console.error(`Missing user event for ${polEvent.key}`);
-		console.log(getUserEventAsYaml(polEvent.key, {
+		usrEvents[polEvent.key] = {
 			address: polEvent.address,
 			coordinates: polEvent.coordinates,
 			region: polEvent.region,
 			title: polEvent.title,
-			sources: [
-				{
-					url: '... # source url, like a news article or a post on social media',
-					photos: ['... # url of a jpeg, webp or png image', '... # select only good photos'],
-				},
-			],
-		}));
+			sources: [],
+		};
 	}
 }
+
+for (const [key] of Object.entries(usrEvents)) {
+	if (!polEvents.some((polEvent) => polEvent.key === key)) {
+		console.warn(`Unknown event for ${key}`);
+	}
+}
+
+saveUserEvents(usrEvents);

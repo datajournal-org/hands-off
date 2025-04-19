@@ -229,17 +229,6 @@ arkansas/little_rock:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
-ca/woodland_hills:
-  title: "HANDS OFF!/TESLA TAKEDOWN"
-  region: "Woodland Hills, CA"
-  address: ["Topanga Canyon Blvd, Woodland Hills, CA, United States of America","6600 Topanga Canyon Blvd., Woodland Hills, CA","91367","Woodland Hills","CA"]
-  coordinates: [-118.605811,34.18696]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
-      photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
 california/aliso_viejo:
   title: "Tesla Takedown / Stop the Cuts"
   region: "Aliso Viejo, California"
@@ -790,6 +779,17 @@ california/visalia:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+california/woodland_hills:
+  title: "HANDS OFF!/TESLA TAKEDOWN"
+  region: "Woodland Hills, California"
+  address: ["Topanga Canyon Blvd, Woodland Hills, CA, United States of America","6600 Topanga Canyon Blvd., Woodland Hills, CA","91367","Woodland Hills","California"]
+  coordinates: [-118.605811,34.18696]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
 california/yorba_linda:
   title: "4/19: Save Our Constitutional Rights!"
   region: "Yorba Linda, California"
@@ -806,17 +806,6 @@ california/yuba_city:
   region: "Yuba City, California"
   address: ["Panera Bread, 1275 Colusa Avenue, Yuba City, CA 95991, United States of America","1275 Colusa Avenue","95991","Yuba City","California"]
   coordinates: [-121.6337393,39.1423695]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
-      photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
-co/longmont:
-  title: "No Kings! We Won't Go Back! Longmont Honors the American Revolution."
-  region: "Longmont, CO"
-  address: ["Longmont Leads With Love Vigil","6th and Main","80501","Longmont","CO"]
-  coordinates: [-105.1029396057129,40.168762857797134]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
@@ -911,6 +900,17 @@ colorado/lone_tree:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+colorado/longmont:
+  title: "No Kings! We Won't Go Back! Longmont Honors the American Revolution."
+  region: "Longmont, Colorado"
+  address: ["Longmont Leads With Love Vigil","6th and Main","80501","Longmont","Colorado"]
+  coordinates: [-105.1029396057129,40.168762857797134]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
 colorado/paonia:
   title: "Community Action"
   region: "Paonia, Colorado"
@@ -993,17 +993,6 @@ connecticut/willimantic:
   region: "Willimantic, Connecticut"
   address: ["Windham Town Hall, 979 Main Street, Windham, Willimantic, CT 06226, United States of America","979 Main Street","06226","Willimantic","Connecticut"]
   coordinates: [-72.2177017,41.7134567]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
-      photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
-district_of_columbia/washington:
-  title: "March to the White House: The Trump Regime Must Go-Now!"
-  region: "Washington, District of Columbia"
-  address: ["Washington, District of Columbia, United States of America","Washington","District of Columbia"]
-  coordinates: [-77.0365427,38.8950368]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
@@ -1417,17 +1406,6 @@ idaho/twin_falls:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
-il/buffalo_grove:
-  title: "50501 - Buffalo Grove, Illinois"
-  region: "Buffalo Grove, IL"
-  address: ["Chase Plaza Parking Lot","1180 W Lake Cook Road","60089","Buffalo Grove","IL"]
-  coordinates: [-87.9840087890625,42.15395506256018]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
-      photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
 illinois/arlington_heights:
   title: "Hands Off! Arlington Heights"
   region: "Arlington Heights, Illinois"
@@ -1444,6 +1422,17 @@ illinois/bloomington:
   region: "Bloomington, Illinois"
   address: ["Bloomington Center for the Performing Arts, 600 North East Street, Bloomington, IL 61701, United States of America","600 North East Street","61701","Bloomington","Illinois"]
   coordinates: [-88.9928214,40.4840901]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+illinois/buffalo_grove:
+  title: "50501 - Buffalo Grove, Illinois"
+  region: "Buffalo Grove, Illinois"
+  address: ["Chase Plaza Parking Lot","1180 W Lake Cook Road","60089","Buffalo Grove","Illinois"]
+  coordinates: [-87.9840087890625,42.15395506256018]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
@@ -1582,17 +1571,6 @@ illinois/urbana:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
-in/nashville:
-  title: "Brown County Indiana NO KINGS!"
-  region: "Nashville, IN"
-  address: ["Brown County Indiana Courthouse","20 E. Main Street","47448","Nashville","IN"]
-  coordinates: [0.02729415893554688,-0.007366687039101438]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
-      photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
 indiana/anderson:
   title: "DAY OF ACTION MARCH AND FOOD DRIVE"
   region: "Anderson, Indiana"
@@ -1675,6 +1653,17 @@ indiana/muncie:
   region: "Muncie, Indiana"
   address: ["Muncie City Hall, North High Street, Muncie, IN 47305, United States of America","North High Street","47305","Muncie","Indiana"]
   coordinates: [-85.3870251,40.1956321]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+indiana/nashville:
+  title: "Brown County Indiana NO KINGS!"
+  region: "Nashville, Indiana"
+  address: ["Brown County Indiana Courthouse","20 E. Main Street","47448","Nashville","Indiana"]
+  coordinates: [0.02729415893554688,-0.007366687039101438]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
@@ -1818,17 +1807,6 @@ louisiana/new_orleans:
   region: "New Orleans, Louisiana"
   address: ["Jackson Square, 700, New Orleans, LA 70116, United States of America","700","70116","New Orleans","Louisiana"]
   coordinates: [-90.0629499,29.9574673]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
-      photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
-ma/barnstable:
-  title: "No Kings: We Won't Go Back - Hyannis, MA"
-  region: "Barnstable, MA"
-  address: ["Airport Rotary","02601","Barnstable","MA"]
-  coordinates: [-70.2868531,41.6649743]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
@@ -2016,6 +1994,17 @@ massachusetts/attleboro:
   region: "Attleboro, Massachusetts"
   address: ["Charles O. Fiske Square, Downtown, Attleboro, Massachusetts, United States of America","Attleboro","Massachusetts"]
   coordinates: [-71.2843269,41.944188]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+massachusetts/barnstable:
+  title: "No Kings: We Won't Go Back - Hyannis, MA"
+  region: "Barnstable, Massachusetts"
+  address: ["Airport Rotary","02601","Barnstable","Massachusetts"]
+  coordinates: [-70.2868531,41.6649743]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
@@ -2737,6 +2726,17 @@ new_york/manhasset:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+new_york/massena:
+  title: "50501: Mobilization Day, No Kings, Protest in Massena, NY"
+  region: "Massena, New York"
+  address: ["Intersection of Main St and NY 37","300 Main St","13662","Massena","New York"]
+  coordinates: [-74.89021539688112,44.922170040941964]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
 new_york/merrick:
   title: "Stop the Chaos Rally at Merrick Train Station"
   region: "Merrick, New York"
@@ -2764,6 +2764,17 @@ new_york/owego:
   region: "Owego, New York"
   address: ["Owego, New York, United States of America","Owego","New York"]
   coordinates: [-76.2622669,42.1034528]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+new_york/potsdam:
+  title: "50501: Mobilization Day, No Kings, 250th Anniversary of the American Revolution"
+  region: "Potsdam, New York"
+  address: ["Main St. Near Ives Park","Main St.","13676","Potsdam","New York"]
+  coordinates: [-74.98576641082765,44.668507898696355]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
@@ -2951,28 +2962,6 @@ north_carolina/winston_salem:
   region: "Winston-Salem, North Carolina"
   address: ["Forsyth County Courthouse, 175 North Chestnut Street, Winston-Salem, NC 27101, United States of America","175 North Chestnut Street","27101","Winston-Salem","North Carolina"]
   coordinates: [-80.24108,36.0962708]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
-      photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
-ny/massena:
-  title: "50501: Mobilization Day, No Kings, Protest in Massena, NY"
-  region: "Massena, NY"
-  address: ["Intersection of Main St and NY 37","300 Main St","13662","Massena","NY"]
-  coordinates: [-74.89021539688112,44.922170040941964]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
-      photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
-ny/potsdam:
-  title: "50501: Mobilization Day, No Kings, 250th Anniversary of the American Revolution"
-  region: "Potsdam, NY"
-  address: ["Main St. Near Ives Park","Main St.","13676","Potsdam","NY"]
-  coordinates: [-74.98576641082765,44.668507898696355]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
@@ -3903,6 +3892,17 @@ tennessee/memphis:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+tennessee/tullahoma:
+  title: "*** CANCELLED *** (Defend Democracy Rally - 50501 Protest in Coffee County, TN!)"
+  region: "Tullahoma, Tennessee"
+  address: ["South Jackson Civic Center","404 S Jackson St","37388","Tullahoma","Tennessee"]
+  coordinates: [-86.20834041659657,35.357451615402226]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
 texas/abilene:
   title: "Together Gor Change"
   region: "Abilene, Texas"
@@ -4046,6 +4046,17 @@ texas/mckinney:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+texas/pflugerville:
+  title: "Town Hall with Michael McCaul?????"
+  region: "Pflugerville, Texas"
+  address: ["Three Legged Goat","200 E. Pecan Street","78660","Pflugerville","Texas"]
+  coordinates: [-0.0027426587793266686,0.005380511275959866]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
 texas/san_angelo:
   title: "San Angelo National Day of Action"
   region: "San Angelo, Texas"
@@ -4090,28 +4101,6 @@ texas/waco:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
-tn/tullahoma:
-  title: "*** CANCELLED *** (Defend Democracy Rally - 50501 Protest in Coffee County, TN!)"
-  region: "Tullahoma, TN"
-  address: ["South Jackson Civic Center","404 S Jackson St","37388","Tullahoma","TN"]
-  coordinates: [-86.20834041659657,35.357451615402226]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
-      photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
-tx/pflugerville:
-  title: "Town Hall with Michael McCaul?????"
-  region: "Pflugerville, TX"
-  address: ["Three Legged Goat","200 E. Pecan Street","78660","Pflugerville","TX"]
-  coordinates: [-0.0027426587793266686,0.005380511275959866]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
-      photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
 utah/kanab:
   title: "Potluck & Protest - No Kings! Let Freedom Ring!!"
   region: "Kanab, Utah"
@@ -4139,17 +4128,6 @@ utah/salt_lake_city:
   region: "Salt Lake City, Utah"
   address: ["Utah State Capitol Building, 350 State Street, Salt Lake City, UT 84103, United States of America","350 State Street","84103","Salt Lake City","Utah"]
   coordinates: [-111.8881972,40.7774401]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
-      photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
-va/farmville:
-  title: "Peaceful Protest and March for Justice in Farmville, Virginia"
-  region: "Farmville, VA"
-  address: ["Prince Edward County Courthouse Lawn","Main Street","23901","Farmville","VA"]
-  coordinates: [-78.39284777641298,37.301360085091574]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
@@ -4260,6 +4238,17 @@ virginia/danville:
   region: "Danville, Virginia"
   address: ["Main Street Plaza, Danville, Virginia, United States of America","Danville","Virginia"]
   coordinates: [-79.3896846,36.5885443]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+virginia/farmville:
+  title: "Peaceful Protest and March for Justice in Farmville, Virginia"
+  region: "Farmville, Virginia"
+  address: ["Prince Edward County Courthouse Lawn","Main Street","23901","Farmville","Virginia"]
+  coordinates: [-78.39284777641298,37.301360085091574]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
@@ -4469,6 +4458,17 @@ washington/vashon:
   region: "Vashon, Washington"
   address: ["Sidewalk in front of","17821 Vashon Hwy SW","98070","Vashon","Washington"]
   coordinates: [-122.4607188,47.4450337]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+washington/washington:
+  title: "March to the White House: The Trump Regime Must Go-Now!"
+  region: "Washington, Washington"
+  address: ["Washington, District of Columbia, United States of America","Washington"]
+  coordinates: [-77.0365427,38.8950368]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:
@@ -4716,4 +4716,3 @@ wyoming/sheridan:
       photos:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
-

@@ -1,9 +1,9 @@
 
-import { crypto } from 'jsr:@std/crypto';
+import { crypto } from '@std/crypto';
 import { UserSource } from './user-events.ts';
 import sharp from 'npm:sharp';
-import { WebSource } from "./web-data.ts";
-import { Cache } from "./cache.ts";
+import { WebSource } from './web-data.ts';
+import { Cache } from './cache.ts';
 
 export interface Sprite {
 	filename: string

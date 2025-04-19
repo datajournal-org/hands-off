@@ -1,4 +1,3 @@
-import console from "node:console";
 
 export interface GoogleMapsEntry {
 	id: string;

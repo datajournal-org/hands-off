@@ -1,8 +1,7 @@
 
-export const date = '2025-04-05';
-export const ignoreIds = [729, 782, 854, 886, 888, 898, 920, 1106, 1131, 1178, 1215, 1218, 1307];
+//export const date = '2025-04-05';
+//export const ignoreIds = [729, 782, 854, 886, 888, 898, 920, 1106, 1131, 1178, 1215, 1218, 1307];
 
-/*
 export const date = '2025-04-19';
 export const ignoreIds = [
 	1329,
@@ -49,4 +48,3 @@ export const ignoreIds = [
 	2332,
 	2341
 ];
-*/
