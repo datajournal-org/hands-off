@@ -1,3 +1,4 @@
+.gitignore
 cache/
 node_modules/
 web/data/data.json
