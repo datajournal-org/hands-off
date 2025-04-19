@@ -24,6 +24,8 @@ export class Cache {
 }
 
 function readCache(): Set<string> {
+	if (!Deno.statSync(folder).isDirectory) return new Set();
+
 	const files = Array.from(Deno.readDirSync(folder));
 	files.sort((a, b) => a.name.localeCompare(b.name));
 
