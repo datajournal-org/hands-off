@@ -64,7 +64,7 @@ async function downloadPhoto(key: string, url: string) {
 	cache.add(key);
 	const filename = cache.getFilename(key);
 
-	await sharp(bytes).resize(512, 512).webp({ quality: 90 }).toFile(filename);
+	await sharp(bytes).resize(256, 256).webp({ quality: 90 }).toFile(filename);
 }
 
 function hash(text: string): string {
