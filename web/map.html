@@ -14,18 +14,50 @@
 			padding: 0;
 			width: 100%;
 			height: 100%;
+			font-family: sans-serif;
 		}
 
 		#map {
 			width: 100%;
 			height: 100vh;
 		}
+
+		.maplibregl-popup h2 {
+			margin: 0;
+			font-size: 1.5rem;
+		}
+
+		.maplibregl-popup p {
+			margin: 0;
+		}
+
+		.maplibregl-popup h3 {
+			margin: 1em 0 0;
+		}
+
+		.maplibregl-popup h3 a {
+			color: #000 !important;
+		}
+
+		.imageList {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 0.5rem;
+		}
+
+		.imageList img {
+			margin-top: 0;
+			width: 128px;
+			height: auto;
+			border-radius: 0.5rem;
+			box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+		}
 	</style>
 </head>
 
 <body>
 	<div id="map"></div>
-	<script>
+	<script async>
 		const resolve = (url) => new URL(url, window.location).href;
 
 		const style = VersaTilesStyle.colorful({
@@ -37,7 +69,7 @@
 			}
 		});
 		style.layers.forEach((layer) => {
-			if ((layer.id === 'street-motorway') || (layer.id === 'street-motorway:outline')){
+			if ((layer.id === 'street-motorway') || (layer.id === 'street-motorway:outline')) {
 				layer.paint['line-opacity'] = { stops: [[6, 0], [8, 0.5]] }
 			}
 		});
@@ -50,20 +82,13 @@
 			style,
 			pitch: 0,
 			bearing: 0,
-			bounds: [
-				[-126.601, 25.12],
-				[-65.952, 49.665],
-			],
+			bounds: [[-126.601, 25.12], [-65.952, 49.665]],
 			maxPitch: 0,
 			dragRotate: false,
 			fadeDuration: 100,
-			hash: true,
 			attributionControl: {
 				compact: true,
-				customAttribution: [
-					'<a href="https://datajournal.org" target="_blank">datajournal.org</a>',
-					'<a href="https://versatiles.org" target="_blank">VersaTiles</a>',
-				]
+				customAttribution: ['<a href="https://datajournal.org" target="_blank">datajournal.org</a>, <a href="https://versatiles.org" target="_blank">VersaTiles</a>']
 			},
 		});
 
@@ -88,7 +113,7 @@
 			const request = await fetch('data/data.json');
 			const data = await request.json();
 			const features = data.flatMap((entry, entryIndex) => {
-				const { coordinates, title, region, sprites } = entry;
+				const { coordinates, sprites } = entry;
 				if (sprites.length > 7) throw Error();
 
 				const offsets = offsetLookup[sprites.length]
@@ -98,7 +123,8 @@
 					type: 'Feature',
 					geometry: { type: 'Point', coordinates },
 					properties: {
-						title, region, image: 's0:' + id,
+						...entry,
+						image: 's0:' + id,
 						offset: offsets[spriteIndex],
 						index: entryIndex + spriteIndex * 2000
 					},
@@ -118,7 +144,7 @@
 				paint: {
 					'line-color': '#000',
 					'line-width': 1,
-					'line-opacity': 0.1,
+					'line-opacity': 0.05,
 				}
 			});
 
@@ -134,24 +160,64 @@
 				layout: {
 					'icon-image': ['get', 'image'],
 					'icon-offset': ['get', 'offset'],
-					'icon-size': [
-						'interpolate',
-						['exponential', 2],
-						['zoom'],
+					'icon-size': ['interpolate', ['exponential', 2], ['zoom'],
 						3, 0.1,
 						8, 1.0
 					],
 					//'icon-allow-overlap': true,
 					'icon-keep-upright': true,
-					'icon-padding': [
-						'interpolate',
-						['exponential', 2],
-						['zoom'],
+					'icon-padding': ['interpolate', ['exponential', 2], ['zoom'],
 						3, 0.1 * -iconSize * 0.1,
 						8, 1.0 * -iconSize * 0.1
 					],
 				}
 			});
+
+			map.on('click', 'icons', (e) => {
+				const feature = e.features[0];
+				console.log(feature);
+				const sources = JSON.parse(feature.properties.sources);
+
+				console.log(sources);
+
+				const html = [
+					'<h2>' + feature.properties.region + '</h2>',
+					'<p>' + feature.properties.title + '</p>',
+					...sources.flatMap((source) => {
+						const title = source.url
+							.trim()
+							.replace(/https?:\/\/(www\.)?/, '')
+							.replace(/\/.*/, '');
+						return [
+							'<h3>Pictures from <a href="' + source.url + '" target="_blank">' + title + '</a></h3>',
+							'<p>',
+							'<a href="' + source.url + '" target="_blank" class="imageList">',
+							...source.images.map((hash) =>
+								'<img src="images/' + hash + '.webp" />'
+							),
+							'</a>',
+							'</p>'
+						];
+					}),
+				]
+
+				// Ensure that if the map is zoomed out such that multiple
+				// copies of the feature are visible, the popup appears
+				// over the copy being pointed to.
+				const coordinates = feature.geometry.coordinates.slice();
+				while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+					coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+				}
+
+				new maplibregl.Popup({ maxWidth: '50%' })
+					.setLngLat(coordinates)
+					.setHTML(html.join(''))
+					.addTo(map);
+			});
+
+			const canvas = map.getCanvas();
+			map.on('mouseenter', 'icons', () => { canvas.style.cursor = 'pointer' });
+			map.on('mouseleave', 'icons', () => { canvas.style.cursor = '' });
 
 			function circle(count, r, angle) {
 				const points = [];
