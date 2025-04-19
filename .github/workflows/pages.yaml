@@ -1,6 +1,9 @@
 name: Build Pages
 
 on:
+   push:
+      branches:
+         - main
    workflow_call:
    workflow_dispatch:
 
@@ -20,17 +23,17 @@ jobs:
          - name: Install
            run: deno install --allow-scripts
 
-#         - name: Install Playwright
-#           run: npx playwright install --with-deps
+         #- name: Install Playwright
+         #  run: npx playwright install --with-deps
 
          - name: Build the project
            run: deno task build
 
-#         - name: Test Playwright
-#           run: npx playwright test
+         #- name: Test Playwright
+         #  run: npx playwright test
 
-#         - name: Generate screenshots
-#           run: npm run screenshots
+         #- name: Generate screenshots
+         #  run: npm run screenshots
 
          - name: Upload Artifact
            uses: actions/upload-pages-artifact@v3
