@@ -12,7 +12,8 @@ To add more images, edit the file [data/2025-04-19.yaml](https://github.com/data
 - Each entry is for a single city. If there are multiple protests in a city, we'll only focus on the main protest event.
 - Add the URL of the news article about the protest in that city, and copy & paste URLs of good pictures.
 - Only protests "against Trump", "Hands Off", "50501", etc. from April 19, 2025.
-- Choose only good photos that show crowds.
+- Only news articles without a paywall.
+- Only good photos that show crowds.
 - Each city should have more than three pictures, but the maximum is ten. The map itself can have no more than seven markers per city.
 
 Example:

@@ -1876,10 +1876,16 @@ maine/belfast:
   address: ["34 Commercial Street, Belfast, ME 04915, United States of America","34 Commercial Street","04915","Belfast","Maine"]
   coordinates: [-69.0018858,44.4250741]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/frecklesandfarce.bsky.social/post/3ln6r2c6zo22t
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zstzbm656vr2qga23n6froyc/bafkreigttw2unqcqorbzkautpviwz7aeig7ubmjqypqskbkcjolhvgcg4i@jpeg
+    - url: https://bsky.app/profile/nealharkness.bsky.social/post/3ln6wduudw22f
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:anbrlhpy6xvvwsh6cgs6atyq/bafkreif3dqbnwjvdqsdj5klppc7nhjf2qtrfqeqkarkyvq4r6spn72xwne@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:anbrlhpy6xvvwsh6cgs6atyq/bafkreiatibtrwo7trbckgd7jzchvfh5wgnvewaz5nwc4ylvubtufzzukwy@jpeg
+    - url: https://bsky.app/profile/jenmuppet.bsky.social/post/3ln74rs2fyk24
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b5f4mo3xrrzse2p4i6tispyb/bafkreic3jeuclh7o4jqhgbaepylynyrptvnxwnleswqmbm6xqhoaiatnp4@jpeg
 
 maine/boothbay:
   title: "50501: Rally for Democracy"
@@ -1887,21 +1893,17 @@ maine/boothbay:
   address: ["Boothbay Common","1 Common Drive","04537","Boothbay","Maine"]
   coordinates: [-69.63367078681861,43.8759241]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/clairesommer.bsky.social/post/3ln6mswlidc2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
-
-maine/old_orchard_beach:
-  title: "Earth Day Beach Clean-up"
-  region: "Old Orchard Beach, Maine"
-  address: ["Milliken Street, Old Orchard Beach, ME 04064, United States of America","Milliken Street","04064","Old Orchard Beach","Maine"]
-  coordinates: [-70.3730511,43.5188165]
-  sources:
-    - url: ... # source url, like a news article or a post on social media
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qxafrpbqwnsrl6ynp2eatarx/bafkreigtwn5iw3beiu2n5536yydv5wy3q6zs7sm3xdj47w3epicnvqibsi@jpeg
+    - url: https://bsky.app/profile/crg64.bsky.social/post/3ln6rnassgc27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jefmapyqsw3vsignxddb6irm/bafkreicc7qlsbekb4sxrn57tj4p732cqh7mqxghkkqs3j2h65s7d5zkb7e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jefmapyqsw3vsignxddb6irm/bafkreicyxobinuzwnpzodwdd3cx5re3w3qhzl2cid7i7kt2soabhytatle@jpeg
+    - url: https://bsky.app/profile/snowlional.bsky.social/post/3ln6xrd26wc24
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c2yk3oxoxue2rdnu6olufynl/bafkreihfda63e5xpam6fwygaxrxnmxdyoijiwyytgoaeoin2mxnn7nukk4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c2yk3oxoxue2rdnu6olufynl/bafkreifahsg2mvfgy5py3onddqinquaerhcn3xugbdunnuy6owrbzpd6um@jpeg
 
 maine/portland:
   title: "National Day of Action: Rally Around Our Community"
@@ -1909,10 +1911,13 @@ maine/portland:
   address: ["456 Congress Street, Portland, ME 04101, United States of America","456 Congress Street","04101","Portland","Maine"]
   coordinates: [-70.2599821,43.6566819]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://www.mainepublic.org/politics/2025-04-19/thousands-return-to-portland-as-part-of-another-day-of-rallies-across-maine
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://npr.brightspotcdn.com/dims4/default/2c4e0c6/2147483647/strip/true/crop/5712x3518+0+383/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2F5f%2F4b2a5a1f4e618f5f785787725dbc%2Fportlandrally-muskstop.jpg
+        - https://npr.brightspotcdn.com/dims4/default/50b2eca/2147483647/strip/true/crop/5712x3518+0+383/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb7%2Fb4%2Fb728fae948da814f3a1dd8b8bef5%2Fportlandrally-overhead.jpg
+        - https://npr.brightspotcdn.com/dims4/default/c770783/2147483647/strip/true/crop/5712x3518+0+383/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2Fe2%2F5c5e05c34faca86246221b596bab%2Fportlandrally-introverts.jpg
+        - https://npr.brightspotcdn.com/dims4/default/2895ef8/2147483647/strip/true/crop/5712x3518+0+383/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2F85%2F7162eb6a4871aab4e96ad746aece%2Fportlandrally-noking.jpg
+        - https://npr.brightspotcdn.com/dims4/default/902be87/2147483647/strip/true/crop/4032x2483+0+270/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2F0d%2F7a586aeb490e9037e69f4255ca5e%2Fportlandrally-idealsband.jpg
 
 maryland/aberdeen:
   title: "Hands Off! Aberdeen"
@@ -2030,10 +2035,9 @@ massachusetts/amesbury:
   address: ["Market Square Bakehouse, High Street, Amesbury, MA 01913, United States of America","High Street","01913","Amesbury","Massachusetts"]
   coordinates: [-70.9304359,42.8581261]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/cassirich.bsky.social/post/3ln6utbyv4c27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k32qgpi46hmxi7leaqxvpd2q/bafkreiawhylaa5oylkmyx6e36jl6swlqbaxxkpozz6mvwqq7dgyjzxw5dy@jpeg
 
 massachusetts/attleboro:
   title: "Stand up for Democracy"
@@ -2052,10 +2056,12 @@ massachusetts/barnstable:
   address: ["Airport Rotary","02601","Barnstable","Massachusetts"]
   coordinates: [-70.2868531,41.6649743]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/climbtotheclouds.bsky.social/post/3ln6nxkljac2e
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aso32qbp6vokizbfqblqg5ee/bafkreicg5dcbsza6wuz4egl4gbitvhzgredpg6usfp7zodhafnaudh22se@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aso32qbp6vokizbfqblqg5ee/bafkreiejlwxd3ctlbkaouhpmmrewwkj4wpexmv3jbglgwjhsk3v34fz564@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aso32qbp6vokizbfqblqg5ee/bafkreie43r6dtrfkei4fpcrenky7ffvukrxo2jrnqjrnjpff3x4w2medza@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aso32qbp6vokizbfqblqg5ee/bafkreidboq3ibd5kszjeipk7fgj5hdbrncsdzjen4gqlp2ht6ylymqhrki@jpeg
 
 massachusetts/berkshire_county:
   title: "Stand Up! Stand Out! For Freedom"
@@ -2074,10 +2080,12 @@ massachusetts/billerica:
   address: ["Billerica, Massachusetts, United States of America","Billerica","Massachusetts"]
   coordinates: [-71.268947,42.5584264]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jbabylon.bsky.social/post/3ln73msmruk2k
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7cyqodxmp3vbzseg3kntdjr/bafkreigstxud6oewecvy4qhvazmujta3cgtt4qvmhqpztxov7gi3ote5gi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7cyqodxmp3vbzseg3kntdjr/bafkreiaphwgczctqzuhxfituf6zhu35kp4jz4x7xforexkxyud7lsl2gcy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7cyqodxmp3vbzseg3kntdjr/bafkreibhn6qvisppia7qxhmoatrlat3m4ifivfcdqlcrpazwhmcgsspt2a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7cyqodxmp3vbzseg3kntdjr/bafkreifirwhrxxdu54ra46dpbf6igicwmfd7qx4jkggjl2beiogiqs4kzi@jpeg
 
 massachusetts/bolton:
   title: "Patriots stand up for Democracy!"
@@ -2096,10 +2104,18 @@ massachusetts/brookline:
   address: ["Coolidge Corner, Harvard Street, Brookline, MA 02446, United States of America","Harvard Street","02446","Brookline","Massachusetts"]
   coordinates: [-71.1213029,42.3421622]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/svigneau.bsky.social/post/3ln6knpe5sc22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fkdnvm4fxlpptlllcolyh4gn/bafkreid2waoezmttob4n27yhpdrcaocd4nlgiuqv34tyq3dej72kfntneq@jpeg
+    - url: https://bsky.app/profile/neilrgordon.bsky.social/post/3ln6pioynoc2n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aomoqcsveqdbw6uy4y4qcsxv/bafkreief55fpj3nrw3uebqsn6xmuvt3zaf6aeedle42plcsokvml7q73mi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aomoqcsveqdbw6uy4y4qcsxv/bafkreigttfemqavh3t677cpj7qtdhxmtxmvtihq2araxvb2dutvu4wfgg4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aomoqcsveqdbw6uy4y4qcsxv/bafkreibkp4tjhrivx5xcnkh6l2bltxmre3zoesqb3kzdegpgy4yz7hmm2q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aomoqcsveqdbw6uy4y4qcsxv/bafkreifwk6g32cvau3gcw62uyfoj627picn4kd7ckfl4qg3putwa2fg32u@jpeg
+    - url: https://bsky.app/profile/thebostonlol.bsky.social/post/3ln6txrut4c2y
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:stch4h6ryvyp4pb6w2khu3wz/bafkreigxllvcmsklpih5xj5oklwoiw3d7bm2ywrqu53ial5rciprum3hgu@jpeg
 
 massachusetts/concord:
   title: "Stand for Freedom 250"
@@ -2107,10 +2123,21 @@ massachusetts/concord:
   address: ["70 Liberty Street, Concord, MA 01742, United States of America","70 Liberty Street","01742","Concord","Massachusetts"]
   coordinates: [-71.3543037,42.469287]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/francie-s.bsky.social/post/3ln76677hmk2s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sdqhk55groeugqimxj5ceey5/bafkreido3lgtnkyzknexhqtsi3genp4qpezgptlxibxo7o7rbx4huyc54y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sdqhk55groeugqimxj5ceey5/bafkreigkf7bnnqxhncarcdpl6y5akfw2jb4agarrrdpj5aknco54frzcxq@jpeg
+    - url: https://bsky.app/profile/wesickjon.bsky.social/post/3ln76ptvgus2b
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fqlsrzym5balqdkejglv4nlf/bafkreiabncvd2v4y3igta3brd22mznxftnvcno6w72xrh2duyigna7h4xu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fqlsrzym5balqdkejglv4nlf/bafkreiewftqx64ppybxjt2odvfemm7f2tyaxggvsrrz5hmx3stbueunypy@jpeg
+    - url: https://bsky.app/profile/massdawg.bsky.social/post/3ln76nakxq22j
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwkb5gno3d6cep2sc2h7x4z2/bafkreiflorc62mkyki4j2fjibi2jxaza3pugwpeiol5vjstl32axlvjusy@jpeg
+    - url: https://bsky.app/profile/dadi55.bsky.social/post/3ln76dbbawk2w
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:exam7tfyodmtg5rsvyztcput/bafkreibxcqf54cotvejmbxti7tpkntejynjwdlpciocgliibls4liqxyte@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:exam7tfyodmtg5rsvyztcput/bafkreifi6kpiecc2rqwvgedxhwsj4iemdfivc4v6p4bdo3qczldnwhtcr4@jpeg
 
 massachusetts/fairhaven:
   title: "#resistTrump"
@@ -2118,10 +2145,16 @@ massachusetts/fairhaven:
   address: ["Fairhaven High School, 12 Huttleston Avenue, Fairhaven, MA 02719, United States of America","12 Huttleston Avenue","02719","Fairhaven","Massachusetts"]
   coordinates: [-70.9054202,41.6433617]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/1950son.bsky.social/post/3ln6paidewc2j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jovedda3tmlwiraxekxrnuou/bafkreibfztotzxhzvi4gllacgyloc66epjsvn5mgtfupsqz77lbhr6smcm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jovedda3tmlwiraxekxrnuou/bafkreicnhld6klcyxn6psl3anza2upfopspbzb3uqtyulhxejphlpx7y3e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jovedda3tmlwiraxekxrnuou/bafkreiem3o6nywshvvle2kdo7lxkagqurr7pkonjpwb27dasqximsv7fjm@jpeg
+    - url: https://bsky.app/profile/southshoresam.bsky.social/post/3ln6ojcard227
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:saczf7kdkdiqhjxwvxqwvrao/bafkreigrko7w2r7ord6qtkulnf47xzpmatjrpdjrybprvjxnqlj6tmv4qy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:saczf7kdkdiqhjxwvxqwvrao/bafkreidd2lmu7o6uth3dscwjl337wzor3trnlkbijhaeapy5vm4igvagji@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:saczf7kdkdiqhjxwvxqwvrao/bafkreignnqu3kd24jkcl3wqdvsclsiiqcfu24xwtzdogovqg4clvssxdwa@jpeg
 
 massachusetts/fitchburg:
   title: "No Kings Protest"
@@ -2581,10 +2614,18 @@ new_hampshire/dover:
   address: ["Week's Crossing","238 Indian Brook Drive","03820","Dover","New Hampshire"]
   coordinates: [-70.8878437,43.2226736]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/keeganhorn.bsky.social/post/3ln6lnj6sk22n
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35x4nhvcps34zmqpipzm6lpt/bafkreifomkstnwn7axcodf2ctgwnop5nawao2mvmoxunf5ykmqjkrjjcty@jpeg
+    - url: https://bsky.app/profile/355teamstew.bsky.social/post/3ln6mmohpgk24
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dmfjhr74vdfk6o6cwoja3rzk/bafkreiglscyabonbwg3mnwxsydtxd5troulnhqh3oew3qsb2ytkybuhot4@jpeg
+    - url: https://bsky.app/profile/fireball-xl5.bsky.social/post/3ln6sqdh5jk2b
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldbdedxdyup7fgrjiws2hxce/bafkreibgui72tbsaqhrl6hjecvcjm7n67equrdwmpkagmeo57aogokf3pu@jpeg
+    - url: https://bsky.app/profile/danajn.bsky.social/post/3ln6vouenzs2i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pzay43gngezlipn6i327qz54/bafkreiedvwu55lkqfyqhygazbuki2qp7wqwp3p2tuuaqewzjtyhx2yvg3a@jpeg
 
 new_hampshire/keene:
   title: "Liberty and Justice For All"
@@ -2592,10 +2633,20 @@ new_hampshire/keene:
   address: ["Central Square, Keene, NH 03435, United States of America","Central Square","03435","Keene","New Hampshire"]
   coordinates: [-72.2783375,42.9343066]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://indepthnh.org/2025/04/19/people-from-all-over-new-hampshire-protest-for-no-kings-day/
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://indepthnh.org/wp-content/uploads/2025/04/20250419_125144.jpg
+    - url: https://bsky.app/profile/rosemaryladd.bsky.social/post/3ln6yqpyq622s
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iyeutclzllejxlkxtyag4mkt/bafkreigrw2ybilx5wsapyaugf4vg43mai7jaeuy77qx2vupb2iqktcxnsy@jpeg
+    - url: https://bsky.app/profile/ingahansen.bsky.social/post/3ln6s7a3bpk2s
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wnxqv2gff2fmu7uxritygmo7/bafkreigt2pa2ouaxofquf54kz4cn2tbseapgjmevdex5cgczjyiw7hl3ay@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wnxqv2gff2fmu7uxritygmo7/bafkreia3mndtrsx5b6ewuzohh2ddiaoiortfk43ikqamrpijslp2h7cymm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wnxqv2gff2fmu7uxritygmo7/bafkreihn5a4whkuhlix54dvxxmenalqyzxw5g6v7rghbalwthb2pagf3pa@jpeg
+    - url: https://bsky.app/profile/byrneout44.bsky.social/post/3ln6pwegci22t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yxegpvvhahv5bai3lx7fkon/bafkreihs7pvaelunk25u75o5xe2uz2beqd27v4fn42vwkgmido5nompnfe@jpeg
 
 new_hampshire/kingston:
   title: "NO MORE! (a recurring protest in Kingston, NH): every Saturday (11am–2pm)"
@@ -2614,10 +2665,12 @@ new_hampshire/lebanon:
   address: ["Colburn Park, Lebanon, New Hampshire, United States of America","Lebanon","New Hampshire"]
   coordinates: [-72.2515062,43.6424337]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mamcpeek.bsky.social/post/3ln6vnjkywk2c
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ot3diyahcgmbxmfk7km2yltr/bafkreie5dbmmud6whqmibie5yqgbwxlbvfhmfms2o7yogwpdi54rsslk2e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ot3diyahcgmbxmfk7km2yltr/bafkreidd5lktimeqa2du7ot6nsm2b3nsiz42qydfcv7ltolfrybkjez72y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ot3diyahcgmbxmfk7km2yltr/bafkreia4vef3q5hgz4ifx3o7n6qmsxoxssl4zd4zpzc76zod2fntchfwh4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ot3diyahcgmbxmfk7km2yltr/bafkreie7ljnbdjei3knfddp7qbpnfqcep24yzvcqtjyddxasix7bcdqvfi@jpeg
 
 new_hampshire/peterborough:
   title: "Pro-Democracy TAKE A STAND Peterborough, New Hampshire"
@@ -2636,10 +2689,20 @@ new_hampshire/portsmouth:
   address: ["Market Square, Portsmouth, NH 03802, United States of America","03802","Portsmouth","New Hampshire"]
   coordinates: [-70.757748,43.0769993]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/efrwin.bsky.social/post/3ln745ymyvk22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mh6haebx65czgpgleuealfri/bafkreiayqjhnbdb3r5ql74ktbfmn3lfvudbkk2m7xzs2b4ok7nie7vnnca@jpeg
+    - url: https://bsky.app/profile/lastdanceprod.bsky.social/post/3ln72gyvk422p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ltpsvmnmuzz6iar5rf2fszp/bafkreid26wqrqsq7lkidgjhi4mlxvgmfryfeku4sgnktgfxvfydq5yq4ke@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ltpsvmnmuzz6iar5rf2fszp/bafkreibrcbq3zmjhhcbr5kkqfelzwpl6drfsxai53c3orp3dy7hlx4ak2a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ltpsvmnmuzz6iar5rf2fszp/bafkreibqhun5it5tvo54bcldw6zodlruhke42jhmbkc3evmbzx3jwl4tfu@jpeg
+    - url: https://bsky.app/profile/gr8flk8.bsky.social/post/3ln6wqlxabc2v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g4vixeletdjdz6eiyvujfgd6/bafkreieytanwzxuvuhnzfbj7c5lrduug3rbk6kwn7ct3cf6diuisordime@jpeg
+    - url: https://bsky.app/profile/billwcc.bsky.social/post/3ln6r4zecis2b
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ylskmymgzryicqz526t54srw/bafkreicexasksabv4wllsnuzobb34umoepflnorcy3qu3aa7vcbjbomexq@jpeg
 
 new_jersey/trenton:
   title: "NJ 50501’s RISE UP Rally & Food Drive"
@@ -3726,6 +3789,23 @@ pennsylvania/greensburg:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+pennsylvania/harrisburg:
+  title: "Day of Action"
+  region: "Harrisburg, Pennsylvania"
+  address: [""]
+  coordinates: [-76.8852,40.2639]
+  sources:
+    - url: https://www.pennlive.com/news/2025/04/hundreds-protest-trump-administration-deportations-funding-cuts-at-pennsylvania-capitol.html
+      photos:
+        - https://www.pennlive.com/resizer/v2/QV7CJ5IAGNHE3MN2HSKEZA7LBM.jpg?auth=76ac989546d2ce940a33b833b04df31f52a30149d705207e3449f6d82cee9360&width=1280&quality=90
+        - https://www.pennlive.com/resizer/v2/T6K75G2I75FRLJKGCLDJGYKB6Y.jpg?auth=aa76ab964f9c4795280b81ae8193a42afb89bfd03af450d2c5fdb1cfd3640700&width=1280&quality=90
+        - https://www.pennlive.com/resizer/v2/PWYNZLVHKBGTNFY4W4SA6G2JBQ.jpg?auth=da8b76147b4c8bc857582ef4b4786e9110988c5b4392b02c648b80daa00ddb79&width=1280&quality=90
+        - https://www.pennlive.com/resizer/v2/OSRJDMZDKJHU5E33IRDDRZPT7U.jpg?auth=72e540a32e1001c3e4460e393abf88a726d19a799dfb07a4d2f0f9cf07eb2541&width=1280&quality=90
+        - https://www.pennlive.com/resizer/v2/L25XFXRMOVAUVKAMGJMVUUMAGA.jpg?auth=14d15058a087b330b2cfc31095020f087c94ed19d2bdda3906576b4839c2effb&width=1280&quality=90
+        - https://www.pennlive.com/resizer/v2/GABKKBOYOZEDTELI4XT2JPWFLI.jpg?auth=d389371f3a1a251c2e03401972ce3c1d36d5313d6cdfb08841ad308f6fcb887b&width=1280&quality=90
+        - https://www.pennlive.com/resizer/v2/SEP2FLBCP5CIHHIUMB4NIGTP3I.jpg?auth=e0e3b590bd34d7c8fd3dfeccd16e8460c4bb3fd71d9f5c65d46f30e8a25d0d95&width=1280&quality=90
+        - https://www.pennlive.com/resizer/v2/BQRK43YIJVBJVBZMLKT7MDY7DU.jpg?auth=1797ad0be0935f29474753dd2d4d780178f53a821a5e63c2ade68fbded8b1d60&width=1280&quality=90
+
 pennsylvania/lewisburg:
   title: "Vigil for Peace and Democracy"
   region: "Lewisburg, Pennsylvania"
@@ -3780,6 +3860,22 @@ pennsylvania/norristown:
       photos:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
+
+pennsylvania/philadelphia:
+  title: "No Kings"
+  region: "Philadelphia, Pennsylvania"
+  address: [""]
+  coordinates: [-75.1734,39.9473]
+  sources:
+    - url: https://whyy.org/articles/philadelphia-50501-rally-anti-trump-protest-independence-hall/
+      photos:
+        - https://whyy.org/wp-content/uploads/2025/04/no-kings-5.jpg
+        - https://whyy.org/wp-content/uploads/2025/04/independence_hall_rally7_04192025-1700x825.jpg
+        - https://whyy.org/wp-content/uploads/2025/04/no-kings-20.jpg
+        - https://whyy.org/wp-content/uploads/2025/04/no-kings-3.jpg
+        - https://whyy.org/wp-content/uploads/2025/04/no-kings-4.jpg
+        - https://whyy.org/wp-content/uploads/2025/04/no-kings-2.jpg
+        - https://whyy.org/wp-content/uploads/2025/04/no-kings-1-768x512.jpg
 
 pennsylvania/pittsburgh:
   title: "50501 Pittsburgh Earth Day Rally with Stand up for Science"
@@ -4216,10 +4312,11 @@ vermont/burlington:
   address: ["149 Church Street, Burlington, VT 05401, United States of America","149 Church Street","05401","Burlington","Vermont"]
   coordinates: [-73.2123995,44.4762871]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sgtrick.bsky.social/post/3ln6yq76lhk2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e73hqeabyrnpn7o52czpykyc/bafkreifaxlhkyya4jq3dqstrxvyvnadyqhh7lxzpczyxrj4ajevqdcnlbe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e73hqeabyrnpn7o52czpykyc/bafkreieymtkdwlulouttsnbpjauyxpqltgdksjsffldoyaff7q5uehvr7i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e73hqeabyrnpn7o52czpykyc/bafkreibxv5qd4ewhyqsx5byieclfn6zpx3hsskiqfhikkkypt6ykz5dgse@jpeg
 
 vermont/hetty_green_park:
   title: "50 States National Day of ACTION - Vermont"
@@ -4260,10 +4357,9 @@ vermont/stowe:
   address: ["Steps of Akeley Memorial Bldg 67 Main Street, Stowe, VT 05672, United States of America","67 Main Street","05672","Stowe","Vermont"]
   coordinates: [-72.6860561,44.4654602]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/stevemcl000.bsky.social/post/3ln6r5jyirk24
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lmneodywg7gkmizhxw56aucg/bafkreibrbriangbnt2o43yt2lf7jcdqrcziccvtwzdhnl3z6arrlamawiy@jpeg
 
 vermont/winooski:
   title: "Honk n' Wave + Green Up"
