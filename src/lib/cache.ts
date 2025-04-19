@@ -1,4 +1,4 @@
-import { existsSync } from '@std/fs/exists';
+import { existsSync } from '@std/fs';
 
 const folder = 'web/images';
 
