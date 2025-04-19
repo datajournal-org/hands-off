@@ -23,26 +23,29 @@
 		}
 
 		.maplibregl-popup h2 {
-			margin: 0;
+			margin: 0 0 0.5em;
 			font-size: 1.5rem;
+			text-align: center;
 		}
 
 		.maplibregl-popup p {
 			margin: 0;
 		}
 
-		.maplibregl-popup h3 {
-			margin: 1em 0 0;
-		}
-
-		.maplibregl-popup h3 a {
-			color: #000 !important;
-		}
-
 		.imageList {
 			display: flex;
 			flex-wrap: wrap;
 			gap: 0.5rem;
+			justify-content: center;
+		}
+
+		.imageList a {
+			color: inherit !important;
+			display: inline-block;
+			font-size: 10px;
+			line-height: normal;
+			text-align: center;
+			width: 128px;
 		}
 
 		.imageList img {
@@ -84,7 +87,7 @@
 			bounds: [[-126.601, 25.12], [-65.952, 49.665]],
 			maxPitch: 0,
 			dragRotate: false,
-			fadeDuration: 100,
+			fadeDuration: 300,
 			attributionControl: {
 				compact: true,
 				customAttribution: ['<a href="https://datajournal.org" target="_blank">datajournal.org</a>, <a href="https://versatiles.org" target="_blank">VersaTiles</a>']
@@ -94,10 +97,11 @@
 		// Add navigation controls
 		map.addControl(new maplibregl.NavigationControl(), 'top-right');
 
-		init();
+		map.on('load', () => init());
+
 		async function init() {
 			const iconSize = 32;
-			const r = iconSize / 1;
+			const r = 0.9 * iconSize / 1;
 			const offsetLookup = [
 				[],
 				[[0, 0]],
@@ -108,6 +112,11 @@
 				[[0, 0], ...circle(6, r * 2.3, -7 / 12)],
 				[[0, 0], ...circle(6, r * 2.3, 0)],
 			]
+
+			map.addSource('us-states', {
+				type: 'geojson',
+				data: 'data/us-states.json',
+			});
 
 			const request = await fetch('data/data.json');
 			const data = await request.json();
@@ -125,16 +134,12 @@
 						...entry,
 						image: 's0:' + id,
 						offset: offsets[spriteIndex],
-						index: entryIndex + spriteIndex * 2000
+						index: spriteIndex == 0
 					},
 				}));
 			});
-			features.sort((a, b) => a.properties.index - b.properties.index);
+			//features.sort((a, b) => a.properties.index - b.properties.index);
 
-			map.addSource('us-states', {
-				type: 'geojson',
-				data: 'data/us-states.json',
-			});
 
 			map.addLayer({
 				id: 'us-states',
@@ -156,19 +161,16 @@
 				id: 'icons',
 				type: 'symbol',
 				source: 'data',
+				filter: ['case', ['<', ['zoom'], 9], ['get', 'index'], true],
 				layout: {
 					'icon-image': ['get', 'image'],
-					'icon-offset': ['get', 'offset'],
+					'icon-offset': ['step', ['zoom'], ['literal', [0, 0]], 9, ['get', 'offset']],
 					'icon-size': ['interpolate', ['exponential', 2], ['zoom'],
-						3, 0.1,
-						8, 1.0
+						0, 0.3,
+						9, 1.0
 					],
-					//'icon-allow-overlap': true,
 					'icon-keep-upright': true,
-					'icon-padding': ['interpolate', ['exponential', 2], ['zoom'],
-						3, 0.1 * -iconSize * 0.1,
-						8, 1.0 * -iconSize * 0.1
-					],
+					'icon-allow-overlap': true,
 				}
 			});
 
@@ -178,23 +180,20 @@
 
 				const html = [
 					'<h2>' + feature.properties.region + '</h2>',
-					'<p>' + feature.properties.title + '</p>',
+					'<p class="imageList">',
 					...sources.flatMap((source) => {
 						const title = source.url
 							.trim()
 							.replace(/https?:\/\/(www\.)?/, '')
 							.replace(/\/.*/, '');
-						return [
-							'<h3>Pictures from <a href="' + source.url + '" target="_blank">' + title + '</a></h3>',
-							'<p>',
-							'<a href="' + source.url + '" target="_blank" class="imageList">',
-							...source.images.map((hash) =>
-								'<img src="images/' + hash + '.webp" />'
-							),
+						return source.images.flatMap((hash) => [
+							'<a href="' + source.url + '" target="_blank">',
+							'<img src="images/' + hash + '.webp" />',
+							title,
 							'</a>',
-							'</p>'
-						];
+						]);
 					}),
+					'</p>'
 				]
 
 				// Ensure that if the map is zoomed out such that multiple
@@ -205,7 +204,7 @@
 					coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
 				}
 
-				new maplibregl.Popup({ maxWidth: '50%' })
+				new maplibregl.Popup({ maxWidth: '450px' })
 					.setLngLat(coordinates)
 					.setHTML(html.join(''))
 					.addTo(map);
