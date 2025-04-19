@@ -1865,10 +1865,10 @@ maine/bangor:
   address: ["Margaret Chase Smith Federal Building, 202 Harlow Street, Bangor, ME 04401, United States of America","202 Harlow Street","04401","Bangor","Maine"]
   coordinates: [-68.7738277,44.804618]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://www.bangordailynews.com/2025/04/19/politics/state-politics/people-across-maine-rally-against-trump-again/
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2025/04/IMG_3896.jpg?w=1200&ssl=1
+        - https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2025/04/IMG_3884.jpg?w=1200&ssl=1
 
 maine/belfast:
   title: "4/19 The Shout Heard Up The Coast: Belfast, ME"
