@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<style>
+		html,
+		body {
+			margin: 0;
+			padding: 0;
+			width: 100%;
+			height: 100%;
+			font-family: sans-serif;
+		}
+
+		table {
+			margin: 1em auto;
+			font-size: 12px;
+			border: none;
+			border-collapse: collapse;
+		}
+
+		table td {
+			padding: 0.2em 0.5em;
+			border-top: 1px solid #fff;
+			margin: 5px 0x;
+		}
+	</style>
+</head>
+
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>State</th>
+				<th>Ratio</th>
+				<th>Percent</th>
+			</tr>
+		</thead>
+		<tbody id="table">
+		</tbody>
+	</table>
+	<script async type="module">
+		const resolve = (url) => new URL(url, window.location).href;
+		const request = await fetch('data/data.json');
+		const entries = await request.json();
+		const statesMap = new Map();
+
+		for (const feature of entries) {
+			const parts = feature.region.split(', ');
+			if (parts.length !== 2) console.error('Invalid region format:', feature.region);
+			const state = parts[1];
+			if (!statesMap.has(state)) statesMap.set(state, []);
+			statesMap.get(state).push(feature);
+		}
+
+		const statesList = Array.from(statesMap.entries());
+		statesList.sort((a, b) => a[0].localeCompare(b[0]));
+
+		const html = [];
+		for (const [state, entries] of statesList) {
+			const count = entries.reduce((a, e) => a + ((e.sources.length > 0) ? 1 : 0), 0);
+			const total = entries.length;
+			const percent = Math.round(count / total * 100);
+
+			let color = '#f1666a'; // 0,60,100
+			if (percent > 25) color = '#fbb167'; // 30,60,100
+			if (percent > 50) color = '#fff32a'; // 60,60,100
+			if (percent > 75) color = '#bcd85f'; // 90,60,100
+			if (percent > 95) color = '#55ba56'; // 120,60,100
+
+			html.push(...[
+				`<tr style="background-color:${color}">`,
+				`<td>${state}</td>`,
+				`<td style="text-align:right">${count}/${total}</td>`,
+				`<td style="text-align:right">${percent.toFixed(0)}%</td>`,
+				`</tr>`
+			]);
+		}
+
+		document.getElementById('table').innerHTML = html.join('');
+	</script>
+</body>
+
+</html>
