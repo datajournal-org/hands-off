@@ -1631,10 +1631,26 @@ hawaii/honolulu:
   region: "Honolulu, Hawaii"
   coordinates: [-157.8569903,21.3073335]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jbsurfphotos.bsky.social/post/3lnbaq4tmpc2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v4gwksbbtjztr2sainlmcq4t/bafkreidkrqtwqb2uvhemgiqwufb7lsqeplmvrpe3z5vfqz5z7uyqlqu5my@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v4gwksbbtjztr2sainlmcq4t/bafkreibrcur7btmmq4tqiuc53sbckiwo67zxanjd45k2fp5ioaelsyhq3y@jpeg
+    - url: https://bsky.app/profile/indivisibleoahu.bsky.social/post/3lnaz2ibpss2l
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvpaopnajpwetzavwrm33iwr/bafkreibvqr2tvspxcczwl25ojym5sfjaipfz2obzohji5ftpp5slxhlyg4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvpaopnajpwetzavwrm33iwr/bafkreiebb5efclfl45ywnrz44lyviic3grwwajwgib5y2siwg2eyghtdjq@jpeg
+    - url: https://bsky.app/profile/indivisibleoahu.bsky.social/post/3lnayypipbs2l
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvpaopnajpwetzavwrm33iwr/bafkreifvxqy3awh5h3azh3vndqxhymuzcsuramwqiz27idpaa7ev27k3ka@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvpaopnajpwetzavwrm33iwr/bafkreih5hwzkkz7urbuqzdpwebzm2rmgzfn374633vvbiagr4tu4fabob4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvpaopnajpwetzavwrm33iwr/bafkreifimksrhk7vsb633j67ilyaynbdpb4nfk76hkjdyqow4r2uvqjij4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvpaopnajpwetzavwrm33iwr/bafkreiaw4jqcw5f4padcvecnkmluyhg6nhzxicmfx3ump55axo5nfy7w5q@jpeg
+    - url: https://bsky.app/profile/bexit808.bsky.social/post/3ln7nr2nyrc2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tk4wom7nfscofomktkkupeji/bafkreicaq6mtinmfpudqqi2qriiziu6skemrpgfcolmudprytuo2aewasi@jpeg
+    - url: https://bsky.app/profile/jamielynndee.bsky.social/post/3ln7nqwzn5227
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2jxnnsewxgk4ricery5rvm7o/bafkreidmnznnqmlmdkebe6pat6j7rze2jkt6ybfkvpmwod2vdmhnpmqcaq@jpeg
 
 hawaii/waimanalo:
   region: "Waimanalo, Hawaii"
@@ -1916,7 +1932,7 @@ indiana/muncie:
 
 indiana/nashville:
   region: "Nashville, Indiana"
-  coordinates: [0.02729415893554688,-0.007366687039101438]
+  coordinates: [-86.239258,39.207444]
   sources:
     - url: https://bsky.app/profile/ileftxtoday.bsky.social/post/3ln6qat32622j
       photos:
