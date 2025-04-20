@@ -1556,6 +1556,18 @@ louisiana/new_orleans:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+maine/augusta:
+  region: "Augusta, Maine"
+  coordinates: [-69.779489,44.310624]
+  sources:
+    - url: https://bsky.app/profile/augustacountydems.bsky.social/post/3ln6vitcqoc2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h7fixyzl32rytkz3vbsfikld/bafkreihvnd6j4c6jqqycljwuxblenk2m4rcsnjxazqyf32qdpgnrxdyhya@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h7fixyzl32rytkz3vbsfikld/bafkreifnqzz5swasmlbydrv65pdjdtqewzl3pvtsy55en7i6pqh43hveim@jpeg
+    - url: https://bsky.app/profile/sarahgies.bsky.social/post/3ln764qanrk2r
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yu2plmfrcnhqfaxl4zdfsdu7/bafkreiak7gbtxbyqbxtxqtptl4a45hajfz73vdid45f35wiefwoaoanoxi@jpeg
+
 maine/bangor:
   region: "Bangor, Maine"
   coordinates: [-68.7738277,44.804618]
@@ -2360,10 +2372,18 @@ new_york/city_of_albany:
   region: "City of Albany, New York"
   coordinates: [-73.7601444,42.6529897]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/erock81.bsky.social/post/3ln7ej4q6sk2m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjuigqy4rbke4eu2k3x7kehy/bafkreic3mvjermttxn6vocm5iz5vz7wpg2k6wyi2uuagqut4er65h26ymi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjuigqy4rbke4eu2k3x7kehy/bafkreidbmevjwubskrg5jinmwnnk36gp6meghw3lpvdmzweaua22ycbpb4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjuigqy4rbke4eu2k3x7kehy/bafkreihek5a2cqjiixjovtc4nh3lgsxt267aahwfixlf2jpgwquaqyxa4e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjuigqy4rbke4eu2k3x7kehy/bafkreickkefd5w2b44qn2zjby25cgz2hpaktg34ni2ptumncc2xrhrbcge@jpeg
+    - url: https://bsky.app/profile/jazzel.bsky.social/post/3ln7f53w56c25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zsblrdgpfkhch24gkp5fu5io/bafkreiat5wipjw6ltvv6v4nu5zec2qlccuflnwfgu3kmtmsmej2yi7mxoy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zsblrdgpfkhch24gkp5fu5io/bafkreidg6sh4sbzsoci2tvksltakehkcdvpz2uwu6juqephzv3iivceygq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zsblrdgpfkhch24gkp5fu5io/bafkreienj7re7jfar553equtoa2iky3q5hrwrp36ojqfcws2ywe45cgzrm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zsblrdgpfkhch24gkp5fu5io/bafkreicqhpvqcvn3r2lqepsnzv3fe2zktgjvuinbq4xmqxpge5gvvsfxg4@jpeg
 
 new_york/city_of_ithaca:
   region: "City of Ithaca, New York"
