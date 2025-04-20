@@ -3659,28 +3659,31 @@ oregon/bend:
   region: "Bend, Oregon"
   coordinates: [-121.3222223,44.0584771]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/hlthy1.bsky.social/post/3lna7ksbkos25
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gjfhd7ura3dt5xug6z7gkvsk/bafkreido7tdz6uty526pge5lkf2qzc2c7u2g7m5qe436glivxugmp3l3ya@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gjfhd7ura3dt5xug6z7gkvsk/bafkreiahdbu3nbfjvhpkxojqx4krgrmhmyj2gbg3wixdvu6c5epvdfzryq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gjfhd7ura3dt5xug6z7gkvsk/bafkreihwbuln6vpvz5te2fji6n6b7dccsmnb642mxkaayqa4xccl43qk44@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gjfhd7ura3dt5xug6z7gkvsk/bafkreifkwj35vhhjniselxyq2nxgpyaze3lv3khv6wn72qc6vqjs4xfx2m@jpeg
 
 oregon/gold_beach:
   region: "Gold Beach, Oregon"
   coordinates: [-124.4217418,42.4074459]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sararenedesigns.bsky.social/post/3lnavcztvvc2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pdrybl54ad2pdsjgtguvoqjc/bafkreihsy7eud6b7mevby2tniss5me5mabfu736aa6kynsmmmsp6f2rrre@jpeg
 
 oregon/grants_pass:
   region: "Grants Pass, Oregon"
   coordinates: [-123.32556724548341,42.44144773014839]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/leavingsoon.bsky.social/post/3ln72u5fe2226
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mr5jwtzeg6guv2uiwcdn7qim/bafkreihzz4rtmljqyansuysafme6h6jqtffo5ijnmikpockjen46bb5zpa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mr5jwtzeg6guv2uiwcdn7qim/bafkreie6isawgfeevp3ywv6cvhk4n2frdrefrgmvw73o7rire2aovdmjie@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mr5jwtzeg6guv2uiwcdn7qim/bafkreie37t3yeslg7svci4u6gp4kkhf3inz72tpihoqcocj752rswrfcoa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mr5jwtzeg6guv2uiwcdn7qim/bafkreicwqevli5wblpyxdxabug2rtwf5pi5b74rcojtill6pvgwbvnyzye@jpeg
 
 oregon/happy_valley:
   region: "Happy Valley, Oregon"
@@ -3704,28 +3707,35 @@ oregon/portland:
   region: "Portland, Oregon"
   coordinates: [-122.6792966,45.5189007]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/entropylad.bsky.social/post/3lnawsko67c24
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qpnxhiuwl26sm5gch5plh6m/bafkreid7bqxh65645ucqfu7fjgijjswsp6ypzkuydcddcew4mmizgpjhw4@jpeg
+    - url: https://bsky.app/profile/datguyeddy.bsky.social/post/3lnawo7tk5c2v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypy5u6fbtvcp54opwhtatw6m/bafkreignvdypgk3jfx5mcgrt75j5ntlrbbkfxaymp2tdfd7hdabxarefsm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypy5u6fbtvcp54opwhtatw6m/bafkreibst7rtje5eguhunjxsjvjot7b22q2uxvb5n74hea2o6fkpatj55e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypy5u6fbtvcp54opwhtatw6m/bafkreif6satzwugl4si4sybac2jlgimzveishimiwksmr4avg5atlhhfae@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypy5u6fbtvcp54opwhtatw6m/bafkreig5r546qyxhyaxqihodsudlsuoj3ah57nxr6yrw45wydxee55nt64@jpeg
+    - url: https://bsky.app/profile/bunjenn.bsky.social/post/3lnax2wjx3c2y
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tscveazkagcksmi3jyclfrb2/bafkreiagm2bjrgpb5qej7sakcrv7d4bmfek6hv4tkl2hh3lvjgcklwkbe4@jpeg
 
 oregon/roseburg:
   region: "Roseburg, Oregon"
   coordinates: [-123.3685972,43.2284472]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/hoodriverjen.bsky.social/post/3ln7eh3ezss2l
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ygm6is7r5ifafvj5n55pw5ep/bafkreihlvsearygbpgryv4x7ppkdhlqstghv7a45yurcxh2mndfwxmhye4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ygm6is7r5ifafvj5n55pw5ep/bafkreibtefj5uxo46zkz5fbcl3ig4u7fmhkvd3ivponzsluyw3hipp54q4@jpeg
 
 oregon/sandy:
   region: "Sandy, Oregon"
   coordinates: [-122.2315079,45.3842665]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/perdenberger.bsky.social/post/3lnapcssprs2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qqpk2sw7rzpn55pye2msdgv5/bafkreihtqvagrq6eim4l3o3huw3zgqnybgvdbd5uuwy4hyvib6wd6p2lqm@jpeg
 
 pennsylvania/ambler:
   region: "Ambler, Pennsylvania"
