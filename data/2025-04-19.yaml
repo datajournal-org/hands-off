@@ -2064,6 +2064,14 @@ maine/boothbay:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c2yk3oxoxue2rdnu6olufynl/bafkreihfda63e5xpam6fwygaxrxnmxdyoijiwyytgoaeoin2mxnn7nukk4@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c2yk3oxoxue2rdnu6olufynl/bafkreifahsg2mvfgy5py3onddqinquaerhcn3xugbdunnuy6owrbzpd6um@jpeg
 
+maine/farmington:
+  region: "Farmington, Maine"
+  coordinates: [-70.1314392,44.655098]
+  sources:
+    - url: https://bsky.app/profile/carolmcorkran.bsky.social/post/3ln6pnjqybs2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:serombworror2y4hquehjbz4/bafkreidybdtxnjecgqdwehskj63rann47ol7mft73zkienghfvdnxk3eri@jpeg
+
 maine/portland:
   region: "Portland, Maine"
   coordinates: [-70.2599821,43.6566819]
@@ -2894,14 +2902,29 @@ new_jersey/west_caldwell:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7ew4r22sdmu2uxbs4mrkl45f/bafkreig2fmy4m6nwmvrirelefcgsd63l7qibi57lnkozembb42yac3sn6e@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7ew4r22sdmu2uxbs4mrkl45f/bafkreigagqzwyx5t3w4ae5qkvcv6lsvtzfimyevzzv6xohjixkpysaycfe@jpeg
 
+new_mexico/alamogordo:
+  region: "Alamogordo, New Mexico"
+  coordinates: [-105.961144,32.899726]
+  sources:
+    - url: https://bsky.app/profile/oteronm-democracy.bsky.social/post/3ln7a43dzn222
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:euohkxrxoym2ajr6sgalxsdr/bafkreidrfnggh4lob22gpaqksujjrucd72rc4xdt42csxjnuso5fcxhsgq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:euohkxrxoym2ajr6sgalxsdr/bafkreicfej37xhkpqg7imnm7yxx577lqydx7wrrufsqrmoepjerqlx74au@jpeg
+
 new_mexico/albuquerque:
   region: "Albuquerque, New Mexico"
   coordinates: [-106.6500629,35.0867598]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/glost2188.bsky.social/post/3lnazhqkzh22e
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5bjyyqlahnxg7d4bsvnimfro/bafkreig6vdlbwqscpwhn64evb4jwdh4x7z7cl7aw5qqi4z3perqwpzng6m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5bjyyqlahnxg7d4bsvnimfro/bafkreibvpctxswbctjjdy3ylu6hiyr3wa7b6kkqzof6kp7f2wcs5hypjba@jpeg
+    - url: https://bsky.app/profile/jascah.bsky.social/post/3lnaxzqixvc2f
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ygm7yy23wt3vfbxfedbx4qai/bafkreia63yrt4altzoi6antuq45eti5gygrgypxbuyi25hhjzsvhjiencq@jpeg
+    - url: https://bsky.app/profile/mommadoctor.bsky.social/post/3lnarbhg5kk2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jaok2bvs4u2wm4zwzhhabi7v/bafkreid7c3rg6ibz4gkx3zjjuin7kvaxefpbgw6bclxn56i5enmuqocxqu@jpeg
 
 new_mexico/farmington:
   region: "Farmington, New Mexico"
@@ -2912,14 +2935,57 @@ new_mexico/farmington:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+new_mexico/las_cruces:
+  region: "Las Cruces, New Mexico"
+  coordinates: [-106.785942,32.319333]
+  sources:
+    - url: https://bsky.app/profile/desertjoey.bsky.social/post/3ln7aguueek2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n7ywqoz5xajrfzpbo4ecq6gu/bafkreib2rkw2mudd2uirjs3mjaikjzpxkvbj2skzgao36l2pkbr45tp2bq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n7ywqoz5xajrfzpbo4ecq6gu/bafkreihvt7mnzl4cvz5fa4fxblvfqd5dlc4ubkj2w3boz346jpn6yfj2s4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n7ywqoz5xajrfzpbo4ecq6gu/bafkreihcoajotr7ohxczrsdyljjk55velgrde5b7inj2mgguwvmaqgnr4m@jpeg
+    - url: https://bsky.app/profile/indivisiblelcnm.bsky.social/post/3ln6v7mgydk22
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ba6kj4775z2km2mr4ubxuvox/bafkreihkfia5dgyvmasdqye3tksbufanmomyyrkoei5gb77y4w4cpyrn7i@jpeg
+
+new_mexico/las_vegas:
+  region: "Las Vegas, New Mexico"
+  coordinates: [-105.222314,35.603283]
+  sources:
+    - url: https://bsky.app/profile/carolsmet.bsky.social/post/3ln7hfznejk2d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rupf6l6izucn5w4fbtpui7kj/bafkreidfxpwgxoh5vyny4wa6ipmk6uz4ruz33uscuzs4gkjr3urfsm4lqu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rupf6l6izucn5w4fbtpui7kj/bafkreicrtchqjqcwlv7ep6nmwdhzojyrmjdwox6rumrte3r3mkafnximdm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rupf6l6izucn5w4fbtpui7kj/bafkreibxpo4n3snvf3zgvybgfjcb6pb2j5omqvq67fk4pzginqwzpre7d4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rupf6l6izucn5w4fbtpui7kj/bafkreibmtmfjymgehcmeldekdrz47hexp3un4biwi66sgenuwgk6ztfbwe@jpeg
+
+new_mexico/portales:
+  region: "Portales, New Mexico"
+  coordinates: [-103.3375302,34.185837]
+  sources:
+    - url: https://bsky.app/profile/jumahkw.bsky.social/post/3ln7bs5nmrs2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bzyhoz43vm73qsl7tyyu7pnx/bafkreidl5vwspgibv5glre4yvxjzbr5e5vbs3qdd4mkf64x24jg4ma5pyi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bzyhoz43vm73qsl7tyyu7pnx/bafkreiabxixp4yhc736ipohxxpv36abllbd53s5sntrl4dtgzcpnj7cype@jpeg
+
 new_mexico/santa_fe:
   region: "Santa Fe, New Mexico"
   coordinates: [-105.939634,35.6823019]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/alexs-byline.bsky.social/post/3lna3fuycjk25
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xzcojcwiphikxchwtszh3nag/bafkreiaonuxgzrkowy4cqg5v7xfn6ha63bqvdr5gnvmnbj74nymyarfqoi@jpeg
+    - url: https://bsky.app/profile/heidischulman.bsky.social/post/3lnawda3axs2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:udjk453zmgallwy2attbx4ji/bafkreidh6zs44je3jkuo26hoi4ffnnotfrirp4jystugv6jrga3zh7wlem@jpeg
+    - url: https://bsky.app/profile/strouty.bsky.social/post/3lnagjlyftk25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6el73jhndxuxb5ultgmhy5hk/bafkreif3tla3wnqwyk27qh4vzou2hfj5mtwgfdimrbupfzivnqzzjgmupy@jpeg
+    - url: https://bsky.app/profile/dotherightthing55.bsky.social/post/3lnacwgxlzc2c
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hbsy4anjnucl6r2z25sxtrna/bafkreifcnapw7igqwckoocxt64cnsowuczyf65zffqpzedpjizdrr5fjay@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hbsy4anjnucl6r2z25sxtrna/bafkreidrxnfytvsx2dhtgtjwo243kofeaat4or367eqb4jeyw73mcxnlem@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hbsy4anjnucl6r2z25sxtrna/bafkreid2q77zx3h3ivjiyustnfmgkx7n4ygwf3xfe5gdu7qzhjpztwjkxa@jpeg
 
 new_mexico/truth_or_consequences:
   region: "Truth or Consequences, New Mexico"
