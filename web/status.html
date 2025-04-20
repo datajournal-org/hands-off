@@ -9,13 +9,11 @@
 		body {
 			margin: 0;
 			padding: 0;
-			width: 100%;
-			height: 100%;
 			font-family: sans-serif;
 		}
 
 		table {
-			margin: 1em auto;
+			margin: 3em auto;
 			font-size: 12px;
 			border: none;
 			border-collapse: collapse;
@@ -59,27 +57,36 @@
 		statesList.sort((a, b) => a[0].localeCompare(b[0]));
 
 		const html = [];
+		let sumCount = 0;
+		let sumTotal = 0;
 		for (const [state, entries] of statesList) {
 			const count = entries.reduce((a, e) => a + ((e.sources.length > 0) ? 1 : 0), 0);
-			const total = entries.length;
-			const percent = Math.round(count / total * 100);
+			addEntry(state, count, entries.length);
+			sumCount += count;
+			sumTotal += entries.length;
+		}
 
-			let color = '#f1666a'; // 0,60,100
-			if (percent > 25) color = '#fbb167'; // 30,60,100
-			if (percent > 50) color = '#fff32a'; // 60,60,100
-			if (percent > 75) color = '#bcd85f'; // 90,60,100
-			if (percent > 95) color = '#55ba56'; // 120,60,100
+		addEntry('<b>SUM</b>', sumCount, sumTotal);
 
+		document.getElementById('table').innerHTML = html.join('');
+
+		function addEntry(label, count, total) {
 			html.push(...[
-				`<tr style="background-color:${color}">`,
-				`<td>${state}</td>`,
+				`<tr style="background-color:${percentToColor(count / total)}">`,
+				`<td>${label}</td>`,
 				`<td style="text-align:right">${count}/${total}</td>`,
-				`<td style="text-align:right">${percent.toFixed(0)}%</td>`,
+				`<td style="text-align:right">${Math.round(count / total * 100).toFixed(0)}%</td>`,
 				`</tr>`
 			]);
 		}
 
-		document.getElementById('table').innerHTML = html.join('');
+		function percentToColor(ratio) {
+			if (ratio > 0.95) return '#55ba56'; // 120,60,100
+			if (ratio > 0.75) return '#bcd85f'; // 90,60,100
+			if (ratio > 0.50) return '#fff32a'; // 60,60,100
+			if (ratio > 0.25) return '#fbb167'; // 30,60,100
+			return '#f1666a'; // 0,60,100
+		}
 	</script>
 </body>
 

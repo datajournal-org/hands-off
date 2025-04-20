@@ -25,6 +25,8 @@ export async function buildWebEntries(userEntries: UserEvents, targetDir: string
 
 	const result: WebEntry[] = [];
 	for (const event of Object.values(userEntries)) {
+		if (!event.sources) continue;
+		
 		const { sprites, sources } = await getImages(event.sources);
 
 		result.push({
