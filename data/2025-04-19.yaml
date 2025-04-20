@@ -2627,6 +2627,34 @@ missouri/st_louis:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dtljmd26tirsh2pyzkcaarjs/bafkreidfndjjyveniwdjmn6774pahl2fuihewnljqnwjv4bfvooy3h2olm@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dtljmd26tirsh2pyzkcaarjs/bafkreia2iu3ppc5gebqajz74gotijesqd4m7sbqp644vdhczytefg3iyk4@jpeg
 
+montana/billings:
+  region: "Billings, Montana"
+  coordinates: [-108.500689,45.783285]
+  sources:
+    - url: https://bsky.app/profile/deejay2025.bsky.social/post/3ln72uev5uk2w
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yx43uefxh6exljkw76vswomq/bafkreidqy7vxtoisuf5azxihzkimycitzem7p4xw4bpp3caneendf6vdk4@jpeg
+
+montana/butte:
+  region: "Butte, Montana"
+  coordinates: [-112.534773,45.992073]
+  sources:
+    - url: https://bsky.app/profile/dmahugh.bsky.social/post/3ln6z4yttkk2t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xkgaa7bgy4ab65rbl72ayyau/bafkreih3a2az5q6zzd6n5kbchev7wc4gwwhj5ubjlhpumklwaut4glyrxe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xkgaa7bgy4ab65rbl72ayyau/bafkreifcnvqotgcyi3fp3xg2qdog7n7zusu7v4cdmhxxh5wzcjdimfag6i@jpeg
+
+montana/helena:
+  region: "Helena, Montana"
+  coordinates: [-112.039107,46.589145]
+  sources:
+    - url: https://bsky.app/profile/lbgerlach.bsky.social/post/3ln765ye34c2r
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aanrricaq4y5aeredb56qr7h/bafkreicufusrdfpk3y42kfya2yxixszig23geqxrqgko6apj4xgjmirdue@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aanrricaq4y5aeredb56qr7h/bafkreiek6s3ep53r2grnykr6k5evifoxajunli3bcl3hokgfbcd7evwdry@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aanrricaq4y5aeredb56qr7h/bafkreiaymooguegysx6xitqiinvhfhwyow5lvw644axfpcs5tdqua4rzne@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aanrricaq4y5aeredb56qr7h/bafkreiaegw3aiss4xf6atkiapa63msaeeq5wfqim4flsiv2mf4qejj5bsa@jpeg
+
 nebraska/lincoln:
   region: "Lincoln, Nebraska"
   coordinates: [-96.702658,40.813614]
