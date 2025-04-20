@@ -4000,10 +4000,12 @@ texas/austin:
   region: "Austin, Texas"
   coordinates: [-97.7405171,30.2746911]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/zizij.bsky.social/post/3ln7bczwgsc2s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e5h4tetpmf5qaph6a4b5ni2b/bafkreicneh6a564ek76ocznvrjthelmvu3s3g4qftv4krlwxrnewwsrw5m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e5h4tetpmf5qaph6a4b5ni2b/bafkreibmruhkeh4kpvobqkknyn57eoog6xrrixotuvj6ezdxgmza5ga6t4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e5h4tetpmf5qaph6a4b5ni2b/bafkreicp7f3qnqy4itg72dciqwyc3a3wlun4p7niht7ppmunhh7lmh57py@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e5h4tetpmf5qaph6a4b5ni2b/bafkreigi2rblwfbvkrwbrgvu62czkc2m53wk3fgsmaqy57bvtubpihmi2i@jpeg
 
 texas/bay_city:
   region: "Bay City, Texas"
@@ -4018,37 +4020,58 @@ texas/beaumont:
   region: "Beaumont, Texas"
   coordinates: [-94.1712241,30.093323]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mega1star.bsky.social/post/3ln7gmqk3zc2j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tyeercjnt7wvpzdpngxabmwo/bafkreihbleunvyy3nuemzob4xhyzjiajst6r3y4dvuovkw253zdxttks5i@jpeg
 
 texas/bryan:
   region: "Bryan, Texas"
   coordinates: [-96.3705997,30.6738777]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/drbruceherbert.bsky.social/post/3ln7bsa52rk27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l5dflm2t3emseiamvlpmpl67/bafkreiaatfl226233x6ah6iha62j44soqophzeug26osqajdz3xl3mxgde@jpeg
 
 texas/dallas:
   region: "Dallas, Texas"
   coordinates: [-96.8086601,32.7787291]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/nomadicbelle.bsky.social/post/3ln6wap4ghk2x
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yeiyx5jsfe5wjecu22sx3ku7/bafkreie7ezlwdli2ya6weaqkbhib5lk6fddihr6xiivsxx77ga7kfofgri@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yeiyx5jsfe5wjecu22sx3ku7/bafkreidm4m63oxbvnp5lwvikkvqsqk6lptiyjyeonlfzghm2q22uktukmm@jpeg
+    - url: https://bsky.app/profile/inspiringtimmy.bsky.social/post/3ln7euaegrk2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ibqwicj6ersmvw36yldikozx/bafkreigqk6sf223quhuydgqopu3o7r74eqe3njudfjxta6xltbtcduilwi@jpeg
+
+texas/fort_worth:
+  region: "Fort Worth, Texas"
+  coordinates: [-97.3297,32.751]
+  sources:
+    - url: https://bsky.app/profile/millielou1.bsky.social/post/3ln6xcvradk2h
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:si3cctfh5l5fwain2pjsuazn/bafkreifl72vztsfeg3vnm7tw53t6uzarna3qdgksyvsem26bjblvuctnt4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:si3cctfh5l5fwain2pjsuazn/bafkreigjktsuxyqcw4cirt6gy2qyhqepbnhlz245lshr5ph2naafba7hzi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:si3cctfh5l5fwain2pjsuazn/bafkreiahkgbt63ubtjg6bcn35fjuutcz5gnivitahf7fmwvdr7grupcdoe@jpeg
 
 texas/galveston:
   region: "Galveston, Texas"
   coordinates: [-94.7933396,29.2873861]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/maritimetexas.bsky.social/post/3ln6v2v3vt22u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ncu3yl42lfd5x7oitvjiruyf/bafkreihqeqrkmwkssujx56rqcewxiwytpdotk7oerc5qvg5a2ztwp4yxri@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ncu3yl42lfd5x7oitvjiruyf/bafkreietdouojow6m4m7c552rbmxupplah6aprhjoqg7emanavn5yb6ui4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ncu3yl42lfd5x7oitvjiruyf/bafkreiasrst5q4o3hvsfd5wg72h2pr4yokjxsckapjcmblrqybqdycr2cu@jpeg
+    - url: https://bsky.app/profile/sleepyjeantx.bsky.social/post/3ln7mz2ibjs2m
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qn7sjxqdmva32jjr47s3srl/bafkreianca7tcfdx52kx6dixrzy76ymwh72vmd7harn7fur6vs4umou4wu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qn7sjxqdmva32jjr47s3srl/bafkreidgch6oegoeidmsajdsvtunqg3sv7h76zjronclj7dwqartomkznu@jpeg
+    - url: https://bsky.app/profile/shelia57.bsky.social/post/3ln6ldxoxfc26
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dwvoysd62b2my4wlkhigfle6/bafkreiel7yfdixvcmqdacn3d6tqamxk4mhjlsymwdw6amch73yi25yhpbm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dwvoysd62b2my4wlkhigfle6/bafkreic2u2j7m7zwaqljdzrqru2o7cveqqjjxypzmdixegrnoqhitj4bja@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dwvoysd62b2my4wlkhigfle6/bafkreihyzrlb2pxskecltheuwjve3egcrrqg2a2pdl37y7oecd4w7mdwv4@jpeg
 
 texas/harlingen:
   region: "Harlingen, Texas"
@@ -4063,10 +4086,19 @@ texas/houston:
   region: "Houston, Texas"
   coordinates: [-95.3693747,29.760179]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/annastasia77.bsky.social/post/3ln774cqgvc2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tt4emykmzojq6nlntzfnc6o3/bafkreibh7plwfzkqoa2yfy7o4fda6l57kqbogkqcafflsundnxmebwcqbm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tt4emykmzojq6nlntzfnc6o3/bafkreifepdjckcdtk7noeku65pp67wv4itvw3ei573qvcplwsylnanir2u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tt4emykmzojq6nlntzfnc6o3/bafkreiawwazikcnfdcukujeiecez4y5j7e7hpjm2ay324jaks636afqqge@jpeg
+    - url: https://bsky.app/profile/sgtrick.bsky.social/post/3ln6t5mqubc2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e73hqeabyrnpn7o52czpykyc/bafkreicgmpogpv4iz3ddbwxptobagh74ow5u67kynbtlm2hcspvbkvpfgi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e73hqeabyrnpn7o52czpykyc/bafkreia324xrtxcamnuh5xlx2vaic27bjkmyphf7flemdcwl7b6mbgbeae@jpeg
+    - url: https://bsky.app/profile/vjdadj.bsky.social/post/3ln6x2rwts22z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uydrx2dv2wv5uqltio6w6s2b/bafkreicleco2x7etku7jpky6mgwoyldrgx6pt33ou6oi4mleykse6bsfse@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uydrx2dv2wv5uqltio6w6s2b/bafkreigej6e5n4k7mbfsx7mifwjf5zastll2qcikmpfz74grtwedw3nydi@jpeg
 
 texas/jersey_village:
   region: "Jersey Village, Texas"
@@ -4081,55 +4113,74 @@ texas/kerrville:
   region: "Kerrville, Texas"
   coordinates: [-99.1392117,30.0476161]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/matthammerle.bsky.social/post/3ln7hlf3m3s2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gonxxrqnnnphh7wvuafxat43/bafkreiffzt3d3drdgb2whzhrntkreyiro6hkicq6bdhdbsgk56axint2se@jpeg
+    - url: https://bsky.app/profile/mkdowns.bsky.social/post/3lm3j3mnyhc2w
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ebwfccbd4wcweosfxwoj267c/bafkreibmy3jzc6eb7qh6ddxla7fmbfb5yvfcnomgcjc4ugrr7ey4tuxubq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ebwfccbd4wcweosfxwoj267c/bafkreifiybjeufi34z3v2mmexnbkrgblphabaqe3xbkt4jx42iusky5ley@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ebwfccbd4wcweosfxwoj267c/bafkreigrjd4rybx7dvgidyli6447bbvguxhxao3ipvsiekqzqygjqnhjfy@jpeg
 
 texas/mcallen:
   region: "McAllen, Texas"
   coordinates: [-98.2300605,26.204114]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/lenaygrant.bsky.social/post/3ln6ktnxmg22r
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gz6ucnv53cs467ss4am3kaoz/bafkreibdkwh6j7oc6hqpyurdgqjsffdzhsqlhrre7gwowadbfue3xadrv4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gz6ucnv53cs467ss4am3kaoz/bafkreibap24ongze2dfavqfwl3hbo2wko5npqmmicnaqutvbbuqn67kvgy@jpeg
+    - url: https://bsky.app/profile/splannie.bsky.social/post/3lm3pffynzk25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dq6j7x5r3fvcwzovvued57na/bafkreib2yxqvq6n5i7eepe3avpgiuyrm6gca4dn4unvqxpuz7udpovhdv4@jpeg
 
 texas/mckinney:
   region: "McKinney, Texas"
   coordinates: [-96.6387381,33.2203519]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/baberly.bsky.social/post/3ln6nuu7ptc22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cosnkaucyojc7x5zwh37odph/bafkreibbp2slvsolqweezqkmr34ez532qbikntcevto6okpy6totu3vn4q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cosnkaucyojc7x5zwh37odph/bafkreigw53g76miw5gq45vcsoibcauslvdko6pvsqqfxqm2zfo2epcpfoq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cosnkaucyojc7x5zwh37odph/bafkreigu4uofnsxomqohdp3psixcd2b3kcl7sqhw2gtcnq52mxjm3mznfy@jpeg
 
 texas/pflugerville:
   region: "Pflugerville, Texas"
   coordinates: [-0.0027426587793266686,0.005380511275959866]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/kaysepe.bsky.social/post/3ln6uzyy6sk2d
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cnsjh5k6wm3szevut5loi7oe/bafkreib6nzm24nwv7cn6htnpv2txx2srwmlo2ttiyta2nhcavgqk343gfm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cnsjh5k6wm3szevut5loi7oe/bafkreihd5qqse25v6colxgqptzwttqz6ilcqndpzbkg6khozersay4634m@jpeg
 
 texas/san_angelo:
   region: "San Angelo, Texas"
   coordinates: [-100.4816653,31.4288898]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/eustaciar.bsky.social/post/3ln7duupark2m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iq6tdapnvebxo2lapghu6ipf/bafkreiao55jh5fhvuuyvgtzo35cjdnbr7ueev5gxxvhnue7inn735nprfe@jpeg
 
 texas/san_antonio:
   region: "San Antonio, Texas"
   coordinates: [-98.4935073,29.424571]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/tauzero4.bsky.social/post/3ln6oshr4yc2w
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i4zug7blg3bstmzi5x26e7cb/bafkreicgsxaykfakhrzfvzprseaxlt4rzooufohij3tldd2fwbmuuxt3ta@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i4zug7blg3bstmzi5x26e7cb/bafkreia43n3hnpls5yjpfk4zotgcp42wgtwstu5qyuz6sf6k3qtk5cfusq@jpeg
+    - url: https://bsky.app/profile/janintx.bsky.social/post/3ln6yc4xlzk2f
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xkdu7z6mnnehx52bxm6lkzdj/bafkreicc7kkw7eqgybplkdsnrdfbilbntp3wttfwhpeiflqhzll4sfm53m@jpeg
+    - url: https://bsky.app/profile/sgtrick.bsky.social/post/3ln6taekqbs2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e73hqeabyrnpn7o52czpykyc/bafkreidtln5pzdv7v7hbria4dqzgdzrwbsp5r2ekrnboilpmkhgnq263se@jpeg
+    - url: https://bsky.app/profile/lindsayfightsback.bsky.social/post/3lnan7xxdck2c
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zohzrpv4fr2zibv4n3nhduon/bafkreibe3fj5vz4vek5nrr2t6ajf3fd2wdm6rxbsgp43x5azoufwggcytm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zohzrpv4fr2zibv4n3nhduon/bafkreiaga2tx2xmxarngpskelbpdt4o5rrguhvtw45iqb456recozrpj4a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zohzrpv4fr2zibv4n3nhduon/bafkreie2kz2rgsad2h6qftyopkfn4w3646ieetcrqkub4txwundfhfdanm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zohzrpv4fr2zibv4n3nhduon/bafkreictpsl6525xzkcw7l5pwwxawh4g6gaytwf5uemwenebo373sbcbu4@jpeg
 
 texas/sherman:
   region: "Sherman, Texas"
@@ -4144,10 +4195,15 @@ texas/waco:
   region: "Waco, Texas"
   coordinates: [-97.171134,31.528629]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/h-lane.bsky.social/post/3ln7cy3afoc2i
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vvjv2azowsedzbk3bcwuyayu/bafkreidaz7lm6kybdvh4zzq6fogy5ecypjr6liroinb2wxgrlbgn33dnxi@jpeg
+    - url: https://bsky.app/profile/mary-g-74.bsky.social/post/3ln7dou4jqk2m
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bu4lnwuexmg27xj3pvgyr6rj/bafkreiesvvcz3fp3vuydu4reuedd7naz3qhyvc2pbhucbbdpopqfxrjbmq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bu4lnwuexmg27xj3pvgyr6rj/bafkreigyv4rys4oghezrpjfvjurfhqynbepva4wq4ipa6e4o4wgjmrr6pm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bu4lnwuexmg27xj3pvgyr6rj/bafkreiebvmf5kgspqxtntq2dvsd3nurg4pq6f6d2t3i7x2vlrrune7sn3y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bu4lnwuexmg27xj3pvgyr6rj/bafkreia4czmkguvqhtf2a4wihwkhhvdakbetfakehtnilbv5o5gpzk6plu@jpeg
 
 utah/kanab:
   region: "Kanab, Utah"
