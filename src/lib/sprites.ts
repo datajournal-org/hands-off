@@ -32,7 +32,7 @@ export async function getImages(userSources: UserSource[]): Promise<{ sprites: s
 		}
 	}
 
-	if (sprites.length > 7) sprites.length = 7;
+	if (sprites.length > 6) sprites.length = 6;
 
 	return { sprites, sources };
 }

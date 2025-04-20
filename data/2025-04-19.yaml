@@ -2088,6 +2088,16 @@ kansas/wichita:
       photos:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yxegpvvhahv5bai3lx7fkon/bafkreiedi2nmjdhnx4psxjvg366xxonlvpk2xtfqk5yxbrpuwvh5liz3zi@jpeg
 
+kentucky/hopkinsville:
+  region: "Hopkinsville, Kentucky"
+  coordinates: [-87.4876412,36.859147]
+  sources:
+    - url: https://hoptownchronicle.org/protesters-join-hands-off-rally-in-hopkinsville/
+      photos:
+        - https://hoptownchronicle.org/wp-content/uploads/2025/04/Hands-Off-Edwards.jpg
+        - https://hoptownchronicle.org/wp-content/uploads/2025/04/Hands-Off-Roberts.jpg
+        - https://hoptownchronicle.org/wp-content/uploads/2025/04/Hands-Off-rally-all.jpg
+
 kentucky/lexington:
   region: "Lexington, Kentucky"
   coordinates: [-84.4961164,38.0461942]
@@ -4309,37 +4319,54 @@ tennessee/johnson_city:
   region: "Johnson City, Tennessee"
   coordinates: [-82.3642499,36.307777]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://www.facebook.com/people/Indivisible-TriCities-TN/61574655879407/?sk=photos
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/492411063_122112383990821862_678996454823354190_n.jpg?stp=c256.0.1536.1536a_cp6_dst-jpg_s552x414_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e838&_nc_ohc=2Nm9U0ra0vMQ7kNvwFSURrN&_nc_oc=AdnsrkbCDEagBswsWhF93Mp0w3dQuxBD79RFFMKX7w9yO2NG47Jy9-nAgrg1zmuHk3F3Xjg_WHiU0t_BMThfXAvv&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=tQJ4FbvvHYoUlTgl6SB0zw&oh=00_AfG5pPJtNLoNxo2O2rKPhyNUMU1hplDbPgZ9xNqjmD_58A&oe=680B6A78
+        - https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/491970173_122112384260821862_4606732349944167066_n.jpg?stp=c256.0.1536.1536a_cp6_dst-jpg_s552x414_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e838&_nc_ohc=8kSklkQpFiIQ7kNvwG4gb5G&_nc_oc=AdnbKIn92v3XWjaSH2Q51zVIpAJKWJlN2rVI4PNaYbnoCyLTgew_3JC7feb-IjQN4-bVHADfk0zw22NoajebbwK-&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=tQJ4FbvvHYoUlTgl6SB0zw&oh=00_AfGMGKK-dYa6zIsJ-UzoMSKtveSM08xzSAw1Wm58JeQCvg&oe=680B510F
+        - https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/492005041_122112384650821862_939143080022199750_n.jpg?stp=c150.0.870.870a_cp6_dst-jpg_s552x414_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e838&_nc_ohc=cSM5p9-S0V4Q7kNvwHaC4rn&_nc_oc=Adkjwl8JTWblDtDDQF_ACMlmY3J-j9Na3_ospBsjNveRWDzcJlr57Su5loZIh8UgrZ9garRpql53qAftrH1iSVzj&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Bup7YZPd29fJFSuT8iz8hg&oh=00_AfHTq8QVpYgcLFba4yU2-zSGN4RxfwY9uFVjWPNgbhgEsw&oe=680B6CB7
+        - https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/492417306_122112383942821862_362909739985474759_n.jpg?stp=c256.0.1536.1536a_cp6_dst-jpg_s552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e838&_nc_ohc=ec0gSyQl5xgQ7kNvwEZnply&_nc_oc=AdmLktl9ifIVpK4SKve717cZ4gs_CKnq09ZryWn0Sxkm41FhQIToEQ4SP6L7yNXKvZMBc2PmZBQKJq5I6nBQv0E_&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=tQJ4FbvvHYoUlTgl6SB0zw&oh=00_AfGBe2dvm8UhjcPL5F8NQMesq4jP1R_et8URG-VvObc2kQ&oe=680B6825
+        - https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/491996919_122112383528821862_1630884045741131152_n.jpg?stp=c256.0.1536.1536a_cp6_dst-jpg_s552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e838&_nc_ohc=1SB2Li3cAXgQ7kNvwF3T2YL&_nc_oc=AdmN42YLoKPRblwGokWcHxPfhwoBnORNLvFWD-vjoM6bc_l_gl6TgzG9FUkL-RpcOVsvPoO1qJp6zyxWIBJtv4qF&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=ekRObwhbqGS750ui9YA-ig&oh=00_AfEAccXrtN5HCy7JMXzgj85MjfhJ7qzzmBEAT8DpDy4H2w&oe=680B4C2B
 
 tennessee/kingsport:
   region: "Kingsport, Tennessee"
   coordinates: [-82.5596129,36.547473]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://www.timesnews.net/news/50-50-1-protest-against-trump-administration-resumes-in-kingsport/article_a12d90ff-01dc-4ced-8a45-c23b2bb06064.html
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/e/52/e5256e74-cc43-477a-b41c-4a4976313bec/6804199417917.image.jpg?resize=423%2C500
+        - https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/e/01/e0161602-a105-4984-bfda-80e1f7fb260a/68041998c45e8.image.jpg?resize=326%2C500
+        - https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/9/11/911b143c-9f0c-4dca-a575-8e4291e88090/6804199e79480.image.jpg?resize=1257%2C1000
+        - https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/9/bd/9bd05d18-88da-448a-a32c-4ae1d202f28e/680419a3c85c2.image.jpg?resize=1251%2C1000
+        - https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/d/f1/df16b754-37f9-4ec7-a394-4f7b4ef9d558/680419a6aa269.image.jpg?resize=1056%2C1000
+        - https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/a/e6/ae6b6927-0c3f-40a2-a62c-8773afab666e/680419a894036.image.jpg?resize=336%2C500
 
 tennessee/knoxville:
   region: "Knoxville, Tennessee"
   coordinates: [-83.9245539,35.9644027]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://eu.knoxnews.com/picture-gallery/news/local/2025/04/05/hands-off-protest-knoxville-tennessee-photos/82954889007/
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/05/PKNS/82954785007-kns-20250405-hands-off-demonstration-aa-15.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/05/PKNS/82954800007-kns-20250405-hands-off-demonstration-aa-31.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/05/PKNS/82954796007-kns-20250405-hands-off-demonstration-aa-27.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/05/PKNS/82954799007-kns-20250405-hands-off-demonstration-aa-30.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/05/PKNS/82954797007-kns-20250405-hands-off-demonstration-aa-28.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/05/PKNS/82954791007-kns-20250405-hands-off-demonstration-aa-22.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/05/PKNS/82954790007-kns-20250405-hands-off-demonstration-aa-21.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/05/PKNS/82954786007-kns-20250405-hands-off-demonstration-aa-6.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/05/PKNS/82954795007-kns-20250405-hands-off-demonstration-aa-26.jpg?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/05/PKNS/82954779007-kns-20250405-hands-off-demonstration-aa-18.jpg?width=1184&format=pjpg&auto=webp&quality=50
 
 tennessee/memphis:
   region: "Memphis, Tennessee"
   coordinates: [-89.9448592,35.127626]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/kimela1962.bsky.social/post/3ln7hbbbo2s26
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:26q6s7clvtgclcvn4r3ecwl4/bafkreic76rmsbf5j3j4dyiai7vdwwc4okg35g2dfdkmsqcgsqeikg4gcwe@jpeg
+    - url: https://www.facebook.com/ABC24Memphis/posts/the-protests-come-just-two-weeks-after-similar-nationwide-protests-against-the-t/1261372605460658/
+      photos:
+        - https://external-fra5-1.xx.fbcdn.net/emg1/v/t13/3414169538108204665?url=https%3A%2F%2Fmedia.tegna-media.com%2Fassets%2FCCT%2Fimages%2Fb4160c56-2cb7-4971-8bce-c1a289954639%2F20250419T180206%2Fb4160c56-2cb7-4971-8bce-c1a289954639_1140x641.jpg&fb_obo=1&utld=tegna-media.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=hcaz7o4M_cnXdBovMeBG0g&_nc_oc=AdlMfljyhJDkX30PwLTlGpPtNP3CFIq_-HPVijjZK-JwAh4ynJNujb2U-l5aSvLtfRoqrH6Wf1Tnmc4H7XKotcPx&ccb=13-1&oh=06_Q3-yAR2Cit5YY0EUtlTd44LLG67gdiLZ7bl-xb6qBsGIFalb&oe=68075B60&_nc_sid=c97757
 
 tennessee/tullahoma:
   region: "Tullahoma, Tennessee"
