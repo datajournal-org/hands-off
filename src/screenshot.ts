@@ -5,13 +5,14 @@ const cp = new Deno.Command('deno', { args: ['task', 'dev'] }).spawn();
 
 await wait(1);
 
-const width = 720;
-const height = 405;
+const scale = 5 / 2;
+const width = 1200 / scale;
+const height = 675 / scale;
 
 const browser = await firefox.launch();
 const context = await browser.newContext({
 	colorScheme: 'light',
-	deviceScaleFactor: 2,
+	deviceScaleFactor: scale,
 	locale: 'de-DE',
 	viewport: { width, height },
 });
@@ -22,7 +23,7 @@ console.log('navigating map');
 await page.goto('http://127.0.0.1:8081/map.html');
 await wait(5);
 
-const controls =  page.locator('.maplibregl-control-container');
+const controls = page.locator('.maplibregl-control-container');
 await controls.evaluate(e => e.remove());
 
 await wait(1);
