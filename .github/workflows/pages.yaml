@@ -23,17 +23,14 @@ jobs:
          - name: Install
            run: deno install --allow-scripts
 
-         #- name: Install Playwright
-         #  run: npx playwright install --with-deps
+         - name: Install Playwright
+           run: deno run --allow-all npm:playwright install
 
          - name: Build the project
            run: deno task build
 
-         #- name: Test Playwright
-         #  run: npx playwright test
-
-         #- name: Generate screenshots
-         #  run: npm run screenshots
+         - name: Make Screenshot
+           run: deno task screenshot
 
          - name: Upload Artifact
            uses: actions/upload-pages-artifact@v3
