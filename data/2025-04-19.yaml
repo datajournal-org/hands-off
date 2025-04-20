@@ -160,55 +160,98 @@ arizona/flagstaff:
   region: "Flagstaff, Arizona"
   coordinates: [-111.6515593,35.1990428]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/majhem.bsky.social/post/3ln7wlxkvmk2f
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yyjjj3t7oo3xotplqnseawm5/bafkreigjtpcrormfucj7hztsl3ejicjcozewtds6m5wqnhsz2plkzi2pru@jpeg
+    - url: https://bsky.app/profile/kyratangren.bsky.social/post/3ln7twx5sfk23
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn6z275ylifp22bg7a7k636z/bafkreif555627p36c3ex2sor57y2urqiqheuefxp5szgbyaqj5bmnj7sfy@jpeg
+    - url: https://bsky.app/profile/unkaren.bsky.social/post/3ln7tcyhkxk2d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y5b3ckhvn6nuwsrumifgwfki/bafkreig2tzeje4jaq3ge4lzcz7crw5pdww6hbugb4yuryh45xe65ie7lsm@jpeg
+    - url: https://bsky.app/profile/kyratangren.bsky.social/post/3ln7rxq4hoc23
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn6z275ylifp22bg7a7k636z/bafkreihmtc3u3fkpbpx72fahg35qi5uoki4ogepmfw45jvddhplc4hhhga@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn6z275ylifp22bg7a7k636z/bafkreihsrmlczc7psyan44ydiah6taey6b4zvqbx2ziz74fhstiscyhrbi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn6z275ylifp22bg7a7k636z/bafkreiakclrddyy4xgrwc7i2nyre3uafekybsuhisrmyrbwgth6xgnasu4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn6z275ylifp22bg7a7k636z/bafkreiewckphflolv5xdcubccyx4jwtn4ft65b6dy27f62ndskvc2kfkqm@jpeg
+    - url: https://bsky.app/profile/kyratangren.bsky.social/post/3ln7r74tzhs23
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn6z275ylifp22bg7a7k636z/bafkreihbj3m35asum3vdpv2pnpq7ojefu36uvge2rtnlpi35v5xyk7bqxu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn6z275ylifp22bg7a7k636z/bafkreifqoxcvovj2znkmyfjjtjkznaqb74eblacmcihs3qrr5jfao3exxq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn6z275ylifp22bg7a7k636z/bafkreidrqp4ab6h6cky2r6gaa3ulxgk77pnkvt7zajj3eokrkplalaqq6y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn6z275ylifp22bg7a7k636z/bafkreicwq5qr6qiftbqb3b74masbpxu2tn4wn2jnzkctd6xony4qrngtry@jpeg
 
 arizona/kingman:
   region: "Kingman, Arizona"
   coordinates: [-114.0593159,35.1899037]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/heathen-dumpling.bsky.social/post/3ln74pmekjk2r
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fpifpfj2i2uvt4jhv4tcvzb2/bafkreidkmvvnivf7yqedivwydosr5jbpnlmwjl6gvgo35ejxcjfafmgcda@jpeg
 
 arizona/phoenix:
   region: "Phoenix, Arizona"
   coordinates: [-112.0941698,33.4481378]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/lizzakos.bsky.social/post/3lnadlbqhcs2m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ehfmfv7efsxs5qaxgwdfge2g/bafkreig7j2hnrp6x3plad6wlco62zq7kvchabeaypn2db3xrjynsqphoci@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ehfmfv7efsxs5qaxgwdfge2g/bafkreib6hfovnuepd2ezh4odphqexsd4muzpqa5mkfb6yjnowcaj4pkwra@jpeg
+    - url: https://bsky.app/profile/lizzakos.bsky.social/post/3lnadbuhhls2m
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ehfmfv7efsxs5qaxgwdfge2g/bafkreiegiwjtybqdftlbjzpfdlpje7zarnacykzseadgjw4paufd6yeesy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ehfmfv7efsxs5qaxgwdfge2g/bafkreihyfdhaldlzvbjf6qbi5aqhxe2u2rttrxtkcmslwfthaugtrvffba@jpeg
+    - url: https://bsky.app/profile/lizzakos.bsky.social/post/3lnad3nqhcs2m
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ehfmfv7efsxs5qaxgwdfge2g/bafkreicb2xiobvhjm5ukkt5o3lla7vkuivls4gcrccxf6ivqbwpsjzwbua@jpeg
+    - url: https://bsky.app/profile/lizzakos.bsky.social/post/3lnabkvaws22m
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ehfmfv7efsxs5qaxgwdfge2g/bafkreia5t2kpziu56uokwcimuba3yu7ksind47dgsziry5jiw4njrzvg4i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ehfmfv7efsxs5qaxgwdfge2g/bafkreicb2xiobvhjm5ukkt5o3lla7vkuivls4gcrccxf6ivqbwpsjzwbua@jpeg
 
 arizona/sierra_vista:
   region: "Sierra Vista, Arizona"
   coordinates: [-110.25750160217287,31.531872460099546]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/morrigan4.bsky.social/post/3ln77wqrmos2d
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jensadtxepgx6difx22juss2/bafkreihrabx2c6jhphstnvmctmzkvdjjjkiscdkw5ysglllzx42dirsf2e@jpeg
+    - url: https://bsky.app/profile/morrigan4.bsky.social/post/3ln6ycj4cis24
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jensadtxepgx6difx22juss2/bafkreignba4hwcrozx2q6vay5ikygdqbfs5nmvrv7rlzvax4ok2wo6rrei@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jensadtxepgx6difx22juss2/bafkreiab4ztrc3tyfgsctjrc6nzfa6b7a26dpxx7l5fk32gpnjcghcukum@jpeg
 
 arizona/tucson:
   region: "Tucson, Arizona"
   coordinates: [-110.9222783,32.2101871]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/kanezona.bsky.social/post/3ln7rbpzfjs2j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:izyuskjmch75netjkq2qllrr/bafkreiadewuaus7paq6x24k6jz4sgrjchciwxaqt4f2agwo3fpr3wh7os4@jpeg
+    - url: https://bsky.app/profile/nancycatlady.bsky.social/post/3lna4gmeypc2j
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2vxm3fxbzmqlnzpcycfqdu65/bafkreifglj3dosovtfvqg4gtfz4b7skobo6phq2e5s32j3fv7wr57na33u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2vxm3fxbzmqlnzpcycfqdu65/bafkreihwvu73ym2ap2ccjnmilftgd3qtknvj6iltpvmjqmn5pg4k6lduyu@jpeg
+    - url: https://bsky.app/profile/jhmtuc.bsky.social/post/3ln7szr7h4k2l
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j5b2allwtt7oodoqrqcrwj6p/bafkreicaky3nraghpwh2d7dnworuoht32toj6fye5oawrvi6ildkx44zra@jpeg
 
 arizona/yuma:
   region: "Yuma, Arizona"
   coordinates: [-114.5961128,32.7286905]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/saunieindiego.bsky.social/post/3ln6w3vffbs2f
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yvrzhyl4t6plakut7n5wsnem/bafkreihpgso46ahozyaxdb23ngu7nd4pjydxhpsrvgfukx36uqbazwlcle@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yvrzhyl4t6plakut7n5wsnem/bafkreigs7jugj2pt227fvgwifbihze2otvz62n6c4mrx5vskqyrjees7xa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yvrzhyl4t6plakut7n5wsnem/bafkreiexkh5lybsowaduholj67kdyxfz36njnaqzbifkpbuvl47vzta2x4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yvrzhyl4t6plakut7n5wsnem/bafkreibjvthj6qihxqvzwxetbivnzgroqbrg72fd6r65zjyi5wesojzmry@jpeg
+    - url: https://bsky.app/profile/yumaniac.bsky.social/post/3ln7pewab5s2t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q5cktc74d6jblamces2b5nu2/bafkreiba6jlgijv3zka2ojx62vdgasrlplyskm3ryulxvuzxg2c5povrl4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q5cktc74d6jblamces2b5nu2/bafkreib3pv6t7cjlhiubphdcltsoh75c5mjkupozjtmwzdjw5gubfolwvi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q5cktc74d6jblamces2b5nu2/bafkreigrgwlqru6ndhtpewl5hrdexr2gdhqq65vf2hhhxgo2dr6manloue@jpeg
 
 arkansas/eureka_springs:
   region: "Eureka Springs, Arkansas"
