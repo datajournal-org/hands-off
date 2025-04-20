@@ -5,13 +5,13 @@ const cp = new Deno.Command('deno', { args: ['task', 'dev'] }).spawn();
 
 await wait(1);
 
-const width = 1200;
-const height = 675;
+const width = 720;
+const height = 405;
 
 const browser = await firefox.launch();
 const context = await browser.newContext({
 	colorScheme: 'light',
-	deviceScaleFactor: 1,
+	deviceScaleFactor: 2,
 	locale: 'de-DE',
 	viewport: { width, height },
 });
