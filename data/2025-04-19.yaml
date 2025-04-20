@@ -1964,10 +1964,12 @@ kentucky/lexington:
   region: "Lexington, Kentucky"
   coordinates: [-84.4961164,38.0461942]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/fedupteacher.bsky.social/post/3ln7bznrwak2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:woivr53wcpxhx6l4rb7lyhdh/bafkreiddutwx6mkq4qtf3zhdmux672uzlhqdqxfauapfwqytnpiyo5zira@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:woivr53wcpxhx6l4rb7lyhdh/bafkreig6iuolgt72m5vlg3le23d6dgh5s5wqmbyry4zs3famvcbk5igwwa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:woivr53wcpxhx6l4rb7lyhdh/bafkreibykrrw2ex6w2fk2nputznoud3ifw7xbayqm5ub5c6b5ihxrd7ccm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:woivr53wcpxhx6l4rb7lyhdh/bafkreiblbpv5xkcta7bkarpwxpjvy2kicz6bqt7kyqsow2ox5zgxz5336i@jpeg
 
 louisiana/baton_rouge:
   region: "Baton Rouge, Louisiana"
@@ -2064,28 +2066,29 @@ maryland/aberdeen:
   region: "Aberdeen, Maryland"
   coordinates: [-76.1614763,39.5085119]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jmjtravis.bsky.social/post/3lnatzrmcd42y
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gwdvd35yz6komje55lzaut4r/bafkreideokmnpusyc2dt7qm6vrwfylgdznslowiyx5isloezswadfrd3ay@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gwdvd35yz6komje55lzaut4r/bafkreiee6oourrxbbcoi6vgct5d73tsnats5orgk3qld556xhsrlpfr7se@jpeg
 
 maryland/baltimore:
   region: "Baltimore, Maryland"
   coordinates: [-76.6107116,39.2908833]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/diesindarkness59.bsky.social/post/3ln6pqblgu22x
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pwh7fjajfbwhbwzxtu6hy3jv/bafkreietr4rvhykukem23z6x462jkofkplgeqruf57oydyxma5ufb7buai@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pwh7fjajfbwhbwzxtu6hy3jv/bafkreich7wbz6qahpi3zxkzpkb77iqln3x5j6lvs4uari5zukrl3vchh6a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pwh7fjajfbwhbwzxtu6hy3jv/bafkreifsquxvl7g3yiajhb44kf7wy75d3kwxqxudq53koofl6gylnlhddu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pwh7fjajfbwhbwzxtu6hy3jv/bafkreiagsc3ho5wsx63c5yn4u4qewj5ak5y2zvwwmyidxegrjxvezbaeqe@jpeg
 
 maryland/bel_air:
   region: "Bel Air, Maryland"
   coordinates: [-76.3470236,39.5392523]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/netgoal.bsky.social/post/3lnajkswzxc2t
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bnfy4dylqzqs2q4755lxb5ef/bafkreifuj7jikmw7srrygktqy36qn6jroaf7u76v56mfcisxekrckhihyi@jpeg
 
 maryland/bethesda:
   region: "Bethesda, Maryland"
@@ -2118,37 +2121,56 @@ maryland/columbia:
   region: "Columbia, Maryland"
   coordinates: [-76.8665212,39.2115617]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jillianlschweitzer.bsky.social/post/3ln72u4tbw22e
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5sk2oerfkbunxir3taawfn2u/bafkreibum3pvmdwb5rin5psmlvtlqvmdp4jig2xu5z5vh5a4oxlxwwzsgq@jpeg
 
 maryland/cumberland:
   region: "Cumberland, Maryland"
   coordinates: [-78.7669307,39.6507315]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/girl-gone-hiking.bsky.social/post/3ln72xfhbns2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mf7thmi2bepcz55tgzmgw3uy/bafkreigq4fxxpx7aomq6gitixls3arnkzowbhope5llx2wbkgrosmp7bxm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mf7thmi2bepcz55tgzmgw3uy/bafkreibrvafdpomrcbq7okhbabho5r4xdppvyxvckkm3jdu23cguwdpqti@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mf7thmi2bepcz55tgzmgw3uy/bafkreiafcu3nnhecxjassw6et34zqopyrqyi3tr5ck2n64nqijbdvjztl4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mf7thmi2bepcz55tgzmgw3uy/bafkreifr42rdcdtakccmc6oeewpyp5gaeexy3xyijqewo52gkb46cpnwui@jpeg
+
+maryland/frederick:
+  region: "Frederick, Maryland"
+  coordinates: [-77.4105411,39.4144445]
+  sources:
+    - url: https://bsky.app/profile/walterolson.bsky.social/post/3ln6pwmgolc2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:efpytyxmwow5ffwi3dphhrlq/bafkreiezxnaykbc2ebfrs7wcwzdwunso3jdxfqq7dbsq6y6dd2znhgh4x4@jpeg
 
 maryland/greenbelt:
   region: "Greenbelt, Maryland"
   coordinates: [-76.8722813,38.9989499]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/smackbrl.bsky.social/post/3ln76ussjjs2p
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ndkhvtp7clacsdgkdydjurjo/bafkreig67mhgbcx4bmwoka4wfkl4yjzxogdg3jzfzvtkgpgkliehacfaay@jpeg
+    - url: https://bsky.app/profile/coachmack1.bsky.social/post/3ln74mssins2k
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wril73n7c6elperem6y2tmu/bafkreihcnktigdqtvezmuxkcbxdouv7kfnbfrywzagbdq47kyvdf7j6z5q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wril73n7c6elperem6y2tmu/bafkreifq2bhilhegs4ikc3jfnjbhc37syya4lra4gop2r3e53jzrcyqgfy@jpeg
 
 maryland/olney:
   region: "Olney, Maryland"
   coordinates: [-77.0675724,39.1527714]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mamamurphy.bsky.social/post/3lnaombwaes2o
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5dm72gi5s6gtktcq5xb5qyq/bafkreie4r447viopvgcql774gtlw3hantkn2pb2qvgqjvac6qmpc3l73v4@jpeg
+
+maryland/salisbury:
+  region: "Salisbury, Maryland"
+  coordinates: [-75.5999111,38.3405855]
+  sources:
+    - url: https://bsky.app/profile/stevemnd.bsky.social/post/3ln6sctmwvs2k
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqoadl6sel6v7v2pw33xllwh/bafkreidzwlouqlogvlbeyweqi4whzl3mcrjnmthfewmnvkbr62qbbbikhq@jpeg
 
 massachusetts/amesbury:
   region: "Amesbury, Massachusetts"
@@ -2162,10 +2184,9 @@ massachusetts/attleboro:
   region: "Attleboro, Massachusetts"
   coordinates: [-71.2843269,41.944188]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/badlarry25.bsky.social/post/3lnafbnxcsk25
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6tkigx3nnh2bsk26n5msl6dv/bafkreidi2p6sarisl5xjhcgmnqxndzcsf6no5xrfbbggcbtvtjs2ojtmye@jpeg
 
 massachusetts/barnstable:
   region: "Barnstable, Massachusetts"
@@ -2202,10 +2223,12 @@ massachusetts/bolton:
   region: "Bolton, Massachusetts"
   coordinates: [-71.6093237,42.4347829]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/hortisam.bsky.social/post/3ln6vs5nrkk2f
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iculjggl5sfqyoiuxuvybgq3/bafkreieamxyf55fa5oe7ulass5otantomt4ttdklplu2hckbhokck2qlca@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iculjggl5sfqyoiuxuvybgq3/bafkreihr4ospegyx4jiottanhgsbpejcrewvapim4faw34uu35wygtfoue@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iculjggl5sfqyoiuxuvybgq3/bafkreiemei33zlju4vbspu33bedfymyfe3ot3zcqokrdwlco5dmtrvyt74@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iculjggl5sfqyoiuxuvybgq3/bafkreig2n37ekfexbj5ualjvfswvlybfdyiij4holq72plle3mzdmaabmy@jpeg
 
 massachusetts/brookline:
   region: "Brookline, Massachusetts"
@@ -2391,10 +2414,12 @@ michigan/adrian:
   region: "Adrian, Michigan"
   coordinates: [-84.035391,41.9021104]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/lwvlenawee.bsky.social/post/3lnatvqsim22t
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pc7q57pr4bcbud6ldiwp4cgs/bafkreidx5qr7fgztjdtgs2p5blw6dz2dd7denrntkx6dvfi54ywedmge7i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pc7q57pr4bcbud6ldiwp4cgs/bafkreifhojpgjwdgaltoam66mabm2cdx5dsd67ydsqytuyrwld4pv4ez5m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pc7q57pr4bcbud6ldiwp4cgs/bafkreih3t6issi2lktg2c3567qdflejpyw5wsuut2fbg5udw24fgh4guzy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pc7q57pr4bcbud6ldiwp4cgs/bafkreig33qqm4vr65dh3xtekfvht63obnf7qooqw4itfbrus4tvsmd62ie@jpeg
 
 michigan/battle_creek:
   region: "Battle Creek, Michigan"
@@ -2409,19 +2434,21 @@ michigan/bay_city:
   region: "Bay City, Michigan"
   coordinates: [-83.8890319,43.5934818]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/michigan-girl.bsky.social/post/3ln6rkntbuc24
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myq7dvonxhde4s6fqrjvq6sa/bafkreihgs2i42chj2ftfhfafsl2mfh2mezyutbqswxi6iyrv73e23qlviy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myq7dvonxhde4s6fqrjvq6sa/bafkreibwcgkprtjalmzxy6jev4lyfuozooonj4cw22hddve7wyz2aaripu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myq7dvonxhde4s6fqrjvq6sa/bafkreih5fifuqjusevhtji4e63cilju6rqdaz46gkerbiuf2wqqoasnxtq@jpeg
 
 michigan/detroit:
   region: "Detroit, Michigan"
   coordinates: [-83.04456,42.3274175]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/hansnyder.bsky.social/post/3lnavvinldk2p
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p56fsdpxgzs2cenvml4ymoqk/bafkreigld62ypqenua32ymrs7g33znq42yfovsezbrpys4cmzb2tvvmrdu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p56fsdpxgzs2cenvml4ymoqk/bafkreib2oxclkn6i3twanunmxasmmbvsk7zkc4qwi53btodlpgdx7odaca@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p56fsdpxgzs2cenvml4ymoqk/bafkreibo2ua2e4j4tkskp3toy7aiaockhl6vklzgwkw5tmujaakzytw2sm@jpeg
 
 michigan/hazel_park:
   region: "Hazel Park, Michigan"
@@ -2482,28 +2509,31 @@ michigan/troy:
   region: "Troy, Michigan"
   coordinates: [-83.1319526,42.5800832]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/thisrodneyguy.bsky.social/post/3lnauumlb322w
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bh6wlhldsvbmtqrm4s3stldr/bafkreihdszn4ble37autr3ymdczulp6gg47bfckqv7q2ixqo5cc2qdzjqe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bh6wlhldsvbmtqrm4s3stldr/bafkreiaiawg3y5yqx6evaavpw773sztz7cidlaxcyktyfcfqr5gxx5snwe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bh6wlhldsvbmtqrm4s3stldr/bafkreieevgad56wd53luycgdykcqzmj5rfoaaqvt4bkxpocj2bei3tcpbu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bh6wlhldsvbmtqrm4s3stldr/bafkreiagudrd5w7p4c5q5h33uangeyk2cmpytdjzliojrfpebez2ukve2q@jpeg
 
 minnesota/saint_cloud:
   region: "Saint Cloud, Minnesota"
   coordinates: [-94.16666913360325,45.55738634983864]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/narfblinko.bsky.social/post/3ln6rxpjte22i
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ee7lc4nmbpwvspiruh6gsojw/bafkreihuzikxitwo4n5hwmi5pchj3nsxw643mrewgbwy3aq5rkpxzt6xqa@jpeg
 
 minnesota/saint_paul:
   region: "Saint Paul, Minnesota"
   coordinates: [-93.0967302,44.9471334]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/stephlynn21.bsky.social/post/3ln6zt6mwvc2s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:stmqdes76qb5yj74dzlben3o/bafkreibz4ncpsryopariaj2ysyujbnjbtrpkbpbkk5wvaqbt5v2jexay7y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:stmqdes76qb5yj74dzlben3o/bafkreih6ikzczqwluv7xmdmzzhj5m5jffhpamd7seaobq7n5pre4oivfqe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:stmqdes76qb5yj74dzlben3o/bafkreibl5bkptwnyizttltaowu2yfhstkqi6p4wuznx47vv5on4cw2m2yi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:stmqdes76qb5yj74dzlben3o/bafkreihaumddwuwwz6kdnjt2mljwi4lxi32stkszm37ngv42hotabufxh4@jpeg
 
 minnesota/winona:
   region: "Winona, Minnesota"
@@ -2518,55 +2548,64 @@ mississippi/hattiesburg:
   region: "Hattiesburg, Mississippi"
   coordinates: [-89.290718,31.325681]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/50501mississippi.bsky.social/post/3ln7l3b3lzc24
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mznoqdohojgl4audowyso6ho/bafkreihnfvdvbsupfpg3jl4xo4epvd45tknv2ogmxjbby5uzjk62eu5hne@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mznoqdohojgl4audowyso6ho/bafkreictrma7x5dsk3qplxyxjmtd3p3huiwjz3fzy2xwrehqreabyw53h4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mznoqdohojgl4audowyso6ho/bafkreiae4igxuvq7lolr423rw6m4ncm2wwtachuhfbumwvl5kvtkudk2qu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mznoqdohojgl4audowyso6ho/bafkreic5u2z5ishpumwaspdmmado55rbtdasqiczm7zwmwbvn5qyumy2zq@jpeg
 
 mississippi/hernando:
   region: "Hernando, Mississippi"
   coordinates: [-89.9950836,34.8224203]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/lapallen.bsky.social/post/3ln7bdbtkfs2f
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y4ehjh4n2c6zomgyl7fwovqr/bafkreihrr25nkalbmbpscurvdf7ael6eoywzqhwrhw5ld6epfutxdh2qqm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y4ehjh4n2c6zomgyl7fwovqr/bafkreiddtla5y7s7vpp7kfu4q5qohtxuxpykiifioiy6dmizl3jj3gixge@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y4ehjh4n2c6zomgyl7fwovqr/bafkreifzyv2wwnym5ufh4hawim3b3ltb2i6ezm5mzubizmt6d3ry6k3epu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y4ehjh4n2c6zomgyl7fwovqr/bafkreietqsi2vb643p64x4u3hh7yjh2nc5cebuc6h76zkquppuzfm4gl5a@jpeg
 
 mississippi/jackson:
   region: "Jackson, Mississippi"
   coordinates: [-90.182958,32.305126]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/wehriskat.bsky.social/post/3ln7x4wuz3k2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7dbwijeddykig6unjt47xr3s/bafkreihh5fnf6omgmysnxpok73d7r3ja65vdueexr6xemegllmlnirsqwq@jpeg
+    - url: https://bsky.app/profile/cindyinms.bsky.social/post/3lnapw2mwg22e
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fgync7ddjrm3n6cwijnqditk/bafkreibrlnjlckbjkyivmsqgsio2dtdm7635ty4hkqcyog3uvxaozpzpwa@jpeg
+    - url: https://bsky.app/profile/queenhatshepsut.bsky.social/post/3ln7s2umrkc2v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eeksuaq2du7dqrzjemupwlq2/bafkreihqkkxrtlcwe7jj466trtp7s5zbwrizbs2b3gaxl2ksammzhzrzaq@jpeg
 
 missouri/jefferson_city:
   region: "Jefferson City, Missouri"
   coordinates: [-92.1724265,38.577359]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/wlfwoman66.bsky.social/post/3lnaocapdl22e
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2fu6rxeerfsblfa37sv5e6zi/bafkreicksezuetuchhxmeb727hz42dnsarpfhkr6vqqplz2r7aplfur5oa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2fu6rxeerfsblfa37sv5e6zi/bafkreieg5jccfmxl32s2jkpprsbskaecsni7otknipx3p7femidlohzx5u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2fu6rxeerfsblfa37sv5e6zi/bafkreiftujlpdjgfw7tmje4i3uzt4qlojp6kqeeozcvhu3n7g5lso5expa@jpeg
 
 missouri/joplin:
   region: "Joplin, Missouri"
   coordinates: [-94.5133385,37.0841838]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/steveh4you.bsky.social/post/3lnaoomz2ys2r
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ehxe5palxg2jag64xzzd37hs/bafkreihnvijzalb7kf5xn3mktwxn2qy5jdppceaz6q67ldhne7jgyvwbg4@jpeg
 
 missouri/kansas_city:
   region: "Kansas City, Missouri"
   coordinates: [-94.5883732,39.0458946]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jensebbar.bsky.social/post/3ln6ocjpd522d
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:orloioh2hqfqdfgeeb32h3hx/bafkreifkwwdtvuzxvrmwrqgrgbbls3lcq7caf32wlpwm5jukzli6gzy5vi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:orloioh2hqfqdfgeeb32h3hx/bafkreidw4oesm77ow63oexv4iu2l6lkady6y2q5rpjsvoyawz5un4dxyxa@jpeg
 
 missouri/saint_peters:
   region: "Saint Peters, Missouri"
@@ -2581,10 +2620,12 @@ missouri/st_louis:
   region: "St. Louis, Missouri"
   coordinates: [-90.1912072,38.6270361]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/nod-crafty.bsky.social/post/3ln76j3e6kc2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dtljmd26tirsh2pyzkcaarjs/bafkreiga33mgt72a5l4fbqewcdxl2csmcptlwslf3gca6mh2vkmuin752m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dtljmd26tirsh2pyzkcaarjs/bafkreiadfxdwi7cegh67uxkgrpupb3fqvinlxuctgxdnn6usrf56xngf3q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dtljmd26tirsh2pyzkcaarjs/bafkreidfndjjyveniwdjmn6774pahl2fuihewnljqnwjv4bfvooy3h2olm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dtljmd26tirsh2pyzkcaarjs/bafkreia2iu3ppc5gebqajz74gotijesqd4m7sbqp644vdhczytefg3iyk4@jpeg
 
 nebraska/lincoln:
   region: "Lincoln, Nebraska"
