@@ -4,10 +4,12 @@ This repo builds the map at https://datajournal.org/hands-off/
 
 ## Improve
 
+Here is an [overview of the states covered](https://datajournal.org/hands-off/status.html).
+
 To add more images, edit the file [data/2025-04-19.yaml](https://github.com/datajournal-org/hands-off/blob/main/data/2025-04-19.yaml).
 
 -  Each entry is for a single city. If there are multiple protests in a city, we'll only focus on the main protest event.
--  Add the URL of the post/article about the protest in that city, and copy & paste URLs of good pictures from this post/article.
+-  Add the URL of the post/article about the protest in that city, and copy & paste URLs of good pictures from that post/article.
 -  Only protests "against Trump", "Hands Off", "50501", etc. from April 19, 2025.
 -  Only posts/articles without a paywall.
 -  Only good photos that show crowds.
