@@ -4897,10 +4897,51 @@ wyoming/casper:
   region: "Casper, Wyoming"
   coordinates: [-106.30816876888277,42.84881321084464]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/the-cusp.bsky.social/post/3ln7iep5j322r
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jrqv6vjobfzduhdcvdeh3ncn/bafkreigow3l3ukl4a5skbk3vbyjmol4ume6nswe2t733vb3fb2l2whxzqa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jrqv6vjobfzduhdcvdeh3ncn/bafkreicvvl6k6imgddvjbg2akppvqcwkhywrc6rxfrdgmkc5cnmzhhajii@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jrqv6vjobfzduhdcvdeh3ncn/bafkreicdf3h2blwquaxtvqoo2iq26r2j2fcpsdzmiiaogxkqo63qspxmv4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jrqv6vjobfzduhdcvdeh3ncn/bafkreicowdgzeslsjn57ze6tovbt57bbtqwqkvczye6xo2z7htqgulijuu@jpeg
+    - url: https://bsky.app/profile/byrneout44.bsky.social/post/3ln7f643sfc2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yxegpvvhahv5bai3lx7fkon/bafkreiby5mtkbpqxknpzutepago6tm6fvd44ckl6ayyegc66to4lopjs6e@jpeg
+
+wyoming/cheyenne:
+  region: "Cheyenne, Wyoming"
+  coordinates: [-104.8202462,41.1399814]
+  sources:
+    - url: https://bsky.app/profile/wokeandalert.bsky.social/post/3ln7s5tbaok2y
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oemq63my3heqjd6yuku4vjb4/bafkreifwlspdmbd6jes6tqmyoapmvsqtxglkvehsnuwmnn5evvaz4tw7eq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oemq63my3heqjd6yuku4vjb4/bafkreiaj6fo4vveoebl3yf3wo7v2vr3meu4kbbpvzmumshitwct4s7eqpu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oemq63my3heqjd6yuku4vjb4/bafkreigc7u2b6ljh5eq6bpekcc4xhlu4efwu76zrm5p7xcsvebqolnl5km@jpeg
+    - url: https://bsky.app/profile/wokeandalert.bsky.social/post/3ln7jte3rgs2v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oemq63my3heqjd6yuku4vjb4/bafkreifwlspdmbd6jes6tqmyoapmvsqtxglkvehsnuwmnn5evvaz4tw7eq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oemq63my3heqjd6yuku4vjb4/bafkreigykfv5ctlft2d6opwz4woupjhnaga5fuvduc52gygvkmwnkfkf6e@jpeg
+
+wyoming/cody:
+  region: "Cody, Wyoming"
+  coordinates: [-109.0559622,44.5229114]
+  sources:
+    - url: https://www.powelltribune.com/stories/hundreds-rally-in-cody-to-protest-trump-administration,162600
+      photos:
+        - https://delta.creativecirclecdn.com/powell/original/20250408-100944-3a1-CR-1.jpg
+        - https://delta.creativecirclecdn.com/powell/original/20250408-100959-e21-CR-4.jpg
+        - https://delta.creativecirclecdn.com/powell/original/20250408-100954-421-CR-3.jpg
+        - https://delta.creativecirclecdn.com/powell/original/20250408-100949-e36-CR-2.jpg
+
+wyoming/jackson:
+  region: "Jackson, Wyoming"
+  coordinates: [-110.762428,43.479893]
+  sources:
+    - url: https://bsky.app/profile/jbk-art.bsky.social/post/3ln77qwgxys2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dd5n4hcyihahepoalbaaddva/bafkreiexaelj4qs6at2xdt4uzz3gn567bgq5uwvrymnomsidt6htpyjjjy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dd5n4hcyihahepoalbaaddva/bafkreielx2ghc6iyj4n3t47axsgkhgkrqkxnu46ib54eesz765xuv4groy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dd5n4hcyihahepoalbaaddva/bafkreihp3kmez4sdgjapshkilq55qtlomox4den43osjmyjberhnz6loom@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dd5n4hcyihahepoalbaaddva/bafkreiapxpgvjla3doecznczxrrfq73ixttsdmo2bo2ptcxxu73wqtsp3m@jpeg
 
 wyoming/lander:
   region: "Lander, Wyoming"
@@ -4910,6 +4951,17 @@ wyoming/lander:
       photos:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
+
+wyoming/laramie:
+  region: "Laramie, Wyoming"
+  coordinates: [-105.5911007,41.3114934]
+  sources:
+    - url: https://bsky.app/profile/anrothelf.bsky.social/post/3ln72m2w7bs25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y5ldr5mweno4fdpgvp3ijzvw/bafkreibtwccemdraxlzihdd3snqnm2xkm73tr3ysk2txami7qm2hhyxeru@jpeg
+    - url: https://bsky.app/profile/byrneout44.bsky.social/post/3ln7evkxhxk2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yxegpvvhahv5bai3lx7fkon/bafkreidy7smmrsw7q32mo75p7iccncziqtrujyadeen5zcnw5ky5yim2tm@jpeg
 
 wyoming/pinedale:
   region: "Pinedale, Wyoming"
