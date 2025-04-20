@@ -4198,28 +4198,40 @@ south_carolina/beaufort:
   region: "Beaufort, South Carolina"
   coordinates: [-80.6848165,32.4397179]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sweet-thing.bsky.social/post/3ln75gf3pg22w
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pzsmswbur7e3tb77xahuu2vn/bafkreieyu3eoq7i7cqauxpnwcjbcsoaegn6uq7uqaay7tfxwoq6f7smhdu@jpeg
+    - url: https://bsky.app/profile/beaufortcountydems.bsky.social/post/3ln7njpljzc2e
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:te6ia3txkt2ow3mhr7htjfgo/bafkreidvl74wnwaow6mdzbvua6bggtkv3coj5yn4rjctgewrqzkdqxkavq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:te6ia3txkt2ow3mhr7htjfgo/bafkreigmag5ofrkwa33c2ssuryyccdqwj4uumx652fgi2qs6ujo6cotbhe@jpeg
+    - url: https://bsky.app/profile/mayriver299.bsky.social/post/3ln7jbysyu22q
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:34ykqh6avbrqpnidvnw65tol/bafkreihdwsrc5u5lwyqu2xtoxftfo2k3tujjqnjyxjyxomaie46m7pjtta@jpeg
 
 south_carolina/charleston:
   region: "Charleston, South Carolina"
   coordinates: [-79.9598054,32.7889786]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/littlexiososa.bsky.social/post/3ln6pwjklcs2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qscg2mvdxe27wqusqomped3a/bafkreigg4fppo2jg35uo2f2mayb6fkbxx6pq3qjmbdhzs4f2ijwgu7hlr4@jpeg
+    - url: https://bsky.app/profile/lrhodes3850.bsky.social/post/3ln6nylnbuk2k
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ww6ys5oi357y6j7cwlhf6olo/bafkreiaguzcb7h5p7nh2p6xvdkv4ioozj7h44w7ykkdl6kvooguohg7g34@jpeg
+    - url: https://bsky.app/profile/madelynerants.bsky.social/post/3ln6lghdsuk26
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jx7z3mipswzrpxxtguhvdgrp/bafkreidf3nplaaqhjqz7spe3gbvujnzwmwwtz7hheimzjeuu3lisxze5ju@jpeg
 
 south_carolina/rock_hill:
   region: "Rock Hill, South Carolina"
   coordinates: [-81.0279543,34.9270534]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/deb-d-nc.bsky.social/post/3ln6zxg5ghs2n
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bszq573o6jar766eoqhbjret/bafkreieq5m22xsgsvjsfw3gq4svacliqhpx547lkw4tfz6b7d2rstydgly@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bszq573o6jar766eoqhbjret/bafkreigxfzuocavxcbjnxwfpqbhz2si2zc7ljqvmqoeghg6nngxky6exme@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bszq573o6jar766eoqhbjret/bafkreif7xcqxsa4dx3eo5srizmbslrwbwxyrzxinc345hornqt6qt2ys44@jpeg
 
 south_dakota/aberdeen:
   region: "Aberdeen, South Dakota"
