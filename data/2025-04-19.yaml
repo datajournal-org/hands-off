@@ -2103,10 +2103,27 @@ louisiana/baton_rouge:
   region: "Baton Rouge, Louisiana"
   coordinates: [-91.1824289,30.4500362]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/b4tankgirl.bsky.social/post/3ln6y2p635c2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nfe2t4z2hshn23cpbsbv3v7d/bafkreidt3vyyuihbhssbhj6axaqponzwnvo7seopba4ys3aiekjxjgh25y@jpeg
+    - url: https://www.wbrz.com/news/demonstrators-gather-downtown-to-protest-trump-policies-say-louisiana-is-not-monolithic-red-state/
+      photos:
+        - https://dcer237tfveol.cloudfront.net/v2/yo93onOENhaECVzjlCejMAloGrIbuo4gIRog95gtiNzfdoHGUuvJq7bAoGEDj5IrncmH87Wz1TmX1GdA6zdCIeqkOia2yn92u8Wf51oDilBK6s0iq61RC361f-J9DEluI
+        - https://dcer237tfveol.cloudfront.net/v2/VmZW3XBAaih6BuRIljfDgAXrxNX3tazYLY9-ydOvTfmsZEOEYqrovjNY1Lt7bFoq-2-ZFWjsz1gl1V96UctialbDuarPS0MLuAJu-PxV48Gw
+
+louisiana/lafayette:
+  region: "Lafayette, Louisiana"
+  coordinates: [-92.019842,30.224089]
+  sources:
+    - url: https://bsky.app/profile/mkdowns.bsky.social/post/3ln7h4w25vc2i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ebwfccbd4wcweosfxwoj267c/bafkreibc33q36hwdkjyjz7kfbz6t2r7q3t4yszo2i6bidqj5etebr76ryi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ebwfccbd4wcweosfxwoj267c/bafkreiheepk7jxul33a3y6klbdypckklmelf32mz7b2i7aglik6o57roa4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ebwfccbd4wcweosfxwoj267c/bafkreieuvah57t3k5k7m7jlxbww472qcxjullsbah2hpdocujbptduiiae@jpeg
+    - url: https://bsky.app/profile/girlofbirkenau.bsky.social/post/3ln6ul6xr5s2g
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:abjtfzklggbhbd36rlacrr5u/bafkreidlvq7qxex27ytww4pe567bt7zemuqo46ws6odtmd6tacvrdvxtjy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:abjtfzklggbhbd36rlacrr5u/bafkreiebjutxylctqybljgflh7f6kkgw3h5ajnxoprwk54ofw5d6p6g4xu@jpeg
 
 louisiana/lake_charles:
   region: "Lake Charles, Louisiana"
@@ -2121,10 +2138,28 @@ louisiana/new_orleans:
   region: "New Orleans, Louisiana"
   coordinates: [-90.0629499,29.9574673]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/brucedlittle.bsky.social/post/3lnacnefd3s2k
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2swttnibw2v44fsavbv5ly4n/bafkreihsxjk7ag3nwzwwmr64iwh5yqtfvjqs25fhqh665shqua2pohvbay@jpeg
+    - url: https://bsky.app/profile/alexs-byline.bsky.social/post/3lna2cea7ek2f
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xzcojcwiphikxchwtszh3nag/bafkreifzuzkjvchbuuep2ndci6vo73bqux4yc2n5sosjw3rfo673ldsznm@jpeg
+    - url: https://bsky.app/profile/kim504.bsky.social/post/3ln7pxv3xt22z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rru2cw6udnmzjzh67tft5e7j/bafkreiamwgtc5jegszrow7kpx4tkwbsmj6ftbz7x2yclvw72cpahsx5yui@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rru2cw6udnmzjzh67tft5e7j/bafkreicj5ayb6jp64xwiw57my54rlisykjymkpfd4t6hc7snldyhfmjpuq@jpeg
+    - url: https://bsky.app/profile/shhemilii.bsky.social/post/3ln7nlosld223
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gbgly4o2t6eogrnz2gvu4rwy/bafkreihfvealdtmdhs6tqtpeky2zi4gynmmpd4cuf5eqiww3zenu5345lm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gbgly4o2t6eogrnz2gvu4rwy/bafkreihy2kkdsbukxdka2plpdplvpgafmggyez62arv4vaeb2hl6vn7fii@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gbgly4o2t6eogrnz2gvu4rwy/bafkreigst5vdferoewsubwoolthx7dhml3rgxnbywrxgzlqhuscjftw5wa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gbgly4o2t6eogrnz2gvu4rwy/bafkreige3f55keamo362we2x23fejn33usqrvqrpibm7ddjbcp7zt4wwv4@jpeg
+    - url: https://bsky.app/profile/jennifershaw.bsky.social/post/3ln7niuynis2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qd3tfzc7si64zu4hy2wqxbbh/bafkreiacyxeozmrm4r3aqdfstvk5pkfibch2xuhysd43dze2lr4b5gaow4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qd3tfzc7si64zu4hy2wqxbbh/bafkreib6thvrrayryybupis6x4em6mdb6nanimtrmwqoryf7j4n3en3ydi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qd3tfzc7si64zu4hy2wqxbbh/bafkreico6hzohmi6bk5e4rmen3ldbpzoygj6mg33we6zdwq7lxersochpy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qd3tfzc7si64zu4hy2wqxbbh/bafkreieytbq2k5ot62fwvzayzmaevqpo4oz3e5s2vwcku3wvxlxojwdsei@jpeg
 
 maine/augusta:
   region: "Augusta, Maine"
