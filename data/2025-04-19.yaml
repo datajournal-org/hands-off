@@ -3190,6 +3190,23 @@ north_carolina/winston_salem:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+north_dakota/bismarck:
+  region: "Bismarck, North Dakota"
+  coordinates: [-100.7837392,46.8083271]
+  sources:
+    - url: https://bsky.app/profile/vondem.bsky.social/post/3lna2c7ruok2e
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iqj2mdzwilbrbrjfln36tzw7/bafkreiene4xvyalohl3gzcn4db4hpwn7o5z465a7uti2eh55qfappjjtoq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iqj2mdzwilbrbrjfln36tzw7/bafkreihp5dbob477yavqhm5hv3muqv2soadk4x6adc2pumhcxeymheqppq@jpeg
+
+north_dakota/grand_forks:
+  region: "Grand Forks, North Dakota"
+  coordinates: [-97.111068,47.925256]
+  sources:
+    - url: https://bsky.app/profile/gthompson206.bsky.social/post/3ln7npb6oek2j
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hrocc7zcfxcsik6b5ip6lljf/bafkreid4wg5ynogprsfupktc2jbpgkpfeybysmvsqiw4c6krexzoyi5uj4@jpeg
+
 ohio/akron:
   region: "Akron, Ohio"
   coordinates: [-81.5433976,41.0951855]
