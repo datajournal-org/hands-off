@@ -1951,28 +1951,55 @@ kansas/cottonwood_falls:
   region: "Cottonwood Falls, Kansas"
   coordinates: [-96.5427845,38.3722364]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/stevemoss66.bsky.social/post/3ln7245m5722c
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zqjyk7x4peu6lw26wnv27gg5/bafkreifglngstndmo5ycli5ra5g6hvlzsgzydlivxqa5zoy6h6tup7v3lm@jpeg
+
+kansas/leavenworth:
+  region: "Leavenworth, Kansas"
+  coordinates: [-94.9138942,39.313233]
+  sources:
+    - url: https://bsky.app/profile/mediumdave65.bsky.social/post/3lnb5zygn522g
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:32hi55nck2s2faozbh2cffdg/bafkreidh63xudyng4y4h3piijvxhsvhydvbt4ov3sdeum6pua6jed4ay3u@jpeg
 
 kansas/manhattan:
   region: "Manhattan, Kansas"
   coordinates: [-96.5757804,39.1815812]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/furioushunnybee.bsky.social/post/3lnavs5juss23
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dymavhi6u2gnllkmcnf5g2eg/bafkreihcvzadoq4mlqldy5u6hzwjr3l4ddbketgvup2zi7omdc4pxm6wpu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dymavhi6u2gnllkmcnf5g2eg/bafkreiee3dbddkctnwhecroy3otgd7ehnemoiogdt4zq2tejmvjtzvukye@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dymavhi6u2gnllkmcnf5g2eg/bafkreigbz2hnzzsexbxm32omsrdqwills6ubryn7bvri6gpi77ifhmepvq@jpeg
+    - url: https://bsky.app/profile/mannhattan-guy.bsky.social/post/3lnar4pfph22v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m4hgqmox56ocuoysma4hb3cl/bafkreicwz7p6dqspjm6w4qsn4nfguvanjt4x7krg7mmxusktyt447ivddu@jpeg
 
 kansas/topeka:
   region: "Topeka, Kansas"
   coordinates: [-95.6789435,39.0468676]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/butterflieskatz.bsky.social/post/3ln6taguhns2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35brb6ey5w6pfoozc2c3xg7m/bafkreiejdm7tqlzgdnbem76gno5vw3icyig3oz3vvta7bzcbi7nw7vepym@jpeg
+    - url: https://bsky.app/profile/michab3.bsky.social/post/3ln6qiwvcsk25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mo7lskbug7wnhzmldlvihewv/bafkreignaen7hnwdbvglo75tecnnjdq3snxnbthhqgcsjns5wbaremqenu@jpeg
+    - url: https://bsky.app/profile/debdavis51.bsky.social/post/3ln7rarp3q22p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lrzu7qumkfrogdr4e3vukegl/bafkreidhytemhc5w6br5bjkgjfv3ntokzbghcwygxxmwn777rsjhgcqvje@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lrzu7qumkfrogdr4e3vukegl/bafkreih3pg36mzmqvyjafynicqbhoslnu5tatesqlggrhzobm5h6hj23dq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lrzu7qumkfrogdr4e3vukegl/bafkreiaoixfvq4ypkjpzg4weo5dege2vj3vvbplmrfrcefqiwem5sy42ui@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lrzu7qumkfrogdr4e3vukegl/bafkreiassdv753lroqzpaesj5xiaipuoan4y7bpatusnjqyetzefa5g6di@jpeg
+
+kansas/wichita:
+  region: "Wichita, Kansas"
+  coordinates: [-97.3307658,37.6871761]
+  sources:
+    - url: https://bsky.app/profile/byrneout44.bsky.social/post/3lnb4kkhcy22t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yxegpvvhahv5bai3lx7fkon/bafkreiedi2nmjdhnx4psxjvg366xxonlvpk2xtfqk5yxbrpuwvh5liz3zi@jpeg
 
 kentucky/lexington:
   region: "Lexington, Kentucky"
