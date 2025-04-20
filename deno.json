@@ -2,7 +2,6 @@
   "tasks": {
     "check": "deno run --allow-all src/check.ts",
     "build": "deno run --allow-all src/build.ts",
-    "import": "deno run --allow-all src/import.ts",
     "dev": "deno run --allow-all src/dev.ts",
     "screenshot": "deno run --allow-all src/screenshot.ts"
   },

@@ -92,7 +92,17 @@ function isUserEvents(data: unknown): data is UserEvents {
 
 			if ('sources' in event) {
 				if (!Array.isArray(event.sources)) throw new TypeError('sources is not an array');
-				for (const source of event.sources) {
+
+				event.sources.forEach((source: unknown, index: number) => {
+					if (typeof source == 'string') {
+						const parts = source.split(' ').filter((e) => e.length > 0);
+						if (parts.length < 2) throw new TypeError('sources is not an array of objects');
+						(event.sources as UserSource[])[index] = source = {
+							url: parts[0],
+							photos: parts.slice(1),
+						};
+					}
+
 					if (typeof source !== 'object') throw new TypeError('sources is not an array of objects');
 					if (source == null) throw new TypeError('sources is not an array of objects');
 					if (!('url' in source)) throw new TypeError('url is missing');
@@ -100,7 +110,7 @@ function isUserEvents(data: unknown): data is UserEvents {
 					if (!('photos' in source)) throw new TypeError('photos is missing');
 					if (!Array.isArray(source.photos)) throw new TypeError('photos is not an array');
 					if (source.photos.some((e: unknown) => typeof e !== 'string')) throw new TypeError('photos is not an array of strings');
-				}
+				})
 			}
 		} catch (e) {
 			throw new TypeError(`Invalid event ${key}: ${(e as TypeError).message}`);
