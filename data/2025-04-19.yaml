@@ -1834,10 +1834,18 @@ indiana/bloomington:
   region: "Bloomington, Indiana"
   coordinates: [-86.5342344,39.1670606]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jrand1970.bsky.social/post/3ln6nh3knhc2t
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ympyisbzn2um2d52jykfe2m6/bafkreidpwcrxhw3ujglozfpcbrjcgnamh6iudzlgdxnejzkd77vnmovvkm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ympyisbzn2um2d52jykfe2m6/bafkreigzre3t664qrakafrcshhsficbeg27wsnzuhvs5ds2fu3e3autuqi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ympyisbzn2um2d52jykfe2m6/bafkreiatvtzbvkdsechf76cxbopssz4376nkgsdncwt2bblzc7ocvphazm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ympyisbzn2um2d52jykfe2m6/bafkreibvmkhrn4fimbdn7ikisqkoebntcktjfbu7bmgpka6xttfrl5f7eu@jpeg
+    - url: https://bsky.app/profile/jrand1970.bsky.social/post/3ln6pvrab2s2t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ympyisbzn2um2d52jykfe2m6/bafkreifduap3tisuuazhyrkagzj3tee2vg5i2sz3kpl3fr36oxxc5hazjm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ympyisbzn2um2d52jykfe2m6/bafkreihqo3dugwklhyqhyyoxis7fuvqlj6zls6w46tsyrigzzaslkue2pi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ympyisbzn2um2d52jykfe2m6/bafkreia6kp3uqf4j6qqqtiocxte3ue2pluu23at3hfp4vyygub5u25fo2q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ympyisbzn2um2d52jykfe2m6/bafkreid3j4twutiteobz2pjq2m6vfai67c4j7qjrvmp4spkonnugeggfaa@jpeg
 
 indiana/crown_point:
   region: "Crown Point, Indiana"
@@ -1852,19 +1860,39 @@ indiana/indianapolis:
   region: "Indianapolis, Indiana"
   coordinates: [-86.1626183,39.7686147]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/storytimeratlarge.bsky.social/post/3ln6m4yw5ik2k
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzyrw2clc6tt3ogtbpe6xybn/bafkreifjotyokc5txmyiecrhq3aauxiex2fhxnwtcl25pchf7itgcgetfm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzyrw2clc6tt3ogtbpe6xybn/bafkreiezpdprhz4x7gbwxftxdvtlxjf24dbarzsxchssqdqm5hfekzdklm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzyrw2clc6tt3ogtbpe6xybn/bafkreicevi4iiiywivbbxxphasn3pcifmdn2ujr476ji7hwaw452y55mki@jpeg
+    - url: https://bsky.app/profile/50501supporters.bsky.social/post/3ln7mijyon227
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eneqe5r2m6cevl5vqlinzqt6/bafkreigokwu4s7tq3wh7qofvdms5i3t6lj3yylzt3tc5zzry6vhs6x6juy@jpeg
+    - url: https://bsky.app/profile/oleandb.bsky.social/post/3ln6ozne2kc2l
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y5zr66mmzsv6azk7gh5dxymy/bafkreif7ev2zhycb52mhropoj64e3vl2ecifcjdabk7kberxvvio7o4hsi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y5zr66mmzsv6azk7gh5dxymy/bafkreictymrqlkpobemwyi3wcqn4436iqlqtyff5ltlfnygiayn7cn5cwu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y5zr66mmzsv6azk7gh5dxymy/bafkreibdiuur7oeu5t4joq5oj6cf72fgtal4j6whmddjofeyx26wcl2d34@jpeg
+    - url: https://bsky.app/profile/oleandb.bsky.social/post/3ln6owqykes2l
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y5zr66mmzsv6azk7gh5dxymy/bafkreidhmcinok7owjaaecb2eimm7fnhhkszct6r4xoxyavnnhuk6f6pey@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y5zr66mmzsv6azk7gh5dxymy/bafkreiepmtvnpd7bvum2va5tfga7xkbxrkeatfsrmvuzk5iedsq4a4ejfq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y5zr66mmzsv6azk7gh5dxymy/bafkreih4t7lpl3rif2t46afydyjxv3454vqamjq3rryjz6orryyzuwcz6y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y5zr66mmzsv6azk7gh5dxymy/bafkreigx5lmikqwitvpj53xnb34xl3xh6xsdq4h7ej43qtcyh3mynzb5ku@jpeg
 
 indiana/kokomo:
   region: "Kokomo, Indiana"
   coordinates: [-86.1318413,40.4869173]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/debjordan-kauble.bsky.social/post/3lnal7rrpps2y
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3jmyeogbzemncutln5bslv4o/bafkreieuuttyqncjkdm7eusni5j7nmtp2rdoa4oqzvn2udmbpiukhxkqka@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3jmyeogbzemncutln5bslv4o/bafkreifd5qijsr4n5qpy74sm32ham2tk4eh4m4jhc52m7ccw5b2jf7bg5a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3jmyeogbzemncutln5bslv4o/bafkreieoulry3o7uohmahxnhnxmomrwtwahqjfzhtlm7v7ofescb2tumzq@jpeg
+    - url: https://bsky.app/profile/tkincaidin.bsky.social/post/3lnahxoyaek22
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p2cmohlxl3efkctsslrbwhcy/bafkreih6ftuw47un6knc7n3bxdlkbbpnr2hca6qtoviwootq66ptpxvcqa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p2cmohlxl3efkctsslrbwhcy/bafkreih6ftuw47un6knc7n3bxdlkbbpnr2hca6qtoviwootq66ptpxvcqa@jpeg
 
 indiana/madison:
   region: "Madison, Indiana"
@@ -1879,37 +1907,49 @@ indiana/muncie:
   region: "Muncie, Indiana"
   coordinates: [-85.3870251,40.1956321]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jilllarkey.bsky.social/post/3ln7pkdrgdc2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cgewuusfrze4bv3yrj7qcjwl/bafkreideghhzaigverpwfhp46ouxodxaoxcd7cbkqnzsf7aqieebrv4z34@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cgewuusfrze4bv3yrj7qcjwl/bafkreia6y2pjdi4aft4ggnotp3alwrv6mlh4ut7ixipk37fjbkqhtp4hz4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cgewuusfrze4bv3yrj7qcjwl/bafkreifjbpmh5w6s5f3sqih3a5q4vceeacbvro5gncdydkggtoxtdyxmcy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cgewuusfrze4bv3yrj7qcjwl/bafkreigfzeeu37uvxwod7iybtfybhkr7gx65lsz7nnebyhapfkix4hv6mi@jpeg
 
 indiana/nashville:
   region: "Nashville, Indiana"
   coordinates: [0.02729415893554688,-0.007366687039101438]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/ileftxtoday.bsky.social/post/3ln6qat32622j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r2s27jgqgyt3lurn73tsmp4j/bafkreib4t3p326rggwe2ryrx76dto5ysuoglhojnaboubqpw6fed4a2fdu@jpeg
+    - url: https://bsky.app/profile/bindergirl.bsky.social/post/3ln6st2n2uk2h
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mkjsthhf4wqfb5rfjgjexugw/bafkreidhhedt63eokwkrmowkby44y35jpiavmjjshog5heojjminz3itge@jpeg
 
 indiana/south_bend:
   region: "South Bend, Indiana"
   coordinates: [-86.250968,41.6781748]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jamiesnyder15.bsky.social/post/3ln7rzw53uk2i
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5dp7z32h5bjepdarjaiv2mid/bafkreiet5sbygvfnytk6g4a5pbp6diar77mgqlo2cg4ez3cxwemjw2crhe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5dp7z32h5bjepdarjaiv2mid/bafkreibtp5jmqsam3d3onrgu3yqn2a3ylxs6w4hfjiq5axftonkm6chhpi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5dp7z32h5bjepdarjaiv2mid/bafkreigvsxkieeyjc4mjlu6q3qrsfpx4yljsujvownvunvx35lcyj7znlm@jpeg
+    - url: https://bsky.app/profile/katrina-cheshire.bsky.social/post/3lna3bpclsk2r
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzdkeu4l2bti6p3blkuvv27n/bafkreihfqde3pebkgkacgjv74o6ojomr7axjqu7bxijoll2eqfxjusqkui@jpeg
+    - url: https://bsky.app/profile/shannlee88.bsky.social/post/3lnbb77dmrs2k
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ixnwzvv22dgwrqt2ytq47ufn/bafkreic3b3wkpvtj6jsw56uuqmyx2xawxe6vjduyzxgyd2xrtny2emo2di@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ixnwzvv22dgwrqt2ytq47ufn/bafkreic7rggoz4zp3n2vs5ncw7epjo7pca5rt5rxrt3shqoaaoet4mkiqa@jpeg
 
 indiana/warsaw:
   region: "Warsaw, Indiana"
   coordinates: [-85.8603526,41.2432147]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/juneal.bsky.social/post/3ln6xzyard224
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvcchym2gvvkovgkyjqo2asr/bafkreickinld3m23iy4xelxktzf5vwj2phizegekmangvewwvjcwsfcxcm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvcchym2gvvkovgkyjqo2asr/bafkreibjq77onovfr7ykfwgqoltmipxptpawvm2f4k3gfwoedogqbwqxva@jpeg
 
 iowa/cedar_rapids:
   region: "Cedar Rapids, Iowa"
