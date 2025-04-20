@@ -2757,16 +2757,33 @@ new_hampshire/portsmouth:
       photos:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ylskmymgzryicqz526t54srw/bafkreicexasksabv4wllsnuzobb34umoepflnorcy3qu3aa7vcbjbomexq@jpeg
 
+new_jersey/atlantic_city:
+  region: "Atlantic City, New Jersey"
+  coordinates: [-74.422926,39.364283]
+  sources:
+    - url: https://bsky.app/profile/n1ghtmarica.bsky.social/post/3ln7egwu7zk2a
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:efbtxt2xnzreizxywnepzf4k/bafkreibir3pbcsmbynjnrsfnyi7moc4c7yspo7dcdci6wowa7y6qi43cbq@jpeg
+    - url: https://bsky.app/profile/flutterby19.bsky.social/post/3ln7dfnyec22d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mrafqithsk6arndpnbfk6quo/bafkreidqpsnsusk4jmhtiefnhny6zs6gh66drokegp3imva44jjdo5ckdm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mrafqithsk6arndpnbfk6quo/bafkreige6vfxjgaq5fg7fqumkzt5j7xyau2owinrrcwsklbafufyreiqzy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mrafqithsk6arndpnbfk6quo/bafkreid4pzog2jepzfsolykgig5ljk3f7yenvwxwphbn6qgaxivxl5hrhq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mrafqithsk6arndpnbfk6quo/bafkreic2k5pfxuznib5idxpdok4nhniyye2md5xa4ixtwyjeqg5ucluf3a@jpeg
+
+
 new_jersey/trenton:
   title: "NJ 50501’s RISE UP Rally & Food Drive"
   region: "Trenton, New Jersey"
   address: ["State House Annex, West State Street, Trenton, NJ 08618, United States of America","West State Street","08618","Trenton","New Jersey"]
   coordinates: [-74.7707454,40.2208122]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/danpreston.com/post/3ln6u74edg22t
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pbjn5jekm3xp6qxx2brwjn7n/bafkreifxjvrwgj2i5n3zcn4ci2bpgro2np7zp5w2qz4gystqlolecaxzya@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pbjn5jekm3xp6qxx2brwjn7n/bafkreiafl7sprnmltqkjskga3xxhwiq23dwu2picxisch4butthbv6jsfy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pbjn5jekm3xp6qxx2brwjn7n/bafkreicxuhq5vj72gwpnzi7osjhfygnamjz5zbg2nvjp52k2qjxxav4kiy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pbjn5jekm3xp6qxx2brwjn7n/bafkreidgrh3xp6legq7syr66tz4ecjlm4loxndrgxx6orwljifmlmbn6e4@jpeg
 
 new_jersey/west_caldwell:
   title: "National Day of Action - Saturday, April 19 - West Caldwell, NJ"
@@ -2774,10 +2791,15 @@ new_jersey/west_caldwell:
   address: ["Crane Park","30 Clinton Road","07006","West Caldwell","New Jersey"]
   coordinates: [-74.29258681946123,40.84975478508025]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/actiontogethernj.bsky.social/post/3ln7aerj3mk2s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sb2kkroqkqbzew5dsjxwesft/bafkreifcnabpimojohwnxtdmfslrnclxbw3ph4y6nyl7rlgtm5vscveusm@jpeg
+    - url: https://bsky.app/profile/lydiapernia.bsky.social/post/3ln7diu3zps2c
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7ew4r22sdmu2uxbs4mrkl45f/bafkreig5zwk3iijevdvbycf66hqmzawgsjoffb7hdditw7fmk2r62fxc4a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7ew4r22sdmu2uxbs4mrkl45f/bafkreiagdjqagstoyhfkyy4q4hwxafop7axr4ff5flvuqkzwdzujn6kpd4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7ew4r22sdmu2uxbs4mrkl45f/bafkreig2fmy4m6nwmvrirelefcgsd63l7qibi57lnkozembb42yac3sn6e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7ew4r22sdmu2uxbs4mrkl45f/bafkreigagqzwyx5t3w4ae5qkvcv6lsvtzfimyevzzv6xohjixkpysaycfe@jpeg
 
 new_mexico/albuquerque:
   title: "NO SURRENDER SATURDAY : A Hands Off! March"
