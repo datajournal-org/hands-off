@@ -19,13 +19,16 @@ if (!usrEvents[key]) {
 const usrEvent = usrEvents[key];
 
 let source: UserSource | undefined = undefined;
-for (const url of args) {
-	if (/^https:\/\/bsky.app\/profile\/.*\/post\/.*/.test(url)) {
+for (let url of args) {
+	url = url.trim();
+	if (url === "") continue;
+
+	if (/^https:\/\/bsky.app\/profile\/[^\/]*\/post\/[^\/]*$/.test(url)) {
 		source = { url, photos: [] };
 		usrEvent.sources.push(source);
 		continue;
 	}
-	if (/^https:\/\/cdn.bsky.app\/img\/feed_thumbnail\/plain\/.*@jpeg/.test(url)) {
+	if (/^https:\/\/cdn.bsky.app\/img\/feed_thumbnail\/plain\/[^\/]*\/[^\/]*@jpeg$/.test(url)) {
 		if (!source) throw new Error(`Missing source for ${url}`);
 		source.photos.push(url);
 		continue;

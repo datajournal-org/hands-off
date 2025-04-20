@@ -257,28 +257,46 @@ arkansas/eureka_springs:
   region: "Eureka Springs, Arkansas"
   coordinates: [-93.7388517,36.400737]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/harriefarrow.bsky.social/post/3ln7fs4fdgk2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cj7ngbkjwhg74yupan2mrxqv/bafkreidikllzv23drrt2vrecksocv3n257omt2ujbkuxnc2v5ae7chu7qa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cj7ngbkjwhg74yupan2mrxqv/bafkreibammcjthlrkbu6dr2u2ae3hxgvpibny3sbobog3i2ngnhac3ghfi@jpeg
 
 arkansas/fayetteville:
   region: "Fayetteville, Arkansas"
   coordinates: [-94.1573781,36.0658832]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/emc2g.bsky.social/post/3ln73txm2jk2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3tertfq4d2fugcxas2wgqznv/bafkreihdlp3ecr7337bw5fiz6lfk7fivkyt6pfpixn4b3tzxphomqd4n7e@jpeg
+    - url: https://bsky.app/profile/triciawokeaf.bsky.social/post/3ln6v3xbosc2n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3hscpti2z7ibqzavhr6i7is/bafkreib2gn3g25jt5bko32r6oxflwaz5jda2hqijiguhhhz6k72dp2ex6e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3hscpti2z7ibqzavhr6i7is/bafkreidmqamrmyd5butbmgv6l7wj2jx3ik2kvwci37mx25arbs27cz4yki@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3hscpti2z7ibqzavhr6i7is/bafkreigz3r4seygd65kpqxr5k265zdvpmb2fm3soiehgy7434pazv2fwvi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3hscpti2z7ibqzavhr6i7is/bafkreigcd5yymwkg6ik33mgb7x6qtxbeayxeccmvdjyccdwbg2bqvc4zoq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3hscpti2z7ibqzavhr6i7is/bafkreifzbzp7zvvkle65o4l4w5wnnq5phfov6zhc4laleg7q2qxfiyioze@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3hscpti2z7ibqzavhr6i7is/bafkreigz7twnlkluc5kcs6utgtmodeqpsqqrggla5uakt3goj3pewpbseq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3hscpti2z7ibqzavhr6i7is/bafkreie3biuzmesokbhi6wxww3adjcn2owgpxc7zkn5jmrizueviqr4d24@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3hscpti2z7ibqzavhr6i7is/bafkreifhwxm5aiajuf476ftwnar22cpdvdaopkwbip3764pgesnuq75cgq@jpeg
 
 arkansas/little_rock:
   region: "Little Rock, Arkansas"
   coordinates: [-92.2892042,34.7466091]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/russell3591.bsky.social/post/3ln7ptleeu22n
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gtosvgmcsu67d54hx25o3nqn/bafkreic324wtwlc5unqbe2mwxb7bigtatb6674omkrhgjcd5yu32zsqu5m@jpeg
+    - url: https://bsky.app/profile/gmf1369.bsky.social/post/3ln7l35cb7c2h
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2gimdxoecefjfsqlniusfhmb/bafkreibykwzl7neglbka7socdp6zrm37hpidm2bf4lbek5fm6aflr6crsu@jpeg
+    - url: https://bsky.app/profile/jani321.bsky.social/post/3ln77c2ve552r
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z6ub7veuf4vlb4i3m4h26emc/bafkreiaqqs4a6q5uxxrgj3ex4e7bnyttkg43xykmzg4s5d56xruwb5zj3u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z6ub7veuf4vlb4i3m4h26emc/bafkreifli7xljfpyxx24i57rycut64kjb62fm2fmdmktdqro52t7p54hji@jpeg
+    - url: https://bsky.app/profile/aquatron.bsky.social/post/3ln7k2snqkc2c
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nzovwoqkivbgdxndzguwwgcb/bafkreiaqngi3nrukgxy34nu76mru5mkjlm37ykiluingd3ddvjigdt7qmy@jpeg
 
 california/aliso_viejo:
   region: "Aliso Viejo, California"
