@@ -2729,10 +2729,26 @@ nevada/carson_city:
   region: "Carson City, Nevada"
   coordinates: [-119.766885,39.1629085]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://eu.rgj.com/picture-gallery/news/2025/04/19/people-protest-against-trump-administration-in-carson-city/83177643007/
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177456007-ren-protest-carson-041925-01.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177459007-ren-protest-carson-041925-02.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177469007-ren-protest-carson-041925-03.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177475007-ren-protest-carson-041925-04.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177465007-ren-protest-carson-041925-05.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177473007-ren-protest-carson-041925-06.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177461007-ren-protest-carson-041925-07.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177474007-ren-protest-carson-041925-09.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177462007-ren-protest-carson-041925-10.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177458007-ren-protest-carson-041925-14.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177457007-ren-protest-carson-041925-15.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177471007-ren-protest-carson-041925-16.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177468007-ren-protest-carson-041925-17.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177463007-ren-protest-carson-041925-19.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177460007-ren-protest-carson-041925-20.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177477007-ren-protest-carson-041925-22.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177482007-ren-protest-carson-041925-24.JPG?width=1184&format=pjpg&auto=webp&quality=50
+        - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PREN/83177495007-ren-protest-carson-041925-31.JPG?width=1184&format=pjpg&auto=webp&quality=50
 
 nevada/elko:
   region: "Elko, Nevada"
@@ -2756,10 +2772,10 @@ nevada/mesquite:
   region: "Mesquite, Nevada"
   coordinates: [-114.0868377685547,36.81031548000478]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/storytimeratlarge.bsky.social/post/3ln6ymddqw22j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzyrw2clc6tt3ogtbpe6xybn/bafkreicmohxy5sma5akznf2sqakt33wcwib3mbe4voc2p7gkwv4jgkp5fa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzyrw2clc6tt3ogtbpe6xybn/bafkreiaz2d7oeepmianic5vjngifeer7l5livfbjxzpiexrrissaxihige@jpeg
 
 new_hampshire/colebrook:
   region: "Colebrook, New Hampshire"
