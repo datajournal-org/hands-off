@@ -1955,28 +1955,59 @@ iowa/cedar_rapids:
   region: "Cedar Rapids, Iowa"
   coordinates: [-91.663408,41.9725014]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/uniqueid.bsky.social/post/3ln7cg3yspc27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vu7rkhf6lh7txh3xlha6pti2/bafkreianty7w3xihapsvyg255zioompv6v5zuyu5dlcg353xnjfyccfgeu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vu7rkhf6lh7txh3xlha6pti2/bafkreifox6mfehuyptwitjdxkrr2424hwjlwac2zhvugovqzvgikylf5pu@jpeg
+    - url: https://bsky.app/profile/resist22.bsky.social/post/3ln6uros5ns2e
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzjiyteg37rks6qi4gkaponw/bafkreichrltczjyoev776bvqg4q3dglxrreafhxrzbglu6w22ijm5xiw54@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzjiyteg37rks6qi4gkaponw/bafkreibrxyy23pulx75pi3sdhlwvyvdf4f42mmndv6iglsb6xmx4e5zm5y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzjiyteg37rks6qi4gkaponw/bafkreigqr2lazaijw65ibeklognkgcms3dmzaa6hslllfoab7n73fogyiy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzjiyteg37rks6qi4gkaponw/bafkreia4hqiqdqcx4uqfrathrnta4obanng3acabrxffup6jci7omvtypu@jpeg
+    - url: https://bsky.app/profile/martylemke53.bsky.social/post/3ln7ilua3722q
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cvvbyzqire27tfngm2yppyv2/bafkreiebqbihggte7d3ckc7rn3nsb3l3pdk634m7kojdcm54em4jxomtjm@jpeg
 
 iowa/des_moines:
   region: "Des Moines, Iowa"
   coordinates: [-93.6043338,41.5911024]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/ashleyvotesblue.bsky.social/post/3lnaz3cqtac2l
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a5yaa2ip5zbp7rppkuumtzro/bafkreighndkmvor5ino5ysdaql47ucqizxfwblmcislhqedqp3qm3io5k4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a5yaa2ip5zbp7rppkuumtzro/bafkreiclcxbwsklyern2ziwz77ka53uub7y3hsizvfxep26lz46cyra3ga@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a5yaa2ip5zbp7rppkuumtzro/bafkreiby2zbn4vfajxun4wikzg6y5ljyeidwger2vlix2j2naqlylmwyye@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a5yaa2ip5zbp7rppkuumtzro/bafkreifpvjfii3hdzobe437sphel3y7lxeani5qgufm5fl64rcsf6mj2se@jpeg
+    - url: https://bsky.app/profile/klmnw.bsky.social/post/3ln6wrmavg22y
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qbcwgci6t2emw733mcz5hio2/bafkreibbsbgb4vxtclt6b6rbesyxws6vtveq5rwjd762buph47mfi436mu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qbcwgci6t2emw733mcz5hio2/bafkreich3uwqhzxshrr3htmn7tpuoowwdiwexsuihhlzoryugmf4fmfvfa@jpeg
+    - url: https://bsky.app/profile/doylekarr.bsky.social/post/3ln6oqajzds2h
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xo6vhghkbzmwoypqmw4sd3zp/bafkreihutjpeopy4our4bsf4y3ubzinbyxnwvrngiytmj4ertbathlnm6u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xo6vhghkbzmwoypqmw4sd3zp/bafkreicsokgrv5vwlhtsfxxr7tel45d6likne7ynxze5e26l4qqzctwoqm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xo6vhghkbzmwoypqmw4sd3zp/bafkreihzwmipttrrof27mg4wltzdpo4c7f6t4nukmn2lwwflufoulj7qxi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xo6vhghkbzmwoypqmw4sd3zp/bafkreicxwakqrdgqzkx6cys3qfvuifqsk3q2hoegizlkkbhfufbe2iebqm@jpeg
 
 iowa/iowa_city:
   region: "Iowa City, Iowa"
   coordinates: [-91.5361648,41.661311]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/debcares4iowa.bsky.social/post/3ln6lq7lxvc2m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ccpftvzcsvzbdyhyilzedx5r/bafkreiacyzfsmekqql4f5vj3pl2cxzn3ztslu7wndbwp2fahi5qnkqjvei@jpeg
+    - url: https://bsky.app/profile/alanrkay.bsky.social/post/3lnauirgd622o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kutn5v6ch4dbvvbru27j7af5/bafkreihku6bcplmjbtxg3o6yylfze5zdqlqrmt4n244ets2ijkqgqihhia@jpeg
+    - url: https://bsky.app/profile/janice4iowa.bsky.social/post/3ln6x7t4xec2y
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5vomxkdapgmikk5fdak2izsa/bafkreifyh3kc2cvyhtffs6boxxmdbizip5qaadtask3rarckegzjiluggi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5vomxkdapgmikk5fdak2izsa/bafkreie6ydymwig2yhoii3d3idkyu7n4xublz5itvtw65a3ifsdudh6i6m@jpeg
+    - url: https://bsky.app/profile/agentcd.bsky.social/post/3ln75qhatyk2v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cc6nahdqgvkhbq3iexd2jbsv/bafkreicdfi4ikddh6zw2aikj7a6kmj5g3fwxjlzdx45ewzlof675he2fgq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cc6nahdqgvkhbq3iexd2jbsv/bafkreiaosj4p2tzb6dpt3rmrqo6mj2krq4xop57sr3skt3ra7coieh3equ@jpeg
 
 iowa/le_mars:
   region: "Le Mars, Iowa"
