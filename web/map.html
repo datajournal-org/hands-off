@@ -24,46 +24,85 @@
 		#map {
 			width: 100%;
 			height: 100vh;
+			position: relative;
 		}
 
-		.maplibregl-popup h2 {
-			margin: 0 0 0.5em;
+		#mypopup {
+			position: absolute;
+			z-index: 1;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			display: none;
+			backdrop-filter: blur(10px);
+			background-color: rgba(255, 255, 255, 0.8);
+
+		}
+
+		#mypopup .content {
+			box-sizing: border-box;
+			width: 100%;
+			padding: 100px 20px 20px;
+
+		}
+
+		#mypopup h2 {
+			margin: 0 0 1em;
 			font-size: 1.5rem;
 			text-align: center;
 		}
 
-		.maplibregl-popup p {
-			margin: 0;
-		}
-
-		.imageList {
+		#mypopup .container {
 			display: flex;
 			flex-wrap: wrap;
-			gap: 0.5rem;
+			gap: 20px;
 			justify-content: center;
 		}
 
-		.imageList a {
+		#mypopup .container a {
 			color: inherit !important;
 			display: inline-block;
 			font-size: 10px;
 			line-height: normal;
 			text-align: center;
 			width: 128px;
+			max-width: 20vmin;
 		}
 
-		.imageList img {
+		#mypopup .container img {
 			margin-top: 0;
-			width: 128px;
-			height: auto;
+			width: 100%;
+			aspect-ratio: 1 / 1;
 			border-radius: 0.5rem;
 			box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+		}
+
+		#mypopup .close {
+			position: absolute;
+			top: 10px;
+			right: 10px;
+			background-color: #fff;
+			border: none;
+			border-radius: 50%;
+			width: 30px;
+			height: 30px;
+			font-size: 20px;
+			cursor: pointer;
 		}
 	</style>
 </head>
 
 <body>
-	<div id="map"></div>
+	<div id="map">
+		<div id="mypopup">
+			<div class="content">
+				<h2></h2>
+				<div class="container"></div>
+			</div>
+			<button class="close">&#x2715;</button>
+		</div>
+	</div>
 	<script async>
 		const resolve = (url) => new URL(url, window.location).href;
 
@@ -98,10 +137,36 @@
 			},
 		});
 
-		// Add navigation controls
-		map.addControl(new maplibregl.NavigationControl(), 'top-right');
+		// minimize the attribution control
+		document.querySelector('.maplibregl-compact-show').classList.remove('maplibregl-compact-show');
+
+		map.addControl(new maplibregl.NavigationControl(), 'top-left');
 
 		map.on('load', () => init());
+
+		const popup = new class MyPopup {
+			constructor() {
+				this.popup = document.getElementById('mypopup');
+				this.header = this.popup.querySelector('h2');
+				this.container = this.popup.querySelector('.container');
+
+				this.popup.querySelector('.close').addEventListener('click', () => this.close());
+				this.popup.addEventListener('click', (e) => {
+					if (e.target === this.popup) this.close();
+				});
+			}
+
+			open(heading, html) {
+				this.popup.style.display = 'block';
+				this.header.innerText = heading;
+				this.container.innerHTML = html;
+			}
+			close() {
+				this.popup.style.display = 'none';
+				this.header.innerText = '';
+				this.container.innerHTML = '';
+			}
+		}();
 
 		async function init() {
 			const iconSize = 32;
@@ -182,23 +247,18 @@
 				const feature = e.features[0];
 				const sources = JSON.parse(feature.properties.sources);
 
-				const html = [
-					'<h2>' + feature.properties.region + '</h2>',
-					'<p class="imageList">',
-					...sources.flatMap((source) => {
-						const title = source.url
-							.trim()
-							.replace(/https?:\/\/(www\.)?/, '')
-							.replace(/\/.*/, '');
-						return source.images.flatMap((hash) => [
-							'<a href="' + source.url + '" target="_blank">',
-							'<img src="images/' + hash + '.webp" />',
-							title,
-							'</a>',
-						]);
-					}),
-					'</p>'
-				]
+				const html = sources.flatMap((source) => {
+					const title = source.url
+						.trim()
+						.replace(/https?:\/\/(www\.)?/, '')
+						.replace(/\/.*/, '');
+					return source.images.flatMap((hash) => [
+						'<a href="' + source.url + '" target="_blank">',
+						'<img src="images/' + hash + '.webp" />',
+						title,
+						'</a>',
+					]);
+				});
 
 				// Ensure that if the map is zoomed out such that multiple
 				// copies of the feature are visible, the popup appears
@@ -208,10 +268,7 @@
 					coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
 				}
 
-				new maplibregl.Popup({ maxWidth: '450px' })
-					.setLngLat(coordinates)
-					.setHTML(html.join(''))
-					.addTo(map);
+				popup.open(feature.properties.region, html.join(''));
 			});
 
 			const canvas = map.getCanvas();
