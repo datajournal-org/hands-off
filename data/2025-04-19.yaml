@@ -4338,19 +4338,32 @@ utah/park_city:
   region: "Park City, Utah"
   coordinates: [-111.5041298,40.6542139]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/larrycf.bsky.social/post/3ln7vjvzbgc2w
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ui2vqicpaqwo3tzrua3vtw3s/bafkreidhxfroghzyt6o662crbtt6o6vspr4bzbc46yjeosnup7hvfubhei@jpeg
 
 utah/salt_lake_city:
   region: "Salt Lake City, Utah"
   coordinates: [-111.8881972,40.7774401]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/bettertimesahead.bsky.social/post/3lnay5fvius2e
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d57if4gsghpjj2i3624wsmmz/bafkreielhjtbbv5gvxxvj6j55nktkqbwrqmiresvuijuyvkhcmrlc5qt5e@jpeg
+    - url: https://bsky.app/profile/mtndtew.bsky.social/post/3lnatsqqpbk2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bvikz6m77ysocjmlxn4aft4b/bafkreih7rgfsv6jhfivyuxbfskun7ooyb4mg4b26gxz6m2yy4it2nh3fqq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bvikz6m77ysocjmlxn4aft4b/bafkreiedfdaaexurtlpmyz3f3pe6affjcv5mhfxqcor2b2c5r3mqc7enhe@jpeg
+    - url: https://bsky.app/profile/reindeer67.bsky.social/post/3ln75zrdo6k24
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yyfzsdc3537jbr2piicd3zjm/bafkreihqb3d3wqa3fnebtb6tbjot77zfullsu7a4rzqzuacxgyuiladini@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yyfzsdc3537jbr2piicd3zjm/bafkreidnur4pqyqoeeiro5cwb6vjig564ow5fgalxf4axkmn6zqsuwlukq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yyfzsdc3537jbr2piicd3zjm/bafkreicdycpr2hcnx3smwugyqqaolollvo6f2fygzmolkwgxoy2x52oeme@jpeg
+    - url: https://bsky.app/profile/skialta.bsky.social/post/3ln77uqnfs22w
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5w3lppphfztxivatcvyaqkqe/bafkreictj5r4xn5u6zl5igms3ppd3mmo5whhmyn6kgtzv4jujrbiiovu3a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5w3lppphfztxivatcvyaqkqe/bafkreihn7jfsgynzlxwdfinhxvdeibxezeoq2qsw6wzplbgbcchfb6wjwe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5w3lppphfztxivatcvyaqkqe/bafkreihwohhg55kciniodzlz3jl3u36ga3qpgxgtbhjej3s6eirpscgfba@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5w3lppphfztxivatcvyaqkqe/bafkreibqmzlydr3iqwb6oigtgtwa76obthlqppisefsua6njzufkdhujwi@jpeg
 
 vermont/burlington:
   region: "Burlington, Vermont"
