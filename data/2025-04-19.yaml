@@ -1117,82 +1117,98 @@ colorado/colorado_springs:
   region: "Colorado Springs, Colorado"
   coordinates: [-104.8209785,38.8356345]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://www.cpr.org/2025/04/19/colorado-springs-hands-off-50501-protest/
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://www.cpr.org/cdn-cgi/image/width=2048,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2025/04/Featured-image-protest-signs-e1745099130710.jpg
+        - https://www.cpr.org/cdn-cgi/image/width=2048,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2025/04/Cynthia-Barram-COS-protest-1024x768.jpg
+        - https://www.cpr.org/cdn-cgi/image/width=2048,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2025/04/COS-protest-dogs-1024x768.jpg
+        - https://www.cpr.org/cdn-cgi/image/width=2048,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2025/04/Coup-Coup-768x1024.jpg
+        - https://www.cpr.org/cdn-cgi/image/width=2048,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2025/04/Axel-and-Erin-COS-protest-1024x768.jpg
+        - https://www.cpr.org/cdn-cgi/image/width=2048,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2025/04/MAGA-convoy-1024x768.jpg
 
 colorado/denver:
   region: "Denver, Colorado"
   coordinates: [-104.9848467,39.7392115]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://www.newsfromthestates.com/article/thousands-gather-denver-protest-against-trump-administration-policies
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://www.newsfromthestates.com/s3/files/styles/d08/s3/articles/feeds-state-80/wp-content/uploads/2025/04/crowd-shot-2-1024x7681745112771.jpg?itok=kS-bunfu
+        - https://www.newsfromthestates.com/s3/files/styles/d12/s3/inline-images/feeds-state-80/wp-content/uploads/2025/04/crowd-shot-1-2048x1536-state-80-1745112773.jpg?itok=yA8g_cC_
 
 colorado/durango:
   region: "Durango, Colorado"
   coordinates: [-107.8789987,37.2770565]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/karen1952.bsky.social/post/3ln7ofg7jdk2l
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gjkvv7jbix6tviw2qedib3ud/bafkreif6bk5unow5tcidvca2bhhciwn3krvt7bbq76vv2tapuderzthplm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gjkvv7jbix6tviw2qedib3ud/bafkreihqczjah5cqxqixuzv7gl4q4slhwzohtjct4y2ospsi7jij65ogqq@jpeg
+    - url: https://bsky.app/profile/libertyandlife.bsky.social/post/3ln7op4wsv222
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:krduptanth2dk2njfrypoplb/bafkreibgjq3ubwjbrmsasedjrj5w3zun6lmbf4ps7447o7tagua34o3ose@jpeg
 
 colorado/estes_park:
   region: "Estes Park, Colorado"
   coordinates: [-105.5203746,40.3775598]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/nucleosomepolice.bsky.social/post/3ln6tr3cgis2e
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2oroedtgrjikzolmjzuphbfc/bafkreidpblc6gpkm2iomgvfvxluewbzojkzoqrfzhcsej65b5xbhpmxtqy@jpeg
 
 colorado/fort_collins:
   region: "Fort Collins, Colorado"
   coordinates: [-105.0776873,40.5818518]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/modicool.bsky.social/post/3ln74cwpg222s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mlvmrkexss7u7w5jhkgrkma3/bafkreihfndrcytluztpfaxmzwx4fndaaizlgnwnyzojzwqxwmw3pb65al4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mlvmrkexss7u7w5jhkgrkma3/bafkreibj2zta54d3lwom7rmz6puxx7bzihqg2oiia34gdeerxbgirifg54@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mlvmrkexss7u7w5jhkgrkma3/bafkreiarg43rrfavf2v7gm6wetknjkbb7csurortymhy47pyis2jdzc3py@jpeg
+    - url: https://bsky.app/profile/jmorl.bsky.social/post/3ln72dyiv4k2f
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:36uremkmljtovsq7ada7hufy/bafkreidzme457akxcbexmlle5db6fnvbudafutegywrutbtaeiq77stphy@jpeg
 
 colorado/grand_junction:
   region: "Grand Junction, Colorado"
   coordinates: [-108.5476788,39.0752576]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/coazsam.bsky.social/post/3ln6xsf6ov22g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ahsksl4mjecbsseydq3nx5hk/bafkreihxdh7u3rngohdg4ldnbr74m6ls6yghwgbdgi2y6ci3gt7yi5ddea@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ahsksl4mjecbsseydq3nx5hk/bafkreiaap6r64rt2na5gbx5qyfwooggvfddgmihyxt4bde4kuapypaepua@jpeg
 
 colorado/gunnison:
   region: "Gunnison, Colorado"
   coordinates: [-106.9266856,38.5456107]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/glads1.bsky.social/post/3ln6v2girlc2m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xanq5oxxibjyxg2vlkfshj6d/bafkreifd5s6n76422rs3adca2d333i24ap7p5tfkf67jnsoa2eeqgcnn4u@jpeg
 
 colorado/lone_tree:
   region: "Lone Tree, Colorado"
   coordinates: [-104.87906003697373,39.536127264739285]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/campkd.bsky.social/post/3ln7hvc7qdc2n
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s6mn2oxe3wrdxlgybrswiku4/bafkreibmzvqakpcnm5hmlduhbrl4i4x3rsqziqpp6d7dh2exi2te6nudtm@jpeg
+    - url: https://bsky.app/profile/campkd.bsky.social/post/3ln7c3jdkpk2n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s6mn2oxe3wrdxlgybrswiku4/bafkreifmcxr63hett2btbufdpgh3rsiul33cmflrytxioi72yo5oaamonu@jpeg
+    - url: https://bsky.app/profile/harveygirl.bsky.social/post/3ln6zaghjnk2l
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pyiilymkq47u6cue4je654ra/bafkreibv7r6zpj4jbdpukcf6mmourpm5gsjdzpn7rkn7il3klypmastt3u@jpeg
 
 colorado/longmont:
   region: "Longmont, Colorado"
   coordinates: [-105.1029396057129,40.168762857797134]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/nicolette970.bsky.social/post/3ln6v2skbjc2l
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:47q7yq5dx4eett2gfoeoslof/bafkreifwxvklasrbpskjyg3wqnfjbakvyfeh3i2an2xjftyiaifkz6hwu4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:47q7yq5dx4eett2gfoeoslof/bafkreigurmmk3gjb3aasmzh6y7pp6shildiqs7jc3wbvgmrgr6vkmws3gq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:47q7yq5dx4eett2gfoeoslof/bafkreigh4jq7q72vzlhaz5o5b6bynatncqnbiomlsaw7srogzmi4ukxiuu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:47q7yq5dx4eett2gfoeoslof/bafkreie2yyaagm4u47zularrw6rkgclh2cje6l574m7xls4insmr7hayuu@jpeg
 
 colorado/paonia:
   region: "Paonia, Colorado"
