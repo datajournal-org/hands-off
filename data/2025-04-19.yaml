@@ -302,46 +302,76 @@ california/aliso_viejo:
   region: "Aliso Viejo, California"
   coordinates: [-117.7237237,33.5793779]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/schwroark.bsky.social/post/3ln7zgb4c722m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pyclhu4xdykwt5khnerg5ycl/bafkreigfijnw5eopiawzwvgob7qu66kmtuopv22bhe5cvq2dnm75m54o5y@jpeg
+    - url: https://bsky.app/profile/southoc4democracy.bsky.social/post/3ln7adi6aks2i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moc26bkjym47bcqkgdeaqsca/bafkreidhtsxtkxqysmyxemp23woqp77tgjd3bdmzsv4tam75bikbpcrnaa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moc26bkjym47bcqkgdeaqsca/bafkreia2sxkqyypf7y5sg4shjjr5dwbnvazjjqau6c5ozjyzazri3eg4ky@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moc26bkjym47bcqkgdeaqsca/bafkreibzol63w5pwcu2mum5k7xojhkd2ldrmbion6jvolxlv2k4bkguuma@jpeg
+    - url: https://bsky.app/profile/johnthomas-socal.bsky.social/post/3ln6yge6hyc25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h24jyrm3dq5txa3t42bydwla/bafkreibljs7ewsucmqgsjsna57w3jlzbstri6lynbvntqw5nafanriknsa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h24jyrm3dq5txa3t42bydwla/bafkreid5geqcxjl2d4pjey44h7ewdzzpxgqe4lnfepkofrjw2wciqee7le@jpeg
 
 california/bakersfield:
   region: "Bakersfield, California"
   coordinates: [-119.10415,35.354339]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/tonyarmbrust.bsky.social/post/3ln72yilm6c2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7tnreyfbebujyxwltddj6y2k/bafkreialmvs74tzorzijhs2yo5rujxilhkykhvy3o4wedcnxzuifhavx24@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7tnreyfbebujyxwltddj6y2k/bafkreig5udpgfcgnry4l3hn2plnqlzi6qiyymcwd2wgxanucafsdgu2gy4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7tnreyfbebujyxwltddj6y2k/bafkreibmrihnudurlbleh7a2ech5nhihd4qrxtaixilfxro7prvog4cuxa@jpeg
+    - url: https://bsky.app/profile/tonyarmbrust.bsky.social/post/3ln73arbge22g
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7tnreyfbebujyxwltddj6y2k/bafkreia6zpvvnfgsj2kw7t5slayjkk3c245cf3etrmjfhnqdgqakehnz2q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7tnreyfbebujyxwltddj6y2k/bafkreiecuces4t5vjoo7yiaus2rlnnotil556ti73bdsoojcbgy36qxt3e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7tnreyfbebujyxwltddj6y2k/bafkreigr2af5j4aafuo62nzc33no4lz2twj3cwxow3j7hdaev6pl6rsrzm@jpeg
 
 california/berkeley:
   region: "Berkeley, California"
   coordinates: [-122.284604,37.87358]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jmcrawfordjr.bsky.social/post/3ln7toguxu22t
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:trq2hdjgdtxlr7r2fbua7t47/bafkreienokiuwcjjs3qaryizgwltfiiootc6fd54o4oo7xykfn6mimrsqq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:trq2hdjgdtxlr7r2fbua7t47/bafkreift4lcoaibwuh3tebhspokysqobtagt5zk5pmwn2ks76x6anympyu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:trq2hdjgdtxlr7r2fbua7t47/bafkreiehyp62632wpparsp2nw5r3bkq6v7uie5ukwif3ax47a3paetuaqm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:trq2hdjgdtxlr7r2fbua7t47/bafkreibngzr6qyzmf22w2kmn32ipsyuynotmzao5anhk6antm6qutwt3ui@jpeg
+    - url: https://bsky.app/profile/kristencweiss.bsky.social/post/3ln7uucg27c2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:itbjn7wmgg4ydxhu2xp25o2u/bafkreiew4jcn3dlhyqaszijhpedbsat5it7lenyzmimnqy5gixm5xu3hau@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:itbjn7wmgg4ydxhu2xp25o2u/bafkreia3hmbhybhv3mf7evnmu5g4tzvfqyybr7qslb63uv4xx2rdmjwgr4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:itbjn7wmgg4ydxhu2xp25o2u/bafkreid2yrm56ulj347imis7k4aqexgokvjkkt5irzcelya56s7q6cmvvi@jpeg
 
 california/beverly_hills:
   region: "Beverly Hills, California"
   coordinates: [-118.4030307,34.0715373]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/gavsbullies.bsky.social/post/3ln7wdvbrak2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ucot6y3dvac3252afx46hhpl/bafkreiexl5kaos67yjce2vp6dqbwblbpnn6rqqtfjn6zem3seybwye2q6q@jpeg
+    - url: https://bsky.app/profile/momsdemandfan.bsky.social/post/3ln7srmkb5k2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yhybw7tzhmrcvl7jg44db4xj/bafkreihkeiieokf6uyqehoqfsaqsc2ybe62c2trg2jn4qp4hwd7r3kowmm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yhybw7tzhmrcvl7jg44db4xj/bafkreid5tsnx35sv4nq5asyvw6deoqf3l4ma64walbwrdgl52e5cb35lvq@jpeg
+    - url: https://bsky.app/profile/joannapopper.bsky.social/post/3ln7ev23pis2a
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yygqb4frzedpm2no2nxvf5s/bafkreichyn7t5xanhfqs5rwxs3phr765azd6462l2kd5hybtdfhid6snsa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yygqb4frzedpm2no2nxvf5s/bafkreihu54bzm5sno6cgwxze5wj4kua2ul3j5xpntanjo644u22qgekvrq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yygqb4frzedpm2no2nxvf5s/bafkreid5nk2irqg4dixpttngebk6kapwl7ovsjlgestan7kozblb7b4254@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yygqb4frzedpm2no2nxvf5s/bafkreihqh5r76xvxmd2kgczzjpaibheewg3kq5phdk4pdjjdd64u2gcdo4@jpeg
 
 california/big_bear_lake:
   region: "Big Bear Lake, California"
   coordinates: [-116.91018,34.2440587]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/nurseelsa.bsky.social/post/3ln7j6zxxr22j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ojazxc3o5mcdyei7isr2vmna/bafkreid6fttyvh6plhmwi5jt26q6zt2gnnxi5o2xn7s4fqyz6uu46pjf5a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ojazxc3o5mcdyei7isr2vmna/bafkreibf2r4ikgl2nstorycw55v6hs7ceyqz6calal44cluvfwasslara4@jpeg
 
 california/calistoga:
   region: "Calistoga, California"
@@ -356,91 +386,186 @@ california/cambria:
   region: "Cambria, California"
   coordinates: [-121.0963777,35.5646228]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/bmkidd.bsky.social/post/3ln7q3pnypc24
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dvcivwyhjcvbf62qparydkdq/bafkreigjln62tubxq4kkjmbj4waojhsnn4advr6dehfkr3ryrzn77kne2e@jpeg
+    - url: https://bsky.app/profile/tdschade.bsky.social/post/3ln7nfwoz2c2n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:swvd3zlyndzhqgoedhoare3r/bafkreienq4h2uc77axyvljczqlj2ewqkvh6eewmvhdhphafvw62a5y6s44@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:swvd3zlyndzhqgoedhoare3r/bafkreiao4mlbdwrywqyfjueykbfllb27ouyhguvzmw6a2o73lwwbibjyke@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:swvd3zlyndzhqgoedhoare3r/bafkreif3vtjsjdcx6et53434wutulnnsk2dmu7tyn4bs4mpu67z227fefq@jpeg
 
 california/carlsbad:
   region: "Carlsbad, California"
   coordinates: [-117.3419237136841,33.142438300523104]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mssicily.bsky.social/post/3ln7u5uqjps23
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:axjuzy3et5fgyxxp3snuzc7q/bafkreihkrvn3hnpziovyspppwqwt4lkduwtlnswjvazswvg4havrgbcjwy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:axjuzy3et5fgyxxp3snuzc7q/bafkreigfm4wqy2a3l4kpn4okugak6qioiyviz6jec4vsbob22wqe2c5i2m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:axjuzy3et5fgyxxp3snuzc7q/bafkreieebjzx4xea72r7cjzko65vhqycliuzhn5ofnzavy4grx35khjzay@jpeg
+    - url: https://bsky.app/profile/mjf2.bsky.social/post/3ln7pownerc2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:glosrii3of5w5f4zzulrzjpq/bafkreid6pfa55klgsc3xbjg4oznmhinkz6dgthuxnl6lejo7isqmaih544@jpeg
+    - url: https://bsky.app/profile/alyssa11.bsky.social/post/3ln7nctlhs22j
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:obpugghspaxjnj5djh6a7yy7/bafkreih7jaht7ovcafm2qxslcsltwqrhijctodc3gitno4e3bz3yr5gpg4@jpeg
+    - url: https://bsky.app/profile/kimberlycal.bsky.social/post/3ln7lnufctk2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:weeiiqkbdue27qlhhnobdmku/bafkreicoffeqb75yau4pbjfj6xvjz2bvpmlw3bmnypmwxnb6qzzw2yvxwe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:weeiiqkbdue27qlhhnobdmku/bafkreicsif35fhqmwoz72rzx24ucaqgkwmyms36aef5x2f5r3atbatvy4e@jpeg
 
 california/chico:
   region: "Chico, California"
   coordinates: [-121.8374777,39.7284945]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/rex551.bsky.social/post/3ln7ib7cze224
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4bytlaqwmnyqyyltxh5ge6li/bafkreihlxwupltsgmr2l72zkukzgg4swoiwsfshatt5vqbh6cvqshxbrg4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4bytlaqwmnyqyyltxh5ge6li/bafkreidzhbesdrn2qahq7dhwzsxiitauhueyzgexyiv4p47wzubtl2ppbi@jpeg
+    - url: https://bsky.app/profile/girlwholikesroses.bsky.social/post/3ln7n7pvmls2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2wqlsvget4x5j2cmcsz4sgqq/bafkreiawmtzcfq26hhxeztapzgjy6ojuz7vik2khn2cmzykndisitejv6a@jpeg
+    - url: https://bsky.app/profile/girlwholikesroses.bsky.social/post/3ln7n6gwfmc2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2wqlsvget4x5j2cmcsz4sgqq/bafkreidijgpjqa3amm7yu3kbjdhtz3jiio7iztkcm455xtldk4uckrumjq@jpeg
+    - url: https://bsky.app/profile/girlwholikesroses.bsky.social/post/3ln7n3fu4ak2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2wqlsvget4x5j2cmcsz4sgqq/bafkreifroccd4qppruytguypiarcrcv3frfrmdhlwrei7qv6oxdjpwpslu@jpeg
+    - url: https://bsky.app/profile/girlwholikesroses.bsky.social/post/3ln7mzlkss22o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2wqlsvget4x5j2cmcsz4sgqq/bafkreiepfxmi2k2xgc32fl3i2tcl5wjfllwwd2okyy7gchrzkp357chy2a@jpeg
+    - url: https://bsky.app/profile/girlwholikesroses.bsky.social/post/3ln7mwr5a2s2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2wqlsvget4x5j2cmcsz4sgqq/bafkreicy4yso3uqrk4h3zi4ldhvhmhipsultrbuyjejcqnrhrcrqralbty@jpeg
+    - url: https://bsky.app/profile/girlwholikesroses.bsky.social/post/3ln7muj5ci22o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2wqlsvget4x5j2cmcsz4sgqq/bafkreicdoe5ni76a2267i3tccamb53b2qfd2awybwb3ishr3m7ulkhihxm@jpeg
+    - url: https://bsky.app/profile/girlwholikesroses.bsky.social/post/3ln7mm4vlrc2g
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2wqlsvget4x5j2cmcsz4sgqq/bafkreielfdemkf56ffevqf2qmd7aaalebfvt3oepzu5bsfeluvl6gjonym@jpeg
+    - url: https://bsky.app/profile/girlwholikesroses.bsky.social/post/3ln7mixghks2n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2wqlsvget4x5j2cmcsz4sgqq/bafkreic5wj3joxn7wbs5t43gn5qjwxt7tdim5agkmhsqdxapsfvlc2t5ky@jpeg
 
 california/claremont:
   region: "Claremont, California"
   coordinates: [-117.720274,34.107047]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sharonpalmerhamm.bsky.social/post/3ln7vmbtus22s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y6xdyoff2uvfdgxii3ffpc3u/bafkreigbh5da3z5wjtj5fezjbelfqq43v6s7peki5dx7kqqhcoc4nnxkle@jpeg
+    - url: https://bsky.app/profile/mksocal.bsky.social/post/3ln7rudrlak2i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jjvacfrvo7fzxqwuwi4w3lgy/bafkreigg7jxvr7iu4rdwzo3hslaaziyiywpjplg53oyslclcjqpem6xoby@jpeg
+    - url: https://bsky.app/profile/mksocal.bsky.social/post/3ln7rmsvkyk2i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jjvacfrvo7fzxqwuwi4w3lgy/bafkreifawaft6sqsjusqztvtrfuqdvlwvm7g4nweojkzpmdosnhswv5aji@jpeg
+    - url: https://bsky.app/profile/libertyandlife.bsky.social/post/3ln7pd2pf4222
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:krduptanth2dk2njfrypoplb/bafkreif5nwipx3sqnp6sddkldmlr4hlzgyxc4iayd3lv3vczuazmgt6tky@jpeg
+    - url: https://bsky.app/profile/libdibnords.bsky.social/post/3ln7oicxmtc27
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sghfdycu3eip3a23xatjcdzr/bafkreihbhfcka2w6fv4nuzl24mh73h5qmpabphoocuulhdtzlws7an37oa@jpeg
+    - url: https://bsky.app/profile/brdy57.bsky.social/post/3ln7lrtmrx22c
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6pwhu25crvjvp6otodmkyhoo/bafkreic7n3czeew6sgnwxhxitu7yfkfpnst3krlc7vzbfify2byytfdacy@jpeg
 
 california/colma:
   region: "Colma, California"
   coordinates: [-122.46408462524414,37.670403712820665]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/lepling.bsky.social/post/3ln7fnjbc7c2j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4o7gpordk7srtsirxnvmewoq/bafkreieb5rdnyb4ie5lniyjntpoh2dyczynn2ggrkmr65eoxoc5pgpdaca@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4o7gpordk7srtsirxnvmewoq/bafkreifikmwab6imymel7nswmj5ts46ukyapxw35tf3pnforuzhz4y3ku4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4o7gpordk7srtsirxnvmewoq/bafkreicldvn7otkshiw2iiutor74kjepnfymwh6itliw6qkap2fohszafq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4o7gpordk7srtsirxnvmewoq/bafkreiae3rtu64akjvx5mmuii56nktnhh2bwvcfo22uumlfdash2uzr3t4@jpeg
+    - url: https://bsky.app/profile/annforjustice.bsky.social/post/3ln7ejhcc5c2s
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xa7hbtr4gtycsmrbuk4q45gr/bafkreigkip3z2unofg7y5azrrutc2wbrboyr56safnacmxna3kmnjdbpw4@jpeg
+    - url: https://bsky.app/profile/tcw123.bsky.social/post/3lmx2prf7q22g
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fvfycnojwqziszul26dxfmh4/bafkreicfurm5viig4qnydx7gt7rzdbrbsxt64uv5fanotxd2mvbej7s3ie@jpeg
 
 california/concord:
   region: "Concord, California"
   coordinates: [-122.028121,37.973941]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://www.nhpr.org/nh-news/2025-04-20/hundreds-gather-in-concord-to-protest-president-trump
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://npr.brightspotcdn.com/dims4/default/7ecb8dc/2147483647/strip/true/crop/3606x2221+0+242/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2F99%2F16effa434e35b5c09d6403f7a341%2Fimg-4237.jpg
+        - https://npr.brightspotcdn.com/dims4/default/5c1b6ce/2147483647/strip/true/crop/1686x1038+0+141/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F40%2F66%2F5885166846048fceef9df3a3167c%2Fimg-3326.jpg
+        - https://npr.brightspotcdn.com/dims4/default/c17f27b/2147483647/strip/true/crop/4710x2901+0+605/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc7%2F07%2F4a8e56e44ea8b7b3213d13f85767%2Fimg-3265.jpg
+        - https://npr.brightspotcdn.com/dims4/default/744f110/2147483647/strip/true/crop/2710x1669+0+182/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F32%2F8d%2F3b038cf244f1a6899e1eac8dbd1d%2Fimg-4235.jpg
 
 california/corte_madera:
   region: "Corte Madera, California"
   coordinates: [-122.518505,37.925201]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/probonophoto.bsky.social/post/3ln7epnjaqs24
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q3lxmzy57nhxkc4q5sb6hp62/bafkreig3f5m4zuoxdm7csinovgv7z5k3iepbnzqrbktjqxfaym7nzeznyi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q3lxmzy57nhxkc4q5sb6hp62/bafkreientsymmaadq2ee7juffdvgebhrsopeofkjng2ss3r5cj3oggw4y4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q3lxmzy57nhxkc4q5sb6hp62/bafkreiadig54irdiy2betzuboawmbrl6hcurkonqevoz4ebnhuuzgjl3z4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q3lxmzy57nhxkc4q5sb6hp62/bafkreicexk7cnaseridya7gabcleqm5rj5ewizpc57odg5wywrppmu3lze@jpeg
+    - url: https://bsky.app/profile/chrislyons63.bsky.social/post/3ln76ko45ds23
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4uw22hwozmozrl345corwtgk/bafkreie5cjuysjblasbsqeahf3vggw6jzeuijnwnsvqyoqo2iq3lkik7ua@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4uw22hwozmozrl345corwtgk/bafkreibmquvlyrk343gvkouswcqafvlw2g6lbuzazenulpplr4w4oxmsae@jpeg
 
 california/eureka:
   region: "Eureka, California"
   coordinates: [-124.16228769498997,40.802472761790845]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/otherlisa.bsky.social/post/3ln7p7ameos2v
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46xablf5sk2m75223omnczxu/bafkreidhiwupg5qdqc47gheaamhnzrsfx5ctkcpfxvmnh2ybjt664pvywu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46xablf5sk2m75223omnczxu/bafkreidjgvgsfgi3id6jibnyl7uwnoyqbxr2ita7wdtvfmy43fcmq46tiu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46xablf5sk2m75223omnczxu/bafkreifqvk2halewucpmqy3iakv65wvcfj7jirrhk76ddap7qqx7tt75xu@jpeg
+    - url: https://bsky.app/profile/nanabev14.bsky.social/post/3ln7lc56tsk2w
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u3uw64xuupvbddjibxjvwpc4/bafkreicax25ilhq4i5wchxcq7nmihehpkraicgkgyyh45mcddljgg4sp24@jpeg
+    - url: https://bsky.app/profile/annettemakino.bsky.social/post/3ln7dkaicws2l
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkvgdlb2lrg3valz3fo4b4jt/bafkreialde2si6vtvijmyfzghb65ogpdjdvsmgvtbcfjjic6hbuvfi2bmm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkvgdlb2lrg3valz3fo4b4jt/bafkreib3xhsjmb264volnzcezhwblcqsfykmrvlbppqnzhoeqks2leiuhm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkvgdlb2lrg3valz3fo4b4jt/bafkreidrtxeer3ft2etivemcmxg7nuyblwtjqrcmukccg2s7l2kie3taza@jpeg
+    - url: https://bsky.app/profile/mrmacintosh25.bsky.social/post/3ln7cblvcds23
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zk2kijs4jkfxwb4ypw2doys6/bafkreifmndvvrhzpb3exmtxxnbdad6piv3a577pkybigbud5zmbtwjdhbe@jpeg
 
 california/fresno:
   region: "Fresno, California"
   coordinates: [-119.7988656,36.7626582]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/scotty63.bsky.social/post/3ln76gknaas2c
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:km3zkvdm4jf5ocuy7p2dyhyt/bafkreie464tfozieufbdxsmfhwqfjuutnjbxpfzcpxyjoegc4sab5v4kku@jpeg
+    - url: https://bsky.app/profile/enragedapostate.bsky.social/post/3ln737lwrtk2n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:davrr2jgkbpcnvdv3pajcylv/bafkreibaccpte3ravsrkf7laq5psft7fnrqya34vjnhsnnw3glvqfnzbke@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:davrr2jgkbpcnvdv3pajcylv/bafkreibaxxuejnjo2zome7jbveiynzsuv4jswx5ugrsmaxqewvraigvioy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:davrr2jgkbpcnvdv3pajcylv/bafkreiegwrx3jvrzbrthreyjhvygujoco6y2ug4auscywcujvb3w7um4qy@jpeg
+    - url: https://bsky.app/profile/notedfuturist.bsky.social/post/3ln727yf2rs2a
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2zl2qseu3dqlvm2zsxpurnxp/bafkreif57yfdofwqhuxiihfapmbo455dh4mimiitnuay5ouyzlpwosh2uq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2zl2qseu3dqlvm2zsxpurnxp/bafkreihiymqht3opspwcdq6bwefbbyyfavpgfnejopuufdrhgdkvltjppm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2zl2qseu3dqlvm2zsxpurnxp/bafkreidjvop6rovtdenx4lq4aw6c3hclefm6raylkmebpwldiq4kdjcrou@jpeg
+    - url: https://bsky.app/profile/rolledlow.bsky.social/post/3ln7cyu6etc2t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a2m5sbfunr7amb7fa2hqsst2/bafkreiaax4a6ollil7bpxpbsvskjm2la2mcxuzgkdpjqlzxbqxgx4uobu4@jpeg
 
 california/grover_beach:
   region: "Grover Beach, California"
   coordinates: [-120.608866,35.1200247]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/centralcal.bsky.social/post/3ln7jqws75c2d
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k432t57emwdtrpzzfigyvjf7/bafkreignbqgmcerkcx46ecju56ibjae4sc3delsmjb3kdymys2jn2tzyqq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k432t57emwdtrpzzfigyvjf7/bafkreib6n4bqq3k6j2sweftwbhao66v2dzswnuymmkx7yaue6o2oaeuhp4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k432t57emwdtrpzzfigyvjf7/bafkreibvwbiy57kcyhnfporkifvsef3nmnaxlppc6l4y5qfch3bwo7hn7u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k432t57emwdtrpzzfigyvjf7/bafkreido2u7f6lhzfi77n2b44szteod5ctttrtj7wg4vd33ubzjv3dvaci@jpeg
 
 california/hayward:
   region: "Hayward, California"
@@ -455,100 +580,167 @@ california/hesperia:
   region: "Hesperia, California"
   coordinates: [-117.3167489,34.4272152]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/decidedlyhopeful.bsky.social/post/3lm3s65prys2t
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t6yahb25owq3df5vsm4rzsmm/bafkreiaei4ctez3owj52ztilaxm76lntiy74yxexv4prhvlbjcoweiwqum@jpeg
 
 california/huntington_beach:
   region: "Huntington Beach, California"
   coordinates: [-118.0021351,33.6565779]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/kevinrew.bsky.social/post/3ln7zbwiczk2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yhfwlgmpoh5gmgo6anjslbex/bafkreie3ob3jmit7kw5wmxl6qcfjful3jqc4ke3syntdtpnanywhwrnz3a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yhfwlgmpoh5gmgo6anjslbex/bafkreicbumxezlyg5fuh7j6bwmtqlcvff4mkatkds6lvjvasqcl3ja2bky@jpeg
+    - url: https://bsky.app/profile/abrafford.bsky.social/post/3ln7uoqqydc2t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5np6gxanrae6iqzihfmasfhx/bafkreiby2ragwethiulzdmqih24wkz5clvrpvhbk3mtihmvt654kfwmzmy@jpeg
+    - url: https://bsky.app/profile/malena.bsky.social/post/3lnaahva6ik2h
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v7qxgsaicycbiy7kyjjkqkx7/bafkreihl5bdibtlbx47rjyhfs4dhd2nzbc5gn43uuzggaqcf23nohbhu7e@jpeg
 
 california/joshua_tree:
   region: "Joshua Tree, California"
   coordinates: [-116.314426,34.1346525]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mcookrod.bsky.social/post/3ln7x4hmm6k22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e6lxm6342nagecpfxc7mfvrq/bafkreiafctfct22xtdmjmodx4amo4zchxjzqjdlbnpcnewojwa7r6eryxy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e6lxm6342nagecpfxc7mfvrq/bafkreihmgk4vgtstemb753tks5pmisq3upjuuiwqddiotm23aoz4jvwdtm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e6lxm6342nagecpfxc7mfvrq/bafkreif25qymrnswjvizcbq7ful5wmxzcjcytjczwzhkfas2njc3vaobzy@jpeg
+    - url: https://bsky.app/profile/cristiecarter.bsky.social/post/3ln7v5iop7k2r
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wfa7bo45k23dkq6c4wzyjscf/bafkreifwrcvm7mgdaqw3skmnol7gv4zlqwfaosvdq47mpg64aiec2wtwgi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wfa7bo45k23dkq6c4wzyjscf/bafkreiblmc5oifk7xaxn2p2mneeoane7fdipe6hkpjqbmtl5l7bfu4xurq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wfa7bo45k23dkq6c4wzyjscf/bafkreiblyn4my4bae5u34aoy34oqetg5jgxwwudxr4qebh7lnynotmoade@jpeg
 
 california/laguna_beach:
   region: "Laguna Beach, California"
   coordinates: [-117.7857551,33.5424955]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/wishfullthinking.bsky.social/post/3ln7blvnpvs2m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l4cs2ddcwgsizdmhntw3bsqe/bafkreifo2nzleuat77vbfmwrekkujwsl2cfjea6ayl3pdri4jhr57ktmuu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l4cs2ddcwgsizdmhntw3bsqe/bafkreiepfymhn2gupmieeeydrz2fnav7ji4f44rereywdu25dheojreewm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l4cs2ddcwgsizdmhntw3bsqe/bafkreicsma5s4aisrnygxggw3vxo4fkxi2l53msczvcgxm5uivk6bbrwkq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l4cs2ddcwgsizdmhntw3bsqe/bafkreiafk7eg3yno3eazlkxkdprtj2mpxzp4zry2k6ygcscxtnrcn4nugm@jpeg
+    - url: https://bsky.app/profile/catbutlersr.bsky.social/post/3ln6yzr4ygk2g
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rkg5jsnwf2yv3fs6qjtusrw4/bafkreib22e6emin4nijhjx666qlibh73hxy5eq54qnof2m6z2ngqcwkci4@jpeg
+    - url: https://bsky.app/profile/catbutlersr.bsky.social/post/3ln74wqv6gk2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rkg5jsnwf2yv3fs6qjtusrw4/bafkreihqyo7g2swg2in53np6lqi7lcnvgjyxsuhbxvj5rkx42gtm7v5it4@jpeg
+    - url: https://bsky.app/profile/onlyshelterpets.bsky.social/post/3ln7mahpxwk25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h77plzg5y6eq5tg34hrjc3fq/bafkreidyu3dh27wltp7i76kd5iua7hwibgfc7ivx5erlivolvou2qiyqqu@jpeg
 
 california/lakewood:
   region: "Lakewood, California"
   coordinates: [-118.1165804,33.8583592]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/radray5.bsky.social/post/3ln7bvkpubs2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvu66v6iqvzwdvayjhcmptfc/bafkreid6wcdbo5scxn2mkt34xwhkatxiq57yv4dya57dqgmnk3erdcc7ti@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvu66v6iqvzwdvayjhcmptfc/bafkreig6bmkejk4if4gvit4dnfwuuf6qk5pdj33y3in6fyznhvkm6i4hla@jpeg
+    - url: https://bsky.app/profile/lobsterup.bsky.social/post/3ln6zvbehsk2i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t6tm346rnu6x6jglayxsbzei/bafkreigcrn3rljnljr2m4tgcuumoarhe7t2r7mxvhtacfvtgfeetp5upqu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t6tm346rnu6x6jglayxsbzei/bafkreidomrubmbkp5vwz5dgn6tp45xshwhule7ypupajas3bmebmdynwnm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t6tm346rnu6x6jglayxsbzei/bafkreifxfk2gnfp5czc2cbqxkdq67fahquje7sq5imglh2btbbspxt5qeu@jpeg
 
 california/los_angeles:
   region: "Los Angeles, California"
   coordinates: [-118.2436117,34.0539774]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/marble-curtains.bsky.social/post/3ln7ffmfoks2d
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yiusydjoye322q4ykl6w7jeb/bafkreihe5uxbr7dqggjvprpnzzrwayv44agrwbhsqeu3qgydzljrchoih4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yiusydjoye322q4ykl6w7jeb/bafkreifadhos5r4q7ivn4u32klt2jdcouigh76mz3kv5xwksik4bttgghe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yiusydjoye322q4ykl6w7jeb/bafkreib2veg72wihz3hbzw6c37xsv2s3wcvedl6tzlexaspidg5ueg72wa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yiusydjoye322q4ykl6w7jeb/bafkreifv2xksascqvdlvpsqnjws2ro7qwye5ho5eycslnyfzw5doevxdwy@jpeg
+    - url: https://bsky.app/profile/annkriss.bsky.social/post/3ln7ifztymc2h
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lqxnwiw77xqssenhvtrnvpgl/bafkreibluomrqes5dqzyr4cfquvgkai4pm6ju6qrmqkwx5qltoi6lb6lwy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lqxnwiw77xqssenhvtrnvpgl/bafkreihx4bdcmzwh2unnqrqxmxuhazor3iefdd56mjy42qtnepw3dsicqi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lqxnwiw77xqssenhvtrnvpgl/bafkreigesd5gdnqujhtlxq6rnco36i4sfkzvzu3q2whksnm5tubwea537i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lqxnwiw77xqssenhvtrnvpgl/bafkreic5qoxg2jcwhd4z557a6quxorwdjwu5d2hz6jhfzivxa6tvzygmtu@jpeg
 
 california/los_osos:
   region: "Los Osos, California"
   coordinates: [-120.832348,35.3107214]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/bdilley529.bsky.social/post/3ln7f37jpbs2q
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:urtc2avwfsry7ery7h2duqp2/bafkreieh2ao3mmfyhm6dv5bswx3ic5cyynkdgcjvs7cw7fb3w4kn3doubq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:urtc2avwfsry7ery7h2duqp2/bafkreigebg4trosvmlrc4ts7wy2tlsk5dfkyh252zovxdgwidjlbia56ze@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:urtc2avwfsry7ery7h2duqp2/bafkreidmanporlmmz5js75jes3gfxbgut2mznc337q55ldhbrmuq223uge@jpeg
+    - url: https://bsky.app/profile/elseigh.bsky.social/post/3ln7kicrbyk2w
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vvunp3nqrqj6wliv6h3iarnr/bafkreiho2ibec5vkhjlx5e7a6msqqr6hs3psuztaureltmh7pcbcroai2a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vvunp3nqrqj6wliv6h3iarnr/bafkreiel67zfpehuprjg25i6d3htkvjon7syua3or7yfwwlbe7hx76kmxq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vvunp3nqrqj6wliv6h3iarnr/bafkreifr4nvupp2gy63ldkm5mefuuaumgosvsofisu75xk5hgadukmvlyu@jpeg
 
 california/modesto:
   region: "Modesto, California"
   coordinates: [-120.9936784,37.6451832]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jgomula.bsky.social/post/3ln7evbk7dk2x
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:psfs4f5yrtoq4yzlubqrg52t/bafkreifywxltdldeb6o3fzbrsxwsyxeh4acjdvfm2tphifnnaeypoywyvi@jpeg
+    - url: https://bsky.app/profile/skbullock.bsky.social/post/3ln6tht6hzs2e
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zh7uov3k6xsgmhdylpkvxgez/bafkreichsdyhsuwyyb2qbs3h74rv246y455ejmrvevewn3daw2vmq53h4a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zh7uov3k6xsgmhdylpkvxgez/bafkreiawxkvppmql62x47onwer33khjkr4ztggfmqhw4jfjfpeiq2ovjd4@jpeg
+    - url: https://bsky.app/profile/carpediem-gals1962.bsky.social/post/3ln6thktpvk2n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ee3dui2xfbzqrubhmo2wyfj/bafkreib37p2rae46hsertge56at2ywgyjhqz7zuj2a7hz7to5adh52kioy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ee3dui2xfbzqrubhmo2wyfj/bafkreifityweivllvwkhxjvvwpdl3ylqas7ggnhsx4tilzbtsj6mzpms4a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ee3dui2xfbzqrubhmo2wyfj/bafkreibh77qak4ii452amy7afz4fec22kevpmtgdp4iw23bwtmzosdtqee@jpeg
 
 california/novato:
   region: "Novato, California"
   coordinates: [-122.567989,38.105993]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/openamy.bsky.social/post/3ln7vjhaqdc2a
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4beffuwud7vtcrep7ktswwnj/bafkreigv4olmahl6lqb3hk36ffswo3vgcyqqa5gvoorm7pi7aqdbdx4c5u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4beffuwud7vtcrep7ktswwnj/bafkreih7mtr4ahgxwinhqdnjrauh7gxhae7n6oouvymsck7pc3zdtd2vwu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4beffuwud7vtcrep7ktswwnj/bafkreiaw7d6je3mmidpgnzw5ungh5qfe2ofcgdob2xswj6zuwdlilq2wye@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4beffuwud7vtcrep7ktswwnj/bafkreievgwnvklmvizwpw6dkcnece4t5a56fjz5psampyjf7knm5ixgskm@jpeg
+    - url: https://bsky.app/profile/ninaschuyler.bsky.social/post/3ln7t6ivp2k22
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aotorp4pgf5kuf5rfe3pbzc2/bafkreif7vtmc3np7brh3avibwtv2f7ak4bxwjsdgecwyz4xrwkhjvqwtgm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aotorp4pgf5kuf5rfe3pbzc2/bafkreicjzqkmxvm5zsvyqbri5lmivetbp5fga22meo4v6arositdcykjka@jpeg
 
 california/oakland:
   region: "Oakland, California"
   coordinates: [-122.2718787,37.8051719]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/phelanjj2.bsky.social/post/3ln7wb5cw2c24
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iktarjjsnzc4idlenbt26wak/bafkreiagrfyf4rkgs3m4jba3x3npkra34phhdmmqsn3sujzjfqgzkktoxi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iktarjjsnzc4idlenbt26wak/bafkreifm27mdoarct2ng66d4qoanc3bpwbmhod5pj7elhsb3j6zz3pa3ha@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iktarjjsnzc4idlenbt26wak/bafkreighoitbtzbiesu3tl2qmfhlkpkkuug43mv4qoeyxqltgmucddsw54@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iktarjjsnzc4idlenbt26wak/bafkreiefz42fd65ucraoweilyqkznfg2fxgf5udsyfactvdxcn3rnk5zvm@jpeg
 
 california/oceanside:
   region: "Oceanside, California"
   coordinates: [-117.3802457,33.1967565]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/artcandee.bsky.social/post/3ln6sywc6wk2m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pmhyscv7t7incelmoevkijpr/bafkreig4pkoawew7yto73qo4u7qeylpbc3tqmnufp5tcplpysihwktl4pa@jpeg
+    - url: https://bsky.app/profile/strea3m.bsky.social/post/3ln7bq72j6c2n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bov6yefszoxcz2jkmp5b7fji/bafkreiedidd4ed5roajd4izv3o64hpwkmxzytksabjlsedrylsqw52uyhm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bov6yefszoxcz2jkmp5b7fji/bafkreigydqvdiblw3a4vekgtgopzaozjkers7a6ccg65ruga7safgaajm4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bov6yefszoxcz2jkmp5b7fji/bafkreigv4tb7adrtf2kjk4nnjxaxf4fczz7g2bgc5mowyhwplav2ichtgq@jpeg
+    - url: https://bsky.app/profile/paleofuture.bsky.social/post/3ln6oq3hfak23
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4usmserhjqkvhldgedfjb3jw/bafkreiasn2jvdvrcazcj5me2ggcrm5msu5eldng2u7mrmxe463qmig3k5u@jpeg
+    - url: https://bsky.app/profile/paleofuture.bsky.social/post/3ln6qjokyvk2d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4usmserhjqkvhldgedfjb3jw/bafkreiapbcarrgwp7dqrr6y62uaa2rxj3etqidqvkom4tnlzjrylnfv56i@jpeg
 
 california/palm_springs:
   region: "Palm Springs, California"
@@ -563,73 +755,115 @@ california/palo_alto:
   region: "Palo Alto, California"
   coordinates: [-122.1245312,37.4108245]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/probonophoto.bsky.social/post/3ln7poxbo6k24
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q3lxmzy57nhxkc4q5sb6hp62/bafkreihk4wvqbmwi2li532oltknzwkrtughlzvwkmftlr5df56ikifuzxm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q3lxmzy57nhxkc4q5sb6hp62/bafkreidoyjfydwai4mz5cxboseipfwvkthn2lr3424xuols53pfnwbpfie@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q3lxmzy57nhxkc4q5sb6hp62/bafkreidfqlw3pl5xsbwkix5w3tuangijjtp3v2zhxmwomxgzvnz4tbpn6y@jpeg
+    - url: https://bsky.app/profile/bookemdano83.bsky.social/post/3ln7ydxpumc2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:te3dup4s7ehykhoggaovtiyt/bafkreibonit7fuwl3uiqt37ou2ikgl4vdqxqatjeud4gctx3ypqpwsqqmi@jpeg
+    - url: https://bsky.app/profile/bdowney.bsky.social/post/3ln7uua3v5s2q
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6vdgoinf4xl7teq4quvhtf5y/bafkreigcp5mvmvr23y7sev7furgmkifp7alslehnjxfcucefqc4qk4uarm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6vdgoinf4xl7teq4quvhtf5y/bafkreifhxzzvcdkkw2how2uinc7g3n5tvkomqzlf6cwbxmrepkyf2u6upe@jpeg
 
 california/pasadena:
   region: "Pasadena, California"
   coordinates: [-118.1432961,34.1477921]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/bcgrote.bsky.social/post/3ln7yahxp4c2r
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vie2ax3m2v2ucutrdb6lg5bg/bafkreidzyvdkszrpiva5o4hme4zazbvdrcvnauialmvmyugrgkux3o3d7e@jpeg
+    - url: https://bsky.app/profile/democracyxxxx.bsky.social/post/3lnairx37as2v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mseg6pksdouggnvnoct45u7n/bafkreiajvtczqyhoif6twv3nk5bgg7g2runrogvvrvxpypctvsh7erwh6y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mseg6pksdouggnvnoct45u7n/bafkreiaauhorb7pa5bdpqxr4tla2icj7mm5zcafrvwmwd7df365x4ahp6i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mseg6pksdouggnvnoct45u7n/bafkreic2kbfkeaylqf6ricfwandn4neutriumpfxmte7xiyg6bxhgaafym@jpeg
 
 california/paso_robles:
   region: "Paso Robles, California"
   coordinates: [-120.6906835,35.6253834]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jaxs05.bsky.social/post/3ln764uuzt22s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wekxfhl5hwv7sp367qxslcry/bafkreidutyv2qcqwgqkq5lshclqzrm5mp6ux2oogogjsgd5fspo7klb3my@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wekxfhl5hwv7sp367qxslcry/bafkreih4wbj5kpifl7pb3nub6xxh5dfxh7a6zk5kpx4mmm4n4ichcoodli@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wekxfhl5hwv7sp367qxslcry/bafkreicwdz5ak367ahhajdvy6f23por5a4qgj5b2ljm2hrjdmobywx7ari@jpeg
+    - url: https://bsky.app/profile/lorenjavier.bsky.social/post/3ln6q5u5vos2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3c3645uga7v6mkfnudrbfv4u/bafkreidn4uzoj5s3qdmimnhvnb6tcekkzds43obd76p5kjk6yfklqwmaoi@jpeg
+    - url: https://bsky.app/profile/naturalbornklutz.bsky.social/post/3ln7w7gjzbk2w
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lta34pfxwfxhvy6aclcfvbb3/bafkreiaiqg3yyfwfb5bnyox6wfzjxfnh3cgelweishe3imhvyylkjxzhse@jpeg
+    - url: https://bsky.app/profile/shellyrn24.bsky.social/post/3ln6wnkgtq22u
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pn7uf6k4xekclv6yo62fiv26/bafkreietwzrsqj2sxscjvfx4ydoeo5d42wbyd4sr467nuqebxhb5yq3u3q@jpeg
 
 california/rancho_cucamonga:
   region: "Rancho Cucamonga, California"
   coordinates: [-117.5752102,34.1033521]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mindita.bsky.social/post/3ln7ckgndhc2v
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pmle5cghqsjpvpuqofueaw3u/bafkreiaurffrfedxz4z3fd5sgnj4ck6hnyo7vglzrcx2gis4h4btu5epqa@jpeg
+    - url: https://bsky.app/profile/keahn.bsky.social/post/3ln7s6bq47c2l
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5cpbubazehzbkowbckx5chsq/bafkreiaz7b6l7jhtxyittbpyeotmhbv2ml2i2anozyyyubrh2nz2yev4ii@jpeg
+    - url: https://bsky.app/profile/barbincali.bsky.social/post/3ln7eayx67c2n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qa7frjx36udxj5rwbk25asn5/bafkreibxla4eiu2ozs57cpshop24zibudy5yuzbuvzyemh6y5z4wueaeu4@jpeg
 
 california/ridgecrest:
   region: "Ridgecrest, California"
   coordinates: [-117.66974329948427,35.62232756480663]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/thecontraire.bsky.social/post/3ln7he46kzk2t
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vwyvvgjr5ifqyucmqc622lfe/bafkreiepmr5ybhjije5uq23ujpnipm7jhh2u3fa6667xxup5lkqy6nnyf4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vwyvvgjr5ifqyucmqc622lfe/bafkreib252lcaelzmkachhktfyrtytz3b2co3jo3vyhec7piypccwkjyiu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vwyvvgjr5ifqyucmqc622lfe/bafkreibw5tvdlldgeqsocgvn7dqloam6hbyf5mlq7zibi2wcaord235xwi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vwyvvgjr5ifqyucmqc622lfe/bafkreigizki5rnj2g5q2nz3cxhqivtxfpanucx6agteaoqeq6y3a4xtdkm@jpeg
 
 california/riverside:
   region: "Riverside, California"
   coordinates: [-117.3751138,33.9821454]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mamajoex2.bsky.social/post/3ln7nkdu7tc2y
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3iz7e5n7yi2a4xk5mkhnozyw/bafkreiegr6t5lcwk5rljwssqyjobxi64ej4jfopvtpcjb4z5xjv47t6lwa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3iz7e5n7yi2a4xk5mkhnozyw/bafkreihrrg2xr33neglyvvaqamho6qghzedczgcfe7vr2jmm6khvecnany@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3iz7e5n7yi2a4xk5mkhnozyw/bafkreigqtj5tgzyyexq2vorrfk7vilqfk5wikvym5zlddawfbmyozfyvb4@jpeg
+    - url: https://bsky.app/profile/lisad1180.bsky.social/post/3ln7pz5glms2w
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eebjci33c5c5yjlsglfya7lz/bafkreid6dhiywpqpukgykprd6i4pg6dbeu6huu2chg7lnmlpjcchnegh5q@jpeg
 
 california/roseville:
   region: "Roseville, California"
   coordinates: [-121.2660778,38.7689187]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/caligirl4ever.bsky.social/post/3ln7dzeqexk2v
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2cgrgnrqzb6hlp37jwiqm3uq/bafkreia7ihvgjpc42brnvk4tsagssrbesspxjh2cqn5aoynvcshgrekm4i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2cgrgnrqzb6hlp37jwiqm3uq/bafkreiaabn2nqgp54toym2zarqe65f2ldd4da7nxrv4foph7hyb4wo4shm@jpeg
+    - url: https://bsky.app/profile/helchose.bsky.social/post/3ln77d3vqt22i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2rbzxqmytflqrziv2qmwkdhd/bafkreibejry3wx5ebmwkiddrpm6c4u7dydnii4cwyamfaur25ad3phudaq@jpeg
 
 california/sacramento:
   region: "Sacramento, California"
   coordinates: [-121.5040392,38.5692957]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mljtalbot.bsky.social/post/3ln7zopo5xc2p
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxomd7yojhcfypkr4g4h2eti/bafkreidx6vgwtpgldav5wcejmw6r7vro3idqk6m4hqw36yuxyiuzuub22a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxomd7yojhcfypkr4g4h2eti/bafkreicejowhkzxuzshwdpumnk62hp6bqcu7n2yifkox5izppunaj6hcsq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxomd7yojhcfypkr4g4h2eti/bafkreidvbaen4vssicmemfpey3a6tmpu42eha2qx33kd6bzilqlraf74le@jpeg
+    - url: https://bsky.app/profile/zephyrsmom.bsky.social/post/3ln7yhle3tk2j
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uxqou5bymduuxzaqjhtry6o4/bafkreibfvyd74uf6es2msobnv5e7aavccnzegdke5tpvziob76j6t56rei@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uxqou5bymduuxzaqjhtry6o4/bafkreibnokuv2x4w5ufwhcvxptxg2wpidwubkfls2k6xhvxp3lh7b7ja4i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uxqou5bymduuxzaqjhtry6o4/bafkreiblp567seyceirr3o2upyo2zgilhdopzuvniof2tf7ksab3v6lnde@jpeg
 
 california/san_buenaventura_ventura_:
   region: "San Buenaventura (Ventura), California"
@@ -644,10 +878,17 @@ california/san_diego:
   region: "San Diego, California"
   coordinates: [-117.1720677,32.7219149]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/flowerscorpion.bsky.social/post/3lna5wispqc2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cx7jbuttzwlmdo2o4dvkmic7/bafkreigsbehf7n4j6sn4ucjcwe2icueldu2srvwmzekc34vugeh7yslblu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cx7jbuttzwlmdo2o4dvkmic7/bafkreiegyplr55sgawrr5vic5eogjyb7fxb2473chqdbg27reaq3lp7vmq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cx7jbuttzwlmdo2o4dvkmic7/bafkreiewz7yauezbhhd6xozuwi5wt75fb4zrp452eu3peiyx3j4dmxvx5y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cx7jbuttzwlmdo2o4dvkmic7/bafkreidzzd2vit2y5ejq6jivtdihklwfbg63lixqpw3al433xymad3hwyy@jpeg
+    - url: https://bsky.app/profile/steve-shrewsbury.bsky.social/post/3ln7ufmcoj22r
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oyecgeajzzhwj7almm2welym/bafkreieyvew2zn2sbu7vncu24fqdi2nj42jotfgg4ce53mxrlcimzftdly@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oyecgeajzzhwj7almm2welym/bafkreibwktkxpwefj2y3qym5fnzrajqlbsmwbevlo42nxroc7h5ekx7eua@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oyecgeajzzhwj7almm2welym/bafkreidkgjgokqmsiwnx3tfsscwjbxbbv5gqb7a6asoabsdxvjdddn6t3m@jpeg
 
 california/san_francisco:
   region: "San Francisco, California"
@@ -664,42 +905,81 @@ california/san_francisco:
         - https://s.hdnux.com/photos/01/50/05/54/27286282/3/960x0.webp
         - https://s.hdnux.com/photos/01/50/05/57/27286524/3/960x0.webp
         - https://s.hdnux.com/photos/01/50/05/57/27286526/3/960x0.webp
+    - url: https://bsky.app/profile/theauthorguy.bsky.social/post/3ln73itngjk2m
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46inhldixauneekgc7prj42f/bafkreidpowniqxirkb6rtsdssi2j6atdpuhtjhqtoxahzclseaky6mrgv4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46inhldixauneekgc7prj42f/bafkreifmfzqvjwkz3jd4giftuyptsccj73qvlbslyyr5u3asmuxvrhbdym@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46inhldixauneekgc7prj42f/bafkreiduk7x7wus4fd6ggqqssjr36eartial4yusddr6m2wds4exjrhciy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46inhldixauneekgc7prj42f/bafkreihfeojq5cshyyunn6nssesy64hcrhkjfao5bmnvac37edyt7w5edi@jpeg
 
 california/san_juan_capistrano:
   region: "San Juan Capistrano, California"
   coordinates: [-117.663575,33.4969582]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/craftykathy.bsky.social/post/3ln7cbsvyrk2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cf7ypylxe6pr7vzl3j2vrfgm/bafkreibrer5xj7zuqc45fl7h3jtpanrcucacgj6u3tlojkjkbxv4oec6j4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cf7ypylxe6pr7vzl3j2vrfgm/bafkreictr65yuvunq4z3lsll6z5yuaexugmgpwdiyi74aryh6qeltxkdiu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cf7ypylxe6pr7vzl3j2vrfgm/bafkreihi7cgip6sp5iw5ah4swh22xcke6dcenwr7riuo6mtkoqdit43fry@jpeg
+    - url: https://bsky.app/profile/lagunabeachdems.bsky.social/post/3ln7oxqkkdc2n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nqw45ltueg3dlikfkj5eqyrp/bafkreif6xydfqyxvfa4chcnc333aiwadqonnyhqr77u2hkbzyk2x6iajy4@jpeg
+    - url: https://bsky.app/profile/lagunabeachdems.bsky.social/post/3ln7jfq4h2k2d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nqw45ltueg3dlikfkj5eqyrp/bafkreigeocalmxyvase4rqjlaya4conm2pc2os3nfvlkym6gmvkfohdvli@jpeg
 
 california/santa_ana:
   region: "Santa Ana, California"
   coordinates: [-117.872971,33.7481995]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mrsmacladdie911.bsky.social/post/3ln75a7u5os26
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tc6onewaaqkl7yb3qgtnpu52/bafkreifxefqaxlv6wahvqhecj76enufsuhivtq7yqgevkxxxexycr2nlqy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tc6onewaaqkl7yb3qgtnpu52/bafkreifmtvdmrloksc2plwyr4jee2mskegmctiieimfbzkuqcs6d4c3e2a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tc6onewaaqkl7yb3qgtnpu52/bafkreifvybvdezq4vgp4h7s3bqr3xfhirvbrigf4oxpy7drytl4eg4tkg4@jpeg
+    - url: https://bsky.app/profile/chloepoochie.bsky.social/post/3ln7qcawbxc27
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xgyvw3bqxyil75bb2vqrmjpu/bafkreihpl7udwjequoohnnk3kfxkfcvpv3ci5swvf47yk3xnlhrjutalti@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xgyvw3bqxyil75bb2vqrmjpu/bafkreihe7inghiob5s6c4l3ewv545vu3doukpr64gkmbl47z2jhzjc7jjm@jpeg
 
 california/santa_barbara:
   region: "Santa Barbara, California"
   coordinates: [-119.702667,34.4221319]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/radicalcrone.bsky.social/post/3ln7aoyrevk2w
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t4hswvvgq76fstjey7hrfj4s/bafkreihrt6krm2426lfktoe6sbnkea35gvamqqqtcf7wlq64m7k7lopfja@jpeg
+    - url: https://bsky.app/profile/jrg68.bsky.social/post/3ln73v3bqpc2h
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:at3hbr3mol7mczvfpttd37ks/bafkreib55ztu4ym3vfw4ss76fxkfk7fasccipa3uvfy4scdxiqicu3qzhq@jpeg
+    - url: https://bsky.app/profile/patrickmccray.bsky.social/post/3ln6vroaifk2d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vtwivksl4dyq6soeiawmaea5/bafkreigomemspnz3wistyokd2hs47dawk2ywunk6bukevt2y5a2oo5ccyy@jpeg
+    - url: https://bsky.app/profile/geekmomprojects.com/post/3ln6pcpzlxk23
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wztoiwzg2m4kejoqc3v3m6cx/bafkreigjhzapl5zrmaaaosgbgg7t4et7flix7ibjooz4bqsooix6u6vb4a@jpeg
 
 california/santa_cruz:
   region: "Santa Cruz, California"
   coordinates: [-122.0213675,36.9758674]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/rogernolan.bsky.social/post/3lnal375u322l
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nwko2hqqmfpvvnktzn5bjagg/bafkreietrjsh3r4jn7ygsfrhicp5oqfanue33uqyzvrahceacoj3htcghu@jpeg
+    - url: https://bsky.app/profile/alisonwhite3.bsky.social/post/3ln7yqul3fk2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pjvt5j7iez2rwulcf2bxhquj/bafkreidlbfcl5wd7b46s6qqw4gvudwxucbfb6bhqx2yyikwtid75b2otbi@jpeg
+    - url: https://bsky.app/profile/scarletbegonia67.bsky.social/post/3ln7w6eqdyk2f
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxnremfqnesl2yvvm6r3zkkj/bafkreif4q7v7fhe7mxsxpkjbllkh637f3ljw522qzyrghya4ruhbz7ezhq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxnremfqnesl2yvvm6r3zkkj/bafkreia2a27uasfkxx2becyqi3wsm64cymdg3fi5kkly3yfwsnf2rq6cgq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxnremfqnesl2yvvm6r3zkkj/bafkreiapnztso6s7ftqeookqp7xl6ljnq3txftj7itilaqjsjfyku2xgfi@jpeg
+    - url: https://bsky.app/profile/lindaalevy.bsky.social/post/3ln7rtoshns2b
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cndbu74m2tmycawyeogpodk3/bafkreigt2g7gadsax4adfcalqr6gnalv3ge6q7zsdnwmpwweswttma25zq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cndbu74m2tmycawyeogpodk3/bafkreie3t37yosxkwo2hb2s55nbtycx4ejt2xfoqkc5w2obmqxcxqupx4e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cndbu74m2tmycawyeogpodk3/bafkreieyx72sxzoy2hsm6jyzmoba6hldixomxcuc4i36vgbv2eltrl5vea@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cndbu74m2tmycawyeogpodk3/bafkreiailn5awvmtcpx6c6m727pcnmv2ivbfh6g4shrcxn75dbjk6n3a7m@jpeg
 
 california/seaside:
   region: "Seaside, California"
@@ -714,73 +994,115 @@ california/stockton:
   region: "Stockton, California"
   coordinates: [-121.3193097,37.9952557]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/boomercatmom.bsky.social/post/3ln72iasghc2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:so4dx7lx7mcjxpw3x5sz2225/bafkreiebneftgvpvzkv3gviw6br54hj6utgl3boqunam42nfgj554m6vsq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:so4dx7lx7mcjxpw3x5sz2225/bafkreievszxx5qyxtffqknwdluznspixc5gxt2dkmpoqmkgollfo6iuwaa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:so4dx7lx7mcjxpw3x5sz2225/bafkreihqp4f6aie45qcfsbzz6z5jaqn4xatsxmq6azu57q4dhc3dk5mx2m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:so4dx7lx7mcjxpw3x5sz2225/bafkreigtozszkt62wgzbfpo5p4z4rg3urw66i6r5vocsstvrgcmmrplgka@jpeg
+    - url: https://bsky.app/profile/bonekyjo.bsky.social/post/3ln7bu3j2lc2u
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4futwx4p6xjt4m4ruyzp7vtl/bafkreibms5xvurwede6e5ec4kjvmthrundwg4yokk76zdbeuoal2oekrom@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4futwx4p6xjt4m4ruyzp7vtl/bafkreifnasrgncueisebg7gsgug7tgobpe3xgc7w7ec6342xvtyowwnl6a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4futwx4p6xjt4m4ruyzp7vtl/bafkreie7wk7thytxxzjosg4gjthyenywlnfsxctxqlwyetv4iux57q7g4i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4futwx4p6xjt4m4ruyzp7vtl/bafkreiclrp2k3743bddvwehy2hwg47ru7ztnlncgj3kjt4wmyfu7ncupa4@jpeg
 
 california/temecula:
   region: "Temecula, California"
   coordinates: [-117.14716068092105,33.50275645]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/gcaldero.bsky.social/post/3ln7r5tfags2f
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3swrvbhfl7cnbjszejsodbf/bafkreiaiqljbvxxx7enje5oqvckn5u7h2ht2ecdoaakt4cytkzynyrgvxe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3swrvbhfl7cnbjszejsodbf/bafkreihkdbl4veuqribf2wdjrn53x2v5xnonwmlnscwauqh3kj22sk4j4y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3swrvbhfl7cnbjszejsodbf/bafkreicxsvpc7uod4kgzyqqksaf2juliwtrbyp7jw72y5yu7eyu6dpccjy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3swrvbhfl7cnbjszejsodbf/bafkreiboda5tgktixxkuwftiogkvubur4ue7vsmjp3izluv2op5h2d4fhm@jpeg
+    - url: https://bsky.app/profile/she11ibe11i.bsky.social/post/3ln7ebe2aj224
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a3hncsi5moheyl53oeqjb4yj/bafkreidiu3rj223jrqptmw2edktereewtnxmzal6yhd3264zbg7eiwn4xq@jpeg
 
 california/thousand_oaks:
   region: "Thousand Oaks, California"
   coordinates: [-118.8877469,34.183611]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jeripalumbo.bsky.social/post/3ln7prsrfok2x
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ta4myl7ximm2r5mt333bqmz/bafkreib36elo32mfkij5qqlo4r3ujosad6dvarc2hqejykkyjr7joz5r6a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ta4myl7ximm2r5mt333bqmz/bafkreiehrhupwdgno4xelaoc36z6kucfyqgp46ddyh3umzxtub7dyfcep4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ta4myl7ximm2r5mt333bqmz/bafkreifcddoyv5ixueaac4tk6sid2kjlbixzxitbjdu6pvygjl7qxarawy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ta4myl7ximm2r5mt333bqmz/bafkreici7dzpks5ietnu42vjjqsmtr434bedvgimind5l4l4mgrdy4rhqi@jpeg
+    - url: https://bsky.app/profile/meadeseed.bsky.social/post/3ln7fu53vak2v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m3fcx62q5fvp2toekuqwatly/bafkreidttydtsyp3gwu76hpmy5eggpzmfjvevgd6sauwh3l5ke4tcu7b3q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m3fcx62q5fvp2toekuqwatly/bafkreicykibd226ah3svmqz7hbqtojztxyitinvtbcxi5vx22gxca4omna@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m3fcx62q5fvp2toekuqwatly/bafkreidaj2pyvcnygfy7k7f5lel75obyevf4coghog63k43flbprmwdcwi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m3fcx62q5fvp2toekuqwatly/bafkreifpe3glxz2muroviloulbvkfcnw4af5e53qjitxzu4erh243eyjve@jpeg
 
 california/torrance:
   region: "Torrance, California"
   coordinates: [-118.3497005,33.83139]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/carolstreet.bsky.social/post/3ln7idodods2m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nfvanjr6wzlwdk2ybuaxjnkk/bafkreibrcp224khfhe2kklzlqk3ihre6gwx4clskur76h37z25ayzsw5eu@jpeg
+    - url: https://bsky.app/profile/stickerj.bsky.social/post/3ln7hiwrcwc2q
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lfembkcry4bckcqq42s45yvw/bafkreifgtisaue2y5hzezgux4jtdy5gjf5ks4v77dixiu5jvxj5bojupui@jpeg
+    - url: https://bsky.app/profile/conventionugly.bsky.social/post/3ln7fvey62s27
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xv72uysbt6ljon2wj6d3xjsm/bafkreiguxth5f66lbs52sdvixcbjlptkntusii675gstup5h6e4qm3csgq@jpeg
 
 california/truckee:
   region: "Truckee, California"
   coordinates: [-120.1807937,39.3299408]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/eehc92.bsky.social/post/3ln7dtznvek27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgpyf5yuhcpnjgvd6pdtg2tf/bafkreift3q4yikxss3rbbc326an2eciytgs2zctm56suindyyleawks42u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgpyf5yuhcpnjgvd6pdtg2tf/bafkreiefvmvvy6tt3nil3ljtto7tju2rb2f3pkjwsvqd5yr7ehevboykju@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgpyf5yuhcpnjgvd6pdtg2tf/bafkreifi52igwoirzjm24f2dw64kr67qwwe7x3zddf5dtlfkdj2cgiusge@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgpyf5yuhcpnjgvd6pdtg2tf/bafkreicm4qlg5jcw4gyasw5jgosoydywgnr3llgs3rdkxdqrvjz5xdyczu@jpeg
 
 california/visalia:
   region: "Visalia, California"
   coordinates: [-119.313821,36.298387]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/russman1969.bsky.social/post/3ln6wzrpls22l
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2rvww5nh6vopw7zqytcmawzk/bafkreifnw7yijri5txeudxwjkhb4z3gusjmbnfykrgofykphqxmno5krf4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2rvww5nh6vopw7zqytcmawzk/bafkreidby5v342blp7amk5yqwupabk5b7oojzlwkbzhe5crsgnwaxx4xr4@jpeg
 
 california/woodland_hills:
   region: "Woodland Hills, California"
   coordinates: [-118.605811,34.18696]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/teenforeverblue.bsky.social/post/3ln7e2fhlpc2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4e6ol4ksljjhyi3kid7awbuk/bafkreicah5nlboqnuqq5z6wonpfgriswwzpxh3i6e3kwasqfwuctczgpia@jpeg
+    - url: https://bsky.app/profile/wadesheeler.bsky.social/post/3ln6xdykyxk2i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:77fvabga4hmxofg4vivsj2gc/bafkreiasidemsni3kia56mmfwtqjdjcwsfce3dchgyeiqspqtihprm3uh4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:77fvabga4hmxofg4vivsj2gc/bafkreiato2p6nlsj5eu36m5fke5eli6wsp6btcmgspdthc6pwqyyqtle7y@jpeg
 
 california/yorba_linda:
   region: "Yorba Linda, California"
   coordinates: [-117.8127305,33.8887456]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jillst04.bsky.social/post/3ln7xmdcvzc2j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zt4ponvrrw75zec7f4zmpzlh/bafkreiawx2n6qpk2hgkwr7hy5ydi2u7zs7tkjlwnzulxbytv56z7abfilq@jpeg
+    - url: https://bsky.app/profile/hugheshues.bsky.social/post/3ln7wnpt5222r
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:esa3y6ax7ybuw64t5rke3m56/bafkreicx44rgoie5f5amlsyyosmeje64whes3aslxobuyvwprkpq4f2ygu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:esa3y6ax7ybuw64t5rke3m56/bafkreibnrgq2wqbh2kyyeifzsvq4jzjhc4vy5sgylev4q2opxctjekwtza@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:esa3y6ax7ybuw64t5rke3m56/bafkreiaqx2je325zfn2fowuk63lbkef44obsxmhdks5xnydd44tqu4w66i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:esa3y6ax7ybuw64t5rke3m56/bafkreiek5b66j4yssyt777lvdkez5hv3zl3mienj2uewuf75hxfpzc3v7u@jpeg
+    - url: https://bsky.app/profile/transglamazon.bsky.social/post/3lna4irh2f22a
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5kokgey5ku2beckezffdqzc5/bafkreiaycwwi43gutucj7zoewmjhagcb22kf2lpbbykhdk47ffcyq2457y@jpeg
+    - url: https://bsky.app/profile/katrina-cheshire.bsky.social/post/3ln7zxpczmk2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzdkeu4l2bti6p3blkuvv27n/bafkreihfqde3pebkgkacgjv74o6ojomr7axjqu7bxijoll2eqfxjusqkui@jpeg
 
 california/yuba_city:
   region: "Yuba City, California"
