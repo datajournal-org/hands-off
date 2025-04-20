@@ -4859,37 +4859,84 @@ wisconsin/amery:
   region: "Amery, Wisconsin"
   coordinates: [-92.3618052,45.3109862]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mattwdavis.bsky.social/post/3ln6xr2tcss2a
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s4rxwhhgj6s2p53ofwrdhxph/bafkreielsqbo4m63efvxi227thuvk3sckjjsvglncecxcrashvge5dkzbu@jpeg
 
 wisconsin/green_bay:
   region: "Green Bay, Wisconsin"
   coordinates: [-88.0161265,44.5195634]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/unaffiliatedvoter.bsky.social/post/3lnaw3ebu2k2x
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:22nhv2asmixdivy5m4rpffbg/bafkreiavyk5dftdlqoquj2epnvzxsgiwgx3srk2mzu3eah2h3muf7by3ay@jpeg
+    - url: https://bsky.app/profile/keltaypd13.bsky.social/post/3lnas6oypqc2s
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e3jiiudh36wsbtpqsyzed7dc/bafkreibpsyak6v6buldesy7fmv7lnjkahktj7trsdxasdpmwvuwvrqtwma@jpeg
+    - url: https://bsky.app/profile/wlfwoman66.bsky.social/post/3lnap53xv7s2e
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2fu6rxeerfsblfa37sv5e6zi/bafkreickbgxsd7ondd7jfpyoumcikdmugnuiafsevot2xlh643tst3lhma@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2fu6rxeerfsblfa37sv5e6zi/bafkreiantebs3byrjocwbhxyaxmkzkwp4zy7d65nxfyvcyj43t4pbrb6su@jpeg
+
+wisconsin/hudson:
+  region: "Hudson, Wisconsin"
+  coordinates: [-92.7484961,44.973053]
+  sources:
+    - url: https://bsky.app/profile/crgulsvig.bsky.social/post/3ln72cbst622g
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ckvcrk2b4zqwg7jcwpzgexzs/bafkreideb2icff2fboyal5krba36n5so4s6av4tw7gwgnn5hsq6h5ezedu@jpeg
+    - url: https://bsky.app/profile/crgulsvig.bsky.social/post/3ln72dqfwyc2g
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ckvcrk2b4zqwg7jcwpzgexzs/bafkreihneqqqzr2eigo7fcohiaacjs7bp4qpkwxqx7zggvpshlix5w7k44@jpeg
+
+wisconsin/madison:
+  region: "Madison, Wisconsin"
+  coordinates: [-89.4012302,43.0730517]
+  sources:
+    - url: https://bsky.app/profile/wisconsinresist.bsky.social/post/3ln6v4lan3k2c
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nsc5mur2zu6eqkbfjsoahwx7/bafkreietm7gwd32nju3dujhg4towilokfluw43gaxtge63l5nmn6rfncwa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nsc5mur2zu6eqkbfjsoahwx7/bafkreiabas6ev5l7nsy3zefirysjvnot6a5a6vmcjuqsqviqd2tyza5z6u@jpeg
+
+wisconsin/milwaukee:
+  region: "Milwaukee, Wisconsin"
+  coordinates: [-87.9064736,43.0389025]
+  sources:
+    - url: https://bsky.app/profile/wisconsinresist.bsky.social/post/3ln6vydl3l22u
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nsc5mur2zu6eqkbfjsoahwx7/bafkreiezysaqpecamdoioh34z3cksqusqpr6rpo4i767nhk76mqnwx5w4q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nsc5mur2zu6eqkbfjsoahwx7/bafkreigw3ii2cfozjzpje7xbsu7v4d3nracfe4h5hcy26em5rxnhei4cda@jpeg
 
 wisconsin/muskego:
   region: "Muskego, Wisconsin"
   coordinates: [-88.10829,42.9195675]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/azielke.bsky.social/post/3ln76ck66k22f
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3hbwcoyxocjtk5n7xpffgzyd/bafkreibv32aaiok3n3vtetcxgsgdkbb6stwqfuscw4sbvkqftf2mpaeoje@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3hbwcoyxocjtk5n7xpffgzyd/bafkreicvhs6qatprjc2mrxx673owqqucsodo3yw7gcqnih66laqq2huamq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3hbwcoyxocjtk5n7xpffgzyd/bafkreibop3zkdpgcp7vg6oaofpwxf66l63esm7hud2q6tergczql4uwuqi@jpeg
 
 wisconsin/oconomowoc:
   region: "Oconomowoc, Wisconsin"
   coordinates: [-88.49949,43.1120105]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/thedeerwhisperer.bsky.social/post/3ln74dvoa3s2d
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3hc2koi3insgd6izhggv7frw/bafkreidkjmoinxqjudxl2vgx6jmzp22ih7osvzpx3hmddjskvavjfvdnom@jpeg
+    - url: https://bsky.app/profile/lori321.bsky.social/post/3ln73ki37y22q
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rpjkgw53q3uhj5fijciuml3n/bafkreiauhcwrxxhtmc6gh22lbz6cktsen2egrgrlhpgdgvhkkyvneecnq4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rpjkgw53q3uhj5fijciuml3n/bafkreicxctpooxrgprxxt33wj3njfsitilftv72ttgxcgct4pu4uyjd5bq@jpeg
+    - url: https://bsky.app/profile/notlarryhagman.bsky.social/post/3ln6ymnjawk2l
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6k22u3w7kvnxz4wijfknnipr/bafkreidtb4m2l276wpygl6di35kntvwc26yidxxmhet6wiqkziv2to3aee@jpeg
+    - url: https://bsky.app/profile/mvsforwi.bsky.social/post/3ln6xilcrmc2r
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g3xt7dbyodi3phzg6hsot5cw/bafkreig5qjx2uj6ocyk764dvr7r3rpqaygetb5osu2mfvnikexmrmz2pse@jpeg
+    - url: https://bsky.app/profile/karen-s-johnson.bsky.social/post/3ln6t4zqjhs2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e7x5hfhg3w6a2zkkjrlxm23j/bafkreibhc4ztdlut6piriath2v5p6o23ahl2ohccfqpqbosjha55uknqau@jpeg
 
 wisconsin/reedsburg:
   region: "Reedsburg, Wisconsin"
@@ -4900,41 +4947,88 @@ wisconsin/reedsburg:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+wisconsin/sheboygan:
+  region: "Sheboygan, Wisconsin"
+  coordinates: [-87.7149532,43.750828]
+  sources:
+    - url: https://bsky.app/profile/tiggerdaddy.bsky.social/post/3ln7cci2n4k2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5flfw6fbpkh4wwvkvxqkq4c6/bafkreihmtj4rndoy3h3fo5bmd4g7ltuy3biqo3vl7lvzuhz7azskzuuxxm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5flfw6fbpkh4wwvkvxqkq4c6/bafkreih74z2ocf3jvg52froe5ct6vorzp2kuhwezqwpqvwinijdoahj5ky@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5flfw6fbpkh4wwvkvxqkq4c6/bafkreiaoluahzz46jty2nrm64pq2d24ufs3snbvfm7up5a72dbpt6qtr4q@jpeg
+
 wisconsin/shorewood_hills:
   region: "Shorewood Hills, Wisconsin"
   coordinates: [-89.4463237,43.0780946]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/drmisserin.bsky.social/post/3ln7qxoho2c2q
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ivymtzmsnqmahpc7aufykz6/bafkreigbrnkdawzfuysdrpfyydslqnvz2zvowawf6ovzue3ac5jjld7que@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ivymtzmsnqmahpc7aufykz6/bafkreig4ozfo7uny3renkjzjgkhilva3s4rivlineun2gsb56menpstbnm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ivymtzmsnqmahpc7aufykz6/bafkreic6sttvs7o5fffegfafywtvsbcnqnot2szty7howfvy4yx7k2my6y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ivymtzmsnqmahpc7aufykz6/bafkreifk65qdn6ceuaw5xdo5tmkh3ao4tw56hbuyggknn26ewlqit2zv5y@jpeg
 
 wisconsin/stevens_point:
   region: "Stevens Point, Wisconsin"
   coordinates: [-89.5791491,44.5237571]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/standwithukrain.bsky.social/post/3lnb6qqrcmc27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kayt45lodtksgh6rqb46wyyc/bafkreigy25ufwuu5rmlslvylosersow7minlko2aioxtk4umrudlbz4zue@jpeg
+    - url: https://bsky.app/profile/jmway.bsky.social/post/3lnangeb3cs2u
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dtcumwrxhkvztfd54oasfuor/bafkreid2pkkhzon3fa3y5r3wulm2h2fda7zwfwzng5wclmswoflja5on2e@jpeg
+    - url: https://bsky.app/profile/a8h2o.bsky.social/post/3ln7gonmd6c27
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aw5c6eei3lpxvw4nuin74wmj/bafkreieah5jqpfokzfmiqxfinc3quhpd7wa7fnjhjecr26fdbp3ytz4bbu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aw5c6eei3lpxvw4nuin74wmj/bafkreieq2y4zoymy573jvtf3pwkzqbetcc5onxrmbvdilwueidz74li7um@jpeg
+    - url: https://bsky.app/profile/afelck.bsky.social/post/3ln6uax7n222z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kgot3asvedkwltvcbctwj67a/bafkreihhox7a5dyjr2l7jdiqbldror4pdbhrpztpjfeep7ga4qyfwqkyta@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kgot3asvedkwltvcbctwj67a/bafkreiafim25sforv6wcgy22fsjuhdl7iertz3knm2oxgrt5h7xv2gmqi4@jpeg
+
+wisconsin/sturgeon_bay:
+  region: "Sturgeon Bay, Wisconsin"
+  coordinates: [-87.3713592,44.834262]
+  sources:
+    - url: https://bsky.app/profile/wisconsinresist.bsky.social/post/3ln6vgvtmgk2c
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nsc5mur2zu6eqkbfjsoahwx7/bafkreibzrsyn43ypqxrgp7hyr2f3tizlzc4a67tdn6fuxonx2sknfmmhwe@jpeg
+    - url: https://bsky.app/profile/lisatetzloffwi.bsky.social/post/3ln6nz5i5h223
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bexyoi7fla5vanaylnvr26fo/bafkreicbjmgcezqezc4owq4e7lduecebtww3vqtm7n3domvxziyhnquubq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bexyoi7fla5vanaylnvr26fo/bafkreicsi7tjmllxhqc5mhlnlwhka5ehgye3tyvr2jaucbclogikcos44a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bexyoi7fla5vanaylnvr26fo/bafkreiftkm6l5jfqzd5gflula5xvev2gn5uvqfopzn3ya5ox6zomyyinvi@jpeg
 
 wisconsin/town_of_minocqua:
   region: "Town of Minocqua, Wisconsin"
   coordinates: [-89.7106583,45.871557]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/lynniek.bsky.social/post/3ln7astrtp22g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:buhoiupacopz5q2civygin65/bafkreid324oc7fg2i4rbnqll3agudp3s3vbwy6zef7xtcq74phpqcf7kxa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:buhoiupacopz5q2civygin65/bafkreieml75ym5r5qmugkwcqqkn363chmw3uuqt5ar3k6lml6oe32xa4om@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:buhoiupacopz5q2civygin65/bafkreibfvvqvsprzbyc2jnwkmn6x2dc2caofvhcgtx7hgfawoozimrjto4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:buhoiupacopz5q2civygin65/bafkreiag64zlzq7xtrvkwci36msfdhwnf6ksb3xrir5dnstqoh2uib6zyi@jpeg
 
 wisconsin/whitewater:
   region: "Whitewater, Wisconsin"
   coordinates: [-88.7304387,42.8338209]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/chachaholt.bsky.social/post/3ln6wrjcpqk27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l7iwzyw3jp7dfaca7hcq7jq3/bafkreib4ms4aplbiqme6higpe4q3mf3aelw4gamhf2bnd3xi472d22ezoi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l7iwzyw3jp7dfaca7hcq7jq3/bafkreib2xi2yukg52kxwrgvvxe33gdul3aas7ijvxzzw465q33s7iu6bpm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l7iwzyw3jp7dfaca7hcq7jq3/bafkreigjrqgyqdheiwbln33grwecjjs4jo4ptcpyytac5aghghdvfxurla@jpeg
+    - url: https://bsky.app/profile/jennyrule.bsky.social/post/3ln77lpqgwc2e
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q6255hgugl44kuopijrrs47i/bafkreicfgtkd6jduauc5atzswd74uwcedgwrtva33exchdl5ityufrhnxu@jpeg
+    - url: https://bsky.app/profile/lostwillow.bsky.social/post/3ln7n3p3xzc2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jnkwq4ovgfvjt3igsaajduew/bafkreidvsvipdertc2ub2o67mpswbixvndswgawykladigrpu6sk2nrqua@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jnkwq4ovgfvjt3igsaajduew/bafkreicrpndcy23rbap34e2jdcpqcxi2dacjmf37iywzhy7uwrenx2ahpi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jnkwq4ovgfvjt3igsaajduew/bafkreieb3wt4tqux7oq6jii6k5pbjdjhgwnqkupdr3d6w5f4motj567psi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jnkwq4ovgfvjt3igsaajduew/bafkreihplxjumtyhaze4lzscfigvaqadjnpygtpv3fpjvosqyrsusffioe@jpeg
 
 wyoming/casper:
   region: "Casper, Wyoming"
