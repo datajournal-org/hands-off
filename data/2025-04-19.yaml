@@ -3771,10 +3771,16 @@ pennsylvania/ambler:
   address: ["Intersection of Butler and Ridge","19002","Ambler","Pennsylvania"]
   coordinates: [-75.2180508,40.1523273]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/greatfartist.bsky.social/post/3ln74t4pph22i
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6qoc2zgnfhnitk25uhrasuoi/bafkreibh4plhcnkfhvqmppor232mdna6ghxm5eouv5orhtmx54uzrjbaam@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6qoc2zgnfhnitk25uhrasuoi/bafkreib7dnciafbtebcoewawfbdwyuat35bhbmwy23o4zvqx4pjl3fcn7q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6qoc2zgnfhnitk25uhrasuoi/bafkreidu3s37w7lmyubhc7emrrj2cohjivq7gls3zshcd2ooq3oq4e7hqa@jpeg
+    - url: https://bsky.app/profile/zaph0d42.bsky.social/post/3ln6sp7ptlk25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ervhsrfj2txif57tl22kxamj/bafkreielg5juk6ihokkvoygerejfcylkyny3ghkt6zivw3dlxpmix74an4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ervhsrfj2txif57tl22kxamj/bafkreic3d7okayhd6xypchijcvy4q3xf5wq7bczjw7ylpbdrjvygqkjg2y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ervhsrfj2txif57tl22kxamj/bafkreidswnu4g5noh2oayvibhclkzrts63wunk352q6yy3tl2yuctrol3i@jpeg
 
 pennsylvania/bethlehem:
   title: "No Monarchy in America!"
@@ -3782,10 +3788,18 @@ pennsylvania/bethlehem:
   address: ["Peoples Security Bank, 2151 Emrick Boulevard, Harvey's Corner, Bethlehem, PA 18020, United States of America","2151 Emrick Boulevard","18020","Bethlehem","Pennsylvania"]
   coordinates: [-75.2919437,40.652356]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/physiciandemocracy.medsky.social/post/3ln7ab3smbk2w
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5y5mgzgs2kx63mqc5gcz2n3v/bafkreidfj77i3fwj2ttqzrbjns2losd2cg5kshcw4krsadhwr5erew5jge@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5y5mgzgs2kx63mqc5gcz2n3v/bafkreibk7o7wygj4tgwzvclc7enzpu4kytz3jzps4vlrrxckpkxhhuo6ci@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5y5mgzgs2kx63mqc5gcz2n3v/bafkreiguzqu7vueoxlk5bxrumlc7dq4eaykb444kxel5yrgwyzg3arkwze@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5y5mgzgs2kx63mqc5gcz2n3v/bafkreifhme3dcky5umhh5xl47sfd2va7pll27wtdpl7wuyd73x4t7tcik4@jpeg
+    - url: https://bsky.app/profile/2kwaldo.bsky.social/post/3ln7bxczoic2s
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:konuf5sjt5cavmoxphkccwet/bafkreig4ka2bgtf4nzmw2zq3nmdbbpkhl4twvaoirg4yqgcdsua35szetq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:konuf5sjt5cavmoxphkccwet/bafkreiad5mtimbes27nkbwtgxdowzh7audontnm4a3awp36x2ssacuepye@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:konuf5sjt5cavmoxphkccwet/bafkreiaukkyc7msz5jsf65pcwn2raigd4t2dfteer5lukbnpy47fvc4yyy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:konuf5sjt5cavmoxphkccwet/bafkreifmrtw76n67voebnrj25ruqajq5exx5gmxeujfsj7durzv3ctqyxa@jpeg
 
 pennsylvania/chambersburg:
   title: "STOP THE COUP!"
@@ -3793,10 +3807,15 @@ pennsylvania/chambersburg:
   address: ["Chambersburg Square","100 Lincoln Way East","17201","Chambersburg","Pennsylvania"]
   coordinates: [-77.66085651937838,39.9372676]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sherimorgan.bsky.social/post/3ln6zbnf33223
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ko2q3t4lmvootjzhctkopta6/bafkreib5npk32ggdt5xe3j6ldvd7xok3donqnnwduhsxu7fx3ysfwzis6u@jpeg
+    - url: https://bsky.app/profile/mufsonl.bsky.social/post/3ln6z2emucc2u
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tdcp6viuefo4wp2mivqodrzi/bafkreidrioiazsaof2wzem3lhkk63zrambnb4o2b5oj6ziijxcayhb3l6y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tdcp6viuefo4wp2mivqodrzi/bafkreifhovmlywyrfqlji5jiunjtkmt4fj6lamp6c4z5rkstih5itpxesi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tdcp6viuefo4wp2mivqodrzi/bafkreiapeh4qhv5uirq5o3nxlhawudhxlddfkiwx3iwyqsylfcrdihghpq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tdcp6viuefo4wp2mivqodrzi/bafkreig42zwvmbp735fgkk5txgsjvvv5ynxslxv4meahwslmoi4aswrnfu@jpeg
 
 pennsylvania/ebensburg:
   title: "Cambria County Dems"
@@ -3804,10 +3823,9 @@ pennsylvania/ebensburg:
   address: ["200 South Center Street, Ebensburg, PA 15931, United States of America","200 South Center Street","15931","Ebensburg","Pennsylvania"]
   coordinates: [-78.724874,40.484162]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/aruralvoice.bsky.social/post/3ln6pnbymzc2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:htnlugaslliaqsgyzwtxzrs5/bafkreiag22t2sdjxs62jdflbbgymvrxq4bv5boxkk4e23yefassv33utw4@jpeg
 
 pennsylvania/ephrata:
   title: "Hands Off! Ephrata Rally"
@@ -3815,10 +3833,12 @@ pennsylvania/ephrata:
   address: ["Ephrata National Bank, 31 East Main Street, Ephrata, PA 17522, United States of America","31 East Main Street","17522","Ephrata","Pennsylvania"]
   coordinates: [-76.1760756,40.1780881]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/notthatberlioz.bsky.social/post/3ln7e44y4dk2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5hynwcwvxw3cgbdzpdpyd4sn/bafkreigt7l3jgyeega4iwmo7bt446pba2bzjjc6sgiw6c4ay4juckxiicm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5hynwcwvxw3cgbdzpdpyd4sn/bafkreiauoq2lpriyt4nfmwmknftfo5uizauolk6ekviiyh2olxtkyzlghe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5hynwcwvxw3cgbdzpdpyd4sn/bafkreibfaazxp7npduurxubpitrb34uom42x6bxrrgk6nxbfluk575jhwm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5hynwcwvxw3cgbdzpdpyd4sn/bafkreiapd4nmfoiyeeazqmgqhub54iemelr7izovlj6sbtgsfwxcmr2jye@jpeg
 
 pennsylvania/gettysburg:
   title: "Rally for the People"
@@ -3826,10 +3846,18 @@ pennsylvania/gettysburg:
   address: ["Lincoln Square, Gettysburg, PA 17325, United States of America","Lincoln Square","17325","Gettysburg","Pennsylvania"]
   coordinates: [-77.2312524,39.8307933]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/grandmassp.bsky.social/post/3ln73x4jn7c24
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yoh2aeldey5rwris5xje36en/bafkreifnojn7lvcsoabldith3t4ubwugiwg6viccc3kesckgnhvew6ucfa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yoh2aeldey5rwris5xje36en/bafkreihxwfikmy3zulf776xksi3rzypwo6sval2fl3lgfiof43vxxja2ui@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yoh2aeldey5rwris5xje36en/bafkreifdu4ighug5q4mi2oyfigzqhm4y6tyirsxzuvcre45r3vcimcdqua@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yoh2aeldey5rwris5xje36en/bafkreidfobgzquyda2vaxrjxs3mrbw56k4ipr5j426avatoi2lthncticm@jpeg
+    - url: https://bsky.app/profile/yellowhillphoto.bsky.social/post/3ln72kubj2s2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6g7la6aox35wadlvyozdzpem/bafkreibhdez4qudlm6b2ujsgvg7lpmv5m2qabnuuxt25rwcmjoeptelm4a@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6g7la6aox35wadlvyozdzpem/bafkreiadnkg6wrm5yxxefd3bd6sqfb2tpwbnssebcbbt7tkxnbfugwwcka@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6g7la6aox35wadlvyozdzpem/bafkreifptzvloosm3ui57yq6cro4z4s3ii3gedmcgrga3e6lfrhebenjhe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6g7la6aox35wadlvyozdzpem/bafkreiecxxubqeoychy56s7yvmrkrhoi3icejvflpjmjwjj2xwjurd6ure@jpeg
 
 pennsylvania/greensburg:
   title: "50501 Next National Day of Action: Westmoreland County"
@@ -3837,10 +3865,17 @@ pennsylvania/greensburg:
   address: ["2 North Main Street, Greensburg, PA 15601, United States of America","2 North Main Street","15601","Greensburg","Pennsylvania"]
   coordinates: [-79.544768,40.303587]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/rjserinko.bsky.social/post/3ln6x3b7ij22c
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zcaztmvlrkhiuftyx52gmexr/bafkreibeswqosnnzugniorcoc7dso6v4yy33mc4nq2q5dwkb6qdirx7fne@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zcaztmvlrkhiuftyx52gmexr/bafkreiff7a6twbbk2osa3bw2evd5enbj3gbaodriae6t6mr3asdwsu6pve@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zcaztmvlrkhiuftyx52gmexr/bafkreih5elf2nhjyc5dtmcxlklapufkgtdnwswb6fmzykolz5yoyu4ebky@jpeg
+    - url: https://bsky.app/profile/rjserinko.bsky.social/post/3ln6x47rnc22c
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zcaztmvlrkhiuftyx52gmexr/bafkreihhby4p7cfuzfnhfuo7erjyftxux5q3ppgenybg7xw7wext4kp7mi@jpeg
+    - url: https://bsky.app/profile/dbaldinger.bsky.social/post/3ln73uqsbe22d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7wnqamjw3uyqkeahhxk2mvye/bafkreib34u7sofs5pivrfcyajsoplsdyz732atbrb5qocfgilee7swgbky@jpeg
 
 pennsylvania/harrisburg:
   title: "Day of Action"
@@ -3865,10 +3900,9 @@ pennsylvania/lewisburg:
   address: ["743 Market Street, Lewisburg, PA 17837, United States of America","743 Market Street","17837","Lewisburg","Pennsylvania"]
   coordinates: [-76.8896856,40.9615517]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jerekmyers.bsky.social/post/3ln6xqdmbht2f
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6hcyg4t5t44txmyyv62ic7ty/bafkreidocbfskxs4tcxdbor26jqqhj32z5frhth5pegncekedsp647naby@jpeg
 
 pennsylvania/maxatawny_township:
   title: "National Day of Action - Kutztown University"
@@ -3898,10 +3932,10 @@ pennsylvania/milford:
   address: ["Milford United Methodist Church, 206 East Ann Street, Milford, Pike County, PA 18337, United States of America","206 East Ann Street","18337","Milford","Pennsylvania"]
   coordinates: [-74.8003959,41.3216245]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jmrgovtap.bsky.social/post/3ln7bgjusk227
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3xntzt5iuaqyfwwidpybejna/bafkreiddxtzkw4sg2yqwmn55grqfv5uxjnkmsqpel2sjbpys6mffekac7y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3xntzt5iuaqyfwwidpybejna/bafkreifg274vsur435635gakqqve22qkhjtzhticmx4szewauu7h4wb2o4@jpeg
 
 pennsylvania/norristown:
   title: "The People's Party: A Celebration of Resistance & Revolution- MontCo, PA"
@@ -3909,10 +3943,16 @@ pennsylvania/norristown:
   address: ["Airy Street Municipal Lot","Airy Street (at Dekalb Street)","19401","Norristown","Pennsylvania"]
   coordinates: [-75.34147024154665,40.11572286428464]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/ahronnee.bsky.social/post/3ln7dfezxas2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:npkr7a3pwyrbsy3eew3oek7k/bafkreidmjnlowtypqry5zp2xyynacsd652lhdwb54frscq5qmwcstc6r5u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:npkr7a3pwyrbsy3eew3oek7k/bafkreigsfdiocab63mg4zzcs6gzjwzkq36t63b5tqpq5ndexymth7r7ti4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:npkr7a3pwyrbsy3eew3oek7k/bafkreibs5zzdhgxpsh6pdil2hzqkfxvtimqmcd4xllquhuhzjg3kcodhy4@jpeg
+    - url: https://bsky.app/profile/ahronnee.bsky.social/post/3ln7dfb24gk2u
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:npkr7a3pwyrbsy3eew3oek7k/bafkreietdt2kprnd2wpzbjskqor6upfehcs5msb5m2cp346yc54qxm5pnq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:npkr7a3pwyrbsy3eew3oek7k/bafkreiaa2rjxns6k3mjenhsveqchjltjsj2xqo2dulq7fxo46qkckspmk4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:npkr7a3pwyrbsy3eew3oek7k/bafkreic22w4orb4m6pk7kehwefp4drjethrl6l6e4j2pldcjga34wueniy@jpeg
 
 pennsylvania/philadelphia:
   title: "No Kings"
@@ -3936,10 +3976,17 @@ pennsylvania/pittsburgh:
   address: ["Schenley Plaza, Pittsburgh, Pennsylvania, United States of America","Pittsburgh","Pennsylvania"]
   coordinates: [-79.9525627,40.4427237]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jeremysdesk.com/post/3ln6wxvrdys2o
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:76gyumuh5s7cwzmrihyups23/bafkreif3ncmkdzvvgjato7zbju3mudij4336gyd5seuj44bk3zf2czp4bi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:76gyumuh5s7cwzmrihyups23/bafkreiaiawyi3mj7pzgftjvo64qd3igqe53wjc2pkastph33vjzozxyjy4@jpeg
+    - url: https://bsky.app/profile/sunnyhippies.bsky.social/post/3ln7clre4r22v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bajlo7qyqarfdwi6q44svcal/bafkreiemflydbpzhh4ut4jptuu3esjxfbcpyn7a3zcbht47ralhn5aguum@jpeg
+    - url: https://bsky.app/profile/bsn555.bsky.social/post/3ln757mfb322x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wbej6ond4wyka5or6p2k3rvl/bafkreidhxcctnn43ynauij4j56zz3rea4ftkswpddna5m5deilwg2n7d64@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wbej6ond4wyka5or6p2k3rvl/bafkreiegptdgy5qyo2lufu4vikt3y74tmlheihnijmgax67ggrjndg2vjq@jpeg
 
 pennsylvania/west_chester:
   title: "SAY NO TO TYRANNY!"
@@ -3947,10 +3994,12 @@ pennsylvania/west_chester:
   address: ["HISTORIC COURTHOUSE West Chester, Pennsylvania, United States of America","CORNER OF HIGH AND MARKET STREETS","19380","West Chester","Pennsylvania"]
   coordinates: [-75.6059638,39.9597213]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/babbittphoto.bsky.social/post/3ln7e4cni2c2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ynnkz6uzshz6fki4kfy7m7a3/bafkreicc22ur4uqteshglkk4xbgxz53w7xoo6yszizimzudgeyczwet4lu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ynnkz6uzshz6fki4kfy7m7a3/bafkreihtkf3yot2rr7enmtiwaeq5kl4ypp2io5koqtyttha4rvy35gkcji@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ynnkz6uzshz6fki4kfy7m7a3/bafkreigeka24el6oxgbsoa63xwlwwk72mbnmkysxzzchvzqq34pvddodwu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ynnkz6uzshz6fki4kfy7m7a3/bafkreibn6p7xbcj74vrlis26yjza3ezufzdsasyaegftnjsecbg6bicldi@jpeg
 
 pennsylvania/west_reading:
   title: "Hands Off / Anger to Peaceful Action"
@@ -3958,10 +4007,12 @@ pennsylvania/west_reading:
   address: ["West Reading, Berks County, Pennsylvania, United States of America","Penn Ave & Park Road","West Reading","Pennsylvania"]
   coordinates: [-75.9474322,40.3337038]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/pokeysis.bsky.social/post/3ln7dulgerk2w
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f5v62sq3xbn65ur7pevtitw3/bafkreihatt4bgsvu6yl73pr6fs4ivqdcd2nf5dvlutrousprlcky67n7oi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f5v62sq3xbn65ur7pevtitw3/bafkreiacqgnojxaog63r5nv3chzbeei5itwos6ubjpkyipyxt4mksscori@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f5v62sq3xbn65ur7pevtitw3/bafkreigif5zecx3k7prz6xmblz3taoxhbsrt3vmmjva5xeosxzim47z2g4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f5v62sq3xbn65ur7pevtitw3/bafkreibwypnsrdvb5skzdfveiqwfj6nhyf6rwwigx4w3c7tmewaleuwioi@jpeg
 
 pennsylvania/wilkes_barre:
   title: "NO Kings! Peaceful Protest Wilkes-Barre, PA"
@@ -3969,10 +4020,11 @@ pennsylvania/wilkes_barre:
   address: ["Public Square Park, Wilkes-Barre, Pennsylvania, United States of America","Wilkes-Barre","Pennsylvania"]
   coordinates: [-75.8818011,41.2459078]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/momm2cdk.bsky.social/post/3ln72n53yb22v
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5kxbk7mvockn655237lsop2i/bafkreiej7pr7on5a2zpvfa3kzbemitiunpsyccoailxu5ant4zuor6kan4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5kxbk7mvockn655237lsop2i/bafkreiamrb5xq52qe3orlz2eo5nx7w6ug43olvhtctfddgg7grw2qksgha@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5kxbk7mvockn655237lsop2i/bafkreidcugmdc6rxau3fdelbwwcreohadls6lxfcy4glgosoibtiowgl7i@jpeg
 
 pennsylvania/williamsport:
   title: "Protect the Constitution! April 19th in Williamsport, PA"
@@ -3980,10 +4032,12 @@ pennsylvania/williamsport:
   address: ["Williamsport, Pennsylvania, United States of America","3rd and Market","Williamsport","Pennsylvania"]
   coordinates: [-77.0011096,41.2411556]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/abug-withabigass.bsky.social/post/3ln743ofq4c2v
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:upsqw2dvf55txlcwdsvvyg23/bafkreid5qfyljwqsl6go4kibisesnpksrpwgvef6ewd42noas6zyrhusxy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:upsqw2dvf55txlcwdsvvyg23/bafkreibxiuj5ywed3y75qlghzzvpebfnvdn6alut5nry2ininosl2bh3l4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:upsqw2dvf55txlcwdsvvyg23/bafkreib4i75pooxknct5kfinhrfkf45kqhdetgjqchyd7u2zgnvwgtchj4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:upsqw2dvf55txlcwdsvvyg23/bafkreiepoqm2kerrj4glnhuryo5ahzx2o37sjwdv3us4q6qbhkvzjkosiq@jpeg
 
 pennsylvania/york:
   title: "We the People Rally and Donation Drive"
@@ -3991,10 +4045,12 @@ pennsylvania/york:
   address: ["York, Pennsylvania, United States of America","17401","York","Pennsylvania"]
   coordinates: [-76.7276989,39.962493]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jeseely.bsky.social/post/3ln72llfuhs2i
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b3lhp2a7dqqsaaiinztp32t2/bafkreidttrn3znt5vwcupcqiwvxgrhbluvcktybak4tyupn42np4r6rro4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b3lhp2a7dqqsaaiinztp32t2/bafkreiarip4trw6or2xvd66bqkh5g7eacuxefwdkv3pmp6x3xlgeurz3ji@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b3lhp2a7dqqsaaiinztp32t2/bafkreidwyflmseojj5br7wpzjhjs2ultmg6ownyvb2lwk5xvegxwy3bywq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b3lhp2a7dqqsaaiinztp32t2/bafkreiezymwgi4o3hafqqxi2dskmitjeh45mah7zano2dg52dom6umbou4@jpeg
 
 rhode_island/providence:
   title: "50501 Day of Action March-Rhode Island"
