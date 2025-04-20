@@ -4005,10 +4005,10 @@ south_dakota/aberdeen:
   region: "Aberdeen, South Dakota"
   coordinates: [-98.486437,45.464213]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jmjtravis.bsky.social/post/3lnatzrmcd42y
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gwdvd35yz6komje55lzaut4r/bafkreideokmnpusyc2dt7qm6vrwfylgdznslowiyx5isloezswadfrd3ay@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gwdvd35yz6komje55lzaut4r/bafkreiee6oourrxbbcoi6vgct5d73tsnats5orgk3qld556xhsrlpfr7se@jpeg
 
 south_dakota/custer_county:
   region: "Custer County, South Dakota"
@@ -4018,6 +4018,16 @@ south_dakota/custer_county:
       photos:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
+
+south_dakota/pierre:
+  region: "Pierre, South Dakota"
+  coordinates: [-100.346405,44.368221]
+  sources:
+    - url: https://bsky.app/profile/50501southdakota.bsky.social/post/3ln7lj57gdk2r
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vnzct2rzzfjvcibmbw646qog/bafkreibcuwkxo7kcw2yaoj6ifnuj65y2ygvs6wteos6jczpxbktc6hs3me@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vnzct2rzzfjvcibmbw646qog/bafkreigmrezi7tchznsm3hk444tj2jhb5qo2amthwj63in7fs5h5ia7e6y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vnzct2rzzfjvcibmbw646qog/bafkreihpvw45e6yaj4ipx2rdjc6qoauoep3i4x5l7b6dxu3xp3qoma467i@jpeg
 
 tennessee/clarksville:
   region: "Clarksville, Tennessee"
