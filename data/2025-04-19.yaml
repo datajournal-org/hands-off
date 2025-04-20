@@ -2,10 +2,9 @@ alabama/dothan:
   region: "Dothan, Alabama"
   coordinates: [-85.3933781,31.22446]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/martyolliff.bsky.social/post/3ln75dajwo22h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lcfuvfx3p3dtvtymshppmkz2/bafkreicjmtfm43xgluqnukkas5twjz5gjrflxepfi45d7kgzudsotkq6tq@jpeg
 
 alabama/florence:
   region: "Florence, Alabama"
@@ -29,37 +28,52 @@ alabama/huntsville:
   region: "Huntsville, Alabama"
   coordinates: [-86.5921359,34.6906638]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/indivisible5al.bsky.social/post/3ln6m4t2yac2x
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bt7vruttgzow7bqcbwgt4u37/bafkreihdcxvlmcz6kafz5f5byuri5aka7ol7pjzisdxprqod7emzx4bms4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bt7vruttgzow7bqcbwgt4u37/bafkreiccjjfi24okhhgbk7ezvzlyya4hkhvuopqwnokiqeg3xp7wrwnsca@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bt7vruttgzow7bqcbwgt4u37/bafkreifu5djzdct7i3hmx6fb7fkfg5q5jz7lsnyfpfcyc3tkojxvrd3wxi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bt7vruttgzow7bqcbwgt4u37/bafkreigfhkd6p7h7hcetevjywe63iqa3o4btdmxg4it767ywudhwerzsqy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bt7vruttgzow7bqcbwgt4u37/bafkreihjoy4x4fgnohgkfui4fenb5yjaq52ke6dtskl4vbqqf7acrtjg4e@jpeg
 
 alabama/jacksonville:
   region: "Jacksonville, Alabama"
   coordinates: [-85.7616464,33.813628]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/did:plc:vilojmab54oz2mj7keysqgar/post/3ln7lflmtp22y
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vilojmab54oz2mj7keysqgar/bafkreig2hs4q6fg5t32l4pee755me5po36jhsichjc3tncpzz6ak3cklzm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vilojmab54oz2mj7keysqgar/bafkreigemes2dgxgrgke36vujxe2eokgc7xcvblxd4pq6k5vbrcfb5fla4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vilojmab54oz2mj7keysqgar/bafkreicv5xayehjnfbtnax36h7eqlzcbygdv33ngivaks2sjvdju7qimsa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vilojmab54oz2mj7keysqgar/bafkreibfieefppaaonvmexjmecv7yarmjd2ilysanei4ygo6fpdxjd5q5e@jpeg
 
 alabama/mobile:
   region: "Mobile, Alabama"
   coordinates: [-88.0424368,30.6889618]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sgtrick.bsky.social/post/3ln7kzdyglk22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e73hqeabyrnpn7o52czpykyc/bafkreie4m4ycsgyxy2aovxoi5kwkwyl2w73o3d57gtt6idalzzqoypb5u4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e73hqeabyrnpn7o52czpykyc/bafkreiaff2voyn2ii6hrjn2w3uc75ynr7e6rqdp3jojezoortuaed5pxla@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e73hqeabyrnpn7o52czpykyc/bafkreicuhe3zk6nttbucvmzb3rbx63ddagpz6mswxn7uevzmubu2yxlxx4@jpeg
+    - url: https://bsky.app/profile/karriemae.bsky.social/post/3ln7ilocuj222
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gexd4v6qigrvfpzqe3kxgrqd/bafkreicaraqlmfswrinax3k7kepgwsca6qckta6i4qmblrwm4okys77iha@jpeg
+    - url: https://bsky.app/profile/acole71.bsky.social/post/3ln7h6tvbwc22
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yp2ivm44ckvaetsg3jg55aj2/bafkreidx6skx3zu2yd2djsfdmtketmikxlfg34bo5xapvdrmo6i24q55we@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yp2ivm44ckvaetsg3jg55aj2/bafkreidntx2gurcdcmmbtlyrjlg352g3u7pflbmqrg2ssgzzwudhvyyljq@jpeg
 
 alabama/montgomery:
   region: "Montgomery, Alabama"
   coordinates: [-86.3088433,32.3759543]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sunlady.bsky.social/post/3ln6wwuwmxc2w
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2a3qqxgnifmh466wbyzlwtzl/bafkreiczpk3l4pwgf7pqqsurxmoruqjlalbo2xinlputqf4ekccrroks5m@jpeg
+    - url: https://bsky.app/profile/miriamborne.bsky.social/post/3ln72fncpdk2y
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:akwpsprvyvg6ihp5vp3aybhw/bafkreicctxzjqxzp6zufndshbzidxoqwow7cxlcjogzs4ojbqlhoz2p2gm@jpeg
 
 alaska/cordova:
   region: "Cordova, Alaska"
