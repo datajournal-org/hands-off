@@ -1645,23 +1645,37 @@ hawaii/waimanalo:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+idaho/boise:
+  region: "Boise, Idaho"
+  coordinates: [-116.203453,43.615018]
+  sources:
+    - url: https://bsky.app/profile/wingflex.bsky.social/post/3ln6qo2fbns2d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gjub7aut3cqj2u5p4xakmjbr/bafkreibbmpjaz3ljb2yjy7sqzobzb2sja5zjikc6oskjrnkvmoazxde3g4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gjub7aut3cqj2u5p4xakmjbr/bafkreiczyihrwxm7ruamg626hnauesac3sv73olbjyqraut3p3xeoxsff4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gjub7aut3cqj2u5p4xakmjbr/bafkreibpq7slmadwid6e6kw5v6i2agbfmnxabdzunvsqi2tqohz2bl3waa@jpeg
+
 idaho/coeur_d_alene:
   region: "Coeur d'Alene, Idaho"
   coordinates: [-116.7906208,47.7012212]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/heretherebedragins.bsky.social/post/3ln7ro6n73c2k
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddm3rwdfdemei5si73hriozd/bafkreigzpvseom722qmxmhbmw3xj45a2wsxe2uunl2bttvpuxmhatn7xpy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddm3rwdfdemei5si73hriozd/bafkreigb7kjuxbmehjyhisnc3yue7jl3fj4kb6ocuqifn2ozslfigdw4xe@jpeg
 
 idaho/twin_falls:
   region: "Twin Falls, Idaho"
   coordinates: [-114.45960044860841,42.56300618156293]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/naturlvr.bsky.social/post/3ln735qsdak2p
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wpauz2r7bxfvtlpeu7c36hsv/bafkreibaegw7m63e5dkuzzwemlonlbhr667twvxzz6d3bjwcxodax67gxa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wpauz2r7bxfvtlpeu7c36hsv/bafkreib4meemuhei5o66ixat74o5oaufa272jdchscipqard3fuqpza45u@jpeg
+    - url: https://bsky.app/profile/blaineiddems.bsky.social/post/3ln7ignpx722b
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5dns66jm663hpxuszhlnouba/bafkreig3ly2vhoaoqoyqdmohws5czyqoox3rbu3e76xm3xdvlc6v4y4pmq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5dns66jm663hpxuszhlnouba/bafkreidki4r5xjtpefmmxeq5lz4tamykbr7ad6ujbrvag4eafgczqercjy@jpeg
 
 illinois/arlington_heights:
   region: "Arlington Heights, Illinois"
