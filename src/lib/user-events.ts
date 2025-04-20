@@ -38,9 +38,7 @@ export function getUserEventAsYaml(key: string, event: UserEvent): string {
 
 	return [
 		`${key}:`,
-		`  title: ${JSON.stringify(clone.title)}`,
 		`  region: ${JSON.stringify(clone.region)}`,
-		`  address: ${JSON.stringify(clone.address)}`,
 		`  coordinates: ${JSON.stringify(clone.coordinates)}`,
 		`  sources:`,
 		...clone.sources.flatMap((source) => [
@@ -59,10 +57,8 @@ export function getUserEventAsYaml(key: string, event: UserEvent): string {
 export type UserEvents = Record<string, UserEvent>;
 
 export interface UserEvent {
-	address: string[];
 	coordinates: [number, number];
 	region: string;
-	title: string;
 	sources: UserSource[];
 }
 
@@ -86,10 +82,6 @@ function isUserEvents(data: unknown): data is UserEvents {
 			if (typeof event !== 'object') throw new TypeError('Expected object');
 			if (event == null) throw new TypeError('Expected object');
 
-			if (!('address' in event)) throw new TypeError('address is missing');
-			if (!Array.isArray(event.address)) throw new TypeError('address is not an array');
-			if (event.address.some((e: unknown) => typeof e !== 'string')) throw new TypeError('address is not an array of strings');
-
 			if (!('coordinates' in event)) throw new TypeError('coordinates is missing');
 			if (!Array.isArray(event.coordinates)) throw new TypeError('coordinates is not an array');
 			if (event.coordinates.length !== 2) throw new TypeError('coordinates is not an array of length 2');
@@ -97,9 +89,6 @@ function isUserEvents(data: unknown): data is UserEvents {
 
 			if (!('region' in event)) throw new TypeError('region is missing');
 			if (typeof event.region !== 'string') throw new TypeError('region is not a string');
-
-			if (!('title' in event)) throw new TypeError('title is missing');
-			if (typeof event.title !== 'string') throw new TypeError('title is not a string');
 
 			if (!('sources' in event)) throw new TypeError('sources is missing');
 			if (!Array.isArray(event.sources)) throw new TypeError('sources is not an array');

@@ -5,7 +5,6 @@ import * as Path from 'node:path';
 
 
 interface WebEntry {
-	title: string;
 	region: string;
 	coordinates: [number, number];
 	sprites: string[];
@@ -29,7 +28,6 @@ export async function buildWebEntries(userEntries: UserEvents, targetDir: string
 		const { sprites, sources } = await getImages(event.sources);
 
 		result.push({
-			title: event.title,
 			region: event.region,
 			coordinates: event.coordinates.map(v => Math.round(v * 1e4) / 1e4) as [number, number],
 			sprites,
