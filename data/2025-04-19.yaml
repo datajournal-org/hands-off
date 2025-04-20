@@ -2570,6 +2570,26 @@ missouri/st_louis:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+nebraska/lincoln:
+  region: "Lincoln, Nebraska"
+  coordinates: [-96.702658,40.813614]
+  sources:
+    - url: https://bsky.app/profile/dhj54.bsky.social/post/3lna4cy4wpk2d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6hzzd37hi6kv6c47wytkva4g/bafkreicsu3licyd4pl47v3wbam45wp2a6ajudyhqzmjpcsnhcpxfyszhyq@jpeg
+    - url: https://bsky.app/profile/alexkburch.bsky.social/post/3ln7npfb56c24
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nxc5p3xpdhtumoh3avqp3xsd/bafkreiegx6bohv2spgd4de767qjdgn57xefgzoue43qqxluhndnymd76w4@jpeg
+    - url: https://bsky.app/profile/alexkburch.bsky.social/post/3ln7k3fvgp22x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nxc5p3xpdhtumoh3avqp3xsd/bafkreia3c5rse5qofnulfuz33jmnx62e6whcnypa4r6w2pgb5mfrv44ayu@jpeg
+    - url: https://bsky.app/profile/alexkburch.bsky.social/post/3ln7mbgnwnc2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nxc5p3xpdhtumoh3avqp3xsd/bafkreiach6ayfkgahj3dmc7rkoyfq5coweb2uj5tdgvm4pc3fel3zjupvm@jpeg
+    - url: https://bsky.app/profile/alexkburch.bsky.social/post/3ln7pdtc4v224
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nxc5p3xpdhtumoh3avqp3xsd/bafkreifwdwmfcpbffnntos7aeekvyfsl6jbyb4gfcp47jj242hfikh2m2y@jpeg
+
 nebraska/north_platte:
   region: "North Platte, Nebraska"
   coordinates: [-100.7627286,41.1359476]
@@ -2578,6 +2598,25 @@ nebraska/north_platte:
       photos:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
+
+nebraska/omaha:
+  region: "Omaha, Nebraska"
+  coordinates: [-95.934503,41.256537]
+  sources:
+    - url: https://bsky.app/profile/dailynewsstories.bsky.social/post/3lnanalvdd22m
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3yknixy6zomfnq6vr6qlzhvp/bafkreiajbputkladgvcnpvbtmzfpsmon4fdxaprcb7i65l455xsjon62di@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3yknixy6zomfnq6vr6qlzhvp/bafkreih5uypcocq3irvzbocx4fpheybgze2h3rhaq5afhqetxq2x2foyai@jpeg
+    - url: https://bsky.app/profile/magstweets.bsky.social/post/3ln7bxcqngc2t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mg2xwldeyi6tznbkbozexukn/bafkreih7u7wmhud3pnrd7tr5ckbusfyxsa5h7hbkvxxxomlevz7ksiinyy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mg2xwldeyi6tznbkbozexukn/bafkreibbfoygevck5w4d2w2rmztlq7rxr67psyzpn6nydqeshxxugfreay@jpeg
+    - url: https://bsky.app/profile/brucedlittle.bsky.social/post/3lnaa3kh7mc2k
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2swttnibw2v44fsavbv5ly4n/bafkreigati2caqr7z7m6aledeojd2rvppozyvgoewtylid2xrmolj7cw74@jpeg
+    - url: https://bsky.app/profile/auntlola.bsky.social/post/3ln7gf666ks26
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3gjtioxyntczjlp6flx3fkoj/bafkreif4uqixe4wafmai2hka5sjmepw6mdbyvmkk6t65kvslisa4rar6lq@jpeg
 
 nevada/carson_city:
   region: "Carson City, Nevada"
