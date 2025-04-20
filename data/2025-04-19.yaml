@@ -75,14 +75,33 @@ alabama/montgomery:
       photos:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:akwpsprvyvg6ihp5vp3aybhw/bafkreicctxzjqxzp6zufndshbzidxoqwow7cxlcjogzs4ojbqlhoz2p2gm@jpeg
 
+alaska/anchorage:
+  region: "Anchorage, Alaska"
+  coordinates: [-149.883333,61.216667]
+  sources:
+    - url: https://bsky.app/profile/jgruberak.bsky.social/post/3ln7fbmmg4k26
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:og4fiw3fp4hoydpvcoi43djl/bafkreiaycxuteztcs4e4cvotkf6jvu65j2t7tjscfcz7uku2buvnspoxim@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:og4fiw3fp4hoydpvcoi43djl/bafkreic6prfzfjkfgx6xxdjcvs65mivwrji4mg5vg4pzkvm4exvyhn3s6u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:og4fiw3fp4hoydpvcoi43djl/bafkreic2v7ydhfxkp2nhd5z2e4ym5ux3fbw5pj5giupsmt3kzulv7ij7hq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:og4fiw3fp4hoydpvcoi43djl/bafkreiaffrxdoivcdbnoqmb25x3lhzkdtc6t7bb3f66gupw5ghj5segjwm@jpeg
+    - url: https://www.alaskasnewssource.com/2025/04/20/second-time-april-hands-off-protests-against-trump-administration-stretch-across-alaska/
+      photos:
+        - https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/UK4PDHIVTRAQJOJ3WRL6LLWHYU.jpg?auth=ccd60cefc593195f650c9490a968cabca392a0e6353fec602ca9ae4fff2985d8&width=1300&height=730&smart=true
+
 alaska/cordova:
   region: "Cordova, Alaska"
   coordinates: [-145.7595063,60.5443385]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/akswan.bsky.social/post/3ln73gyes5c23
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dvybl7pkp6ocy3oinm47xs4v/bafkreihfsacok4gnraeljmfi5ranlva7idp7m7oslg2s2wgswclw4gwhsy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dvybl7pkp6ocy3oinm47xs4v/bafkreibyxfyzpnjrdfwybrnbgc5z2tzvqrxxktdsxpoiugfxjfp4xx6zxi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dvybl7pkp6ocy3oinm47xs4v/bafkreiafyrg3x5lavnnx3xkmixk36xahjqu67srz3u4iamd32evlacmkyq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dvybl7pkp6ocy3oinm47xs4v/bafkreiehbc6br6n2rth2ry34rxr5jvmiaas3oqivzraq7tmvpso2aunhde@jpeg
+    - url: https://bsky.app/profile/akswan.bsky.social/post/3ln75goatcc23
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dvybl7pkp6ocy3oinm47xs4v/bafkreiek2nuu5iyihfvtwk2jfyfhh7bjjb7732wqqa5xkqd4mmtu677mve@jpeg
 
 alaska/denali_borough:
   region: "Denali Borough, Alaska"
@@ -97,37 +116,45 @@ alaska/fairbanks:
   region: "Fairbanks, Alaska"
   coordinates: [-147.7212767,64.8397109]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/dianainalaska.bsky.social/post/3ln7yuppnzs2i
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cmzlvs3tyac2bcejgksma33a/bafkreielvtbtfvwzx42anfgisq534o4sggdctikvptw5ttbhonitiwyavy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cmzlvs3tyac2bcejgksma33a/bafkreihvmtj4ih7rb7cgybf2spvklnimtvvkxihjxrjwsovidta6wjgk7q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cmzlvs3tyac2bcejgksma33a/bafkreifwta457krentyggjkxicq3dcj4trowjnstveqk7l5hhushx4beym@jpeg
+    - url: https://bsky.app/profile/crit-happens.bsky.social/post/3ln7sxtccn22n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s46ksr62uuilt6bpqexnt2ja/bafkreiahrellanr5np3twudflt3gknwwvvapuaducxaup4jj3cb4poy6ka@jpeg
 
 alaska/juneau:
   region: "Juneau, Alaska"
   coordinates: [-134.4097347,58.3017932]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/plumber55.bsky.social/post/3ln7soa7uds2m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4ffchjcubg734zlpfl6ajid/bafkreieotdvxxzmwsmqw3yhzzxuxwll2b6w7oyrihxcmrnk77e2m7v5mae@jpeg
+    - url: https://bsky.app/profile/aklynne.bsky.social/post/3ln7cax2hi22u
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n5liuzxzvkt5iffdu6ssjn6g/bafkreicumhafe6faw7x6psogrk74tdpfrw6rkeni3ocbxpr7x2zdizyc2i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n5liuzxzvkt5iffdu6ssjn6g/bafkreihg67besw7ncteab2ccwsek6pvbaptfnao7rirhxeffjuq4nbe7fy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n5liuzxzvkt5iffdu6ssjn6g/bafkreigq4qjrqqxstfxkfhqdjm6eu7gj2o4mizqvme5cb2w4o4pqb4hyae@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n5liuzxzvkt5iffdu6ssjn6g/bafkreifdz3ldiy33un6wcenc2mnkijs6gjsyo5feiivebmmdx5hgimt73u@jpeg
 
 alaska/nome:
   region: "Nome, Alaska"
   coordinates: [-165.4085122,64.500026]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/shanahstone.bsky.social/post/3lna563b35c25
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:skdr5cdmsfbmjtf6ukntd7pb/bafkreiezewumrld2gvznbnzpnm2uev7ehcdixhqi7uawwhmdpfzvrhj47i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:skdr5cdmsfbmjtf6ukntd7pb/bafkreigxs56dnq5pcy7yyltt73vtddggcbthtmrgojkiokzwvywrecjt7i@jpeg
 
 alaska/sitka:
   region: "Sitka, Alaska"
   coordinates: [-135.3348232,57.0529176]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/vcurran.bsky.social/post/3ln74bbh5vs2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lkskaqqfgheyyyhagvhdzujv/bafkreidmu4ff3blrt5fbb3cllrfgrpkfmj2wbph55ate36y7375toyixhe@jpeg
 
 arizona/flagstaff:
   region: "Flagstaff, Arizona"
