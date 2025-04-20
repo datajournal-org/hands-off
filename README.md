@@ -28,3 +28,15 @@ Example:
         - https://static.media2.com/photos/2.jpeg
         - https://static.media2.com/photos/3.jpeg
 ```
+
+## Scripts
+
+To check the YAML file, run:
+```shell
+deno task check
+```
+
+To build a new map, run:
+```shell
+deno task build
+```
