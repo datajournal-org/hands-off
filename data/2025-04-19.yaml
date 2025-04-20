@@ -4332,7 +4332,7 @@ texas/mckinney:
 
 texas/pflugerville:
   region: "Pflugerville, Texas"
-  coordinates: [-0.0027426587793266686,0.005380511275959866]
+  coordinates: [-97.623889,30.446111]
   sources:
     - url: https://bsky.app/profile/kaysepe.bsky.social/post/3ln6uzyy6sk2d
       photos:
