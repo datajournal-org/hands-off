@@ -1325,6 +1325,68 @@ connecticut/willimantic:
       photos:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5sujtvgqkoewj52fh4kxpxod/bafkreihbjysjjd7nvjeozioqtwj4rtrq5b4uaszoaf32m2k2j6l3nv6h54@jpeg
 
+delaware/dover:
+  region: "Dover, Delaware"
+  coordinates: [-75.524368,39.158168]
+  sources:
+    - url: https://bsky.app/profile/byrneout44.bsky.social/post/3lnazesuwxs2s
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yxegpvvhahv5bai3lx7fkon/bafkreihu4zb5245us57agz7p4szlx4cwnha7g6igee56kha2a63b2qdfq4@jpeg
+    - url: https://bsky.app/profile/likesaview.bsky.social/post/3ln6u6jdsr226
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rmjo5gvm2sbhbplxun5kzlya/bafkreihn42jvp3hjgwlz6klxsri6qr4wrxavaao6i5kfnu5t73x2hr2cdy@jpeg
+    - url: https://bsky.app/profile/snarkgable.bsky.social/post/3ln72modrvs2b
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uop7wsiggruxvjpjkmlts7wd/bafkreihd7c2kvgijksqfyqj7umh5vyvrixdkglu4cm74bfyt4e6mmtjeey@jpeg
+
+delaware/middletown:
+  region: "Middletown, Delaware"
+  coordinates: [-75.7334,39.4512]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+delaware/newark:
+  region: "Newark, Delaware"
+  coordinates: [-75.7493,39.6837]
+  sources:
+    - url: https://bsky.app/profile/rolandwall.bsky.social/post/3lnaodglzac2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ycenfmekebma3sttvprcingl/bafkreigmfamfuuudpjzv2go6yq77eumjrmhzov7vepx6zrjkbzpaleboum@jpeg
+    - url: https://bsky.app/profile/suzanne2022.bsky.social/post/3ln7enisw322n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ioly2jmb3qrej5t3hzfkmpqg/bafkreihdbkajpw4uogqhvnt6og4dam2zvb4s6wr7thhrssrh5sigglkyzi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ioly2jmb3qrej5t3hzfkmpqg/bafkreicapqilskmiutz5r7t3gc7lz55stp5t5vplttzmis3xcbcj7bsgoa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ioly2jmb3qrej5t3hzfkmpqg/bafkreifn5gfdm2uewpnn3wwee4njb2hen367rawgnj23szhwakvghsnb4u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ioly2jmb3qrej5t3hzfkmpqg/bafkreidt4pglljyikh76rkb4hieum7v2jgvjvbpqjkhhdhilb4g7khxoqa@jpeg
+
+delaware/rehoboth:
+  region: "Rehoboth Beach, Delaware"
+  coordinates: [-75.073144,38.719036]
+  sources:
+    - url: https://bsky.app/profile/cheriquinlan.bsky.social/post/3ln6zfhpmp22g
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreidst4w4ojn5ezad7xh2yqskxf4zykyazcdhpc6suqjgsqfssccrd4@jpeg
+    - url: https://bsky.app/profile/cheriquinlan.bsky.social/post/3ln727cmetk25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreicznfixqrc3z3r7cbg2kodf4m6fqlhlmzmu2o7fvzia5obo4pxzvm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreia3fpyaymq47euwihzccwjzuorsq7xhna53i3kukthfqdalnquoc4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreia3n7mtwqa6vjraj2zbr36hqal6hbvyeeonyw3feax42slwrvy3e4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreiawssilflo73qczvawqk5zztwic4obamhwh2uldywh52ccu2hzbbm@jpeg
+
+delaware/wilmington:
+  region: "Wilmington, Delaware"
+  coordinates: [-75.606164,39.739072]
+  sources:
+    - url: https://bsky.app/profile/butterflysue.bsky.social/post/3lndb57v7fs2a
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ey5jl4qm5jykggz6a7cypwk3/bafkreigzolgsumvesyeflialru2sj5vxb3dgxvuevjcxj4bnjwkivybo3m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ey5jl4qm5jykggz6a7cypwk3/bafkreig2mncxm7yds7m5vu6an25ixxx7vj2vu2i5zdxohzoaxudslc75a4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ey5jl4qm5jykggz6a7cypwk3/bafkreif5upjbb6bgtv252veljthe3daqqm5yhartpdws4mdcrqau5qrurm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ey5jl4qm5jykggz6a7cypwk3/bafkreiefxpe3kyererqkslcbdi5mncwwobkkjjkv5c6nqfzneihpmd3uly@jpeg
+
 florida/clermont:
   region: "Clermont, Florida"
   coordinates: [-81.76949680870798,28.55150021373529]
@@ -3960,11 +4022,6 @@ ohio/delaware:
       photos:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreie3vbppwu7lxwybaglcfrq3gm6blzm5hb5hmkjaoedtujv3zhgkaq@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreiawnovccke72pwwwc3oo6mhgcudkyq6wi4hr7ylcmnw5yroiozpmq@jpeg
-    - url: https://bsky.app/profile/cheriquinlan.bsky.social/post/3ln727cmetk25
-      photos:
-        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreia3n7mtwqa6vjraj2zbr36hqal6hbvyeeonyw3feax42slwrvy3e4@jpeg
-        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreia3fpyaymq47euwihzccwjzuorsq7xhna53i3kukthfqdalnquoc4@jpeg
-        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreicznfixqrc3z3r7cbg2kodf4m6fqlhlmzmu2o7fvzia5obo4pxzvm@jpeg
 
 ohio/eaton:
   region: "Eaton, Ohio"
