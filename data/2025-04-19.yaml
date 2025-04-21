@@ -1569,19 +1569,41 @@ georgia/athens:
   region: "Athens, Georgia"
   coordinates: [-83.375928,33.959458]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/anniespell.bsky.social/post/3ln7hq5esi222
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ujrd3lfaqmsc53bg6cncdpd5/bafkreig3emxibxhmvubzihi23hz3jpunbnjmkuwl2os4y3husep5efvecq@jpeg
+    - url: https://bsky.app/profile/jew-c.bsky.social/post/3ln7gfuwwus2u
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wnjsjobayqbtb3wd624uyxe2/bafkreibzhsbg2t5dpmd4wrw2h5wc3xnxzw57jfrls47didkpgduxltx5tq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wnjsjobayqbtb3wd624uyxe2/bafkreibj5relmlsmenncn5dwuudiy2m7vmki2r5yoiqtx7unkgx4ejzina@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wnjsjobayqbtb3wd624uyxe2/bafkreiaexagaj35aeyjteu7xk7huoeswhvnqpsakkams3a555zh4hzai5u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wnjsjobayqbtb3wd624uyxe2/bafkreidqsx3qndaxjpa7unok6lj3zlyijr5hh3aqcomtz6h5dkien62vfi@jpeg
+    - url: https://bsky.app/profile/seth-peters.bsky.social/post/3ln7ga76yjk27
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y6v4n5kadf6gvlsg2sviplkb/bafkreicoqb6zbwxjbayxduc3oosut34hde4gjbnmsiuxp7lbwaxteqq7n4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y6v4n5kadf6gvlsg2sviplkb/bafkreicq4zpnymev43kz7tykwwafapwp4yvev7nrwu3pvkccixy2weya6i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y6v4n5kadf6gvlsg2sviplkb/bafkreiavsecfmphimsqsy4whhlige3q67mf6quefocrnjuzasfz3rk7ciy@jpeg
 
 georgia/atlanta:
   region: "Atlanta, Georgia"
   coordinates: [-84.3876376,33.7500043]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/stnmtngardner.bsky.social/post/3lnaom4334k2i
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p3xngb7fyht6fsillm4wjlps/bafkreigeohxgggnm2ehsgg6vhnpof3cnaahqpwysh56224hkwxl2gh7dpe@jpeg
+    - url: https://bsky.app/profile/evelynmaryw.bsky.social/post/3ln77ff73m227
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qkissdsikclmphvccm66aruh/bafkreiglsdevi5zizuzejvpq52f3guk7xglhkbvnrlymtodezthm3orpa4@jpeg
+    - url: https://bsky.app/profile/kjg2025.bsky.social/post/3ln76kq7nis2g
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c7jds5lska3udabwtpjtwidx/bafkreiho3tm3wwsqdmhtb6biv6tizpc3nyccf55fyuktetftee5nlmky4m@jpeg
+    - url: https://bsky.app/profile/evelynmaryw.bsky.social/post/3ln6ucaijls27
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qkissdsikclmphvccm66aruh/bafkreifevsz2ioscuyaroaae4odysz6grk2h45bvz4p6kuzjfmeh5o6nga@jpeg
+    - url: https://bsky.app/profile/mollyrosewalker.bsky.social/post/3ln6wali3sk25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gaaw3fixat5zdz4uqgzba5ue/bafkreigxnwkkpldewkbrxt4bocq5tgzfftqstl2vq4ote3whys54lgqloy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gaaw3fixat5zdz4uqgzba5ue/bafkreicdsbjfsnch73hy4lv2rbljfyr4bms36wsnjjcnvkmqgnx6iytyqq@jpeg
 
 georgia/carrollton:
   region: "Carrollton, Georgia"
@@ -1596,10 +1618,11 @@ georgia/macon:
   region: "Macon, Georgia"
   coordinates: [-83.6284221,32.83493]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/immartyk.bsky.social/post/3ln75fp3p3s25
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wq6acd6zajdmcta432ijrzlt/bafkreifjmukeyhfglrqrybg5kitckjjjaeyb3kl5oh3rfr2ytm3q5y344i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wq6acd6zajdmcta432ijrzlt/bafkreicxjv6qbrwca7twfteuaixwlo7fdcovyfouspybuj65mmcglgjhea@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wq6acd6zajdmcta432ijrzlt/bafkreif6xsy6ysp26mg7blenunpfyqbf5resdciiaz5igdlx3m4fsdxfae@jpeg
 
 georgia/rome:
   region: "Rome, Georgia"
@@ -1614,10 +1637,11 @@ georgia/st_simons:
   region: "St. Simons, Georgia"
   coordinates: [-81.382775,31.1373996]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/victorialove.bsky.social/post/3ln7cq2fjrc2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gtgistjzhxzkobp65ltabozt/bafkreiao4f2k3opuwnecra353ixxqc6kall55fckz4voqbxfxz5jjvao7y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gtgistjzhxzkobp65ltabozt/bafkreic5pj3zlfbkokk6aqgdeeklv75fr372e4253mq5eseffqkwg2zp54@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gtgistjzhxzkobp65ltabozt/bafkreidnivv4ndpr4jdsr5lq2vhk4ywpy5z47uyugrbrimnlmdw6s7fla4@jpeg
 
 georgia/statesboro:
   region: "Statesboro, Georgia"
@@ -1632,10 +1656,9 @@ georgia/valdosta:
   region: "Valdosta, Georgia"
   coordinates: [-83.2792503,30.8325302]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/akasun.bsky.social/post/3ln7cxoysgc2q
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:av2xcw6iox2gpoq4e7bnxrnw/bafkreidqxu2qqbbmnwodmhposrxwhavzvdjutiprfp4kr7kfvod3fgqloy@jpeg
 
 hawaii/honolulu:
   region: "Honolulu, Hawaii"
