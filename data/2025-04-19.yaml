@@ -1839,7 +1839,7 @@ hawaii/waimanalo:
         - ... # select only good photos
 
 heard_island/heard_island:
-  region: "Heard Island"
+  region: "Capital, Heard Island"
   coordinates: [73.5,-53.1]
   sources:
     - url: https://bsky.app/profile/heardislandgov.bsky.social/post/3ln7fuezgjk2e

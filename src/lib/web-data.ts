@@ -6,6 +6,7 @@ import * as Path from 'node:path';
 
 interface WebEntry {
 	region: string;
+	notes?: string;
 	coordinates: [number, number];
 	sprite?: string;
 	sources: WebSource[];
@@ -25,12 +26,16 @@ export async function buildWebEntries(userEntries: UserEvents, targetDir: string
 
 		const { sprite, sources } = await getImages(event.sources);
 
-		result.push({
+		const entry: WebEntry = {
 			region: event.region,
 			coordinates: event.coordinates.map(v => Math.round(v * 1e4) / 1e4) as [number, number],
 			sprite,
 			sources
-		})
+		};
+
+		if (event.region == 'Heard Island') entry.notes = 'Of course this is meant as a joke!';
+
+		result.push(entry)
 	}
 
 	const spriteList = result.map(e => e.sprite).filter(e => e != null);
