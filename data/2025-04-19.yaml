@@ -3162,6 +3162,17 @@ new_mexico/santa_fe:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hbsy4anjnucl6r2z25sxtrna/bafkreidrxnfytvsx2dhtgtjwo243kofeaat4or367eqb4jeyw73mcxnlem@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hbsy4anjnucl6r2z25sxtrna/bafkreid2q77zx3h3ivjiyustnfmgkx7n4ygwf3xfe5gdu7qzhjpztwjkxa@jpeg
 
+new_mexico/silver_city:
+  region: "Silver City, New Mexico"
+  coordinates: [-108.2772,32.7763]
+  sources:
+    - url: https://bsky.app/profile/tb1952.bsky.social/post/3lnaqwq2stc2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4tozfcueej4ochwfetozejw/bafkreicrxcsgxin5qsbtyqpbkldtyo7tw73pc3c44qcldo3y6mss264wbm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4tozfcueej4ochwfetozejw/bafkreib7ksfizbi5q3ph6gyq3tztliuh5v7uqovhznqowtohjfmd5nvwgy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4tozfcueej4ochwfetozejw/bafkreih2j6qltxczbljsywpvw4p6faghesixvfttrr44ninsinsaut4mva@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4tozfcueej4ochwfetozejw/bafkreib2u5xnz43axbax3c2mrnezcfbt3zqskf2nmtvndqbctlcpynfilu@jpeg
+
 new_mexico/truth_or_consequences:
   region: "Truth or Consequences, New Mexico"
   coordinates: [-107.2489874197515,33.1291302]
@@ -3887,6 +3898,12 @@ ohio/youngstown:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+arizona/show_low:
+  region: "Show Low, Arizona"
+  coordinates: [-110.027202,34.263845]
+  sources:
+    - https://bsky.app/profile/helamina57.bsky.social/post/3ln76spqwe22p https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyrlze6plvagqoqrxf33aouk/bafkreia3lia54qddrg6nhgxyqwq6lt6a3jruub2ohcuzzz66rjcyplfimu@jpeg https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyrlze6plvagqoqrxf33aouk/bafkreiffv56zgwxjva6opvwunywgewcqn3g3nkjguzqcvvi4hjinpd7znm@jpeg https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyrlze6plvagqoqrxf33aouk/bafkreigmrkpi5ngjfobs5ffbhjtopuechxyvfvhuxkx2exefj7mjy76e7m@jpeg
+
 ohio/zanesville:
   region: "Zanesville, Ohio"
   coordinates: [-82.0073835,39.9405404]
@@ -4535,6 +4552,17 @@ texas/kerrville:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ebwfccbd4wcweosfxwoj267c/bafkreibmy3jzc6eb7qh6ddxla7fmbfb5yvfcnomgcjc4ugrr7ey4tuxubq@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ebwfccbd4wcweosfxwoj267c/bafkreifiybjeufi34z3v2mmexnbkrgblphabaqe3xbkt4jx42iusky5ley@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ebwfccbd4wcweosfxwoj267c/bafkreigrjd4rybx7dvgidyli6447bbvguxhxao3ipvsiekqzqygjqnhjfy@jpeg
+
+texas/lubbock:
+  region: "Lubbock, Texas"
+  coordinates: [-101.855166,33.577863]
+  sources:
+    - url: https://bsky.app/profile/minkab.bsky.social/post/3lnbk5rhvlc25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qz4f63p3eqtrxbrl57uxe73e/bafkreidavvmdblkevm2mu65kdegjkexheomsnideqjtp7ldg4x3zosbiuu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qz4f63p3eqtrxbrl57uxe73e/bafkreigi27adxgjbytthrwmskfux2fd7olndtsfjafqqr22o4soggq7fq4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qz4f63p3eqtrxbrl57uxe73e/bafkreihzp6q3calmjiivlhsdvehe2thnsziwc5bpxt4ifyxtxi5idqd5bi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qz4f63p3eqtrxbrl57uxe73e/bafkreif6ifoemqkbsuloc5o3nipolqp6opeqz2bwn7nb47tam6enjlwqui@jpeg
 
 texas/mcallen:
   region: "McAllen, Texas"
