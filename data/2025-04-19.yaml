@@ -1329,28 +1329,45 @@ florida/clermont:
   region: "Clermont, Florida"
   coordinates: [-81.76949680870798,28.55150021373529]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/abcdefu4547.bsky.social/post/3ln6l5jq36s26
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7ft5fnhg7bofdxwuomcet4u/bafkreibnealp3k2hxamgaates6pakid44pt6nqi27qxuy4t7nr3nyfrc7q@jpeg
+    - url: https://bsky.app/profile/weston1967.bsky.social/post/3ln6qre72f22k
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zix7j3rxd65j5cdirmt2kg6s/bafkreibgyzzb23viyi64qddjuq2kdhohdkg4nfuwbcmunfexkfg75hdmpu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zix7j3rxd65j5cdirmt2kg6s/bafkreiep5ag2m2g2dzjrz2fk3hfcqt34zb4bjsdnkv3oae4aw47zjqza5e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zix7j3rxd65j5cdirmt2kg6s/bafkreichvw2yijnxuo6itd6sayyofvvexmxztkro6xhyu4w6n4wbidbi6e@jpeg
 
 florida/daytona_beach:
   region: "Daytona Beach, Florida"
   coordinates: [-81.01987,29.206908]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/brysonfan.bsky.social/post/3ln6qp64lls2m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hgkopcprhdzvbbc7hc4f4r6x/bafkreicc2csks65am4fit44jppb75ivq2ygncxteh74lcv7zx4kds24r2y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hgkopcprhdzvbbc7hc4f4r6x/bafkreid2zhhfquy2dtuqrtqp4iii3idz5x3ia2welrsna5nlqocsswvdcq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hgkopcprhdzvbbc7hc4f4r6x/bafkreiegi657mhi4lru47xny2zxiwozjywfdaccty7nzx4v253dw6g2ahq@jpeg
+    - url: https://bsky.app/profile/chasingoz.bsky.social/post/3ln6n6uxbas22
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qe6unz3hpi2wbt6y2r2z6br/bafkreifhqz6aszgrgtoi3u7qiihcuqc6wlmjpmsiz52yjwokvdlxiw6zya@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qe6unz3hpi2wbt6y2r2z6br/bafkreib5ary3zhzeyfh5xlqzdydxzc5c4kd7eocwbs7ca6gr6ihnufu3uy@jpeg
+    - url: https://bsky.app/profile/dogsknowbetter.bsky.social/post/3ln6yi2yoqs2t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aacg6x36c5yv5xe56kexniwx/bafkreihfuwivwr74bn5wavxxs4qqyoqjvmntovngxoajqnp3fgcr252iui@jpeg
 
 florida/dunedin:
   region: "Dunedin, Florida"
   coordinates: [-82.741088,28.047508]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/princessearl1st.bsky.social/post/3ln6p5kujvc2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ic2lctb77iwvccvvixuhzlb/bafkreiflr7z2ctqyasooypqa4bgu62stwciyn4m5dfzednpr2jr646qk74@jpeg
+    - url: https://bsky.app/profile/bookzombee1.bsky.social/post/3ln6uouvvmk2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hbvfdmn5o2byuz4tawgzekxh/bafkreia67tof6fdba7ty67cye276lmx3e67kgxpaxe7pq6kdydw2tteyla@jpeg
+    - url: https://bsky.app/profile/mariannewalsh.bsky.social/post/3ln6dptymok2j
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zl2lxrk7nlswvegpaeda47sr/bafkreidvuvsma752kinjttj2jrsbcteum463uc6gcurzpuvqdlgc5lr76i@jpeg
 
 florida/eustis:
   region: "Eustis, Florida"
@@ -1376,55 +1393,78 @@ florida/fort_pierce:
   region: "Fort Pierce, Florida"
   coordinates: [-80.3502211533487,27.425921615830397]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/lilliandcats.bsky.social/post/3ln7sg5gv5226
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wrnvkxx644a3zpavtr5atvhd/bafkreicqtu6ymy2mcg53lc4rtuiiauxnkpotr4vpczn2loy5dhjasywi7i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wrnvkxx644a3zpavtr5atvhd/bafkreiealedwmh5nl6cogga6fbicudbhyzhfeuik7vsmw3e5ddoykse4ma@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wrnvkxx644a3zpavtr5atvhd/bafkreifxmlwm3t2yw27mgfgg63mxc2txhicu3fkh4obtkm2o4awwqwznqu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wrnvkxx644a3zpavtr5atvhd/bafkreibbxh7zbauo5r557bcrjbotypcytqexieocb776egbvc36v6jotxu@jpeg
+    - url: https://bsky.app/profile/abbykbhomesleak.bsky.social/post/3ln76jdjrnc2v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ycf3zf5nlzl7kmiyjiaj7y3f/bafkreib3zddgwifeufzylpeqpk6exnrjiki7tl5eoi7ffldt7yqakjqwde@jpeg
 
 florida/groveland:
   region: "Groveland, Florida"
   coordinates: [-81.8566972,28.5594312]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/ericaeeks.bsky.social/post/3lnaq6meabc2t
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ge3eu54pqjnm5izf6yw2aajw/bafkreiaoo2lwmz3dxqjuen5sems67kldvijalsgvdohazpf3lpqhezyrie@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ge3eu54pqjnm5izf6yw2aajw/bafkreihiwra5bb6pjmwbgyq2qls4cqeubu6xkkoddhd73d3kc3k3sr6uhi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ge3eu54pqjnm5izf6yw2aajw/bafkreiaq3uxbcipmea42pidizqe7tpe7hb6xezhhsr3i3yylzbloajrgeu@jpeg
 
 florida/jacksonville:
   region: "Jacksonville, Florida"
   coordinates: [-81.5251219,30.2570382]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/zen4energy.bsky.social/post/3ln7eobq3tk2d
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ea6xpu2qvhylgfsxl3gxyaos/bafkreigox6k5yhnhc6qohhdvwuy6bvd2sunqaln4oxi5czpgjefbtfjbpa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ea6xpu2qvhylgfsxl3gxyaos/bafkreiajwvosofgrtrf3psalediyyimy77gafva2yik2hulgy5gdanvnzm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ea6xpu2qvhylgfsxl3gxyaos/bafkreictidhtgnhtg66fma6lm3ragpu3rqzbtwjjagrf5wlw2zmsxkbthm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ea6xpu2qvhylgfsxl3gxyaos/bafkreidjhv4tnvzrfxx7a4v2qnnj52x3fom5egqj7dhvnrqkstuurlnaau@jpeg
+    - url: https://bsky.app/profile/zen4energy.bsky.social/post/3ln7epswmm22d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ea6xpu2qvhylgfsxl3gxyaos/bafkreigvkz2tax56267amrxpty3v46tmxdovcfp33dam3ifn5wp7ndilaq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ea6xpu2qvhylgfsxl3gxyaos/bafkreifih5mf5gougnw2oo74htp2jahbxvoarsqecp3ksrtmmo5jlqz63e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ea6xpu2qvhylgfsxl3gxyaos/bafkreicbkm6quoidpx3b7pcywj3rioohzdext2rsgg3aqsnaa7fmiooila@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ea6xpu2qvhylgfsxl3gxyaos/bafkreif2bbjmvtoo7vqhq25ogibwhbk7lngosypobrwardmbetnrazsqfi@jpeg
 
 florida/key_largo:
   region: "Key Largo, Florida"
   coordinates: [-80.4595547,25.0775127]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/alreadythereagain.bsky.social/post/3ln6o2h34bc22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:io5g6johbsftzkbppvkeihgb/bafkreibdr7eokno4ysqzzytqmwc3axidyxsfxzc6e4qwp2rxfhqefpzpse@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:io5g6johbsftzkbppvkeihgb/bafkreid4wbxemahukw6xrxledifmxzgvicxcx7tns5vayzrbi3mmv4jhva@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:io5g6johbsftzkbppvkeihgb/bafkreidmq6ybgq4wv5hn64izzdyw2kbdns6s7nxxcpdqvpts4mfcna3ncu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:io5g6johbsftzkbppvkeihgb/bafkreic2cyje4fityj3vcewgkrz4zllqzi6muv46gj4qbcajdm5djl2geq@jpeg
 
 florida/lake_county:
   region: "Lake County, Florida"
   coordinates: [-81.672347,28.5996829]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jaimewithanr.bsky.social/post/3ln6hlncvb22s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ka672ysoi5bbl2lfv77pminm/bafkreiblysnzwhazqtemtphrlfps7cksglmie5u3l5ukfjh6tvbckqdvu4@jpeg
 
 florida/lake_mary:
   region: "Lake Mary, Florida"
   coordinates: [-81.3574556,28.7874882]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/flkaren.bsky.social/post/3ln73fvxb4k2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:emvviuwl3o76zj5yiiayyv5o/bafkreigb7kxfln5ihfutmdkmndpvku56qsiq3uhfunoxu4n7m3alpzmhg4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:emvviuwl3o76zj5yiiayyv5o/bafkreidxvrhgjiqgbmtlw4dto4mlxi6kyl4x6smwm7y5kn62ulmeyg5b3q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:emvviuwl3o76zj5yiiayyv5o/bafkreigumamxnkkkgl6gmpvx3prvwjoefrntp6nj6usizmici4tjjwexgu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:emvviuwl3o76zj5yiiayyv5o/bafkreifo6cgwmxopbye3us26t3bljfefg5vc6zak6spig5esfrnchcfkcq@jpeg
+    - url: https://bsky.app/profile/geoneeler.bsky.social/post/3ln6paaqdlc2h
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fwzpg3phpbsuu7sdrggwyksv/bafkreiaye3hagroicuhupogsufak56qo3b7nwt2ctcijungf6fyjgiut6e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fwzpg3phpbsuu7sdrggwyksv/bafkreiewnnercsmclqsgfmdsezc35jrbh5y763ixc4mbusnzjowgk75luy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fwzpg3phpbsuu7sdrggwyksv/bafkreif6ib5yaw7pvfqfzxi572pl4wziyybwfebfrmlcwfmcyxn32pjo4i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fwzpg3phpbsuu7sdrggwyksv/bafkreiarfhnn3t7htxwvn5j2jcidd2fj72ko3l2y45nqzexhzzf4e4iwsa@jpeg
 
 florida/lakeland:
   region: "Lakeland, Florida"
@@ -1439,10 +1479,9 @@ florida/leesburg:
   region: "Leesburg, Florida"
   coordinates: [-81.797028,28.8274955]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/bluebutterfleye.bsky.social/post/3ln6wqdlum22c
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qrrpqip46wtjzjqe2yjoxykn/bafkreidw53idu5impwsvykjfpg5mmmbxgtlcvricy2iz4tt6ymxhpuqw5a@jpeg
 
 florida/miami:
   region: "Miami, Florida"
@@ -1470,100 +1509,129 @@ florida/mount_dora:
   region: "Mount Dora, Florida"
   coordinates: [-81.6445547,28.8239522]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/cherylvt.bsky.social/post/3ln6mc5qlps2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6a7fujkoz5fw67zrbd2w2qr/bafkreib2dibbczq57fis3f7ehkusj23thh7rfkp42aext2twosvi4tz4um@jpeg
 
 florida/naples:
   region: "Naples, Florida"
   coordinates: [-81.7644488811493,26.127699491274164]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/amyfrancis.bsky.social/post/3lnbxq4zl6k2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7uqgb6tyolk7z5t6gin4vfx7/bafkreicn5kwzg6nkgw2yzn2k52d5ybjx5nltm5vst6o4ct4qi4jywtquzq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7uqgb6tyolk7z5t6gin4vfx7/bafkreidr2plzdd2yxcm7qkdntewdyi5c43zb5nshmcjs3yebawbqmgl3fa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7uqgb6tyolk7z5t6gin4vfx7/bafkreiextrktt4o6oglg7u3e3xy7lpoqzujzsxgvf22kvtvzjofhyqwtkq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7uqgb6tyolk7z5t6gin4vfx7/bafkreif3qp3pkll4vx4eoz5t22tlxjh6i7tboj2a5z3tcn5brtaawiukfq@jpeg
 
 florida/palatka:
   region: "Palatka, Florida"
   coordinates: [-81.6324987,29.6469996]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/bozaza.bsky.social/post/3ln6m4u6wms22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vlegudwzl6uvr7lii3ty322p/bafkreibyswliizbh2mvt2ntwzxu27jnktj75qb3y33tv445masewuuy5g4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vlegudwzl6uvr7lii3ty322p/bafkreia7s4rixj6ewcnvgiankjobdyv32tw2ixqsmeq5jxzqqbieg5xybe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vlegudwzl6uvr7lii3ty322p/bafkreidwq4mkld55i5igf6ptgk7yxkvwadxbuuhncd26ge2djpdb76uahy@jpeg
 
 florida/palm_beach_gardens:
   region: "Palm Beach Gardens, Florida"
   coordinates: [-80.0854395,26.8449097]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/joannieb.bsky.social/post/3lnc5ubgq422p
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kyv5f4vc7k2w7wl4ai5pbq57/bafkreibaygxeofrb7eugfrft3d3xq5eu6pzqkijtrqbaqkwmxysbbh2mli@jpeg
+    - url: https://bsky.app/profile/minifleur322.bsky.social/post/3lnc4b5mrs22p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yi62emxuni4n6hs2dvdhxvlz/bafkreiamycfj7wzmwpz3iyecfo6pcnjkzkaqqartjgyfz6ibxg4twc6hba@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yi62emxuni4n6hs2dvdhxvlz/bafkreic35o4dezi4muhsqoswsl7ejphv7t5iozdlwojmmxvheaazaktjcq@jpeg
+    - url: https://bsky.app/profile/joannieb.bsky.social/post/3lnbwlcnotk2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kyv5f4vc7k2w7wl4ai5pbq57/bafkreievb7hnk2eqtngbkrxketvfzy53koqrvjqzvc6izg2bfbylvneksy@jpeg
 
 florida/pasco_county:
   region: "Pasco county, Florida"
   coordinates: [-82.66606807708742,28.20556636343323]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/lollybroch.bsky.social/post/3ln72vv4dpc24
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z6mafg57lraydbcvz5suran2/bafkreicmkjqtsyc73a3a7bpv5sj44hbj27f5czir6eyjuuxjbl7paqjthm@jpeg
 
 florida/pensacola:
   region: "Pensacola, Florida"
   coordinates: [-87.1902257,30.4325097]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/dilew.bsky.social/post/3ln7jc3ley22w
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vip6o65lp6fhbeblg3mlyvvu/bafkreiahtqw3r73letedatz7ptybtwj6zfubh2txlqqi5twwfl4kqo4doy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vip6o65lp6fhbeblg3mlyvvu/bafkreiel4f7bnvew5qiwjuaggez37mcyr4agugkjavce7wlei65qp6enxq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vip6o65lp6fhbeblg3mlyvvu/bafkreic6vq46komgkpbkqvavf2s2myfvy6fhj3slf4nyoltzcfsohtcm3u@jpeg
 
 florida/port_charlotte:
   region: "Port Charlotte, Florida"
   coordinates: [-82.1408552,27.0086551]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/straightgaze.bsky.social/post/3lnatfemky22c
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s7hsx75wsozgblrmwja2xpqa/bafkreigri6aistekjf7e3dnxbsnrmcbv5l5iedyggcrhebqpo6i742e6t4@jpeg
+    - url: https://bsky.app/profile/hammer13807.bsky.social/post/3ln6zwkc2zs2t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tbpqyq4bp5akxs4as4deo3qw/bafkreic3n2tcbistma72cvbefpsmkyfdjjkvo5bv4wl73dxil46fqcihzm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tbpqyq4bp5akxs4as4deo3qw/bafkreidrt3cjif2da3vg6cadlnpr2n4ckgn5h624zro7nkin5euzyldm2e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tbpqyq4bp5akxs4as4deo3qw/bafkreibqg6afcrs2xmrgscr7vwpkllg7w7e4wwlo2zhjy6z5lw2ev4xrxa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tbpqyq4bp5akxs4as4deo3qw/bafkreigzyuyq4bs76wfo52rs4zoaq7bx3itxalbzne76tqjp64awdkzzmq@jpeg
+    - url: https://bsky.app/profile/rockmeamberdeus.bsky.social/post/3ln746gx6z222
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jx4vtmvrisqovo7syqhnsv4z/bafkreig66is7ptifmmyuah5do4inhgxle3wrtbrasqff5axszwpowedhii@jpeg
 
 florida/port_orange:
   region: "Port Orange, Florida"
   coordinates: [-81.01953506469727,29.116202274210877]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/smithrx.bsky.social/post/3ln7y65j5vk2n
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uhtoxqe4tmkbt6ld5ju3led3/bafkreie2osgfx24vzifbl3i5ln7dn7h74rgysoq55wvjs2sfv6l7xlukxq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uhtoxqe4tmkbt6ld5ju3led3/bafkreiaaunq42mjvgyq5d73vtrzypsvv3pyopfasfwzy7kbr6n6au7wuui@jpeg
 
 florida/saint_petersburg:
   region: "Saint Petersburg, Florida"
   coordinates: [-82.6375777,27.7734224]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/physiciandemocracy.medsky.social/post/3ln6qz4s6tk27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5y5mgzgs2kx63mqc5gcz2n3v/bafkreidzmxg5bzb6j4m7o7jqkwxh5crs3pflvd46ubb34iwmwt5ekm2mt4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5y5mgzgs2kx63mqc5gcz2n3v/bafkreiezph2esbch6wu4zvwcprvdx33p34jpwv6ehblflw4py7srehxfbm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5y5mgzgs2kx63mqc5gcz2n3v/bafkreih7q6iz42uomq3buumk3wcebxu6yffqvdpedvzmhpo7erl3z2anmu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5y5mgzgs2kx63mqc5gcz2n3v/bafkreifharecj4omn3gikppq52nkllij6bq43fnmahevaqutadhc5qvncq@jpeg
 
 florida/tavares:
   region: "Tavares, Florida"
   coordinates: [-81.7246165,28.8173784]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jomariet.bsky.social/post/3ln6kb6nmj22c
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fgbldnpppjl45ok6hap5eiuh/bafkreighty6ifzx6afc2uzp2bglspki2zfzx67kxt76a7g2kgnowsjtpuu@jpeg
+    - url: https://bsky.app/profile/jomariet.bsky.social/post/3ln6pr65jtc2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fgbldnpppjl45ok6hap5eiuh/bafkreidqmszj5fkrurhhqnp3apa4cbagzmxyg5n7uhrcxzjvk743heme7i@jpeg
 
 florida/west_palm_beach:
   region: "West Palm Beach, Florida"
   coordinates: [-80.0855577,26.7221633]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/marythebuttonmaker.bsky.social/post/3ln6tqurc4k2s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hmoh7hxqwdeh36mfhpuecvcj/bafkreihuaxfvqd6znnkw6dfzhwnfsufewlbnm2jtyxjrdbpkeagu4umwrm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hmoh7hxqwdeh36mfhpuecvcj/bafkreieurrbv3fs6djeummjzcdl5gt5tgit4nwl63a4gplami62y3jisde@jpeg
+    - url: https://bsky.app/profile/rviera.bsky.social/post/3ln72fsnpyk2y
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cg63dlnbezd6fzqanf6kprpl/bafkreibafpuba32bc4l4p5per6gzae2tdrcas5tpvacx4o6cygk7tsm7ge@jpeg
+    - url: https://bsky.app/profile/tbender.bsky.social/post/3lnbg3dgdyk2f
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wehykj6ztdlj7nlrmlel6wmn/bafkreidyi6zlhoi7lraacbjpdtk7dvjdyckeyi6cogv3b7tgsszaafwdom@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wehykj6ztdlj7nlrmlel6wmn/bafkreifwwbk7sgc22ew3caloj2jewygd2dw7lhyywkf73ei3c344gepvk4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wehykj6ztdlj7nlrmlel6wmn/bafkreid2czdkcr4krth3metaesvdulgckc7w7lax2f6s55k4ia2uhwroju@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wehykj6ztdlj7nlrmlel6wmn/bafkreifqhctpfpkmgr7df7nw7zysitssrb7rsri4epbwuzmqjuhdmdvkwe@jpeg
 
 georgia/athens:
   region: "Athens, Georgia"
