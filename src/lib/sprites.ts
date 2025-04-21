@@ -11,7 +11,7 @@ export interface Sprite {
 
 const cache = new Cache();
 
-export async function getImages(userSources: UserSource[]): Promise<{ sprites: string[], sources: WebSource[] }> {
+export async function getImages(userSources: UserSource[]): Promise<{ sprite?: string, sources: WebSource[] }> {
 	const sprites: string[] = [];
 	const sources: WebSource[] = [];
 	for (const { url, photos } of userSources) {
@@ -32,9 +32,9 @@ export async function getImages(userSources: UserSource[]): Promise<{ sprites: s
 		}
 	}
 
-	if (sprites.length > 4) sprites.length = 4;
+	const sprite = sprites[0];
 
-	return { sprites, sources };
+	return { sprite, sources };
 }
 
 async function downloadPhoto(key: string, url: string) {

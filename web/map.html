@@ -170,17 +170,6 @@
 
 		async function init() {
 			const iconSize = 32;
-			const r = 0.9 * iconSize / 1;
-			const offsetLookup = [
-				[],
-				[[0, 0]],
-				circle(2, r * 1.2, 0),
-				circle(3, r * 1.4, -0.25),
-				circle(4, r * 1.6, -0.125),
-				circle(5, r * 2.0, -0.25),
-				[[0, 0], ...circle(6, r * 2.3, -7 / 12)],
-				[[0, 0], ...circle(6, r * 2.3, 0)],
-			]
 
 			map.addSource('us-states', {
 				type: 'geojson',
@@ -190,25 +179,18 @@
 			const request = await fetch('data/data.json');
 			const data = await request.json();
 			const features = data.flatMap((entry, entryIndex) => {
-				const { coordinates, sprites } = entry;
-				if (sprites.length > 7) throw Error();
+				const { coordinates, sprite } = entry;
+				if (!sprite) return [];
 
-				const offsets = offsetLookup[sprites.length]
-				if (offsets.length < sprites.length) throw Error();
-
-				return sprites.map((id, spriteIndex) => ({
+				return {
 					type: 'Feature',
 					geometry: { type: 'Point', coordinates },
 					properties: {
 						...entry,
-						image: 's0:' + id,
-						offset: offsets[spriteIndex],
-						index: spriteIndex == 0
+						image: 's0:' + sprite,
 					},
-				}));
+				};
 			});
-			//features.sort((a, b) => a.properties.index - b.properties.index);
-
 
 			map.addLayer({
 				id: 'us-states',
@@ -230,13 +212,14 @@
 				id: 'icons',
 				type: 'symbol',
 				source: 'data',
-				filter: ['case', ['<', ['zoom'], 9], ['get', 'index'], true],
 				layout: {
 					'icon-image': ['get', 'image'],
-					'icon-offset': ['step', ['zoom'], ['literal', [0, 0]], 9, ['get', 'offset']],
-					'icon-size': ['interpolate', ['exponential', 2], ['zoom'],
+					'icon-size': [
+						'interpolate',
+						['exponential', 2],
+						['zoom'],
 						0, 0.3,
-						9, 1.0
+						8, 1.0
 					],
 					'icon-keep-upright': true,
 					'icon-allow-overlap': true,
