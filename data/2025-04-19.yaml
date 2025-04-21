@@ -5105,28 +5105,31 @@ west_virginia/charleston:
   region: "Charleston, West Virginia"
   coordinates: [-81.6122744,38.3363062]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/danappalachia.bsky.social/post/3ln7es5lhxk27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hpyhpewtspin7rmfmdbowdhm/bafkreidosukbdoi7chyyxdorel6kvhodexbcm3oxdtciolpq52wudrqxqm@jpeg
 
 west_virginia/clarksburg:
   region: "Clarksburg, West Virginia"
   coordinates: [-80.3445341,39.2806451]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/bnat4.bsky.social/post/3lnayi2fomc2o
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zbgexjytas3l5hbygxvrfpwg/bafkreig6rj6pmx4mstnhd3t6vu2qds35lshfquapuvzigl4ypvqpcndczq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zbgexjytas3l5hbygxvrfpwg/bafkreibfy6znwdk2td6ntrvgnhd7ztzif67aaj3bc4dur2g4mmx7t2bdva@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zbgexjytas3l5hbygxvrfpwg/bafkreici2xz2pkoc3ncg3bvxgzb3kut72tenwkszgzny4mib4ghf5hsr6y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zbgexjytas3l5hbygxvrfpwg/bafkreif7ay4u2g52b7xclw6wvfgscosd7shlzy7pxfsarsenn3etztiffq@jpeg
 
 west_virginia/huntington:
   region: "Huntington, West Virginia"
   coordinates: [-82.3811146,38.4268474]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/juliehewett.com/post/3ln76m4dry22h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:42tkutnmz6l7xbtg7uy7fter/bafkreibl3glkjfawoxoxhj234imiwdrv7xwnaq3v7adzir523txhccugqi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:42tkutnmz6l7xbtg7uy7fter/bafkreiatqkbs4rvnyyhtdz4353aew47fcdx53unubdqyt6jx6wnhlxxafu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:42tkutnmz6l7xbtg7uy7fter/bafkreiaapwvq6bquoizbu37nncazw427rvfhj2fylxxclyj62bu6zd76bu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:42tkutnmz6l7xbtg7uy7fter/bafkreie7fwpzyw4jjr3aj7yrzfluvsn3dfyksdr6zddh35gpakx6xid6cy@jpeg
 
 west_virginia/lewisburg:
   region: "Lewisburg, West Virginia"
@@ -5141,19 +5144,22 @@ west_virginia/martinsburg:
   region: "Martinsburg, West Virginia"
   coordinates: [-77.9641381,39.4564769]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/awalkinthewoods.bsky.social/post/3ln6vfaawcs2j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w2u6yu7h7akr2uz5t4a7ulr7/bafkreiehxj5dkyjguilalytzalzcwfgxucopushk6ng5l5qsfmsvwv2ylm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w2u6yu7h7akr2uz5t4a7ulr7/bafkreif7d535no3x4djjyhrzhcvc2xbpzrs2xyilm4wdzybz2bsbodq65u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w2u6yu7h7akr2uz5t4a7ulr7/bafkreidrgfr25dzgotewzzlzrxrtlgumchb5sv33b4iyp4oujepefvp6ru@jpeg
 
 west_virginia/morgantown:
   region: "Morgantown, West Virginia"
   coordinates: [-79.9559437,39.6296809]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/leaherron.bsky.social/post/3ln6rhlauhc2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bvyjrdze4vwwyfciztxcieua/bafkreid7iatsefelwf4yxhjwdz34bgupdozczkmfnqablaqmqk2xoyap5a@jpeg
+    - url: https://bsky.app/profile/byrneout44.bsky.social/post/3ln7g7rzagk2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yxegpvvhahv5bai3lx7fkon/bafkreihxpj5h3jblgaivz5zcczoh6iwmnrd6cct5kegpssr7lnd7isvrnm@jpeg
 
 west_virginia/princeton:
   region: "Princeton, West Virginia"
@@ -5168,10 +5174,14 @@ west_virginia/wheeling:
   region: "Wheeling, West Virginia"
   coordinates: [-80.7209149,40.0639616]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/pixie243.bsky.social/post/3ln7h6zeu3k2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s6lhkzwopts26m3fnziknzgm/bafkreia6aldahtvlllvrm4nwf2uu7v3ronaqoj3vpku7ktwv6k4tplemdm@jpeg
+    - url: https://bsky.app/profile/owl-be-back.bsky.social/post/3ln7infaatk2h
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mgtmidmh74foqwlvog3qa3jg/bafkreiclru2rwufmcq5425e6x47lithbealhudnsi3g52gtrjygzwx5ehe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mgtmidmh74foqwlvog3qa3jg/bafkreiblfdnooxzebr3i2oatvyv7hadz6o2upurnexe64633q6qrezl2ma@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mgtmidmh74foqwlvog3qa3jg/bafkreidhvr3rntyyx6emhnagq7mqo4qiunomgb6aicd2wrz5aaqvqpudta@jpeg
 
 wisconsin/amery:
   region: "Amery, Wisconsin"
