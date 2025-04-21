@@ -3896,6 +3896,30 @@ ohio/zanesville:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+oklahoma/oklahoma_city:
+  region: "Oklahoma City, Oklahoma"
+  coordinates: [-97.516428,35.463358]
+  sources:
+    - url: https://bsky.app/profile/brayjudith.bsky.social/post/3ln7drxqdk52a
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:abb4aqci6tpyw2zmcrregiez/bafkreie2krkwyo32al2lmgb4bhieq6vhyz3zqurz7ch2w6sadqga4hclie@jpeg
+
+oklahoma/tulsa:
+  region: "Tulsa, Oklahoma"
+  coordinates: [-95.992775,36.153982]
+  sources:
+    - url: https://www.publicradiotulsa.org/local-regional/2025-04-20/oklahomans-feeling-effects-of-trump-protest-in-tulsa
+      photos:
+        - https://npr.brightspotcdn.com/dims4/default/d754a31/2147483647/strip/true/crop/3024x4032+0+0/resize/1760x2346!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2F9a%2Fe30e03ae44f2a50bf36db0db8a91%2Fimg-7755.jpg
+        - https://npr.brightspotcdn.com/dims4/default/6c776f4/2147483647/strip/true/crop/4032x3024+0+0/resize/1760x1320!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F39%2F7503900a46da977afa2b85801d1e%2Fimg-7760.jpg
+        - https://npr.brightspotcdn.com/dims4/default/5d09e89/2147483647/strip/true/crop/4032x3024+0+0/resize/1760x1320!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2Fcd%2F9c6b61284978a5c5573206b75545%2Fimg-7756.jpg
+    - url: https://bsky.app/profile/us3dsil25.bsky.social/post/3ln6su2za3s2a
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6vtrlk5wxyrfjmy2ps5zthgm/bafkreihat5mw25mfcqgigqytnjgngnozsie76qcee7hoqfzh45atfuqcay@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6vtrlk5wxyrfjmy2ps5zthgm/bafkreig7sl6lg6s374bwsdkkrjllaavoyt7ugfms6wrvmqfiwnznobqkjy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6vtrlk5wxyrfjmy2ps5zthgm/bafkreic7olz2kydhfm7kmxlhgxxebeecepuhytwgov5lx27uumjppqaqb4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6vtrlk5wxyrfjmy2ps5zthgm/bafkreiarpnknylm6mh4xqx75ye4jqzqo4jt5gnmu6yyjhojt44qzmvcaja@jpeg
+
 oregon/bend:
   region: "Bend, Oregon"
   coordinates: [-121.3222223,44.0584771]
