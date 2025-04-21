@@ -3466,82 +3466,106 @@ north_carolina/chapel_hill:
   region: "Chapel Hill, North Carolina"
   coordinates: [-79.0532826,35.9145339]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/alicecarlton.bsky.social/post/3ln72nvislk2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u6xewgfgcnnijfxpf4awu7s6/bafkreig5bttal54gohkzj7ktn7jisjkrpbgrjf73htzfca27whcdgcaicm@jpeg
+    - url: https://bsky.app/profile/mikewords.bsky.social/post/3ln6nl74t222s
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pyghyjsfrxl24a3kpe5agnfe/bafkreia6ap3xcrnazkk5grm34xqkrnepptkbox4db7r5naxaobykfh3jgm@jpeg
+    - url: https://bsky.app/profile/tarheelgrl.bsky.social/post/3ln6ixzliq22o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttzhvwnpksqxqlnho7dvej3d/bafkreiai3xxpyrb47mdqmmmm6vyzuslj3rn4ffoxk7mp623t6cibz3wavy@jpeg
 
 north_carolina/charlotte:
   region: "Charlotte, North Carolina"
   coordinates: [-80.83517074584962,35.22640977765989]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sharonharmon.bsky.social/post/3ln6zdsdsck2v
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bcz5roagyoib7baicwl3qdk7/bafkreid2piixasbtcl75elpd2um7fmwgqdyzeczufw5elgadcmjv7tji3i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bcz5roagyoib7baicwl3qdk7/bafkreihr6sxdx6ml66xgmjursmev6ofdej7r2f36rwd37csb3pd6e4hky4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bcz5roagyoib7baicwl3qdk7/bafkreifrwzuuivf6kcmmttmqixtlsbvxmuvbx73d72bf7rgej747bjbvjm@jpeg
 
 north_carolina/greensboro:
   region: "Greensboro, North Carolina"
   coordinates: [-79.7926671,36.0721491]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/indivisiblegconc.bsky.social/post/3ln6wb7lerc2p
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dgiqbphzucgsakjvl4aonsaz/bafkreiczzbgfhsvqmidrbajub22pvryofcpalbgmysfrm66rdrygpraxly@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dgiqbphzucgsakjvl4aonsaz/bafkreiaoxqzmaog65axpt4sp5tn77lhuzjcb5qrzyahfz3x4z6cnihzpuy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dgiqbphzucgsakjvl4aonsaz/bafkreiboplnsjtaibsupjoj3zrta3ysdokjeguutkk5grazisf3xlj4mwq@jpeg
+    - url: https://bsky.app/profile/kharrisga.bsky.social/post/3ln6ve42a6s2r
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p34ozpmmxx4kekpjnimmuu7o/bafkreib2dx5m44hvpzjt5bckih2u4nhxgdiz7uztxvjnkyrbwuoiabep54@jpeg
 
 north_carolina/greenville:
   region: "Greenville, North Carolina"
   coordinates: [-77.36800146104542,35.60654664941019]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/melindathomsen.bsky.social/post/3ln6qyfl6hs25
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:emcubtchgw66mz5pllc3dikr/bafkreieog7vxseujvisrg76udvvdljlg2spxlcjajafkwikxjwpwgkxq2m@jpeg
+    - url: https://bsky.app/profile/wadebwilson.bsky.social/post/3ln6moimlbs2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uprw3nnj5pm4nsh2t4uqxkmx/bafkreifbqwwsqxjb4dekrz4hy2zu2mcwwuuukztoguyfmzizmvuan7ifyy@jpeg
 
 north_carolina/morrisville:
   region: "Morrisville, North Carolina"
   coordinates: [-78.85695966589905,35.83491578174526]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/katiebea.bsky.social/post/3ln6eugjujc2v
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ya2r2ucb26td2qfeb4mpwoft/bafkreidd2u7rlochltn6mrqptflqb3t7yltagzqqfzvua4a73k4zyszxby@jpeg
+    - url: https://bsky.app/profile/thecrazydoglady.bsky.social/post/3ln6lfc6tyk2s
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kt5neitjjuqlnz7gplczkapw/bafkreibcl63pny7wy4ei7nxy3a3snu7if4a2opsayvyrpzk5ozm35b7tta@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kt5neitjjuqlnz7gplczkapw/bafkreihgg2zvewxg3tzatgylngzno3et6m36vzcthlx6mglmdkpc7x4zge@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kt5neitjjuqlnz7gplczkapw/bafkreidu7rurnubh2uum3mlmrrpm4b63bbgqzjv4vzqtlkum6rxck7jnbq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kt5neitjjuqlnz7gplczkapw/bafkreian4fxz7jhgm5d2rm5psblbf7zmm47jeyyulq6yvpnlix65xjdcym@jpeg
 
 north_carolina/nags_head:
   region: "Nags Head, North Carolina"
   coordinates: [-75.6393754,35.9774503]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sasreads.bsky.social/post/3ln6y4qm7tk27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mtuwa3e7kghuog2tnksdaki7/bafkreifx7t7pl2rfkfelyu7sbvwcbrhhver5xlwefat24fautpwk7wflsu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mtuwa3e7kghuog2tnksdaki7/bafkreicw53qnl6lmcigqysljquv2le2h3czqzwa7s47n7ao7hb7gpfahu4@jpeg
 
 north_carolina/new_bern:
   region: "New Bern, North Carolina"
   coordinates: [-77.033544,35.090874]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/politicalsis.bsky.social/post/3lnb2t2xw7c2c
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lxkzlxpztze2nubxvfdidoq3/bafkreiao4c3z7z57jutiiz4fcb2cwfwxw2sbdgfmz4x4ztun74hpzcyo3m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lxkzlxpztze2nubxvfdidoq3/bafkreibbvurvxhjvi2z2y76dyjfeshcglbcsagqpizbqaxckopbgzrxmbq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lxkzlxpztze2nubxvfdidoq3/bafkreiestwj6n22p7iocajqs47ghpgvrb44rwi52sn4qsbkwwoj55csxsu@jpeg
+    - url: https://bsky.app/profile/lmbgoodwin.bsky.social/post/3ln6tsaftl222
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tcpgt7o27pozmihilc7zac25/bafkreidugj7m4b2rt6dfhea4qtxle22lacopv2zj65po4qqjafiteatsnq@jpeg
+    - url: https://bsky.app/profile/yalden.bsky.social/post/3ln6w2xhyks23
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5jxs46d2kdjbwyceo7q47w4v/bafkreibuzxixogjybfrt5fsn4o42e4d5222wsnifffaxhqjntlls7cm2fq@jpeg
 
 north_carolina/salisbury:
   region: "Salisbury, North Carolina"
   coordinates: [-80.4721217,35.6683186]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/anaturejournal.bsky.social/post/3ln7fl3yq522e
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pcdile22gg4v7lflxyw767g2/bafkreieekxzudtj2xhwwdiislwgkkjhzi2hoxqn3iupnzebcy3kjt5wrsq@jpeg
 
 north_carolina/winston_salem:
   region: "Winston-Salem, North Carolina"
   coordinates: [-80.24108,36.0962708]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/dmtmb.bsky.social/post/3lnbrqjnrp22m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dspxeebl4zslvjjfnvugzp4s/bafkreia54wdhvt4ifuln3xusmrowuwzhz3qx36klxiuluctn2uw5zr5duy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dspxeebl4zslvjjfnvugzp4s/bafkreifjmt5yygbfiqarmnz5x42b6wqyjgrl3glowg6rdby7uatbkszuwy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dspxeebl4zslvjjfnvugzp4s/bafkreib36hazemk4h2h33yqveatimgoln2qdxqfne6ofvuih6ktekdetze@jpeg
 
 north_dakota/bismarck:
   region: "Bismarck, North Dakota"
