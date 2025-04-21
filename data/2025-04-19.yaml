@@ -4927,37 +4927,56 @@ virginia/charlottesville:
   region: "Charlottesville, Virginia"
   coordinates: [-78.49139750003815,38.06361966997454]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/daminick1980.bsky.social/post/3ln7hlggsvs2n
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5vvljrdmqhzsin5agiggj3hx/bafkreig6oh2vysgqwy2urj2duyejtf46b4tgc3lqtfyroen5vthv3v2ee4@jpeg
+    - url: https://bsky.app/profile/vaughnhalen.bsky.social/post/3ln6z2kdafs22
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xzeuaqly22fzwo2aj4al5phn/bafkreicpfk2iavm6tzr7ypglk7riolk6jhrgzxllfbrcacg63lru3nbvnu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xzeuaqly22fzwo2aj4al5phn/bafkreigiaqevqmjzoqkywszj75ek3khkcy2mvdza7xqiew2diiilakithe@jpeg
 
 virginia/christiansburg:
   region: "Christiansburg, Virginia"
   coordinates: [-80.4093757,37.1294834]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/nrvindivisible.bsky.social/post/3ln77mttfvs2x
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zjwdxqmi5ah4kpj2r6ve4zen/bafkreigazrimrytaiq4sc3fcxxob5lhxvrsou2tldbvprh4fgpk5j4fry4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zjwdxqmi5ah4kpj2r6ve4zen/bafkreibftqwnuxjx7bobjxivgckrqtcerpfemjglfb4yj4dzlmautimv2i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zjwdxqmi5ah4kpj2r6ve4zen/bafkreift2voyqtxvwy7aonre5rkygt7o3v6khqlmjipiactt5gkjdrb3ra@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zjwdxqmi5ah4kpj2r6ve4zen/bafkreicxrvpooahnjodsdiktn7xd2jfkxuv6fhkl3wmzuskpd6nhcjkbgm@jpeg
+    - url: https://bsky.app/profile/nrvindivisible.bsky.social/post/3ln7antohhc2f
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zjwdxqmi5ah4kpj2r6ve4zen/bafkreif2pu6vqu5b2mvzarfaeprucj4axkgxcsud6g43w623utq7yrg3vy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zjwdxqmi5ah4kpj2r6ve4zen/bafkreia5ougjeup75msohruxjddugcjjjbqdsekhafhqmsuh4wg6kqqapy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zjwdxqmi5ah4kpj2r6ve4zen/bafkreia44witasc3bi2bcmdb5kjbdk3o5qh67fnfbzpjdnmdrdkgu53kae@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zjwdxqmi5ah4kpj2r6ve4zen/bafkreibwx63dridnnampxioro3n7l76hkx5o2quvoyyqjnku2srafs53lu@jpeg
 
 virginia/danville:
   region: "Danville, Virginia"
   coordinates: [-79.3896846,36.5885443]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/cvaber.bsky.social/post/3ln6soew3ds2d
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6qaikiuys3fpddrpoin56eil/bafkreidzbg3w7prlo5hcviepm3oncu4jpgg6ikihuzizxvkv2ece472kh4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6qaikiuys3fpddrpoin56eil/bafkreiamjj2xvtb444ndujzakukzv2cutvprz4squl7nj7bwwrlxrsgoda@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6qaikiuys3fpddrpoin56eil/bafkreibc7eiu5gm5fpp26jqfkhyueqwcpja7omyqkoe2wojilhpzuamdau@jpeg
 
 virginia/farmville:
   region: "Farmville, Virginia"
   coordinates: [-78.39284777641298,37.301360085091574]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/cherokeechic71.bsky.social/post/3lnb6uslnjx2i
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:43i6n4ngk7pn2t4bmrqlddgg/bafkreiflmigj6bcxxbnjwhinytmba27coartten6yucj76l5blyjptxwnm@jpeg
+    - url: https://bsky.app/profile/gamongold.bsky.social/post/3ln72qxe3r22t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hc456df3fvke2p446hmuwah5/bafkreif5ub3sjbrr4dtfkn6uajp3zdiw4r2gty5j5ghsfus7eneuzfqaoa@jpeg
+    - url: https://bsky.app/profile/codycoyote1959.bsky.social/post/3ln6rrbyloc2w
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:37djan6tzbag6oe3spbwtiil/bafkreif6qzsfcnwaqxo4yzckf76fjvt2zh3nw32f77mkmqwpus4rpb7gsu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:37djan6tzbag6oe3spbwtiil/bafkreicp2yfe4inn5nxgprfmirh6gotjfqstxh565wqeqf2khxzvembor4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:37djan6tzbag6oe3spbwtiil/bafkreib4fupmxhx4iubjuoscaksdjtskhbzcfteulngrk665bwju74a2s4@jpeg
 
 virginia/lexington:
   region: "Lexington, Virginia"
@@ -4972,24 +4991,59 @@ virginia/richmond:
   region: "Richmond, Virginia"
   coordinates: [-77.435322,37.539115]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/physiciandemocracy.medsky.social/post/3ln7eblfukc2l
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5y5mgzgs2kx63mqc5gcz2n3v/bafkreib4yn2mmugzobgu35oy36ula6x6zrgaxpftxesc4lxpi566jk4die@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5y5mgzgs2kx63mqc5gcz2n3v/bafkreibnjzvddvsxb65ked5sakqlcqxldcxrirk5htbl6qksndndevmaue@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5y5mgzgs2kx63mqc5gcz2n3v/bafkreiecfpz4pnwwequtpgeqqspo4qsgopo3msu6hcbrvm4mzrgferrgo4@jpeg
+    - url: https://bsky.app/profile/sistergf.bsky.social/post/3ln6kh42ets2u
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dmqulsznwisuleirj5ea36o2/bafkreibm3r66hvagqwx7uclmrlnlj77q2krnngujzqasjnn6tj6vfvdhza@jpeg
+    - url: https://bsky.app/profile/bethbishopkimbriel.bsky.social/post/3ln6yn5sbrs2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u7v4jawzefob3cuqi4m5iook/bafkreig7upgkff6futqiy246nyq3dyqo7tb7kn27lhq5zi2gjxbqpinps4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u7v4jawzefob3cuqi4m5iook/bafkreih36htart2zurrsdyzcwhbodqeam5dcen5lzkgdlzefvq3amob6ty@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u7v4jawzefob3cuqi4m5iook/bafkreic7yuwuomal76m7pzfx47nu4qo4rgmeavikr3uklh7iodosxmfy2i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u7v4jawzefob3cuqi4m5iook/bafkreib6grhliakkzjaizoho6m4qhxkv5b2pm3zfjcerx3fque3kmhs5q4@jpeg
+    - url: https://bsky.app/profile/bethbishopkimbriel.bsky.social/post/3ln6ymf6isc2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u7v4jawzefob3cuqi4m5iook/bafkreibju25h4uetm6myc2htgdy6hmncmjvyqy2a2dtlnd33iemdozubmu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u7v4jawzefob3cuqi4m5iook/bafkreiddubysr3bddwzzkc3wb5mzqco7fhaaja5lykqedrhz7lroh7ylry@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u7v4jawzefob3cuqi4m5iook/bafkreid5hxegn5ihn4jnaaeqve6nrwgxinpkeb746xrauyvklghyxzspdy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u7v4jawzefob3cuqi4m5iook/bafkreifodsun4of2jyasjyegepilegseyh7yfnlirz76rms7p2v26zed2a@jpeg
+    - url: https://bsky.app/profile/subletteweather.com/post/3ln6kqh6jgs2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wakecztlvnk52rff7qu2nskp/bafkreiakogayutxx3l5z62jblmaentqulergxni3hktwcwbnzganhaipti@jpeg
+    - url: https://bsky.app/profile/sgillas.bsky.social/post/3ln6qfsechs2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uecf37f6zqsgtzf2qgaxo7by/bafkreicf7767prpgm3rfhtnbjpaq2w6mxf37e6ievzq4nh5w2on2vdrfty@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uecf37f6zqsgtzf2qgaxo7by/bafkreihryvtbmpybvmipguqqs6ozvvw73tte3cbfuf5eyte2qcdnjgpqbq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uecf37f6zqsgtzf2qgaxo7by/bafkreidstbzcnnnw5zfgrjkaraegigpc6y46xfr5yqaht7spqzt55uuxj4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uecf37f6zqsgtzf2qgaxo7by/bafkreia24kqeccbbs2fabyxmezunpsqq5cunlbwp5d2ebkgk2kwxl2vyoa@jpeg
 
 virginia/roanoke:
   region: "Roanoke, Virginia"
   coordinates: [-79.93724629282953,37.27539632884641]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/khm95409.bsky.social/post/3ln6nty23c22f
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6nvj2kgllwkrlgtdz54uuy7h/bafkreidralftbvvppzrs2orikywnml4ucq2azqacs6ubhtrrkl3lmddpla@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6nvj2kgllwkrlgtdz54uuy7h/bafkreida6jdg3jur6bfmcrhqlbss4rglscfkj7xdx36kmwi4zew5yhebwy@jpeg
+    - url: https://bsky.app/profile/novashrugs.bsky.social/post/3ln6m2bpavk2d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2s24wecrto7wybbu3s27gebe/bafkreiab3o5337dau7iefb5m5k5khowrvii6xlrvv25dvdexnhpreopw2i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2s24wecrto7wybbu3s27gebe/bafkreif6uso37kb4p62i2yh7bm4van5ypzqrqscdvq5ggq3fquw7zwi6am@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2s24wecrto7wybbu3s27gebe/bafkreibuo4ejsuw6f3a7ankphilgsplczepqyozwd2rceksruahetgokiy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2s24wecrto7wybbu3s27gebe/bafkreiehsa5v3bfm5t4wbuxigt67jviu4l4hon3gxf35xskrtzgm7fu3zi@jpeg
 
 virginia/staunton:
   region: "Staunton, Virginia"
   coordinates: [-79.074847,38.1486904]
   sources:
+    - url: https://bsky.app/profile/peacedance22.bsky.social/post/3ln7a42s3g22k
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c47oo4pjqyggpwztxgqz3js3/bafkreif2nezokwlmkl5m25tuys6qniea2ygnmiuljgfknfmy2rzc4dknpq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c47oo4pjqyggpwztxgqz3js3/bafkreigqtdxb5rtinuz6ahaoctwe4x4irzi43uk72pf22ca23fyhkc6uhy@jpeg
     - url: https://eu.newsleader.com/picture-gallery/news/local/2025/04/19/downtown-staunton-protest-saturday-april-19-photos/83175693007/
       photos:
         - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PSTA/83175541007-nd-4-5155.JPG?width=1184&format=pjpg&auto=webp&quality=50
@@ -5016,10 +5070,9 @@ virginia/woodstock:
   region: "Woodstock, Virginia"
   coordinates: [-78.5273739,38.8720008]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/indigogurlsf222.bsky.social/post/3ln76nla5p22g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qrj7pwjsplko3xmsulisfwnn/bafkreiedkjg7ungnh5l3jknyfnl6z4zdfe5uioqlnli2supj2sphocwlry@jpeg
 
 washington/anacortes:
   region: "Anacortes, Washington"
