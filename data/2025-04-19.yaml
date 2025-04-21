@@ -1838,6 +1838,14 @@ hawaii/waimanalo:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+heard_island/heard_island:
+  region: "Heard Island"
+  coordinates: [73.5,-53.1]
+  sources:
+    - url: https://bsky.app/profile/heardislandgov.bsky.social/post/3ln7fuezgjk2e
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:umxbosgtybxsxgwy7riwyelq/bafkreiejarrhaiv5gqwzwesr3tn6glt5mydclydmyu32crncuyxo3qxpgu@jpeg
+
 idaho/boise:
   region: "Boise, Idaho"
   coordinates: [-116.203453,43.615018]
@@ -5471,6 +5479,19 @@ washington/bremerton:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6s55ej2zz6imhbptm7efowox/bafkreigxhexotndedwacqnandw6kz232ikp5o6rxxjr3gnskpcyetenlzi@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6s55ej2zz6imhbptm7efowox/bafkreifiuexcowovdyqpsdbddmlomxpex567n6l2nzhl3tlimecc4myl4a@jpeg
 
+washington/d_c_:
+  region: "D.C., Washington"
+  coordinates: [-77.039105,38.8976763]
+  sources:
+    - url: https://www.newsweek.com/photos-show-massive-50501-anti-ttrump-protests-across-country-2061783
+      photos:
+        - https://d.newsweek.com/en/full/2630112/50501-protest.webp?w=790&f=2384c11b19bc8def6044dc45afd1bd68
+        - https://d.newsweek.com/en/full/2630115/50501-protests.webp?w=790&f=b1520d435e65341cfc1a841b103cb875
+        - https://d.newsweek.com/en/full/2630121/50501-protest.webp?w=790&f=704dd590975fd8329887f53e70805849
+        - https://d.newsweek.com/en/full/2630124/50501-protests.webp?w=790&f=a552be09b96ebfd66acb3302b0a5abc0
+        - https://d.newsweek.com/en/full/2630125/50501-protests.webp?w=790&f=fd25d25b36df0596bf3f39fda09fa249
+        - https://d.newsweek.com/en/full/2630127/50501-protests.webp?w=790&f=4b7ba5fa0e207734000d9cb2f8b632bf
+
 washington/des_moines:
   region: "Des Moines, Washington"
   coordinates: [-122.3252727,47.4071919]
@@ -5582,19 +5603,6 @@ washington/vashon:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pnemfd4urmzqnuwpewl747vk/bafkreigngwwqc77irasssgap3mohk6kckc5tu5hpi2yodsmrcvugsv3rcu@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pnemfd4urmzqnuwpewl747vk/bafkreie3nyvdsi2nftxzf7h2ivmebzy7ct745z5fphytjjzy2lyhs34qva@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pnemfd4urmzqnuwpewl747vk/bafkreif7jcdn7qh7zg75vbazcti6yxgnrkk4pab3u6wadmtgik3k5oysre@jpeg
-
-washington/washington:
-  region: "Washington, Washington"
-  coordinates: [-77.039105,38.8976763]
-  sources:
-    - url: https://www.newsweek.com/photos-show-massive-50501-anti-ttrump-protests-across-country-2061783
-      photos:
-        - https://d.newsweek.com/en/full/2630112/50501-protest.webp?w=790&f=2384c11b19bc8def6044dc45afd1bd68
-        - https://d.newsweek.com/en/full/2630115/50501-protests.webp?w=790&f=b1520d435e65341cfc1a841b103cb875
-        - https://d.newsweek.com/en/full/2630121/50501-protest.webp?w=790&f=704dd590975fd8329887f53e70805849
-        - https://d.newsweek.com/en/full/2630124/50501-protests.webp?w=790&f=a552be09b96ebfd66acb3302b0a5abc0
-        - https://d.newsweek.com/en/full/2630125/50501-protests.webp?w=790&f=fd25d25b36df0596bf3f39fda09fa249
-        - https://d.newsweek.com/en/full/2630127/50501-protests.webp?w=790&f=4b7ba5fa0e207734000d9cb2f8b632bf
 
 washington/wenatchee:
   region: "Wenatchee, Washington"
