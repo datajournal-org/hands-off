@@ -2805,6 +2805,27 @@ michigan/lansing:
         - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PLSJ/83175123007-image-3.jpeg?width=2560
         - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/PLSJ/83175119007-image-6.jpeg?width=2560
 
+michigan/livonia:
+  region: "Livonia, Michigan"
+  coordinates: [-83.352709,42.36837]
+  sources:
+    - url: https://bsky.app/profile/hopefulnloved95.bsky.social/post/3ln7bcwmfak2c
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wivo6x5apdnfxm56augnvpla/bafkreigudahfol6zxe2oi5mbfcgv5vqv7bi3e5zep6sco3725v24e44a7m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wivo6x5apdnfxm56augnvpla/bafkreihrs3jsyfmxknrxfmlx2qgtdwxf5k7j4w5xg2xqduetudpzik4z6e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wivo6x5apdnfxm56augnvpla/bafkreihi2n5rci6sv4ulko2yq4npxq44rdnsgk4pyg7wcqr5nb7leeitum@jpeg
+    - url: https://bsky.app/profile/paddybon.bsky.social/post/3ln6tlngohk27
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bpcf44gngxtckjznzkwmrhnx/bafkreidpxgxsx5u4jruqfdhro4zth7cce4r6fp6qibzuhiaghhjlxp45pq@jpeg
+
+michigan/ludington:
+  region: "Ludington, Michigan"
+  coordinates: [-86.9542,43.9577]
+  sources:
+    - url: https://bsky.app/profile/madelinejuul.bsky.social/post/3ln6y7srt3k23
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pgum26svquy2zyok7ob4ockv/bafkreic7cheadqrpdwmhwvvcrjg6bosovtqipdloslzchy7izdmcrkvpny@jpeg
+
 michigan/mount_pleasant:
   region: "Mount Pleasant, Michigan"
   coordinates: [-84.765595,43.5791017]
@@ -2840,6 +2861,16 @@ michigan/three_rivers:
       photos:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
+
+michigan/trenton:
+  region: "Trenton, Michigan"
+  coordinates: [-83.200456,42.120436]
+  sources:
+    - url: https://bsky.app/profile/freefromtyranee.bsky.social/post/3ln7cmsdj7s2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:off44kj5nloo7syfoqasxzqc/bafkreicd4dc7wx75gdr5wxafy2wmfm2jnvn5mtasvmj7zfopxso7u3yahq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:off44kj5nloo7syfoqasxzqc/bafkreib557eht4jbvdhyuy5j5gexshbgni4pau3vsastzwmifzgohlhnqe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:off44kj5nloo7syfoqasxzqc/bafkreifxsp4cdmbrhh26ewvy4335yrvskljorayra57iuregsmfjsrr3qe@jpeg
 
 michigan/troy:
   region: "Troy, Michigan"
