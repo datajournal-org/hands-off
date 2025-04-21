@@ -5078,10 +5078,15 @@ washington/anacortes:
   region: "Anacortes, Washington"
   coordinates: [-122.6129428,48.5123742]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/willis5248.bsky.social/post/3ln7d5htmtk2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uxriy25n4vm3aob3ekueak7c/bafkreiheuehgvz7qpw55cklpb4o4qvhaps24h5isnqmxq5drlc3oabbuva@jpeg
+    - url: https://bsky.app/profile/indivisibleskagit.org/post/3lnb6sxm2qk2k
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogynevocoeafpbudoxspniyj/bafkreihjpzdlnvozrcrznu3upcleqzukcjrsil42sf6snrs4mwefb33n34@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogynevocoeafpbudoxspniyj/bafkreiazuebubzqoxrootfhuqroprwjpgd6nqpl2dwcek3artqr6mgifqu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogynevocoeafpbudoxspniyj/bafkreihupsj36xbwgssbb2ahhunggm67mutjs3j3fpwchubsvuszihgvhm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogynevocoeafpbudoxspniyj/bafkreigtymd7gizsxyo3oy5y3cykiavno3vcdveffw5k42c2e43unghixm@jpeg
 
 washington/bainbridge_island:
   region: "Bainbridge Island, Washington"
@@ -5096,64 +5101,86 @@ washington/bellingham:
   region: "Bellingham, Washington"
   coordinates: [-122.47764149999999,48.7511652]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/gewalla.bsky.social/post/3ln7kektle22j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ej52u734rvemhnnclvzylnj2/bafkreihygsllvtnk2dpmrr6yy3vrztr2nijfpjxdsn3q6x2ajzy65675he@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ej52u734rvemhnnclvzylnj2/bafkreih4xubvvrfex3wvq54rg4xnenymgc7ydmrmhgw6m62nlprh6zyqpy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ej52u734rvemhnnclvzylnj2/bafkreigsrsuxndr6hvnznyyqfxuiw6koe4fw75yn7t6ag3xh73qvwa7som@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ej52u734rvemhnnclvzylnj2/bafkreiay4j6ij7bqczdsfje7u7dnsxocndzluphesezs6dgonqqszqbqpm@jpeg
+    - url: https://bsky.app/profile/artcandee.bsky.social/post/3ln73dsh2622z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pmhyscv7t7incelmoevkijpr/bafkreicr3wxykmee674wzv62dmwlk5i2vltmhro32wa6vyllygi6j5o6ta@jpeg
+    - url: https://bsky.app/profile/heyhelgs.bsky.social/post/3ln722dqdf22v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oxvoje65y5potfotpjgtjj3b/bafkreibx2k4aiujf57t2zx3uqz3omimyxp3t3ptrp37ge227jlomhbta2i@jpeg
+    - url: https://bsky.app/profile/debmccunn.bsky.social/post/3ln6zb5ccg22i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lgmpoqzssxoskv7g322wm3l3/bafkreiczqp5vnywkvzbcv2fiyljrhrkbufixlo7lkpylejesnjydbxp62u@jpeg
 
 washington/bremerton:
   region: "Bremerton, Washington"
   coordinates: [-122.6170858,47.5710989]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/artistlife2023.bsky.social/post/3ln744hwmqc22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6s55ej2zz6imhbptm7efowox/bafkreihztoiljtmrui7aj7e57gvoirytoujdd3zv53crc54himhztgfwmu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6s55ej2zz6imhbptm7efowox/bafkreigxhexotndedwacqnandw6kz232ikp5o6rxxjr3gnskpcyetenlzi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6s55ej2zz6imhbptm7efowox/bafkreifiuexcowovdyqpsdbddmlomxpex567n6l2nzhl3tlimecc4myl4a@jpeg
 
 washington/des_moines:
   region: "Des Moines, Washington"
   coordinates: [-122.3252727,47.4071919]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/freebirdpnw.bsky.social/post/3ln74zvaf7s2e
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mw3eefshuzn4fijqgtie6ole/bafkreieawkw72ikbzblomfohm5dylnv5jwxyy4wnktyauzkl7kf3ehsoui@jpeg
 
 washington/everett:
   region: "Everett, Washington"
   coordinates: [-122.2011454,48.0011444]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jjjgannon.bsky.social/post/3ln7kj3eqac27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yjncaknr36scyampjm6xectp/bafkreifiy7lcwdc2i67vvxfu73jccti256lx62mbtvfrad2t2uhholqq2i@jpeg
+    - url: https://bsky.app/profile/lisamanzer.bsky.social/post/3ln72tnhwbs2k
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:467zf77jlsf6ao6wut6xduhk/bafkreieuh7de4ppf3xesmcwdjv4zihqwrkmdgmivhkxjc47kh5tkrhkqya@jpeg
 
 washington/mount_vernon:
   region: "Mount Vernon, Washington"
   coordinates: [-122.40056991577148,48.42059999654762]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/kd-c.bsky.social/post/3lnbcbn72k22r
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2lhyuuyq2l6ca6k2roazes5g/bafkreic46cevh54tlb6mvxdukra3atpgtmdcvj7yyby3mt7g4xasrbgupq@jpeg
 
 washington/olympia:
   region: "Olympia, Washington"
   coordinates: [-122.9048521,47.0357617]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/katkarma.bsky.social/post/3ln7sayhipc2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eyjrkcxpm4f3cu63e4qonl6k/bafkreibydno5kawicraalftzacreeprk6b6wtty7bklda6glkh7lxvqqfe@jpeg
+    - url: https://bsky.app/profile/suzanneshepherd.bsky.social/post/3ln7nxyjq6c2s
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn5x2xdwfbl5finrvhi4nt3l/bafkreieo5zspq43btmm5bdo76gykpxraegtr2tdybuewfl5yw3hm76tuwe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn5x2xdwfbl5finrvhi4nt3l/bafkreihszqfuropqsy2kmdq5gcnuajezgvgcp2vxq7hxb2fzigia2o7adm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn5x2xdwfbl5finrvhi4nt3l/bafkreidkuyrozzwucycbn67vl62kmcizrefzz23llcw2f3ooupunuocjhu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rn5x2xdwfbl5finrvhi4nt3l/bafkreidecnh6kiey2e4dhgwbcjfffggsyeitgi6zzr2p2d2gaop2tv6ukq@jpeg
+    - url: https://bsky.app/profile/50501supporters.bsky.social/post/3lnbxf6r3ck2h
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eneqe5r2m6cevl5vqlinzqt6/bafkreihs65bnv2lozdd6pq34f6ynbpw5gaixorlu26ualwajvlt3krxnay@jpeg
 
 washington/poulsbo:
   region: "Poulsbo, Washington"
   coordinates: [-122.6485571,47.7353477]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/wendyrainbow.bsky.social/post/3ln7mp6gxkk2x
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wjcbf2pe7c5z6rch4tnxjlls/bafkreidz45ipi6yqf53kbwwiag6awd3dn5a32eedbzzw2q4ld5fqgfmziu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wjcbf2pe7c5z6rch4tnxjlls/bafkreiakoyoqvszpy2l77nn2k2do7dcdov5g3ttfqscmbl2rp6ll5hhosi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wjcbf2pe7c5z6rch4tnxjlls/bafkreig5wyjmy4pvxdxr5i6hku3fzsbdsovm24upfcuqfaysdl2w4pazpu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wjcbf2pe7c5z6rch4tnxjlls/bafkreiacoqf5ov3vtygg7opxjzhxrsitb2nngjwst6hfxwkrfwhb62rd3m@jpeg
 
 washington/pullman:
   region: "Pullman, Washington"
@@ -5177,28 +5204,40 @@ washington/seattle:
   region: "Seattle, Washington"
   coordinates: [-122.32154425327383,47.61669595]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sarahseattle.bsky.social/post/3ln76pvfuok2s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gemjawcae3tqhgjfzq5c3r4l/bafkreifscg3vvtjmxfxeuaoxsd7wnz4boead53qhztcrwhlmt6ukt7fhje@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gemjawcae3tqhgjfzq5c3r4l/bafkreifz2fpy5vrsw5a47gjgdtxl5v2oimvfoesqsg4nwyodf2zjyljygm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gemjawcae3tqhgjfzq5c3r4l/bafkreidbxcayopcjqz5wjy7kgmsb4pkciq5fs2vokaf4wrtuwu7fj7ncbe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gemjawcae3tqhgjfzq5c3r4l/bafkreigc46qyz3geq7p6gpwp3vtk6jartzt3xjmtjufrvz6psbmzxkvuaa@jpeg
+    - url: https://bsky.app/profile/50501supporters.bsky.social/post/3ln7n4rhres2s
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eneqe5r2m6cevl5vqlinzqt6/bafkreicbq3wxo3comvbwgh725yn56lgo7mg2w5keprr6efsj2pbf3l3byu@jpeg
 
 washington/tacoma:
   region: "Tacoma, Washington"
   coordinates: [-122.516159,47.3016407]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mochalives.medsky.social/post/3ln7qmw4oms2b
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cwpiy76itmar46bcvtn6b3ts/bafkreiaxnlmsjf6cxaosh5lrvo6klwzrqc7gx5lj2mtfiepvmcfwdi3fmu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cwpiy76itmar46bcvtn6b3ts/bafkreie2lel4nrky7mltts4zhqkak5l6kf4gblktuso2qwkeogdtd6wddq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cwpiy76itmar46bcvtn6b3ts/bafkreibiqjrsm6yuclfxjqnukghpybae6hhqdlgbcvli4pmnynvskcgkii@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cwpiy76itmar46bcvtn6b3ts/bafkreiaidxsvqf2hb6e5zi5fkyvjq3biaiin2o5jfiaqsup6q3r6qtlc74@jpeg
 
 washington/vashon:
   region: "Vashon, Washington"
   coordinates: [-122.4607188,47.4450337]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jeanieonvashon.bsky.social/post/3ln7uxmlylc2k
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4re3cm43i7palhfkgsnhjq5l/bafkreic7ijx5owuw5iihruvkcgcro4ud62srqpc4faefyqee7cud6mcdb4@jpeg
+    - url: https://bsky.app/profile/indivisible-vashon.bsky.social/post/3lnbxlc46hk24
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pnemfd4urmzqnuwpewl747vk/bafkreifgyrt2e65cemsqwtbep43pjsdasx23takf3eorfk7kqces5i4dfm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pnemfd4urmzqnuwpewl747vk/bafkreigngwwqc77irasssgap3mohk6kckc5tu5hpi2yodsmrcvugsv3rcu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pnemfd4urmzqnuwpewl747vk/bafkreie3nyvdsi2nftxzf7h2ivmebzy7ct745z5fphytjjzy2lyhs34qva@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pnemfd4urmzqnuwpewl747vk/bafkreif7jcdn7qh7zg75vbazcti6yxgnrkk4pab3u6wadmtgik3k5oysre@jpeg
 
 washington/washington:
   region: "Washington, Washington"
@@ -5217,10 +5256,11 @@ washington/wenatchee:
   region: "Wenatchee, Washington"
   coordinates: [-120.3138038,47.4233077]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sharonjurgens.bsky.social/post/3ln7bj2quvk2e
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yph2ahjl4yccxwz3ndymhzbq/bafkreiepjupfwceclqumogopwivzdbnwg7khh6kvo7jtzprcurkrxd6jg4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yph2ahjl4yccxwz3ndymhzbq/bafkreihsljbj5eumbv52mhhe7mtqobwkxd74keh77u2nn2kbqvu6eyqfi4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yph2ahjl4yccxwz3ndymhzbq/bafkreigbmwt6pwvuwatdbfbiykqphptpqghehurb665m3ci6ydm3zedsku@jpeg
 
 west_virginia/charleston:
   region: "Charleston, West Virginia"
