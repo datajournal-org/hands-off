@@ -1753,6 +1753,20 @@ hawaii/honolulu:
       photos:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2jxnnsewxgk4ricery5rvm7o/bafkreidmnznnqmlmdkebe6pat6j7rze2jkt6ybfkvpmwod2vdmhnpmqcaq@jpeg
 
+hawaii/waikiki:
+  region: "Waikiki, Hawaii"
+  coordinates: [-157.837444,21.276942]
+  sources:
+    - url: https://www.hawaiipublicradio.org/the-conversation/2025-04-01/hawaii-group-planning-statewide-protests-against-trump-musk
+      photos:
+        - https://npr.brightspotcdn.com/dims4/default/0d1bd19/2147483647/strip/true/crop/2048x1536+0+0/resize/1760x1320!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F85%2F1579b5634bb4bfbe02ae168ed3d0%2F480180671-1081672490669167-8678026529104877477-n.jpg
+    - url: https://bsky.app/profile/mrb105.bsky.social/post/3ln6tpiela223
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hpi2njn2v5pgdyk6an7qvrit/bafkreidsfcg3zuotsjqcegnjvjrbj44uxwolpjn5qlyhvggu4ig7yjkbc4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hpi2njn2v5pgdyk6an7qvrit/bafkreidvvjyujensfzsf55xdkuqy3wbl3hphcstlpd4ipci46v5qhcjqna@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hpi2njn2v5pgdyk6an7qvrit/bafkreihtgo45653kwjrfzobhb3u6qw35dvof6bfknkw6hp2thoilrtcmye@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hpi2njn2v5pgdyk6an7qvrit/bafkreialxk5pao3orz5acdhk355myva2dk4jhqotvlvvbuqpn6ax75ewbi@jpeg
+
 hawaii/waimanalo:
   region: "Waimanalo, Hawaii"
   coordinates: [-157.7800795,21.3756638]
@@ -3104,6 +3118,26 @@ nevada/elko:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
 
+nevada/las_vegas:
+  region: "Las Vegas, Nevada"
+  coordinates: [-115.148529,36.169941]
+  sources:
+    - url: https://bsky.app/profile/butterflyeffect23.bsky.social/post/3ln74zxalvs2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5udtfbpjayeg5afiym6lmwyz/bafkreif5jyel4hqhwthr37mt2ampebuwev4dqlq277kh5vyriqyquu5fym@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5udtfbpjayeg5afiym6lmwyz/bafkreif2zzmouk66fzmtlmao7qaiif3tansu2brx5xrk77otpq35hqwk5i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5udtfbpjayeg5afiym6lmwyz/bafkreighulscvso32hacbbvhkmwkdbmxlh3xf5bftutawclguphoa6louy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5udtfbpjayeg5afiym6lmwyz/bafkreigssmkbd3vfoxxueaviod2pmjepx5t6zcv3rkhqprqyhgp6ozyzxa@jpeg
+    - url: https://bsky.app/profile/alexs-byline.bsky.social/post/3ln7dt4h4bs2t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xzcojcwiphikxchwtszh3nag/bafkreigcpm53nzvocmtbxqhepafwc5wr4rw3pkrbfnnezqzzqyrjwx6sty@jpeg
+    - url: https://bsky.app/profile/laurielytel.bsky.social/post/3ln7li6flhk22
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w3ovzfam7qrtkanype2gmkvm/bafkreib3hqe5ka5ggyzod35c6tal5afb4oxojjrqj4u4icnoqw7u2bwvva@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w3ovzfam7qrtkanype2gmkvm/bafkreiccevyu65bta5g6lcjexxjmw4bgjjgkajtvfungi6ffh5tbd7jfd4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w3ovzfam7qrtkanype2gmkvm/bafkreib3tdjafzdp2tz5xe6osw7j4b2rjt5d2yb7cidgi7ogfksfpqbg7m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w3ovzfam7qrtkanype2gmkvm/bafkreicvvjmnsphdgq2fllymzndhzaobrievmel2kfkg4jn3sruiy4u4km@jpeg
+
 nevada/las_vegas_valley:
   region: "Las Vegas Valley, Nevada"
   coordinates: [-115.1423532,36.1651489]
@@ -3126,19 +3160,19 @@ new_hampshire/colebrook:
   region: "Colebrook, New Hampshire"
   coordinates: [-71.4951854,44.893033]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jaredfornh.bsky.social/post/3ln75ij546c22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xwpqlph7hkyxwincgueuh6d/bafkreifr7hqyktcecvcdzkeb42dbvji6bmy2xuffu6e4ob7n2czqpfxx44@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xwpqlph7hkyxwincgueuh6d/bafkreiad2qhqouvyefpxruzx5t2fwtx3otwbs7zeaiilcq6r2feunjkdpy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xwpqlph7hkyxwincgueuh6d/bafkreihaocurscgjfawbdbmrrp4inqwlduw3c7r7tw6evctmnn5zbav7a4@jpeg
 
 new_hampshire/derry:
   region: "Derry, New Hampshire"
   coordinates: [-71.323284,42.885098]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/stillspunky.bsky.social/post/3ln75vttkkk2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cftlwdis2qcmnpggkluhmc2l/bafkreicsgy5fuvibn7dheh76id2oa3mubvotpmpjxzcgzwzdj3ezcrn4n4@jpeg
 
 new_hampshire/dover:
   region: "Dover, New Hampshire"
@@ -5075,6 +5109,29 @@ utah/salt_lake_city:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5w3lppphfztxivatcvyaqkqe/bafkreihwohhg55kciniodzlz3jl3u36ga3qpgxgtbhjej3s6eirpscgfba@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5w3lppphfztxivatcvyaqkqe/bafkreibqmzlydr3iqwb6oigtgtwa76obthlqppisefsua6njzufkdhujwi@jpeg
 
+vermont/barton:
+  region: "Barton, Vermont"
+  coordinates: [-72.2086791,44.554999]
+  sources:
+    - url: https://bsky.app/profile/stanks.bsky.social/post/3lnbk5j36x225
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m2uflvsm54ffaig5ejuht4tz/bafkreicdqncfy77botgzc5f34zxllegyzho4dqnfaz4z5iy3wuelj6o5fa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m2uflvsm54ffaig5ejuht4tz/bafkreicvswuihkeyimus4gnv3k7rbnp5tm4elf7i3exa2wrnkt7kozyivy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m2uflvsm54ffaig5ejuht4tz/bafkreiclgabfrz6fpygmpbl4eilhxh7e3dmyfhqwrp7tzgektferthkynm@jpeg
+    - url: https://bsky.app/profile/dazednconfused1313.bsky.social/post/3lnau2m6ny22a
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hqeszalu5u5ny5qj4azhskmi/bafkreibavfn42nkncapaodkghnk4pp65xty44exjkb7jehmkvzueqtbeli@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hqeszalu5u5ny5qj4azhskmi/bafkreidfw243274t2iolsz3krmr6dxab737vqb42ivwyr32kqobi4yjpfq@jpeg
+
+vermont/brattleboro:
+  region: "Brattleboro, Vermont"
+  coordinates: [-72.5572851,42.849244]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
 vermont/burlington:
   region: "Burlington, Vermont"
   coordinates: [-73.2123995,44.4762871]
@@ -5112,6 +5169,15 @@ vermont/montpelier:
 vermont/newport_city:
   region: "Newport City, Vermont"
   coordinates: [-72.2107508,44.9355407]
+  sources:
+    - url: ... # source url, like a news article or a post on social media
+      photos:
+        - ... # url of a jpeg, webp or png image
+        - ... # select only good photos
+
+vermont/royalton:
+  region: "Royalton, Vermont"
+  coordinates: [-72.5608822,43.628052]
   sources:
     - url: ... # source url, like a news article or a post on social media
       photos:

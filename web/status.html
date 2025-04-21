@@ -81,11 +81,9 @@
 		}
 
 		function percentToColor(ratio) {
-			if (ratio > 0.95) return '#55ba56'; // 120,60,100
-			if (ratio > 0.75) return '#bcd85f'; // 90,60,100
-			if (ratio > 0.50) return '#fff32a'; // 60,60,100
-			if (ratio > 0.25) return '#fbb167'; // 30,60,100
-			return '#f1666a'; // 0,60,100
+			ratio = Math.min(Math.max(ratio, 0), 1);
+			ratio = Math.pow(ratio, 2);
+			return `hsl(${Math.round(ratio * 120)}, 80%, 50%)`;
 		}
 	</script>
 </body>
