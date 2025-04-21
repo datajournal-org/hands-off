@@ -3749,28 +3749,41 @@ ohio/akron:
   region: "Akron, Ohio"
   coordinates: [-81.5433976,41.0951855]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/tmmoretz3.bsky.social/post/3ln6xpgsalk2k
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:udvcwdzs52mj4ivokica6rum/bafkreihxan52ubomd2debt4f3t32o36p4sehn3klhcfd6i33pat6ojvysm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:udvcwdzs52mj4ivokica6rum/bafkreie73ts4bdoajmtg2ckul7ko3ejt73m7hyt5viqx4zekk6n5c7dfoi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:udvcwdzs52mj4ivokica6rum/bafkreib62nv2xfix6rq3kvqm43uwaf7fjim65cbi3atfaulbtbchjzhpba@jpeg
 
 ohio/ashland:
   region: "Ashland, Ohio"
   coordinates: [-82.3189248,40.8686438]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/annarunyen.bsky.social/post/3lnat27gfe223
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:irjodourcbnqchyscktj53dc/bafkreicylqyly42oeq5rc7lzcgozbxeqgoouovwopexmpeqah2pkif2ohe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:irjodourcbnqchyscktj53dc/bafkreihggv6ezkqm5doq36rri3ytet3llff2gn43sy3qumxpd7wh5de2mi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:irjodourcbnqchyscktj53dc/bafkreidfjj23rncpqqxwt4whtvfrmlude4m4iyy3f32nkzpsiuopwldy2y@jpeg
 
 ohio/athens:
   region: "Athens, Ohio"
   coordinates: [-82.1012479,39.3289242]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mccpurple.bsky.social/post/3ln6pqpugus2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pu7kkxdanriijrfvrw6pz3ql/bafkreibzzkuyssymo7hj35grh3ro2vwdmngwsecqxs6mut2ocwcztdngxu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pu7kkxdanriijrfvrw6pz3ql/bafkreigx4wb6hrr2u3xnj6z42atvgtjh3wxigbhoxsnw7p427nohkgdm6m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pu7kkxdanriijrfvrw6pz3ql/bafkreiabrshyxnwa3eza47q3owkhbsysutce5uztvaaykqolzfzva3t43y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pu7kkxdanriijrfvrw6pz3ql/bafkreicqo73kyfszmqft336he7cxdenlwbvvo3fdrm4uqadtifdpvzfok4@jpeg
+    - url: https://bsky.app/profile/glassbabe.bsky.social/post/3ln6zekeosc2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hh3tyqtzyuoc2u34hgensxdd/bafkreicxo5ipcy2flpsuqizxlbs3tubbpzmgvg5sxvtdmnghs4c4imyxoq@jpeg
+    - url: https://bsky.app/profile/shellywl.bsky.social/post/3ln6vzu5qls2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vlez7m4azpjtfndaw3m6nhmn/bafkreidrksgst2oltcrkridblicjb5jfd2tkwgaghhfnkr7uraiaedsctu@jpeg
+    - url: https://bsky.app/profile/dobbymom.bsky.social/post/3ln6q3pndlc2c
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dp4mfzgnbqkx3rb5lu2bcmm7/bafkreibwcw7i2vjfsrszplj4lvx53p4u725phlecp7ijlw7cuuhyg62744@jpeg
 
 ohio/bellefontaine:
   region: "Bellefontaine, Ohio"
@@ -3785,10 +3798,15 @@ ohio/bowling_green:
   region: "Bowling Green, Ohio"
   coordinates: [-83.650579,41.374821]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/lamountain.bsky.social/post/3ln7ffqwwys2v
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nx6l63tzk6jmwfpwwsr2c4mc/bafkreie7l7nyiatwbiqs22xaznvctjaf6z3ni7q3tm3kkzxzdtdcne7wd4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nx6l63tzk6jmwfpwwsr2c4mc/bafkreiglpurryahxx2qjkfx4tzo6cgv6mmffj6jxg2zlp2qlmty5me2sgy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nx6l63tzk6jmwfpwwsr2c4mc/bafkreifcehinp33bktiqnw3qrznu2zzxdeubxrsyrh6ojsd37ow4msdcaq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nx6l63tzk6jmwfpwwsr2c4mc/bafkreih4adah57kyok74owuyih4fywzqf43vqlfwlvptlwt65ujpxikflu@jpeg
+    - url: https://bsky.app/profile/lamountain.bsky.social/post/3ln7bd6lhe22i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nx6l63tzk6jmwfpwwsr2c4mc/bafkreiac4lhpdcovj74h35ce3nlj62hepwi7ono42r55kmfewlb45mhtoy@jpeg
 
 ohio/cambridge:
   region: "Cambridge, Ohio"
@@ -3803,10 +3821,12 @@ ohio/canton:
   region: "Canton, Ohio"
   coordinates: [-81.372291,40.807933]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/slingerofarrows.bsky.social/post/3ln7isgaums2w
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:igzpsjuzffrxvbmjvvvkvkah/bafkreic3n2dybdkyh2liaktcatlbzvad5ax5rchbshofq2wqyduphdlzfu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:igzpsjuzffrxvbmjvvvkvkah/bafkreihnwyu55dprelunbuxz3336xkyoebpyn4pxg4irijfzbyxnlwbzym@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:igzpsjuzffrxvbmjvvvkvkah/bafkreih34nhqe5bzbuyvbhec7bmdpjzceyc377e64fwnv2guva73pvmy3i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:igzpsjuzffrxvbmjvvvkvkah/bafkreiajej74pm76uvwq6ffhvcwgljpb3hrcquvvgupqllbnqm5zy773xa@jpeg
 
 ohio/celina:
   region: "Celina, Ohio"
@@ -3821,28 +3841,42 @@ ohio/chillicothe:
   region: "Chillicothe, Ohio"
   coordinates: [-82.982409,39.333994]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/dblis.bsky.social/post/3ln7braebo22m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ug5dsrrdk2acgiaia4s5zd6z/bafkreigxlzv5fx4ra7wje2ijuxg544yxbhq4hzik6atfoa6pgsztistyvm@jpeg
+    - url: https://bsky.app/profile/foreverambre.bsky.social/post/3ln6xt3a63c22
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eaxb2ijdry3gwqlmohbkcdab/bafkreifqw4uzoyvq5l3udh2wfcwso4h5cbovozb5a6aonmpw6luhjycs7u@jpeg
 
 ohio/cincinnati:
   region: "Cincinnati, Ohio"
   coordinates: [-84.515666,39.104505]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/dsweitzer.bsky.social/post/3ln6oyrket22s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7ywhb43zzm4uegxbcnst4fgc/bafkreidpatp2rrdlew3laefocxld2j6ojr7wlnrxjbote7pvradni3ph2m@jpeg
+    - url: https://bsky.app/profile/lmrose.bsky.social/post/3ln7dqfbkns25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pwhtrekeztqp7vs2ifmf7ddu/bafkreifjvsiiuel4l27rfyo2ene6z4w6q6cj6w3vdrvarni6kdpw5pcssu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pwhtrekeztqp7vs2ifmf7ddu/bafkreienazhdqrtr3zmpd6uchochhmavjtj4pwiraitk2cp2yqtusbluxi@jpeg
+    - url: https://bsky.app/profile/elyncincy.bsky.social/post/3ln7duuos4s2b
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ygzuyikmleegglqambrm5mux/bafkreiesqlo4v4huretydrs67pll3xglfnf4zszd5oyw6wf3elsks6nssi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ygzuyikmleegglqambrm5mux/bafkreihnqxqvauqgl7pqrluxzsotrm4tapgig7kpwg5hjtvrrmrdnth3tm@jpeg
 
 ohio/circleville:
   region: "Circleville, Ohio"
   coordinates: [-82.9460133,39.600618]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/pissedoffbaglady.bsky.social/post/3lnbxqst3ik2n
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxnqildnu2cqkom37tlvpri5/bafkreicrtp2f7zu75gn4nm6ht6xo6xyxoa43rehoqkoyhwol24i6drhvxa@jpeg
+    - url: https://bsky.app/profile/erineitel.bsky.social/post/3ln7lxxbgrc22
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6gt7dcx6vr34z6g66afg63eo/bafkreie5vlg6n6ec442lqff4zqya2g5tvjugkwtpimfg2suekwcsxfcrou@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6gt7dcx6vr34z6g66afg63eo/bafkreianqx63vxjpshsy4xndbfyzzvojtxpk54hmch3q5yatrq4rl3vrba@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6gt7dcx6vr34z6g66afg63eo/bafkreifuy77n3fxzimkci3obq4cr4tneo7qquh2ev53eems7dlo6stg6tm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6gt7dcx6vr34z6g66afg63eo/bafkreia7ts2sjg3vfdg2ar5gfjckxx66d2fzu7q3mrxn2n5ubeemkvxxcq@jpeg
 
 ohio/columbus:
   region: "Columbus, Ohio"
@@ -3868,37 +3902,57 @@ ohio/dayton:
   region: "Dayton, Ohio"
   coordinates: [-84.1920218,39.7599089]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/annieonymous.bsky.social/post/3ln6xs6xxj226
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tchonmhriwtabsrprr7ksfbi/bafkreiazcedqfs5zk6bvkleefvlaqqn2vrcq4jjhvvycfhzsesfgzz72ye@jpeg
+    - url: https://bsky.app/profile/bootan.bsky.social/post/3ln6rfqls2c2j
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:unvnevrdsjwule4wiozzjte2/bafkreihopt65mnypqeoh2l44xbcr636nvryhcve3h42dborzqa4y3s6k7e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:unvnevrdsjwule4wiozzjte2/bafkreiflg7zbvnod66wfbzs3gz2ibano3gidai2toc3bkd6zsvb3k3feka@jpeg
+    - url: https://bsky.app/profile/mccalhoun.bsky.social/post/3ln7j4stows2e
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnwfvqvfpa4u44dbre2lz5i5/bafkreieysouzptnz5npip3kota2hocga3icabrhzcgl3anhqiva6om3zoe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnwfvqvfpa4u44dbre2lz5i5/bafkreifzl4n3vx2wqysct52jnfuk27kpvgwbrnaxdzc22rrj7lf4geyova@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnwfvqvfpa4u44dbre2lz5i5/bafkreieo6ljazvwuj2lw5fy6mrhoxgfc7ka6nbrwqrf7alhzanqalz34sa@jpeg
 
 ohio/delaware:
   region: "Delaware, Ohio"
   coordinates: [-83.067675,40.298674]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/rolandwall.bsky.social/post/3lnaodglzac2x
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ycenfmekebma3sttvprcingl/bafkreigmfamfuuudpjzv2go6yq77eumjrmhzov7vepx6zrjkbzpaleboum@jpeg
+    - url: https://bsky.app/profile/cheriquinlan.bsky.social/post/3ln6pqvrufk2f
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreie3vbppwu7lxwybaglcfrq3gm6blzm5hb5hmkjaoedtujv3zhgkaq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreiawnovccke72pwwwc3oo6mhgcudkyq6wi4hr7ylcmnw5yroiozpmq@jpeg
+    - url: https://bsky.app/profile/cheriquinlan.bsky.social/post/3ln727cmetk25
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreia3n7mtwqa6vjraj2zbr36hqal6hbvyeeonyw3feax42slwrvy3e4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreia3fpyaymq47euwihzccwjzuorsq7xhna53i3kukthfqdalnquoc4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:paw4tihrlexus4ukhxxvkftx/bafkreicznfixqrc3z3r7cbg2kodf4m6fqlhlmzmu2o7fvzia5obo4pxzvm@jpeg
 
 ohio/eaton:
   region: "Eaton, Ohio"
   coordinates: [-84.636327,39.743857]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/drstar.bsky.social/post/3ln7ohmwv322a
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nbx52aak7pyoykxza6aejuif/bafkreicvssi7t6o5mmwyrmduhstw3htkkeirhgqq7o2zbshyas3bih4rwu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nbx52aak7pyoykxza6aejuif/bafkreif5tiktsx6bt3vbq2pbtzu4lopbvf3ia6bldjo4hmdmwacsvddx3y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nbx52aak7pyoykxza6aejuif/bafkreihevzvqaijcahx4vyvuvqtu2ntg54fedtmmmze5xukud4kp7rhhjm@jpeg
 
 ohio/findlay:
   region: "Findlay, Ohio"
   coordinates: [-83.650353,41.039021]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/bsutton-ramspeck.bsky.social/post/3lnavsca6f22z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yt27d4s4yjnupza446bxhxts/bafkreighqofe3pmadfcdocibxscca3766efiebadab3zdoizygzk7e5wui@jpeg
+    - url: https://bsky.app/profile/blabberator.bsky.social/post/3ln6t3bs3jk2k
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gzceiuth2jfimlkueyv32lrt/bafkreias2zmh2ttfsmc2ux3vvnco3ewmeaydxbj42e5xemvelw4mbwubia@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gzceiuth2jfimlkueyv32lrt/bafkreig52qoxqvvtdx6odf3n5tcijrzz5ps2rcj2zpocvixrgbmuzec3be@jpeg
 
 ohio/fostoria:
   region: "Fostoria, Ohio"
@@ -3922,19 +3976,18 @@ ohio/kent:
   region: "Kent, Ohio"
   coordinates: [-81.359019,41.153168]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/aquari1187.bsky.social/post/3ln7abhdtpc2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ukiankymysbwugnzx32wn27/bafkreifaniqxt7xl73zhzjjti34765lqtjaowbrrfgkclnjx6e2khfjavi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ukiankymysbwugnzx32wn27/bafkreihuxayyjirdfgmjaoqnlerykmut3l6qdbdcufmz6fgd5x4meheeqy@jpeg
 
 ohio/lancaster:
   region: "Lancaster, Ohio"
   coordinates: [-82.5981368,39.7137017]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/firebirdshelly.bsky.social/post/3ln74lf7dcc2i
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ks5rzz4hhr6mngml6y3ptzvb/bafkreib6jadk2aiduc6andkhwjhxuchlwa26ooacan4bo7vxqiiwt3ggvq@jpeg
 
 ohio/lima:
   region: "Lima, Ohio"
@@ -3949,55 +4002,68 @@ ohio/lisbon:
   region: "Lisbon, Ohio"
   coordinates: [-80.7691958,40.784915]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/tracytreefrog.bsky.social/post/3ln76572cys22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6cqa34rchc6ghdybk74a7ybv/bafkreihe6yd7vddvthfxdmpg2yfusmxwep3cypozbzcxkrxttnce4nybhq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6cqa34rchc6ghdybk74a7ybv/bafkreic2bab7fwc64455dddyrwqy5g3nklbqifnvlqhpdkquz4sh43z65e@jpeg
 
 ohio/lyndhurst:
   region: "Lyndhurst, Ohio"
   coordinates: [-81.4920182,41.519825]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/denisedewald.bsky.social/post/3ln6k22yelc27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4w4khzuvrhyh2ky4j7pkneo2/bafkreiebldvchjmlds2vsecvaqthj3xux626ixvjk5mbnqzzaynmpunnfe@jpeg
+    - url: https://bsky.app/profile/specificity66.bsky.social/post/3ln6xr7yprs2y
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qyqqjsk2sv6brsllbs45v2s7/bafkreiamdwcolkzpn3q2pytetv5ajc6z226vqx7khtq6qoa7qy7qads6bi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qyqqjsk2sv6brsllbs45v2s7/bafkreiabuycuemkmq5ifxl57adzrwk465txim5bkeyhkz3zsqylaspl7wi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qyqqjsk2sv6brsllbs45v2s7/bafkreihpokk6ckjz7julc534u556txs6l5tofbu2tyyxh3ukrxsyf3s3ki@jpeg
+    - url: https://bsky.app/profile/kvochko.bsky.social/post/3ln6utvwlec2o
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:axf32jgst7zywgj2p2csap7t/bafkreifoyzyblpgkl6iflvqasjb5diszxh73u5jwvvhcsacq42wxatxvau@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:axf32jgst7zywgj2p2csap7t/bafkreig2mkoqcrhb4uoaw5hwyiihfuhpx3erf7axojsyijx5ummjdzc2ei@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:axf32jgst7zywgj2p2csap7t/bafkreicne2jj4h5o4skhxr4unhgq2m3z5dnmgpuym4jwdu2wq3n4p2juxm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:axf32jgst7zywgj2p2csap7t/bafkreidu2vffs2v7uabcon6jcdzdoflhv4hjwtmdrqwdnmg724gbwpde7u@jpeg
 
 ohio/marysville:
   region: "Marysville, Ohio"
   coordinates: [-83.3671432,40.2364486]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/pamillaaa.bsky.social/post/3ln7nvwr6hs2r
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fgqnbrmfjaaao7iu4zv46n2r/bafkreiffta2hsy5bsutbxjztcal6lvu5rnpwrxpoekwa3324hmyckovjfu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fgqnbrmfjaaao7iu4zv46n2r/bafkreif4t6a26cysgxdymsonqis4tunh2qqvg4uxtmfkmxubdmustf73ku@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fgqnbrmfjaaao7iu4zv46n2r/bafkreievw34xa5lnmo5pnkzychbied62jehlw2jsmynzrsqhbi5ldatniy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fgqnbrmfjaaao7iu4zv46n2r/bafkreid5xwfo4bbpjit5zdso2yzzodfba6de2yx3uk3ava463wqqolkjt4@jpeg
 
 ohio/mentor:
   region: "Mentor, Ohio"
   coordinates: [-81.3574305,41.6647471]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sosjr.bsky.social/post/3ln6qjqs3cs22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zendaf44sxms7jbo62aklmxz/bafkreievk66y6ffreo4vhtfhxsi7owoenlzdajoicyk4qzl7jgalfsfhxu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zendaf44sxms7jbo62aklmxz/bafkreihgbcdw5ze5txdgdusgkbljwm5fk6h4rdzgtcnarutybjn4vzdjmi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zendaf44sxms7jbo62aklmxz/bafkreic6ywrmssdie7xqnn3snwsizwzm4skotd4uhuijkgzziea2j6hgz4@jpeg
 
 ohio/middletown:
   region: "Middletown, Ohio"
   coordinates: [-84.41208505626493,39.49645469960527]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/janeo17.bsky.social/post/3lnapf4kjhc2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ylwgdhrilfoae3mbkn37v5z/bafkreierv73z4yroxvtwl6ezp6ucyv47psrkmz3zy3bcousw4xolbizqym@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ylwgdhrilfoae3mbkn37v5z/bafkreigwohgux6cejl4rpqwumxr4y2x23qiluwew52fvrhfquvyknilzii@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ylwgdhrilfoae3mbkn37v5z/bafkreif6lpxalgmhvl2jmucxbfvtets6vaqsbhfojcjyr2whjjui3cdcum@jpeg
 
 ohio/newark:
   region: "Newark, Ohio"
   coordinates: [-82.4017788,40.0579541]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/petebachman.bsky.social/post/3ln6mcbzgms2r
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vtwtqppbl5okihqyvebvvqm6/bafkreidgbx2pr24qlhw3bv5r4v4lskbu7anoq7vebxieidrk57xqm34rqu@jpeg
 
 ohio/norwalk:
   region: "Norwalk, Ohio"
@@ -4021,55 +4087,72 @@ ohio/pepper_pike:
   region: "Pepper Pike, Ohio"
   coordinates: [-81.4593509,41.4622297]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jmedpo.bsky.social/post/3ln7l3q62ik2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mspfyej5e5w5zmsut5yuqsjv/bafkreifibogwipeftz7hajackfou6t2cf3sh2ocy2xkldubjfr7cmsmzau@jpeg
+    - url: https://bsky.app/profile/tlccle.bsky.social/post/3ln73rddelc22
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vgit6ijmknnpksakiqtbfliw/bafkreiah3h2wxjtekd43rgt6x7xig27q62zd7uhmwkwne7lpnpltadtg3m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vgit6ijmknnpksakiqtbfliw/bafkreigh5h4esq7t5yvneju4g2aky5y5n4ynotde46pkze6ubod76hfepu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vgit6ijmknnpksakiqtbfliw/bafkreibzcfljqjxe3a5y5ebtostrw6yjbb4tgtseswettw47dldotl323y@jpeg
 
 ohio/portsmouth:
   region: "Portsmouth, Ohio"
   coordinates: [-82.9942609,38.7374227]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/catladydem.bsky.social/post/3ln6ns55ink2g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uz3cvp5xwohtd6qwgksllvv4/bafkreia246jlpfmguh5msdmsxgmz5t6a6yqcoglb4nn2svf5ophc3zqbci@jpeg
 
 ohio/reynoldsburg:
   region: "Reynoldsburg, Ohio"
   coordinates: [-82.8057896,39.9556129]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/adlaijn.bsky.social/post/3ln6r3s5xtc2r
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yssce72d44vcvat6b6bukbty/bafkreifbmypytcefosd2ghkysyljhkkvndb3hbqtsujs3fr46prybc7ceq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yssce72d44vcvat6b6bukbty/bafkreidavd46tjs4z5tcz3d5figcc7mqho4rirywbrqy3pkcycwj6z7gyu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yssce72d44vcvat6b6bukbty/bafkreiblv456soqp77t6bvqk6dcp355u5dr6bhqfw4s4v23t3uhawbr6l4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yssce72d44vcvat6b6bukbty/bafkreigderjegsuovpl7bjixjjk5xoh4r2etbtj6itegorlrmzxpmg7rau@jpeg
 
 ohio/sandusky:
   region: "Sandusky, Ohio"
   coordinates: [-82.7113861,41.4538747]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/warrenettep.bsky.social/post/3ln6oxkrqms2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xtuz5qep6e3xwuuv3su7cswq/bafkreidcws4g4nr5qfezljja7jbsad4cp4mjtk4kkx3zranai55rb3q67a@jpeg
+    - url: https://bsky.app/profile/nwohiogoodtrouble.bsky.social/post/3ln73jloexs2z
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ofyinnepd3fg6fagjpi5nw6v/bafkreifeoqog24oacc2bgmak4s3am5qwy3gae22gw6tux74auzpsmviqpy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ofyinnepd3fg6fagjpi5nw6v/bafkreicdkqbqtk56iemdqzrwdatq6vuvwrauxkwva7qdav72aftsx47ham@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ofyinnepd3fg6fagjpi5nw6v/bafkreidrjky6cxr6cakh7xj37k7b422sc4mq6lotie3diijuoqeowz5hze@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ofyinnepd3fg6fagjpi5nw6v/bafkreidwtyk2unn3ed5icir5ncrufir7veqlag2drbwvmpvlc2qsnte57q@jpeg
 
 ohio/springfield:
   region: "Springfield, Ohio"
   coordinates: [-83.8088967,39.9233166]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/sandysews76.bsky.social/post/3ln7s5tpxf22d
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zsvkk3exfrttak22rfbtovvb/bafkreiducyw4kphuf7uaibid7wyepbvnt3nqedelb72xsgg64v5f3mtl24@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zsvkk3exfrttak22rfbtovvb/bafkreianwvvdi6k3t4wutwvy4zrvkn344bmamheolc5fqng57px5f4553m@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zsvkk3exfrttak22rfbtovvb/bafkreidymnih3cfae7ldvtyptwgviesyk77u7smvmuyjadpxddganuqpwa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zsvkk3exfrttak22rfbtovvb/bafkreihj7c3fxir3p2z22escpjcs2zsszfno6gji6dyvb4pacvusnw4hzq@jpeg
 
 ohio/stow:
   region: "Stow, Ohio"
   coordinates: [-81.4061733,41.1565643]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/walx22.bsky.social/post/3ln6tdvl5uk2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vwlw2xdwdejwyygz57ggjdot/bafkreigb7morfk7zvzblcsm3pds7tgalogltzhlos425ol2jcbuwsjvxzu@jpeg
+    - url: https://bsky.app/profile/shesabadkitty.bsky.social/post/3ln7ltgpcn227
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nubr4fw5qfj3rkcflepcourg/bafkreihob4oqqfn46m6bvpjjwnzx3gyq4rz6txymv62it3adbhg5e5l65y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nubr4fw5qfj3rkcflepcourg/bafkreiaj2gfaknxxkynauti6zhep6kqsp5pgwvnltdargvtavwe7jajfre@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nubr4fw5qfj3rkcflepcourg/bafkreia4icm7v6kqnhbgzdoooxhscb7prq5pxs76y3flokphyxssajxa3y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nubr4fw5qfj3rkcflepcourg/bafkreia74pmpok37iwutbfuynpi3mfoosp4p376wfdaubb5mvu2v3f6v4m@jpeg
 
 ohio/tiffin:
   region: "Tiffin, Ohio"
@@ -4084,19 +4167,26 @@ ohio/toledo:
   region: "Toledo, Ohio"
   coordinates: [-83.537032,41.6552664]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/ghaffarisafari.bsky.social/post/3ln7iomtils2e
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxow3h3igsbu5enasqpoz6sa/bafkreiane2dveqqjzctglh2kzmfrjnewhxrmflnev4duykt7g7ipr4nl5u@jpeg
+    - url: https://bsky.app/profile/melissaportala.bsky.social/post/3ln7rsvo3gc27
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jrtcrovanx3udob4jepvuafz/bafkreibp6rmn3nnanlujrsb6t3c77nptbodhxcygqjnftp2ab5awp4phwa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jrtcrovanx3udob4jepvuafz/bafkreidtzrhdiuglxflfsabms4cdahvmdjouawnc4vn3txi3m4v4ofufvq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jrtcrovanx3udob4jepvuafz/bafkreictfeaxoynjyrbiibsy5gnxdicz456h6wtyoodpswezismyg2srmi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jrtcrovanx3udob4jepvuafz/bafkreiejnwthf2krundeywqrkt6niegb7mmtmf4ccbmrnm43o6whlwapwy@jpeg
 
 ohio/troy:
   region: "Troy, Ohio"
   coordinates: [-84.205446,40.040619]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/lauralscott.bsky.social/post/3ln7bnmaoas27
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rlrpyh2cuycldbmmwlywp27l/bafkreidlmklqezgo3gamlukmbb7djegkjkchhqotvze4norphlghr5ntsm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rlrpyh2cuycldbmmwlywp27l/bafkreickdz3fozvkmdig6hinpka7zcbouwxvib5yjuaozedicef3hnvbnq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rlrpyh2cuycldbmmwlywp27l/bafkreih3qpyhb7b5eunlkddze4cofrq4yamftoqubjc5xdd25tgaincmqy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rlrpyh2cuycldbmmwlywp27l/bafkreib43q6dxf4bcf54j5gjhcpsb6zaeyhm4dcfip5iulrsd733w6xzpq@jpeg
 
 ohio/van_wert:
   region: "Van Wert, Ohio"
@@ -4111,10 +4201,10 @@ ohio/warren:
   region: "Warren, Ohio"
   coordinates: [-80.81894363265306,41.23738693877551]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/manbaby55.bsky.social/post/3ln7uedztds2n
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jpkbi3yqazozfimtbffb2hzf/bafkreih225djzy5m2vkn5tr6ao5em64gyd5nlbczb7dw5ujjfizehmtmiq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jpkbi3yqazozfimtbffb2hzf/bafkreigf4fcuwud3npy32gyyobximsao547gfjld4bm2z7zkksfxc4roka@jpeg
 
 ohio/wauseon:
   region: "Wauseon, Ohio"
@@ -4129,46 +4219,78 @@ ohio/westerville:
   region: "Westerville, Ohio"
   coordinates: [-82.9280149,40.1150772]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jcwilder.bsky.social/post/3ln6vpvl43c2p
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kgbgkzk4ddq4s2bbzrzvdqlf/bafkreibigi6shuerf4oybowaoz7pxnpbb45pczmapuu7wu76o3jhbi3rue@jpeg
+    - url: https://bsky.app/profile/pi3832.bsky.social/post/3ln6vopnxrc2w
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vagh5ct4j4whnjspqx3sk4cp/bafkreihw32merwicae3knh4a36heuuiozhms5k6qgo5idfugamsw5vb4xq@jpeg
+    - url: https://bsky.app/profile/ladycross.bsky.social/post/3lnanlolu4k2v
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fb4smz4ml7roqlqbcuqgrlqx/bafkreiefhd4hnftlfz3pnyozm52oubdswfvmsbmuoxjjnumtmjoia6quvy@jpeg
+    - url: https://bsky.app/profile/artcandee.bsky.social/post/3ln6popymjs2i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pmhyscv7t7incelmoevkijpr/bafkreie6c4tpelfxzknkghlq46nwtdnq4aw3q3slk7hkqmts2orqvre75y@jpeg
 
 ohio/wilmington:
   region: "Wilmington, Ohio"
   coordinates: [-83.8280135,39.4447764]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/empathysurplus.bsky.social/post/3ln7kdusvkc2v
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:toixcnwcg44izyunszothalw/bafkreih445tl42zhk7ad7ze4lipef6akjge6nhwk43pnw43gpxhafyvcma@jpeg
+    - url: https://bsky.app/profile/marythomaswatts.bsky.social/post/3lnahypbslk27
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xaju55etrt2nokzdz6u2awaz/bafkreial36o3mwcrbkdouwmapl72tklmj45xqye6hgtk4xaesgwexovbgu@jpeg
+    - url: https://bsky.app/profile/danielnterry.bsky.social/post/3lnava46ic62a
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzj7qqfr5cwzxjphsyfie23s/bafkreicbtth24xp5uceimgltjj4pomehw4yj66fnx374jkh5hdhq52saou@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzj7qqfr5cwzxjphsyfie23s/bafkreiffgepr6ndcteloaz75x2lrfd7q3fn7h4i3mhm57kc4hnbmoqrr4u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzj7qqfr5cwzxjphsyfie23s/bafkreifputavke36u5ytmncizhog6ejzvczh4sbxulrnmehjq67pzzddyy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzj7qqfr5cwzxjphsyfie23s/bafkreialgkcxd2cy36hkbclpvmzehaxszzse73nvcx6m6bwsdzlroucrxa@jpeg
+    - url: https://bsky.app/profile/marythomaswatts.bsky.social/post/3lnai52q3kk27
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xaju55etrt2nokzdz6u2awaz/bafkreicsrvjxpor46wcyiti623mubwcqf3tksjdqk2hmr6bjs7252nfmdq@jpeg
 
 ohio/wooster:
   region: "Wooster, Ohio"
   coordinates: [-81.9393651,40.7960324]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/torchlake2843.bsky.social/post/3ln77lhp3l22s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3u2hwhxxhgqje66iaa72exie/bafkreieqdfumfllobhatsmgo6m2vzuygz2vd5bo6zz6ffdhfxgjhfclu4q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3u2hwhxxhgqje66iaa72exie/bafkreia4u4qilvfiwvmn2smyvctqqaw3uq6oiyjurwxpvovvvmag3db4wq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3u2hwhxxhgqje66iaa72exie/bafkreifvvafesdyvsgyq4drrsi7x3m7gvnjfiae5peno2wjlsozi26nuku@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3u2hwhxxhgqje66iaa72exie/bafkreiddfwc4rbcnngb7uiutayrljj5k7qsjiedepvlkxkpfztae52npza@jpeg
 
 ohio/xenia:
   region: "Xenia, Ohio"
   coordinates: [-83.9295502,39.6866453]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mattcaff.bsky.social/post/3ln6qsxvcvs2j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwmvwwmxas4emnih2ssqa5bu/bafkreidwgmhuca2gkjhjxiwzyraubxooqlritel6mhimk2z754brypj7qy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwmvwwmxas4emnih2ssqa5bu/bafkreifou6eocqiejlo2zufygjgtmlrvu3q3jvbowmwyww7xllfa7ioksq@jpeg
+    - url: https://bsky.app/profile/chitown70.bsky.social/post/3ln6t4tbhik2d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mooumfeqkqiku2nmapkr2nar/bafkreigrey7nuxylp2udd7beyfbgjiphbiwui5hauhy6bilvle2m3elbgy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mooumfeqkqiku2nmapkr2nar/bafkreiayuxuo6bh5tj5vtypf3ux5tyeofbcvpyu6swdvkprnl5euqin6xe@jpeg
 
 ohio/youngstown:
   region: "Youngstown, Ohio"
   coordinates: [-80.6507294,41.0989217]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/moray76.bsky.social/post/3ln6wqx2zz22x
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cral3benpmbijny5ed32qfwv/bafkreia6ykck3xpiwqjnphjavev62y4a7qhedv6gityjtptlwyr7sa3kcm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cral3benpmbijny5ed32qfwv/bafkreifkmdyo6l7mrjc5fqu37dzwwr5ommlwfuel3mm7cm276d2cv3r2eq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cral3benpmbijny5ed32qfwv/bafkreiazla23agf4tjxeosjpesthvdpalwl5oqa7465lgxkycrh7att5cu@jpeg
+    - url: https://bsky.app/profile/moray76.bsky.social/post/3ln6vhzxnls2x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cral3benpmbijny5ed32qfwv/bafkreihgalonsxbquqo577u24tmfofecqklbfh5kxauybe5ig65p53bu5e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cral3benpmbijny5ed32qfwv/bafkreidcoohbete76db2ri66ssbreiyxd3cxi22tmni3v4arsd2h3jv76i@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cral3benpmbijny5ed32qfwv/bafkreicdlpzo2coyaeyxdcok43jdxnd326ezrms3unij4feej4hfj23r4e@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cral3benpmbijny5ed32qfwv/bafkreifvzc4u3qgik73t6w42olsujvta7as5sya5pwcipctteyedy5byhu@jpeg
 
 ohio/zanesville:
   region: "Zanesville, Ohio"
