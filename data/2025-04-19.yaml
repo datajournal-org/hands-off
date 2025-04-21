@@ -210,6 +210,16 @@ arizona/phoenix:
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ehfmfv7efsxs5qaxgwdfge2g/bafkreia5t2kpziu56uokwcimuba3yu7ksind47dgsziry5jiw4njrzvg4i@jpeg
         - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ehfmfv7efsxs5qaxgwdfge2g/bafkreicb2xiobvhjm5ukkt5o3lla7vkuivls4gcrccxf6ivqbwpsjzwbua@jpeg
 
+arizona/show_low:
+  region: "Show Low, Arizona"
+  coordinates: [-110.027202,34.263845]
+  sources:
+    - url: https://bsky.app/profile/helamina57.bsky.social/post/3ln76spqwe22p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyrlze6plvagqoqrxf33aouk/bafkreia3lia54qddrg6nhgxyqwq6lt6a3jruub2ohcuzzz66rjcyplfimu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyrlze6plvagqoqrxf33aouk/bafkreiffv56zgwxjva6opvwunywgewcqn3g3nkjguzqcvvi4hjinpd7znm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyrlze6plvagqoqrxf33aouk/bafkreigmrkpi5ngjfobs5ffbhjtopuechxyvfvhuxkx2exefj7mjy76e7m@jpeg
+
 arizona/sierra_vista:
   region: "Sierra Vista, Arizona"
   coordinates: [-110.25750160217287,31.531872460099546]
@@ -1697,55 +1707,80 @@ illinois/arlington_heights:
   region: "Arlington Heights, Illinois"
   coordinates: [-87.981078,42.0860713]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/gardengirllisa.bsky.social/post/3ln7c4vejms2b
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:koepjsze5ydult4omx5wn5z4/bafkreignnrvwmjsclzyql2ho2xknzypdoqig4nj4wpuovn4wxwxkdtzrl4@jpeg
+    - url: https://bsky.app/profile/kimsimmons.bsky.social/post/3lnbbl4oixs2b
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7rbiwebefyuyatprwyuzvncj/bafkreiefjqjlnlwun5il3dwrrantwcywpgvjzd2e3kg6gal7s7qb6plrq4@jpeg
+    - url: https://bsky.app/profile/kimsimmons.bsky.social/post/3lnbbfgr3ss2b
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7rbiwebefyuyatprwyuzvncj/bafkreihm432oa6oic3grde3tb7wzkjuwqdafwepqapa5xhyxc5p7wvdf4q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7rbiwebefyuyatprwyuzvncj/bafkreihvlelizt2kjo3g3vybabewkzoqnlewf4742kfy3n2eg4smhxq5hy@jpeg
 
 illinois/bloomington:
   region: "Bloomington, Illinois"
   coordinates: [-88.9928214,40.4840901]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/boppi1.bsky.social/post/3ln6yce3lwc22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4nszhxrxbqa5lnxp24ckvm7r/bafkreiaw2c2gk76e4z24bbvspikjy6p7a3irwmxn5jsj37icrfe7omtqte@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4nszhxrxbqa5lnxp24ckvm7r/bafkreicvy22uqlvrumqzrfy3gyq53m3segqh7qu3ooqbgzb6rogj6ebeki@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4nszhxrxbqa5lnxp24ckvm7r/bafkreigbfddaeavhd2o3szvcenlm3hclsak5s2h5vp7w4cbkjo4esyhujy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4nszhxrxbqa5lnxp24ckvm7r/bafkreiappc3hbed5d6vry5e2sawyfhayjduzuvntertu5buo2jmsbx37au@jpeg
+    - url: https://bsky.app/profile/yusufsarfati.bsky.social/post/3ln7niqoya22b
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ydwodski4a3xwk6idtpsjerd/bafkreicfxsabpbqv4lpwkapvgrrbsl75igt7vksuxn2xcj5puoucn5u5z4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ydwodski4a3xwk6idtpsjerd/bafkreibvu63rzlkc2asazihgewdd3amjtzuerxbqofaf7mzqtdc6axmbs4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ydwodski4a3xwk6idtpsjerd/bafkreiboo7ztjtafoadik5ikx3mssdgo3de7vngl2tzez7blbvtkmzdbna@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ydwodski4a3xwk6idtpsjerd/bafkreib5eqt6a4mwvpfymxosbgvyt466uumdpen27vovp74kbm4vzuygou@jpeg
 
 illinois/buffalo_grove:
   region: "Buffalo Grove, Illinois"
   coordinates: [-87.9840087890625,42.15395506256018]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/doommonky.com/post/3ln6qgg5rxc2p
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:36pr6opt22f4effv4ebo2igc/bafkreiffy6pcew2yd5ifehfsrkjkn3x5g3bogbz2vhixwaoncec5nbc6se@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:36pr6opt22f4effv4ebo2igc/bafkreicpuky6ez3hbkobjfbdliuogzrvfybelpclaz2hark3645sh2ugoy@jpeg
+    - url: https://bsky.app/profile/joanesposito.bsky.social/post/3ln6rceutcs2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o2alxvato7txp4o3z23zkskd/bafkreidb4zh6w7hpfctevcm6vbfn6dg46hzq4mojcv6mpfeqp3mwiip2ua@jpeg
 
 illinois/chicago:
   region: "Chicago, Illinois"
   coordinates: [-87.6820498,41.7060855]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/bernjdev.bsky.social/post/3ln772ql6q223
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkcaz6dg3exsmfa2rahkddfq/bafkreie2ao2dldzoibn5kdvvxc5pr7sow5qacoa62mp6djveqsehb6nbsm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkcaz6dg3exsmfa2rahkddfq/bafkreifek3qxg5hvtzquljt3enue3afh42wgffb4nmh5lj6jghpkfujjay@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkcaz6dg3exsmfa2rahkddfq/bafkreiegrf73sylu4e6wm7fjvyedm7qk6qo4pxx7dwlhjz3u6jdoqm7vgy@jpeg
+    - url: https://bsky.app/profile/iamfreetobeme.bsky.social/post/3ln7sap4u2s2a
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:woeeegijom5ox6mutceksrt4/bafkreia642u4gymfiyouskbx4uoyadxqttkznna6pia6o2pidhmtkrx35u@jpeg
+    - url: https://bsky.app/profile/dlknowles.bsky.social/post/3ln6pppmr7c2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bonfenuobglfiguxubvmcrow/bafkreibx5fmbdofqv5qjc3wk4x3liddul5xmbhhpwvrmerrd5ipbl3x4wm@jpeg
 
 illinois/freeport:
   region: "Freeport, Illinois"
   coordinates: [-89.6218124,42.298133]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jodycoss.bsky.social/post/3ln7bousbos2y
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pcruxavqoueyttpiuvcuhvcv/bafkreihamt22sogld2w5pno253rd2npnxtbxm2hb3lsnwqp5j3mwgl2esq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pcruxavqoueyttpiuvcuhvcv/bafkreibahgd3zmibvjlnmcak4mdx4jxvfxsfrnosnktv5yufzvkxv7trd4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pcruxavqoueyttpiuvcuhvcv/bafkreie7z2irkvwdllaycmuyi5x6kqlv6vdk64seuug65nqzoqcaxgj4kq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pcruxavqoueyttpiuvcuhvcv/bafkreiagge2hbbeacv4wx7n65gykg6twvbx2ntmxb2m7zuwwacsr73xtym@jpeg
 
 illinois/galesburg:
   region: "Galesburg, Illinois"
   coordinates: [-90.3705939,40.9477744]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jimhappy.bsky.social/post/3lnaqjpk5as2r
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hjb7ed22qlmxbkrbj2x33mym/bafkreif7lld3gzljm275roktefhlslq3thlqhzenjwp2juaojvfsu6jhim@jpeg
 
 illinois/kankakee:
   region: "Kankakee, Illinois"
@@ -1769,64 +1804,93 @@ illinois/lisle:
   region: "Lisle, Illinois"
   coordinates: [-88.1151089,41.7972771]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mtb1956.bsky.social/post/3lnazoto5cc2c
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jvmbjd3snjqnjgzztzyoenyb/bafkreifq2lbsagen7rp67dqeebgel6pv7mead2vwnok2lae52qsfjkkexy@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jvmbjd3snjqnjgzztzyoenyb/bafkreibrfze77lcvnjoit7cvczfl7agxkngmuwxybmnailfsouuz25alyu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jvmbjd3snjqnjgzztzyoenyb/bafkreifmqcm6hfv4xj2pg2ek4tafe52lnh2hwbmop726r3acajxyrzqtuy@jpeg
 
 illinois/macomb:
   region: "Macomb, Illinois"
   coordinates: [-90.670958,40.4604935]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mapyoda.bsky.social/post/3lnazlclyzk24
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lzcyjrlmrzkeckmcbzg76asj/bafkreiamp7f7fbquawbnojf2nep45xcrtr4nhzkrr6bek2b3avub7lxlyq@jpeg
 
 illinois/moline:
   region: "Moline, Illinois"
   coordinates: [-90.5137309,41.5059006]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/bdklauer.bsky.social/post/3lnax6odrp22g
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jn43jwhwwaw4iggutu5t6hm3/bafkreig3lr5mknybbhsyaj63cmavmtxxfmqr2wfjvn54jww3zp5r5tocsi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jn43jwhwwaw4iggutu5t6hm3/bafkreih2pdcu5pgizanr5z5zgr5t74lozcshfbgqtejss3qs3lgz7u22be@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jn43jwhwwaw4iggutu5t6hm3/bafkreidwsa2bqbqrdevwdnv7tfcdswpqe37afj4zkihkcinrrcow3madre@jpeg
 
 illinois/palatine:
   region: "Palatine, Illinois"
   coordinates: [-88.036394,42.119507]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/joellecharbonneau.bsky.social/post/3ln6w55w4fk22
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7r67x3bzxel2nkhbkunjykss/bafkreihqzkzgwkxpltispymccpvui57qhvmdxdjdol6bq4jffmfay7uyci@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7r67x3bzxel2nkhbkunjykss/bafkreieojut2byomhdw7ffrdty5ckqf2p65eo6pj66vingpyflmbj6ch6u@jpeg
+    - url: https://bsky.app/profile/trix9406.bsky.social/post/3ln6zntd6us2p
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xh4c7efgqy7rigsf3ffodyq2/bafkreicvjpvp3w5gdt4rrvt47sz5u6vrnb2g3obptbqdwu2jkhnzf6xpue@jpeg
+    - url: https://bsky.app/profile/snowflakeblue57.bsky.social/post/3ln7nzjcmg22c
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ky4g3jgaqesm53xoe2uhf4p4/bafkreiawlfnwb5hvtmvpgjeliwtspckwhor6ehyfpdiwssxcollksap4fm@jpeg
+    - url: https://bsky.app/profile/simplyjoe.bsky.social/post/3ln7g3ymtnk24
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2pkjkodonyhsy2vnppdyxq3/bafkreib6wx7pvssb3ijp42bqcxvpmkqzw4udmrfnsiuoux7bsiwadji7aq@jpeg
 
 illinois/peoria:
   region: "Peoria, Illinois"
   coordinates: [-89.58691835403444,40.69280876302079]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/michybo.bsky.social/post/3lnbr7smcy22a
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ycaqqc3fci6xrdlx5g5ftp55/bafkreibjuuc2zyvghrhjzp3rnxkkhvl4krvzydb4nyhsnvc434ogagzr7e@jpeg
+    - url: https://bsky.app/profile/jimhappy.bsky.social/post/3lnaugp2q3k2l
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hjb7ed22qlmxbkrbj2x33mym/bafkreif7lld3gzljm275roktefhlslq3thlqhzenjwp2juaojvfsu6jhim@jpeg
+    - url: https://bsky.app/profile/goddessretired.bsky.social/post/3ln7kqgvwo22e
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmltuwy2cre2kc774txmv3no/bafkreifaqwne4hvmxxzptgytma5a752f26sjjtflcvvumnzl4jv4tmts7u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmltuwy2cre2kc774txmv3no/bafkreiayhhmhzjmg6n66wpphsmj3arakvsawnd6qklsty4rzqne5rsmzeq@jpeg
 
 illinois/springfield:
   region: "Springfield, Illinois"
   coordinates: [-89.654918,39.7984257]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/therealmariesmith.bsky.social/post/3ln7gh2n2lc2m
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:izp5mpyvjgcivbixjpqx4pod/bafkreigyonnjcohs4dpscjepftojbhi3m67jg2lrg6muzc4jovpw4t34ym@jpeg
+    - url: https://bsky.app/profile/vmoseley.bsky.social/post/3ln77lgg6y22b
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r7dtkl7hdjbhnej2afvmclis/bafkreiadetnobuh7z7b3gylyy5aqrqrty2nntgpyni6iyvvvrkr3tlegim@jpeg
+    - url: https://bsky.app/profile/mitchroth1.bsky.social/post/3ln75o5enp22h
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c5ywjupmhawdmpu6aiaqykbq/bafkreigltsoodvifsehipz53vfpfq4pvwuqcgqo7ozy6ishwh4qzaguxka@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c5ywjupmhawdmpu6aiaqykbq/bafkreibcu2jgh2cyalwavruknhqrg2kqhlpjqcfwrsvulnbh42kmclwjqq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c5ywjupmhawdmpu6aiaqykbq/bafkreieyayshvbz3c2voczhwaxei3ywlkrzxuu4jzyu4kia3yga2d2f57q@jpeg
 
 illinois/urbana:
   region: "Urbana, Illinois"
   coordinates: [-88.2064946,40.1120265]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://ipmnewsroom.org/photoshundreds-demonstrate-against-the-trump-administration-in-urbana/
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://ipmnewsroom.org/wp-content/uploads/2025/04/IMG_8316-1536x1185.jpg
+        - https://ipmnewsroom.org/wp-content/uploads/2025/04/IMG_8270-scaled.jpg
+        - https://ipmnewsroom.org/wp-content/uploads/2025/04/IMG_8241_2-scaled.jpg
+        - https://ipmnewsroom.org/wp-content/uploads/2025/04/IMG_8228-scaled.jpg
+        - https://ipmnewsroom.org/wp-content/uploads/2025/04/IMG_8216-2-scaled.jpg
+        - https://ipmnewsroom.org/wp-content/uploads/2025/04/IMG_8219-scaled.jpg
+        - https://ipmnewsroom.org/wp-content/uploads/2025/04/IMG_8273-scaled.jpg
+        - https://ipmnewsroom.org/wp-content/uploads/2025/04/IMG_8233-scaled.jpg
 
 indiana/anderson:
   region: "Anderson, Indiana"
@@ -3897,12 +3961,6 @@ ohio/youngstown:
       photos:
         - ... # url of a jpeg, webp or png image
         - ... # select only good photos
-
-arizona/show_low:
-  region: "Show Low, Arizona"
-  coordinates: [-110.027202,34.263845]
-  sources:
-    - https://bsky.app/profile/helamina57.bsky.social/post/3ln76spqwe22p https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyrlze6plvagqoqrxf33aouk/bafkreia3lia54qddrg6nhgxyqwq6lt6a3jruub2ohcuzzz66rjcyplfimu@jpeg https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyrlze6plvagqoqrxf33aouk/bafkreiffv56zgwxjva6opvwunywgewcqn3g3nkjguzqcvvi4hjinpd7znm@jpeg https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyrlze6plvagqoqrxf33aouk/bafkreigmrkpi5ngjfobs5ffbhjtopuechxyvfvhuxkx2exefj7mjy76e7m@jpeg
 
 ohio/zanesville:
   region: "Zanesville, Ohio"
