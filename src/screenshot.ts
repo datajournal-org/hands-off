@@ -5,9 +5,9 @@ const cp = new Deno.Command('deno', { args: ['task', 'dev'] }).spawn();
 
 await wait(1);
 
-const scale = 5 / 2;
-const width = 1200 / scale;
-const height = 675 / scale;
+const scale = 2;
+const width = 1280 / scale;
+const height = 720 / scale;
 
 const browser = await firefox.launch();
 const context = await browser.newContext({
