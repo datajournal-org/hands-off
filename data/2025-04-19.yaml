@@ -3358,78 +3358,128 @@ new_york/city_of_ithaca:
   region: "City of Ithaca, New York"
   coordinates: [-76.4985392,42.4418852]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/pleaseimprisonme.bsky.social/post/3ln7oaki4lk2a
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nq7trzjeibe2ofoxdk5uzf6s/bafkreieo6bim3ri7xgzwxznuvasxi2pnovsuep6wk5y35hf5svn2eelbwe@jpeg
+    - url: https://bsky.app/profile/evilvillainousdude.bsky.social/post/3ln7nhmqht22n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vhb2rdksgp7fptvazzpfpd45/bafkreietp2epptrpfmmk5v2dbvw7abpyxtg3yvnaakwali5nrquw6c4o54@jpeg
+    - url: https://bsky.app/profile/sstierny.bsky.social/post/3ln7lymndjs22
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2dua2xwmxxchcwkkovwaauwc/bafkreicr5r32nkix7vl6isus2gcj3qlnlyrqrmmdxkl26oi6pmukyn4oae@jpeg
+    - url: https://bsky.app/profile/jmvallely.bsky.social/post/3ln6wftmeqs2k
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ugzjlq3doyhilrqi2i6ov3mk/bafkreihpr4ty26cavdcthn6wc7mdm6wn77qhc67r24tczy2neaw2djsi4q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ugzjlq3doyhilrqi2i6ov3mk/bafkreigxp5pyll7xide22rowvlcw5owmxzr2ospsdpvmyzicilp5tbr3zm@jpeg
+    - url: https://bsky.app/profile/jamespabody.bsky.social/post/3ln6tf7ucnk2e
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nfheyag5a355jqtgknkfhhkt/bafkreiav2rzndbltotjduuygbord4hl2jlmcpeaixeulrzqfggaha6x624@jpeg
 
 new_york/city_of_olean:
   region: "City of Olean, New York"
   coordinates: [-78.4282358,42.0772418]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/pmacewan.bsky.social/post/3ln6zknsb2k2o
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lhaor3fescbhd77pknt4wvey/bafkreiaqxspm7d5c64yl7fxykrnyknsxptzlpsgjmcc6sgah7n4r4ekvau@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lhaor3fescbhd77pknt4wvey/bafkreiadpym4pjyssyu7fg6od7mf3mzqlcsmp7oo4g3iy2ftbus4q45yxa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lhaor3fescbhd77pknt4wvey/bafkreie3l2dc7ww346bebmubvapfagz4r6s6cpyl53y3rqopes3mv3o2fy@jpeg
 
 new_york/city_of_plattsburgh:
   region: "City of Plattsburgh, New York"
   coordinates: [-73.4512313,44.6990283]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/avilardo.bsky.social/post/3lnafl6dkck2v
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:airnrumzzuj7d2lfyfoizqhv/bafkreibfggsfjtprj6iryz5scm7q5mdiukbnbno6q56gfmpryiebmydwve@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:airnrumzzuj7d2lfyfoizqhv/bafkreigayge2zfhdb7kpor4aqibxqciw6i34mjpuzszziwuebhcwkx7exi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:airnrumzzuj7d2lfyfoizqhv/bafkreidyrhmeu7htbrnftcp6vxobxgswxvxk7is4rjw7gielsrbaf27h5u@jpeg
+    - url: https://bsky.app/profile/saraschaff.bsky.social/post/3lnasyxv34k26
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qansillmonwo2lqy6fc4w2mp/bafkreietazrl4ydjd54q6e47mmbgdmhzldwurwpii6nueypp5ncqq6cseu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qansillmonwo2lqy6fc4w2mp/bafkreigwsfhy4u6shvmpahhb4e7pt25vmz4jbo2rrujii3ioiagys5wtoq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qansillmonwo2lqy6fc4w2mp/bafkreiehzs6ed5whux3c2intyevoci4gy57yqcvjpuorkkmcepcvmt3wzm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qansillmonwo2lqy6fc4w2mp/bafkreifqev5kg2qxtfijsxiijxndfpzgs4rc5zyzitmyepzbunmv3pn4ay@jpeg
 
 new_york/city_of_poughkeepsie:
   region: "City of Poughkeepsie, New York"
   coordinates: [-73.9306986,41.7281403]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/mellydh.bsky.social/post/3ln7upi6kns2s
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hkyvhmvgwxxajfiqzisrujpv/bafkreie7ptwm5h4hqv356errx2ig2vatlovqznz2m4jrowx5gi5nm6bufe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hkyvhmvgwxxajfiqzisrujpv/bafkreiehz54dslfaz4gjwgzvmyw2xwe46ribav7domblgkjh5biwwu2aje@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hkyvhmvgwxxajfiqzisrujpv/bafkreico3cjyb5hgfmvzbtyqookvbodx653fcehulyjamndirkgerzcxfa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hkyvhmvgwxxajfiqzisrujpv/bafkreiefoqow3i4y63vo4ghtqui2mjx54yyu3ldmvzxsyjydxycz2ywj6a@jpeg
+    - url: https://bsky.app/profile/dtobias.bsky.social/post/3ln6wweuevk2d
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k2kppqtcuxeewqqkdkxtmzes/bafkreiadx6wwaknxkuk5puwoksznntwl7f3sieqbbp222vz3krd4aj23oi@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k2kppqtcuxeewqqkdkxtmzes/bafkreihl5k2lljbs4pjauocr7hvp3qjz3yqxyyrsg4z5t3bnyrdkf2eoba@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k2kppqtcuxeewqqkdkxtmzes/bafkreicn5gjmzykn6xvgj7l7sg6em773en7zcphefcltgsp6qyc4w7zb4u@jpeg
 
 new_york/city_of_watertown:
   region: "City of Watertown, New York"
   coordinates: [-75.9095581,43.9745959]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/robertmcqueen.bsky.social/post/3lnb62qovxc2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:advj32kpqqhmtsojsryvvmv4/bafkreiftsqmz6sw3yz3r7mvj34bswup3dbt6ocl3lq5lawlb37dtbqmpqe@jpeg
 
 new_york/manhasset:
   region: "Manhasset, New York"
   coordinates: [-73.6696231,40.7962589]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/suesueh.bsky.social/post/3ln744tg6hc2j
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vlefhv5edl4utu423oop2ax7/bafkreiepp2r45nurime6iqhu5m4ilcypdwliaowsgxv6pq3ac42exoizfe@jpeg
+    - url: https://bsky.app/profile/atqueens.bsky.social/post/3ln6zpuqia22x
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nhnniwgkedvphhfz4wakew6g/bafkreibhwc3bht4f3prozc4z2y7bfdx62mdn6pfo7vpazmudsjsucsq4li@jpeg
 
 new_york/massena:
   region: "Massena, New York"
   coordinates: [-74.89021539688112,44.922170040941964]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/calmlive.bsky.social/post/3ln7hxmsuys2z
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:srlrgtfsumfvunx3ihvmwl6k/bafkreid6j4lslsch4zea44ln7dxpm6wotrgw2fipjfzbeui2674pgztyaq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:srlrgtfsumfvunx3ihvmwl6k/bafkreif6g4bxq3xe33zplq5ytc3ghnllkbl6h3uaoqisghvjfh73k3tsgi@jpeg
+    - url: https://bsky.app/profile/sandee-m.bsky.social/post/3ln7o333pvs2m
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lers6c6po2wyf2zl6wyselof/bafkreifrsmwzfxjazfmwx7deo34r3javdgrfqbykdlodxaxbmkb3skq2n4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lers6c6po2wyf2zl6wyselof/bafkreigjxqsg2vwgyqzeyul6b6v5drv74vijho4qzkfl6cwkd25wuxgovu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lers6c6po2wyf2zl6wyselof/bafkreiaxz3wcygmbpww5zttdww62vsgep2ryrjjyo2nm5uco2vsfwl6nfm@jpeg
 
 new_york/merrick:
   region: "Merrick, New York"
   coordinates: [-73.5507578,40.6635618]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/melisaannis.bsky.social/post/3lnaihyu7rs2u
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5sqylfb4fomo3vnecv2e5oee/bafkreihctber6y3pc5jlnsu6ryryucis5eigdwf27t7qder6qjdxkfr7hu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5sqylfb4fomo3vnecv2e5oee/bafkreig233qz55qcoahr5exfeynt5ku66yyqdktlbmnb3ed3sz576lnjwq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5sqylfb4fomo3vnecv2e5oee/bafkreie26gwmfghqasmpfz74umkin5vathosh45j3q76yljcnv4gitrtmm@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5sqylfb4fomo3vnecv2e5oee/bafkreideen3z4fawh5xihrje4jv4utygpp5xkbivyqkx6d24xt5y5c6peq@jpeg
 
 new_york/new_york:
   region: "New York, New York"
   coordinates: [-73.9835428,40.7537509]
   sources:
+    - url: https://bsky.app/profile/alcappuccinoit.bsky.social/post/3ln6ou66brs24
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yndpz2gilvi3cmylsmzrfhng/bafkreif7avwxdswzlvpkvaamp7ixthpozeeqjheuq7ejmshtee37dqidla@jpeg
+    - url: https://bsky.app/profile/adammockler.bsky.social/post/3lnb3hwl5as2w
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q7rv2wta4qb2534kxjmbr6dm/bafkreiakpeluppdsfjhagentnzuiqcodroblrs2p5duy7dmq6qqghtj3mm@jpeg
+    - url: https://bsky.app/profile/stricxl.bsky.social/post/3ln6p3nwki22l
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jszts6mu6ms4kd7dsnbureu6/bafkreibfkqevrwicjyqvqffkyhf3x3tmw2etpc5miuawxjh2cq2gpt2ksm@jpeg
+    - url: https://bsky.app/profile/jen238.bsky.social/post/3ln6nreqt7c2i
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzlzipt4oddm5pmr3gn753fi/bafkreiapuolbtjnmffjurrgplptnm6mpgdndcvbb5sbiusxvsccgtllduu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzlzipt4oddm5pmr3gn753fi/bafkreicwg4wzw6j5yeaibc4blaw4glesn6xawtscv2wydhlon6xihhb4ti@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzlzipt4oddm5pmr3gn753fi/bafkreibqqohkiqlyhe5mggpnizrigsflyq5yemukkf6rqrhkgnlqvewjgu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzlzipt4oddm5pmr3gn753fi/bafkreiborwayt6iljp3phsrzwheocfgydkfpvfdch7fhj4sna6cpdwiohy@jpeg
     - url: https://eu.usatoday.com/picture-gallery/news/nation/2025/04/19/protest-resist-trump-rally-photos/83173515007/
       photos:
         - https://www.gannett-cdn.com/authoring/authoring-images/2025/04/19/USAT/83173633007-usatsi-25967197.jpg?crop=6749,4055,x0,y0&width=1184&format=pjpg&auto=webp&quality=50
@@ -3450,28 +3500,30 @@ new_york/potsdam:
   region: "Potsdam, New York"
   coordinates: [-74.98576641082765,44.668507898696355]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/yarnlover.bsky.social/post/3ln7gq7cb422q
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nxc2np76j6gmyfrp3zoujint/bafkreidkgyve65uqac5xu5jvjsf6r2s44g3qmdio2u3h6z4peyae7dc5gq@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nxc2np76j6gmyfrp3zoujint/bafkreid6fyjy5b5o6cxhf5r4cnp5au3lo5th5icr56kntb5y63wf356rlq@jpeg
 
 new_york/town_of_gardiner:
   region: "Town of Gardiner, New York"
   coordinates: [-74.1504231,41.6798157]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/hudsonvalleyny1.bsky.social/post/3ln6vkxm6bc2h
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lfu2aaw2y5gyjumx3xpqmbvi/bafkreibgruas6asjlgycj4szeexi2ovkaml3cvjnf2mmugdfszftxc6rhe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lfu2aaw2y5gyjumx3xpqmbvi/bafkreifvpdmc2jit5ztrwdszadzuroksv32ysey7qorxyu4pj5n4drf43u@jpeg
 
 new_york/town_of_seneca_falls:
   region: "Town of Seneca Falls, New York"
   coordinates: [-76.8040291,42.8954388]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/janeenbjork.bsky.social/post/3lnat57esbs2t
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ml2dgx42m5h7zpx363qbo7ox/bafkreihybndkxm75luwl7xc6djdmd7nijntifzltewpcnycpv5elk5eh4q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ml2dgx42m5h7zpx363qbo7ox/bafkreifxm4kyfz5my5yt4xhw7f4kkeprenxk6tzprtxl52e776qtvkxdmu@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ml2dgx42m5h7zpx363qbo7ox/bafkreihaonvdulqtbsu77rfjr4yclvftbbf5vbvfgrqvxduamzcu2ttbam@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ml2dgx42m5h7zpx363qbo7ox/bafkreigralsg6mb4hmnheiomq5jpaphvgujhewtakj7xtisynefq6j4ltq@jpeg
 
 new_york/village_of_baldwinsville:
   region: "Village of Baldwinsville, New York"
@@ -3489,46 +3541,56 @@ new_york/village_of_larchmont:
   region: "Village of Larchmont, New York"
   coordinates: [-73.76019001007081,40.93342226294919]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/shelleybmayer.bsky.social/post/3ln7fg4kfps2i
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6mt6snylddythdcfhndqm3cp/bafkreifovannwybuocp4rjmejce3kv6hac7qgatrxvkauhbaiysdbio2am@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6mt6snylddythdcfhndqm3cp/bafkreic7plktsicrcrgooli5xdzzxqgud5qyffpy3mw7yximjv5yoargu4@jpeg
 
 new_york/village_of_malone:
   region: "Village of Malone, New York"
   coordinates: [-74.291530251503,44.84892837692]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: uhttps://bsky.app/profile/marthaweaver.bsky.social/post/3lnalffm4ds2q
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ip2ajuv2sastan7vy7jkuwws/bafkreih2u6r7kalugcg2pidzqvnvc44hpuyz3n74ofrmzpzqemduiof7su@jpeg
 
 new_york/village_of_mamaroneck:
   region: "Village of Mamaroneck, New York"
   coordinates: [-73.732862,40.947812]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/dori57.bsky.social/post/3ln7qcjstgc2r
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pdgragejilpcblda42adkizd/bafkreid6fl5t5qwmsxnt3rstxz7s7ylcoqjxnwllttjjcga6ohbgb7un7q@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pdgragejilpcblda42adkizd/bafkreic7de7h3l36zhl7iumwkec3kkj5gpgrg3m4ukjebhivqolfv56kzy@jpeg
+    - url: https://bsky.app/profile/eddietheteacher.bsky.social/post/3ln76qsihy224
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s53g2f5abjyeqxix22rexzij/bafkreiee3jhorn6t6vd4vcjlerrtd544g2mxrobksj7yd6rpesb6g6zpcq@jpeg
 
 new_york/village_of_patchogue:
   region: "Village of Patchogue, New York"
   coordinates: [-73.013845,40.7671442]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/rosspirtle.bsky.social/post/3ln6nikxdn223
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4w2umr4blkxwne7di4tmlpoo/bafkreicr33dtu3l23xeaubd5hvjlueolpknyeafeyj6vzaic5qqeuyaz7u@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4w2umr4blkxwne7di4tmlpoo/bafkreihcrmzcrifg57o7r4oqzarytp7evlbwj4tvhffdbpuwhj5r3plhte@jpeg
+    - url: https://bsky.app/profile/anneofbrooklyn.bsky.social/post/3ln6p4a7yu22g
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g3vc6abgv6en2dyjchoy3xrj/bafkreiewxrzsfnnznbhnmzvtz64buxaa3pb2goerltf77e4ik2yvu2eqv4@jpeg
+    - url: https://bsky.app/profile/thesnarktank.bsky.social/post/3ln6wntzag22q
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ndu5f7nuhzwrm7zubexscbkt/bafkreifojx6ueylmudjo6qkf5rknpvglwmbb4imhujhrjiiwoabekgvinu@jpeg
 
 new_york/village_of_saranac_lake:
   region: "Village of Saranac Lake, New York"
   coordinates: [-74.1310829,44.3271188]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/kathryncramer.bsky.social/post/3ln6yti5js22c
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fnwbcsnkl2tzjwslw2xa7obt/bafkreifs2neti5sulfrqpu7lkebshtxd3swlntkrjkvrx5kvylbawqdyf4@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fnwbcsnkl2tzjwslw2xa7obt/bafkreifuj2tul2mmowdmnziky6lk7wnpjb5zdcuedcllsxaexqx7djhtoa@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fnwbcsnkl2tzjwslw2xa7obt/bafkreieqvqmkiino7mldglh36amwlwa5jlwlbzurnixwgpoqly4non6abe@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fnwbcsnkl2tzjwslw2xa7obt/bafkreifdahy3unbnjc2xlyjbv77i7sxgu5zbqdwyuuxxai3xwkouy2qpnq@jpeg
 
 north_carolina/chapel_hill:
   region: "Chapel Hill, North Carolina"
@@ -4883,10 +4945,16 @@ vermont/montpelier:
   region: "Montpelier, Vermont"
   coordinates: [-72.5750364,44.2602244]
   sources:
-    - url: ... # source url, like a news article or a post on social media
+    - url: https://bsky.app/profile/jtaylor27.bsky.social/post/3ln7tkl76gs2y
       photos:
-        - ... # url of a jpeg, webp or png image
-        - ... # select only good photos
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:seu7nvdju73ubz6sqpzuarog/bafkreih6a27bjyrwh2we55p6b5tdutnr6evmvdzhsbeoatlcazjvmgrqga@jpeg
+    - url: https://bsky.app/profile/robbkiddvt.bsky.social/post/3ln6khwg2vc2n
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:odvcl3p5mbcpzqvhnwbbgzxz/bafkreihzjho5unjccqwyxnz3fkkrzmagmn43qqbtjnhjhfoh57mtz4qw5y@jpeg
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:odvcl3p5mbcpzqvhnwbbgzxz/bafkreib2w2iaq7sfkm6wrbsw3euyectxr7mfr2nfq7h6fm3bzes3hgouou@jpeg
+    - url: https://bsky.app/profile/nevertrumpet.bsky.social/post/3ln6iu4epwk2t
+      photos:
+        - https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:augpllt47oyxwgbojxu5v5ae/bafkreiasplf3owxffhq4cqwn2ixrblvbsgzqxtxcyys4vawrsjvcxqglla@jpeg
 
 vermont/newport_city:
   region: "Newport City, Vermont"
