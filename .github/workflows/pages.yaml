@@ -24,7 +24,7 @@ jobs:
            run: deno install --allow-scripts
 
          - name: Install Playwright
-           run: deno run --allow-all npm:playwright install
+           run: deno run --allow-all npm:playwright install firefox
 
          - name: Build the project
            run: deno task build
