@@ -57,11 +57,72 @@
 			text-align: center;
 		}
 
-		a {
+		article a {
 			color: inherit !important;
 		}
 	</style>
 
+
+	
+	<style>
+		footer {
+			margin-top: 10em;
+		}
+
+		footer a {
+			color: inherit;
+			text-decoration: none;
+		}
+
+		footer a:hover {
+			text-decoration: underline;
+		}
+
+		footer dl {
+			padding: 1em 0;
+			margin: 1em 0 0;
+			border-top: 1px solid rgba(0, 0, 0, 0.1);
+			border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+			display: grid;
+			width: 100%;
+			column-gap: 0.5em;
+			row-gap: 0.2em;
+		}
+
+		footer dt {
+			font-weight: bold;
+			margin: 0;
+			padding: 0;
+			grid-column: 1/1;
+			text-align: right;
+		}
+
+		footer dd {
+			margin: 0;
+			padding: 0;
+			grid-column: 2/2;
+		}
+
+		footer div {
+			text-align: center;
+		}
+
+		footer nav {
+			padding: 1em 0;
+			background: #fff;
+			color: #000;
+		}
+
+		footer nav ul {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+			text-align: center;
+			display: flex;
+			justify-content: center;
+			gap: 1em;
+		}
+	</style>
 </head>
 
 <body>
@@ -79,6 +140,34 @@
 		<p>You can also help to improve the map on <a href="https://github.com/datajournal-org/hands-off"
 				target="_blank">GitHub</a>.</p>
 	</article>
+
+	<footer>
+		<dl>
+			<dt>Published:</dt>
+			<dd>2025-04-21</dd>
+
+			<dt>Idea, realisation, text:</dt>
+			<dd><a href="https://michael-kreil.de/">Michael Kreil</a></dd>
+
+			<dt>License:</dt>
+			<dd>
+				<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+				by
+				<a href="https://datajournal.org">datajournal.org</a>
+			</dd>
+
+			<dt>Code:</dt>
+			<dd><a href="https://github.com/datajournal-org/hands-off">GitHub</a></dd>
+		</dl>
+		<nav>
+			<ul>
+				<li><a href="https://datajournal.org">
+					<img src="https://datajournal.org/assets/images/icon-blue.svg" />
+					DataJournal.org</a></li>
+				<li><a href="https://datajournal.org/impressum">Impressum</a></li>
+			</ul>
+		</nav>
+	</footer>
 </body>
 
 </html>
